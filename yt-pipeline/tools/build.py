@@ -80,7 +80,14 @@ for i, s in enumerate(seg):
     # split into shots
     n = max(1, round(sd / 3.2)); shots = [sd / n] * n
     while max(shots) > MAXSHOT: n += 1; shots = [sd / n] * n
-    keys = list(SRC.keys()) if s["src"] == "MIX" else [s["src"]]
+    # src: "KEY", "KEY@a-b" (seconds range), "MIX", or a list of these
+    spec = s["src"] if isinstance(s["src"], list) else [s["src"]]
+    keys = []
+    for sp in spec:
+        if sp == "MIX": keys += [(k, None) for k in SRC.keys()]
+        elif "@" in sp:
+            k, r = sp.split("@"); a, b = r.split("-"); keys.append((k, (float(a), float(b))))
+        else: keys.append((sp, None))
     used = 0.0
     if s.get("fx"):
         fxd = sd if s["fx"].get("full") or sd < 6.5 else min(sd - 2.5, s["fx"].get("dur", 4.8))
@@ -89,9 +96,13 @@ for i, s in enumerate(seg):
         n = 0 if rest < 0.5 else max(1, round(rest / 3.2)); shots = [rest / n] * n if n else []
         while shots and max(shots) > MAXSHOT: n += 1; shots = [rest / n] * n
     for j, sh in enumerate(shots):
-        k = random.choice(keys); I = info[k]
-        lo, hi = min(25, I["d"] * 0.1), max(I["d"] - 30, I["d"] * 0.6)
-        start = random.uniform(lo, max(lo, min(hi - sh, I["d"] - sh - 0.4)))
+        k, rng = keys[j % len(keys)] if len(keys) > 1 and all(r for _, r in keys) else random.choice(keys); I = info[k]
+        if rng:
+            lo, hi = rng[0], min(rng[1], I["d"] - 0.4)
+            start = random.uniform(lo, max(lo, hi - sh))
+        else:
+            lo, hi = min(25, I["d"] * 0.1), max(I["d"] - 30, I["d"] * 0.6)
+            start = random.uniform(lo, max(lo, min(hi - sh, I["d"] - sh - 0.4)))
         plan.append(dict(seg=i, j=j, src=k, start=start, d=sh, layout=layout, cap=(used < 5.0), first=(j == 0 and not s.get("fx")), zoomin=random.random() < 0.7))
         used += sh
     seg[i]["_t0"], seg[i]["_vo"], seg[i]["_extra"] = t0, vo, extra
