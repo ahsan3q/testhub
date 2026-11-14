@@ -1,0 +1,695 @@
+[
+ {
+  "src": [
+   "MN",
+   "BK",
+   "TB"
+  ],
+  "label": "COMIDA RÁPIDA",
+  "cap": "",
+  "txt": "Un dedo humano en un plato de chili. Un café tan caliente que necesitó injertos de piel. Un sándwich de atún sin rastro de atún. Y una hamburguesa negra que volvió verde a medio país. Las cadenas de comida rápida venden millones de comidas al día, y tarde o temprano, algo sale terriblemente mal."
+ },
+ {
+  "src": [
+   "WE",
+   "SJ",
+   "PH"
+  ],
+  "label": "COMIDA RÁPIDA",
+  "cap": "LOS ESCÁNDALOS",
+  "txt": "Hoy te traigo trece escándalos de comida rápida que conmocionaron a Estados Unidos. Algunos fueron fraudes. Otros, errores que la empresa prefería esconder. Y en varios, la historia que todos recuerdan no es la verdadera. Quédate hasta el número uno, porque es el que más le costó a una marca. Y cuéntame en los comentarios cuál te parece el peor."
+ },
+ {
+  "src": "WE",
+  "label": "WENDY'S",
+  "cap": "#13",
+  "txt": "Número trece. El dedo en el chili de Wendy's."
+ },
+ {
+  "src": [
+   "WC",
+   "WE2"
+  ],
+  "label": "EL CHILI DE WENDY'S",
+  "cap": "",
+  "txt": "En marzo de 2005, una mujer llamada Anna Ayala se sentó en un Wendy's de San José, California. Probó su chili, y dijo que había sacado de su boca un pedazo de dedo humano de casi cuatro centímetros. La noticia le dio la vuelta al país.",
+  "fx": {
+   "type": "map",
+   "title": "EL CASO DEL DEDO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "SAN JOSÉ · MARZO 2005",
+     "lon": -121.89,
+     "lat": 37.34
+    }
+   ],
+   "view": [
+    -125,
+    33,
+    -114,
+    41
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "WE",
+   "WC"
+  ],
+  "label": "WENDY'S",
+  "cap": "EL FRAUDE",
+  "txt": "Pero el dedo no venía de ninguna cocina de Wendy's. Era de un compañero de trabajo del esposo de Ayala, que lo había perdido en un accidente industrial. Mientras tanto, Wendy's perdió millones en ventas, y llegó a ofrecer una recompensa de cincuenta mil dólares a quien ayudara a encontrar al verdadero dueño del dedo.",
+  "fx": {
+   "type": "counter",
+   "value": 50000,
+   "prefix": "$",
+   "suffix": "",
+   "label": "LA RECOMPENSA DE WENDY'S",
+   "sub": "Por encontrar al dueño del dedo",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "WE2",
+  "label": "WENDY'S",
+  "cap": "9 AÑOS",
+  "txt": "La policía rastreó el dedo hasta su dueño, y el plan se vino abajo. Ayala había intentado sacarle una fortuna a la empresa. Terminó condenada a nueve años de prisión. Una sola mentira estuvo a punto de hundir a una cadena entera."
+ },
+ {
+  "src": [
+   "WE2",
+   "WC"
+  ],
+  "label": "WENDY'S",
+  "cap": "",
+  "txt": "Y la historia tenía más capas. Los investigadores descubrieron que Ayala ya había presentado reclamos contra otras empresas antes. Su esposo también terminó condenado, a más de doce años de prisión. Pero el daño a Wendy's ya estaba hecho: durante semanas, en el norte de California, mucha gente dejó de ir a sus restaurantes, y los empleados de la zona vieron cómo les recortaban las horas de trabajo."
+ },
+ {
+  "src": "MC",
+  "label": "CAFÉ DE McDONALD'S",
+  "cap": "#12",
+  "txt": "Número doce. El café de McDonald's."
+ },
+ {
+  "src": "MC",
+  "label": "CAFÉ DE McDONALD'S",
+  "cap": "",
+  "txt": "En 1992, Stella Liebeck, una señora de setenta y nueve años, se derramó un café de McDonald's en las piernas. Los medios la convirtieron en el símbolo de las demandas ridículas: la mujer torpe que quería dinero fácil. Pero los documentos del juicio cuentan otra historia."
+ },
+ {
+  "src": "MC",
+  "label": "CAFÉ DE McDONALD'S",
+  "cap": "QUEMADURAS",
+  "txt": "Ella estaba en un auto estacionado, no manejando. El café se servía casi hirviendo, alrededor de ochenta y ocho grados centígrados. Sufrió quemaduras de tercer grado, necesitó injertos de piel y pasó ocho días en el hospital. Solo pidió veinte mil dólares para cubrir sus gastos médicos. McDonald's le ofreció ochocientos.",
+  "fx": {
+   "type": "compare",
+   "title": "LO QUE PIDIÓ VS. LO QUE LE OFRECIERON",
+   "left": [
+    "$20,000",
+    "PARA SUS GASTOS MÉDICOS"
+   ],
+   "right": [
+    "$800",
+    "LA OFERTA DE McDONALD'S"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "MC",
+  "label": "CAFÉ DE McDONALD'S",
+  "cap": "700 QUEJAS",
+  "txt": "En el juicio salió a la luz que la empresa ya tenía más de setecientas quejas por quemaduras. El jurado le otorgó dos millones setecientos mil dólares en daños punitivos, más o menos lo que McDonald's vendía en café en dos días. Un juez después redujo la cifra, y las partes llegaron a un acuerdo privado. Pero el chiste sobre la señora del café ya se había quedado para siempre.",
+  "fx": {
+   "type": "counter",
+   "value": 700,
+   "prefix": "+",
+   "suffix": " QUEJAS",
+   "label": "QUEMADURAS ANTES DEL JUICIO",
+   "sub": "Según los documentos del caso",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "MC",
+  "label": "CAFÉ DE McDONALD'S",
+  "cap": "LA VERDAD",
+  "txt": "Las quemaduras de Stella Liebeck cubrieron cerca del dieciséis por ciento de su cuerpo. Ella murió en 2004, y muchos años después un documental llamado Hot Coffee volvió a contar su historia y demostró cómo el caso se había usado para burlarse de las demandas en general. Desde entonces, casi todos los vasos de café para llevar dicen lo mismo: cuidado, contenido caliente.",
+  "fx": {
+   "type": "quote",
+   "text": "Cuidado: el contenido está caliente.",
+   "by": "La advertencia que hoy llevan los vasos de café",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": "CH",
+  "label": "CHIPOTLE",
+  "cap": "#11",
+  "txt": "Número once. Chipotle y los seis meses de brotes."
+ },
+ {
+  "src": "CH",
+  "label": "CHIPOTLE",
+  "cap": "",
+  "txt": "Chipotle construyó su imperio con una promesa: ingredientes frescos y comida con integridad. Pero a finales de 2015, esa misma frescura se volvió su peor pesadilla. En pocos meses, la cadena enfrentó brotes de E. coli, norovirus y salmonela, uno detrás de otro. Las autoridades vincularon el brote de E. coli con restaurantes en once estados.",
+  "fx": {
+   "type": "counter",
+   "value": 11,
+   "suffix": " ESTADOS",
+   "label": "EL BROTE DE E. COLI",
+   "sub": "Chipotle · finales de 2015",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "CH",
+  "label": "CHIPOTLE",
+  "cap": "BOSTON",
+  "txt": "Y cuando parecía que lo peor había pasado, más de cien estudiantes universitarios se enfermaron de norovirus después de comer en un solo Chipotle de Boston. Los investigadores revisaron todo, del cilantro a la carne, pero nunca encontraron con certeza qué ingrediente causó el brote de E. coli. Las acciones se desplomaron, y la cadena tuvo que cambiar por completo la forma en que prepara y transporta sus ingredientes.",
+  "fx": {
+   "type": "map",
+   "title": "EL BROTE DE BOSTON",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Massachusetts"
+   ],
+   "pins": [
+    {
+     "name": "BOSTON · DICIEMBRE 2015",
+     "lon": -71.06,
+     "lat": 42.36
+    }
+   ],
+   "view": [
+    -76,
+    40,
+    -68,
+    45
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "CH",
+  "label": "CHIPOTLE",
+  "cap": "CERRADO",
+  "txt": "La crisis fue tan grave que en febrero de 2016, Chipotle cerró todos sus restaurantes del país durante una tarde para reunir a sus empleados y hablar de seguridad alimentaria. Y años después, en 2020, la empresa aceptó pagar una multa de veinticinco millones de dólares, la más grande de la historia en un caso de seguridad alimentaria en Estados Unidos.",
+  "fx": {
+   "type": "counter",
+   "value": 25,
+   "prefix": "$",
+   "suffix": " MILLONES",
+   "label": "LA MULTA DE CHIPOTLE",
+   "sub": "2020 · récord en seguridad alimentaria",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": [
+   "ST",
+   "ST2"
+  ],
+  "label": "EL ATÚN DE SUBWAY",
+  "cap": "#10",
+  "txt": "Número diez. El atún de Subway."
+ },
+ {
+  "src": [
+   "ST2",
+   "ST"
+  ],
+  "label": "EL ATÚN DE SUBWAY",
+  "cap": "",
+  "txt": "En 2021, dos clientas presentaron una demanda en California con una acusación increíble: que el atún de Subway no tenía atún. Decían que era una mezcla de otros ingredientes hecha para parecer pescado. Sonaba absurdo, pero muchos medios decidieron comprobarlo."
+ },
+ {
+  "src": [
+   "ST2",
+   "ST"
+  ],
+  "label": "EL ATÚN DE SUBWAY",
+  "cap": "SIN ADN",
+  "txt": "El New York Times compró sándwiches en varios locales de Los Ángeles, congeló el atún y lo mandó a un laboratorio. Un mes después llegó el resultado: no se pudo identificar ADN de atún. Internet explotó con teorías. Pero los científicos explicaron algo más simple: el proceso de cocción y enlatado puede destruir tanto el ADN, que al laboratorio no le queda nada para analizar. El misterio, en realidad, era de química, no de fraude.",
+  "fx": {
+   "type": "quote",
+   "text": "No se pudo identificar ADN de atún.",
+   "by": "Resultado del laboratorio contratado por The New York Times (2021)",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "PO",
+  "label": "POPEYES",
+  "cap": "#9",
+  "txt": "Número nueve. El sándwich de pollo de Popeyes."
+ },
+ {
+  "src": "PO",
+  "label": "POPEYES",
+  "cap": "",
+  "txt": "Normalmente, un escándalo de comida rápida empieza cuando alguien se enferma. Este empezó porque el producto era demasiado popular. En agosto de 2019, Popeyes lanzó su primer sándwich de pollo frito. Y en unas dos semanas se agotó en todo el país.",
+  "fx": {
+   "type": "counter",
+   "value": 2,
+   "suffix": " SEMANAS",
+   "label": "HASTA AGOTARSE EN TODO EL PAÍS",
+   "sub": "Popeyes · agosto de 2019",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "PO",
+  "label": "POPEYES",
+  "cap": "LA GUERRA",
+  "txt": "Todo empezó con una guerra en redes sociales. Chick-fil-A publicó un mensaje presumiendo su propio sándwich, y Popeyes respondió con una sola frase: ¿estás bien? Millones de personas se metieron en la discusión. Según estimaciones de mercadotecnia, esa pelea le dio a Popeyes publicidad gratis por decenas de millones de dólares.",
+  "fx": {
+   "type": "quote",
+   "text": "... ¿estás bien?",
+   "by": "Popeyes a Chick-fil-A en Twitter (2019)",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "PO",
+  "label": "POPEYES",
+  "cap": "LA LOCURA",
+  "txt": "Cuando volvió al menú en noviembre, la locura fue peor. Las filas de autos llegaban hasta las carreteras. Los empleados trabajaban turnos interminables, y algunos clientes les gritaban, les tiraban bebidas o intentaban meterse por la ventanilla. Y en un Popeyes de Oxon Hill, Maryland, una discusión por meterse en la fila terminó con un hombre de veintiocho años apuñalado y muerto en el estacionamiento.",
+  "fx": {
+   "type": "map",
+   "title": "OXON HILL · NOVIEMBRE 2019",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Maryland"
+   ],
+   "pins": [
+    {
+     "name": "OXON HILL · MARYLAND",
+     "lon": -76.99,
+     "lat": 38.8
+    }
+   ],
+   "view": [
+    -80.5,
+    36.8,
+    -73.5,
+    41
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BK",
+   "BK2"
+  ],
+  "label": "BURGER KING",
+  "cap": "#8",
+  "txt": "Número ocho. La hamburguesa negra de Burger King."
+ },
+ {
+  "src": [
+   "BK2",
+   "BK"
+  ],
+  "label": "BURGER KING",
+  "cap": "",
+  "txt": "Para Halloween de 2015, Burger King trajo a Estados Unidos una idea que había funcionado en Japón: una Whopper con pan completamente negro. Miles de personas la compraron, comieron, y siguieron con su día. Al día siguiente, las redes sociales se llenaron de reportes alarmados de gente que acababa de ir al baño."
+ },
+ {
+  "src": [
+   "BK",
+   "BK2"
+  ],
+  "label": "BURGER KING",
+  "cap": "JAPÓN",
+  "txt": "En Japón, Burger King ya había vendido hamburguesas negras, con pan y queso teñidos con carbón de bambú. Allá fueron un éxito sin mayores problemas. Pero la versión estadounidense usaba otra receta, con salsa de carne mezclada en el pan y mucho colorante artificial. Y ahí estuvo la diferencia."
+ },
+ {
+  "src": [
+   "BK",
+   "BK2"
+  ],
+  "label": "BURGER KING",
+  "cap": "VERDE",
+  "txt": "Todo había salido de un color verde brillante. La gente pensaba que estaba enferma. Los médicos explicaron que para lograr ese pan tan negro se usaron colorantes artificiales en grandes cantidades, y al pasar por el sistema digestivo, el resultado era verde. Burger King sí creó un monstruo de Halloween. Solo que en el lugar equivocado."
+ },
+ {
+  "src": [
+   "MN",
+   "MN2"
+  ],
+  "label": "CHICKEN McNUGGETS",
+  "cap": "#7",
+  "txt": "Número siete. La pasta rosada de los McNuggets."
+ },
+ {
+  "src": [
+   "MN2",
+   "MN"
+  ],
+  "label": "CHICKEN McNUGGETS",
+  "cap": "",
+  "txt": "A principios de la década de 2010 se volvió viral una foto que supuestamente mostraba el secreto de los Chicken McNuggets: una masa rosada saliendo de un tubo, como helado de fresa. Decían que era carne separada mecánicamente y tratada con amoníaco. La gente estaba asqueada, y el chef Jamie Oliver hizo campaña contra este tipo de procesamiento."
+ },
+ {
+  "src": [
+   "MN",
+   "MN2"
+  ],
+  "label": "CHICKEN McNUGGETS",
+  "cap": "LA FOTO FALSA",
+  "txt": "McDonald's tuvo que lanzar una campaña de transparencia, con videos de su cadena de producción, para demostrar que sus nuggets se hacen con pechuga de pollo. Y lo irónico es que la famosa foto no era de los McNuggets. Pero el daño ya estaba hecho. Una imagen falsa obligó a una empresa gigante a cambiar para siempre su forma de hablar con el público.",
+  "fx": {
+   "type": "compare",
+   "title": "EL MITO VS. LA REALIDAD",
+   "left": [
+    "LA FOTO",
+    "NO ERA DE McDONALD'S"
+   ],
+   "right": [
+    "PECHUGA",
+    "DE POLLO SEGÚN LA EMPRESA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "MC",
+  "label": "CAFEÍNA",
+  "cap": "#6",
+  "txt": "Número seis. La limonada de Panera."
+ },
+ {
+  "src": "MC",
+  "label": "CAFEÍNA",
+  "cap": "",
+  "txt": "Panera Bread construyó su marca alrededor de la comida limpia y saludable. Cuando lanzó su limonada cargada, la puso junto a los tés helados y las bebidas normales, con colores alegres y una promesa de energía natural. Pero un vaso grande tenía trescientos noventa miligramos de cafeína. Más que una lata de Red Bull o de Monster.",
+  "fx": {
+   "type": "compare",
+   "title": "LA LIMONADA CARGADA",
+   "left": [
+    "390 MG",
+    "DE CAFEÍNA EN UN VASO GRANDE"
+   ],
+   "right": [
+    "MÁS",
+    "QUE UNA LATA DE RED BULL"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "MC",
+  "label": "CAFEÍNA",
+  "cap": "LAS DEMANDAS",
+  "txt": "En 2023, la familia de una estudiante universitaria de veintiún años, con una condición del corazón, demandó a Panera. Alegaban que había sufrido un paro cardíaco después de tomar la limonada. Vinieron más demandas. Y en 2024, Panera retiró la bebida de todos sus restaurantes."
+ },
+ {
+  "src": "KD",
+  "label": "KFC DOUBLE DOWN",
+  "cap": "#5",
+  "txt": "Número cinco. El Double Down de KFC."
+ },
+ {
+  "src": [
+   "KD",
+   "KF"
+  ],
+  "label": "KFC DOUBLE DOWN",
+  "cap": "",
+  "txt": "En 2010, KFC lanzó un sándwich sin pan. En lugar de pan, tenía dos pechugas de pollo frito, con tocino, dos tipos de queso y salsa en el medio. Los médicos y nutricionistas pusieron el grito en el cielo. Un grupo de médicos llegó a pedir que el empaque llevara una advertencia de salud."
+ },
+ {
+  "src": [
+   "KD",
+   "KF"
+  ],
+  "label": "KFC DOUBLE DOWN",
+  "cap": "10 MILLONES",
+  "txt": "Y a pesar de las críticas, o quizá gracias a ellas, el Double Down fue un éxito. Según KFC, vendió unos diez millones en su primer mes. Los programas de televisión lo probaban en vivo, los comediantes hacían chistes, y la gente hacía fila solo para decir que lo había comido.",
+  "fx": {
+   "type": "counter",
+   "value": 10,
+   "suffix": " MILLONES",
+   "label": "DOUBLE DOWN VENDIDOS",
+   "sub": "En su primer mes, según KFC",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "KD",
+  "label": "KFC DOUBLE DOWN",
+  "cap": "LOS NÚMEROS",
+  "txt": "Pero los números contaban algo curioso. El Double Down tenía unas quinientas cuarenta calorías. No era sano, ni de cerca, y tenía muchísimo sodio. Pero tenía menos calorías que varios sándwiches de pollo de otras cadenas. El escándalo no era tanto por los números, sino por la imagen: usar pollo frito como si fuera pan.",
+  "fx": {
+   "type": "counter",
+   "value": 540,
+   "suffix": " CALORÍAS",
+   "label": "EL DOUBLE DOWN",
+   "sub": "Menos que varios sándwiches de la competencia",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": [
+   "TB",
+   "TB2"
+  ],
+  "label": "TACO BELL",
+  "cap": "#4",
+  "txt": "Número cuatro. La carne de Taco Bell."
+ },
+ {
+  "src": [
+   "TB2",
+   "TB"
+  ],
+  "label": "TACO BELL",
+  "cap": "",
+  "txt": "En 2011, un despacho de abogados demandó a Taco Bell con una acusación seria: que su carne sazonada casi no era carne. Según la demanda, tenía menos de treinta y cinco por ciento de res, y el resto eran rellenos y aditivos. No pedían dinero. Querían que Taco Bell dejara de llamarla carne de res.",
+  "fx": {
+   "type": "compare",
+   "title": "LA CARNE DE TACO BELL",
+   "left": [
+    "35%",
+    "SEGÚN LA DEMANDA"
+   ],
+   "right": [
+    "88%",
+    "SEGÚN TACO BELL"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "TB",
+   "TB2"
+  ],
+  "label": "TACO BELL",
+  "cap": "GRACIAS",
+  "txt": "En lugar de negociar, Taco Bell contraatacó. Publicó anuncios de página completa en los periódicos más grandes con un título inesperado: gracias por demandarnos. Y publicó su receta: ochenta y ocho por ciento de carne de res, y el resto agua y especias. Unos meses después, los abogados retiraron la demanda.",
+  "fx": {
+   "type": "quote",
+   "text": "Gracias por demandarnos.",
+   "by": "Anuncio de Taco Bell en los periódicos (2011)",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "PH",
+   "PH2"
+  ],
+  "label": "PIZZA HUT",
+  "cap": "#3",
+  "txt": "Número tres. La orilla rellena de Pizza Hut."
+ },
+ {
+  "src": [
+   "PH2",
+   "PH"
+  ],
+  "label": "PIZZA HUT",
+  "cap": "",
+  "txt": "En 1995, Pizza Hut lanzó su pizza con orilla rellena de queso. Fue un éxito enorme, que generó miles de millones en ventas. Pero un fabricante de quesos de Brooklyn, Anthony Mongiello, decía que la idea era suya. Había patentado un método para rellenar masa de pizza con queso en 1987.",
+  "fx": {
+   "type": "timeline",
+   "title": "¿DE QUIÉN ERA LA IDEA?",
+   "items": [
+    [
+     "1987",
+     "La patente de Mongiello"
+    ],
+    [
+     "1995",
+     "Pizza Hut lanza la orilla rellena"
+    ],
+    [
+     "DESPUÉS",
+     "La demanda"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "PH",
+   "PH2"
+  ],
+  "label": "PIZZA HUT",
+  "cap": "EL COMERCIAL",
+  "txt": "El lanzamiento fue enorme. Uno de los comerciales de la orilla rellena tenía como invitado a Donald Trump, décadas antes de llegar a la presidencia, comiendo la pizza al revés, empezando por la orilla. Pizza Hut gastó millones en publicidad, y la orilla rellena se volvió uno de sus productos más famosos."
+ },
+ {
+  "src": [
+   "PH",
+   "PH2"
+  ],
+  "label": "PIZZA HUT",
+  "cap": "MIL MILLONES",
+  "txt": "Según se ha reportado, Mongiello dijo que le había presentado su idea a Pizza Hut a finales de los ochenta, y que la rechazaron. Cuando vio el éxito, demandó a la empresa por mil millones de dólares. Pero la justicia no le dio la razón: su patente no cubría todas las formas de rellenar una orilla con queso. Pizza Hut se quedó con las ganancias.",
+  "fx": {
+   "type": "counter",
+   "value": 1000,
+   "prefix": "$",
+   "suffix": " MILLONES",
+   "label": "LA DEMANDA CONTRA PIZZA HUT",
+   "sub": "Según se ha reportado",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "SB",
+  "label": "STARBUCKS",
+  "cap": "#2",
+  "txt": "Número dos. El hielo de Starbucks."
+ },
+ {
+  "src": "SB",
+  "label": "STARBUCKS",
+  "cap": "",
+  "txt": "En 2017, el programa de la BBC Watchdog analizó la higiene de varias cadenas de café en el Reino Unido. Tomaron muestras de bebidas heladas en decenas de locales. Y en Starbucks, tres de cada diez muestras tenían bacterias coliformes fecales, un tipo de bacteria que no debería estar en ninguna bebida.",
+  "fx": {
+   "type": "counter",
+   "value": 3,
+   "suffix": " DE CADA 10",
+   "label": "BEBIDAS HELADAS CONTAMINADAS",
+   "sub": "Starbucks · BBC Watchdog · 2017",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "SB",
+  "label": "STARBUCKS",
+  "cap": "",
+  "txt": "Y Starbucks no fue la única. En la misma investigación, siete de cada diez muestras de la cadena Costa Coffee tuvieron el mismo problema, y también hubo resultados preocupantes en Caffè Nero. Los expertos dijeron que esas bacterias no deberían aparecer en ningún nivel, y mucho menos en las cantidades que encontraron.",
+  "fx": {
+   "type": "compare",
+   "title": "BBC WATCHDOG · 2017",
+   "left": [
+    "7 DE 10",
+    "COSTA COFFEE"
+   ],
+   "right": [
+    "3 DE 10",
+    "STARBUCKS"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "SB",
+  "label": "STARBUCKS",
+  "cap": "EL HIELO",
+  "txt": "La noticia se volvió viral. Starbucks dijo que se tomaba el tema muy en serio, investigó y reforzó sus reglas de limpieza y manejo del hielo. Y quedó una lección incómoda: a veces lo más peligroso de un menú no es la comida, sino el hielo que la mantiene fría."
+ },
+ {
+  "src": [
+   "SJ",
+   "SJ2"
+  ],
+  "label": "SUBWAY",
+  "cap": "#1",
+  "txt": "Y número uno. El vocero de Subway."
+ },
+ {
+  "src": [
+   "SJ2",
+   "SJ"
+  ],
+  "label": "SUBWAY",
+  "cap": "",
+  "txt": "Una marca puede sobrevivir a comida mala y a demandas molestas. Subway ya había pasado por varias. En 2013, clientes midieron sus sándwiches de un pie, unos treinta centímetros, y descubrieron que muchos medían menos. Y en 2014 tuvo que cambiar la receta de su pan después de que un bloguero señalara que uno de sus ingredientes también se usaba en la fabricación de tapetes de yoga."
+ },
+ {
+  "src": [
+   "SJ",
+   "ST"
+  ],
+  "label": "SUBWAY",
+  "cap": "30 CM",
+  "txt": "Lo del sándwich de un pie empezó con una sola foto en Facebook, de un cliente en Australia que puso una regla junto a su pan. Se volvió viral, vinieron demandas colectivas, y Subway terminó aceptando medir mejor sus panes. Lo del pan lo provocó una bloguera de comida, que juntó miles de firmas. Subway retiró el ingrediente. Eran problemas incómodos, pero manejables.",
+  "fx": {
+   "type": "compare",
+   "title": "EL SÁNDWICH DE UN PIE",
+   "left": [
+    "30 CM",
+    "LO QUE PROMETÍA"
+   ],
+   "right": [
+    "~28 CM",
+    "LO QUE MIDIÓ UN CLIENTE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "SJ2",
+  "label": "JARED FOGLE · SUBWAY",
+  "cap": "15 AÑOS",
+  "txt": "Pero la verdadera catástrofe llegó en 2015. Durante quince años, la cara de Subway había sido Jared Fogle, el hombre que bajó de peso comiendo sus sándwiches. Toda su imagen era salud y familia. Ese año, agentes federales registraron su casa en Indiana.",
+  "fx": {
+   "type": "counter",
+   "value": 15,
+   "suffix": " AÑOS",
+   "label": "COMO LA CARA DE SUBWAY",
+   "sub": "Hasta 2015",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "SJ",
+   "SJ2"
+  ],
+  "label": "SUBWAY",
+  "cap": "LA CAÍDA",
+  "txt": "Fogle se declaró culpable de graves delitos sexuales contra menores, y fue condenado a más de quince años de prisión federal. Subway cortó toda relación con él de inmediato y borró su imagen de todas partes. Fue la lección más dura de todas: cuando pones a una sola persona como la cara de tu marca, sus crímenes pueden manchar todo lo que vendes."
+ },
+ {
+  "src": [
+   "WE",
+   "MN",
+   "BK",
+   "TB",
+   "PH"
+  ],
+  "label": "¿CUÁL ES EL PEOR?",
+  "cap": "¿CUÁL ES EL PEOR?",
+  "txt": "Trece escándalos, y en casi todos, la historia que el público recuerda no es la verdadera. Una empresa que vende millones de comidas al día, tarde o temprano, va a tener que pedir disculpas en televisión. Ahora dime en los comentarios: ¿cuál de estos escándalos te parece el peor? Y suscríbete para más historias de la industria de la comida."
+ }
+]

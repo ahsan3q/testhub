@@ -1,0 +1,466 @@
+[
+ {
+  "src": [
+   "BF@2-80",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "",
+  "txt": "Cuando las cosas se ponen difíciles, apareces, ayudas, y si puedes agregar un poco de alegría mientras lo haces, todavía mejor. Esa es la filosofía de Michael J. Fox. A los veintinueve años le dijeron que tal vez le quedaban diez buenos años de trabajo. Han pasado más de treinta y cinco. Y la gente que ha trabajado con él todavía no puede hablar de él sin emocionarse."
+ },
+ {
+  "src": [
+   "FT@40-1400",
+   "BF3@3-115"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "¿QUÉ TAN BUENO ERA?",
+  "txt": "Woody Harrelson lo vio por primera vez en televisión y dijo que era una clase magistral de comedia. Christopher Lloyd encontró con él una química que nunca tuvo que trabajar. Y Harrison Ford, cuando le preguntaron por él, casi se quedó sin palabras. Hoy vamos a escuchar a las leyendas que trabajaron con Michael J. Fox. Y quédate hasta el final, porque la historia de la cobra en Tailandia es completamente real."
+ },
+ {
+  "src": "FT@40-1400",
+  "label": "FAMILY TIES · 1985",
+  "cap": "ALEX P. KEATON",
+  "txt": "Michael J. Fox nació en 1961 en Edmonton, Canadá, y a los dieciocho años se mudó a Los Ángeles. Su segundo nombre real es Andrew, pero ya existía otro actor llamado Michael Fox, así que agregó una jota en honor al actor Michael J. Pollard. En 1982 consiguió el papel que lo cambió todo: Alex P. Keaton, el hijo conservador de unos padres hippies, en la comedia Family Ties.",
+  "fx": {
+   "type": "map",
+   "title": "DE CANADÁ A HOLLYWOOD",
+   "countries": [
+    "Canada",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "EDMONTON · 1961",
+     "lon": -113.49,
+     "lat": 53.55
+    },
+    {
+     "name": "LOS ÁNGELES",
+     "lon": -118.24,
+     "lat": 34.05
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -132,
+    28,
+    -100,
+    58
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "FT2@40-1400",
+   "FT@40-1400"
+  ],
+  "label": "FAMILY TIES",
+  "cap": "WOODY HARRELSON",
+  "txt": "Woody Harrelson era cantinero en la serie Cheers cuando lo vio por primera vez. Cuenta que entró a una sala donde todos estaban viendo un programa, y en la pantalla había un muchacho que parecía de preparatoria, y que era eléctrico. Lo que podía hacer con una mirada o con una pausa. Woody dijo que se considera bastante gracioso, pero que ese muchacho era una clase magistral de comedia.",
+  "fx": {
+   "type": "quote",
+   "text": "Estaba viendo nacer un fenómeno.",
+   "by": "Woody Harrelson, sobre Michael J. Fox en Family Ties",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "FT2@40-1400",
+  "label": "FAMILY TIES",
+  "cap": "",
+  "txt": "Family Ties estuvo siete temporadas al aire, y Fox ganó tres premios Emmy por ese papel. El público, que se suponía iba a ponerse del lado de los padres, terminó enamorado del hijo que leía la sección de negocios del periódico y usaba corbata para desayunar. Y un año después, ese muchacho iba a convertirse en la estrella más grande del mundo.",
+  "fx": {
+   "type": "counter",
+   "value": 3,
+   "suffix": " EMMY",
+   "label": "POR FAMILY TIES",
+   "sub": "Como Alex P. Keaton (1982-1989)",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "FT2@40-1400",
+   "FT@40-1400"
+  ],
+  "label": "FAMILY TIES",
+  "cap": "TRACY POLLAN",
+  "txt": "Y Family Ties le dio algo más que fama. En la serie conoció a Tracy Pollan, la actriz que interpretaba a su novia. En 1988 se casaron en la vida real, y siguen juntos hasta hoy, con cuatro hijos. Michael ha dicho muchas veces que ella es la razón por la que pudo enfrentar todo lo que vino después."
+ },
+ {
+  "src": "BF@2-80",
+  "label": "BACK TO THE FUTURE · 1985",
+  "cap": "EL MARTY EQUIVOCADO",
+  "txt": "En 1985, Volver al futuro tenía un problema. Después de unas seis semanas de rodaje, tenían al Marty McFly equivocado. El papel lo estaba haciendo otro actor, Eric Stoltz. Christopher Lloyd cuenta que no sabía nada, hasta que una noche, a la una de la mañana, durante la cena del rodaje nocturno, llegó Steven Spielberg con los ejecutivos del estudio y anunció el cambio."
+ },
+ {
+  "src": "BF@2-80",
+  "label": "BACK TO THE FUTURE · 1985",
+  "cap": "CHRISTOPHER LLOYD",
+  "txt": "Lloyd confiesa que su primera reacción fue: oh no, tengo que volver a hacer seis semanas de trabajo. Solo rezaba por hacerlo igual de bien que la primera vez. Y al día siguiente, Michael ya estaba ahí. Lloyd dice que la química entre ellos nunca tuvo que trabajarse en ninguna de las tres películas. Simplemente estaba ahí.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CAMBIO DE MARTY",
+   "left": [
+    "6 SEMANAS",
+    "FILMADAS CON OTRO ACTOR"
+   ],
+   "right": [
+    "1985",
+    "LLEGA MICHAEL J. FOX"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "BF@2-80",
+  "label": "BACK TO THE FUTURE · 1985",
+  "cap": "CLAUDIA WELLS",
+  "txt": "Y el cambio tuvo un efecto inesperado. Claudia Wells había perdido el papel de Jennifer, la novia de Marty. Pero la actriz que lo tenía medía uno setenta, y Michael J. Fox mide alrededor de uno sesenta y tres. Claudia, que también es bajita, recuperó el papel. Ella misma lo resume así: mi baja estatura me devolvió el trabajo."
+ },
+ {
+  "src": "BF3@3-115",
+  "label": "BACK TO THE FUTURE PART III · 1990",
+  "cap": "LA HORCA",
+  "txt": "Y las secuelas tuvieron sus propios sustos. Las partes dos y tres se filmaron una detrás de otra. En la tercera, ambientada en el viejo oeste, hay una escena en la que intentan ahorcar a Marty. Michael ha contado que en una de las tomas la cuerda quedó mal colocada y perdió el conocimiento por unos segundos. El director se dio cuenta de que algo no estaba bien, y lo bajaron a tiempo.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA TRILOGÍA",
+   "items": [
+    [
+     "1985",
+     "Volver al futuro"
+    ],
+    [
+     "1989",
+     "Parte II"
+    ],
+    [
+     "1990",
+     "Parte III"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FT2@40-1400",
+   "BF@2-80"
+  ],
+  "label": "MICHAEL J. FOX · 1985",
+  "cap": "DE DÍA Y DE NOCHE",
+  "txt": "Y lo más impresionante: Fox hacía todo esto mientras seguía grabando Family Ties. Comedia de televisión de día, viajes en el tiempo de noche, durante meses. Dormía muy poco, y lo llevaban de un set a otro. Lea Thompson, que interpretó a su mamá en la película, dice que lo veía como un genio de la comedia física, inspirado en los grandes del cine mudo como Buster Keaton.",
+  "fx": {
+   "type": "timeline",
+   "title": "UN DÍA DE MICHAEL J. FOX EN 1985",
+   "items": [
+    [
+     "DE DÍA",
+     "Family Ties"
+    ],
+    [
+     "DE NOCHE",
+     "Volver al futuro"
+    ],
+    [
+     "MADRUGADA",
+     "Unas horas de sueño"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "TW@15-100",
+   "BF@2-80"
+  ],
+  "label": "TEEN WOLF · 1985",
+  "cap": "EL VERANO DE 1985",
+  "txt": "Y ese verano de 1985 fue suyo. Volver al futuro fue la película más taquillera del año. Y unas semanas después se estrenó otra película suya, El joven lobo, una comedia sobre un adolescente que se convierte en lobo y juega básquetbol. Durante un tiempo, Michael J. Fox fue el actor del momento en todas partes: en la televisión, en el cine y en las portadas de las revistas."
+ },
+ {
+  "src": "SS@5-75",
+  "label": "THE SECRET OF MY SUCCESS · 1987",
+  "cap": "",
+  "txt": "Siguieron más éxitos, como El secreto de mi éxito, en 1987. Y también películas más serias, como Light of Day, donde tocaba en una banda de rock junto a Joan Jett, y Pecados de guerra, de 1989, un drama sobre la guerra de Vietnam dirigido por Brian De Palma. Para filmarla viajó a Tailandia. Y ahí empieza una de las historias más locas de su vida."
+ },
+ {
+  "src": [
+   "LD@30-215",
+   "SS@5-75"
+  ],
+  "label": "MICHAEL J. FOX · 1987",
+  "cap": "LA COBRA",
+  "txt": "Woody Harrelson la contó en un escenario, con Michael sentado ahí mismo. Fue a visitarlo a Tailandia durante el rodaje. Una noche, Mike los llevó hasta el borde de la selva, a una pequeña choza. Le dio dinero a un muchacho, y los dos saltaron un muro de concreto. Cuando Woody se asomó, vio a Mike sentado junto al muchacho, rodeado de docenas de cobras listas para atacar."
+ },
+ {
+  "src": [
+   "LD@30-215",
+   "SS@5-75"
+  ],
+  "label": "MICHAEL J. FOX · 1987",
+  "cap": "",
+  "txt": "Según Woody, el muchacho provocaba a las cobras y las esquivaba en el último segundo. Luego metió a una en una jaula con una mangosta, y la mangosta ganó. Después prepararon una bebida típica del lugar con sangre de cobra y whisky tailandés, que según la tradición te convierte en hermano de la serpiente. Woody dice que Mike la tomó, y que la vomitó de inmediato. Y remató con un chiste: es canadiense, aguanta mucho, pero nunca pudo con la sangre de cobra.",
+  "fx": {
+   "type": "quote",
+   "text": "Nunca pudo con la sangre de cobra.",
+   "by": "Woody Harrelson, sobre su viaje a Tailandia con Michael J. Fox",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BF3@3-115",
+   "FT2@40-1400"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "EL DEDO MEÑIQUE",
+  "txt": "En 1990, mientras filmaba la comedia Doc Hollywood en Florida, pasó algo muy pequeño. Una mañana, su dedo meñique empezó a temblar. Woody Harrelson estaba con él, y cuenta que al principio pensaron que era por haber estado jugando a las cachetadas en el estacionamiento la noche anterior. Pero el médico que lo revisó fue el primero en mencionar la palabra Parkinson.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE TODO EMPEZÓ",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Florida"
+   ],
+   "pins": [
+    {
+     "name": "FLORIDA · DOC HOLLYWOOD · 1990",
+     "lon": -81.76,
+     "lat": 28.5
+    }
+   ],
+   "view": [
+    -90,
+    24,
+    -78,
+    32
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FT2@40-1400",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "29 AÑOS",
+  "txt": "En 1991 recibió el diagnóstico formal. Tenía veintinueve años, y le dijeron que tal vez le quedaban unos diez años para seguir trabajando. Woody dijo que no lo podía creer, porque Mike parecía invencible. Y que nunca lo vio hundirse en la autocompasión, como él mismo habría hecho.",
+  "fx": {
+   "type": "counter",
+   "value": 29,
+   "suffix": " AÑOS",
+   "label": "SU EDAD AL RECIBIR EL DIAGNÓSTICO",
+   "sub": "Le dijeron que le quedaban unos 10 años de trabajo",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "EL SECRETO",
+  "txt": "Durante siete años no se lo contó casi a nadie. Lo escondía detrás de objetos que sostenía en las manos, de medicinas y de chistes. En 1996 empezó a protagonizar otra comedia exitosa, Spin City. Connie Britton, su compañera de reparto, cuenta que en esos años el elenco notaba que algo pasaba. A veces se retrasaban las grabaciones, y nadie sabía qué tenía Michael."
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "1998",
+  "txt": "En 1998 lo hizo público, en una entrevista con la revista People. Connie Britton dice que fue un alivio para él, y para todo el elenco. Siguió en la serie una temporada más, ajustando sus medicinas para que hicieran efecto justo a la hora de grabar frente al público en vivo. Y en el año 2000 decidió dejar el programa para dedicarse a otra cosa: la investigación.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL SECRETO",
+   "items": [
+    [
+     "1990",
+     "El dedo meñique"
+    ],
+    [
+     "1991",
+     "El diagnóstico"
+    ],
+    [
+     "1998",
+     "Lo hace público"
+    ],
+    [
+     "2000",
+     "Deja Spin City"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "UN GLOBO DE ORO",
+  "txt": "Y en medio de todo eso, su trabajo en Spin City le dio varios premios, entre ellos un Globo de Oro y un Emmy. En esos mismos años también le dio voz a Stuart Little, el ratón de la película de 1999, y al protagonista de la película animada Atlantis, de Disney. La enfermedad avanzaba, pero su voz seguía trabajando."
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "FT@40-1400"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "DAVID SPADE",
+  "txt": "Pero nada de eso le quitó lo competitivo, ni lo gracioso. En los premios Emmy de 1998, el comediante David Spade, cuyo programa competía contra Spin City, contó en el escenario que se había encontrado a Michael antes de la ceremonia, y que Michael le había dicho: Spade, te vamos a aplastar. Y que luego remató con un chiste sobre su estatura. Spade, que tampoco es alto, no tuvo mucha respuesta."
+ },
+ {
+  "src": "MF@0-24",
+  "label": "MICHAEL J. FOX · 2004",
+  "cap": "LA FUNDACIÓN",
+  "txt": "En el año 2000 creó la Fundación Michael J. Fox para la investigación del Parkinson. Empezó a hablar ante el Congreso, a aparecer en campañas a favor de la investigación con células madre, y a recaudar dinero. Hoy, su fundación ha reunido más de mil millones de dólares para la investigación de esta enfermedad, una de las cifras más grandes de cualquier organización de su tipo.",
+  "fx": {
+   "type": "counter",
+   "value": 1000,
+   "prefix": "+$",
+   "suffix": " MILLONES",
+   "label": "RECAUDADOS POR SU FUNDACIÓN",
+   "sub": "Para la investigación del Parkinson",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "DENIS LEARY",
+  "txt": "Pero nunca dejó de actuar del todo. En 2009 apareció en la serie Rescue Me, y su protagonista, Denis Leary, cuenta que en su primer día juntos tenían una escena dramática muy intensa: Michael tenía un monólogo enorme y Leary solo tenía que escuchar. Al terminar la primera toma, Leary pensó: este tipo me está robando la escena entera. Michael ganó un Emmy por ese papel.",
+  "fx": {
+   "type": "quote",
+   "text": "Me está robando la escena entera.",
+   "by": "Denis Leary, sobre su primer día con Michael J. Fox",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FT2@40-1400",
+   "NY@3-34"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "LARRY DAVID",
+  "txt": "Y también se burló de su propia enfermedad. En 2011 apareció en Curb Your Enthusiasm, el programa de Larry David. En una escena, Larry se molesta y le pregunta por qué se mueve tanto, y Michael le responde con toda calma: Larry, tengo Parkinson. Más tarde, Michael le trae una lata de cerveza, Larry la abre, le explota en la cara, y lo acusa de haberla agitado a propósito. Y Michael, otra vez: tengo Parkinson."
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "",
+  "txt": "Christopher Lloyd dice que esa escena lo resume todo: tener el valor de reírte de tu propia condición, compartirla, y ser tú mismo con ella. Y en 2023, el director Davis Guggenheim hizo un documental sobre su vida, llamado Still. Michael le puso una sola regla desde el principio hasta el final: nada de violines. Nada de lástima."
+ },
+ {
+  "src": [
+   "MF@0-24",
+   "NY@3-34"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "NADA DE VIOLINES",
+  "txt": "Guggenheim cuenta que en una entrevista le preguntó si esta era la historia de una celebridad triste a la que una enfermedad terrible la destruye. Michael se quedó callado un momento, y luego respondió: eso es aburrido. Guggenheim dice que esa respuesta cambió por completo la forma en que editaron la película.",
+  "fx": {
+   "type": "quote",
+   "text": "Eso es aburrido.",
+   "by": "Michael J. Fox, cuando le preguntaron si su historia era triste",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "MF@0-24",
+   "NY@3-34"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "LOS LIBROS",
+  "txt": "También escribió varios libros sobre su vida. El primero se llamó Lucky Man, un hombre con suerte, un título que dice mucho de cómo ve las cosas. Y en 2020, en otro de sus libros, contó que había decidido retirarse de la actuación, porque cada vez le costaba más recordar sus líneas. Lo dijo sin dramatismo: había llegado el momento."
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "BF@2-80"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "EL MARATÓN",
+  "txt": "El periodista Willie Geist, cuyo padre vive con Parkinson, corrió el maratón de Nueva York para la fundación de Michael. Cerca del kilómetro treinta y nueve ya no podía más. Y de pronto vio a Michael J. Fox parado afuera de su edificio en la Quinta Avenida, con su bastón y su chamarra de cuero. Geist corrió hacia él y le dio un abrazo todo sudado. Dice que eso fue lo que lo llevó hasta la meta, y que no era sudor lo que se limpiaba de la cara."
+ },
+ {
+  "src": [
+   "BF@2-80",
+   "BF3@3-115"
+  ],
+  "label": "BACK TO THE FUTURE",
+  "cap": "CHRIS MARTIN",
+  "txt": "Chris Martin, el cantante de Coldplay, creció viendo Volver al futuro. Años después le tocó compartir escenario con Marty McFly en un concierto de beneficencia. Le pidió tocar las canciones de la película, y en medio de Earth Angel, Michael empezó a mirarse la mano como si estuviera desapareciendo, igual que en la escena de la película. Martin dice que se sintió como tener siete años y estar en el cielo."
+ },
+ {
+  "src": [
+   "MF@0-24",
+   "NY@3-34"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "EL ÓSCAR",
+  "txt": "En 2022, la Academia de Hollywood le dio un premio humanitario por su trabajo con la fundación. ¿Y quién se lo entregó? Woody Harrelson, el mismo amigo de la cobra. Woody dijo que Michael nunca pidió el papel de paciente de Parkinson ni de activista, pero que, sin duda, es su mejor actuación. Vulnerable, sí. Víctima, nunca. Inspiración, siempre.",
+  "fx": {
+   "type": "quote",
+   "text": "Vulnerable, sí. Víctima, nunca. Inspiración, siempre.",
+   "by": "Woody Harrelson, al entregarle su Óscar honorario (2022)",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "BF@2-80"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "JASON SEGEL",
+  "txt": "Y recientemente volvió a actuar en la serie Shrinking, junto a Harrison Ford. Ahí, el actor Jason Segel le confesó algo que llevaba veinte años queriendo decirle. Cuando él y sus amigos trataban de hacer televisión y cine al mismo tiempo, agotados y asustados, se decían unos a otros: Michael J. Fox lo hizo. Segel le dijo que había sido su norte, su guía."
+ },
+ {
+  "src": [
+   "NY@3-34",
+   "MF@0-24"
+  ],
+  "label": "MICHAEL J. FOX",
+  "cap": "HARRISON FORD",
+  "txt": "Harrison Ford, que compartió esa serie con él, normalmente no es un hombre de muchas palabras en las entrevistas. Pero cuando le preguntaron por Michael, dijo que era fantástico, resistente, gracioso y listo como pocos. Y luego agregó que lo que Michael ha logrado está más allá de lo que cualquiera puede imaginar. Viniendo de Han Solo, no es poca cosa.",
+  "fx": {
+   "type": "quote",
+   "text": "Fantástico, resistente, gracioso y listo como pocos.",
+   "by": "Harrison Ford, sobre Michael J. Fox",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "BF@2-80",
+   "FT@40-1400",
+   "MF@0-24"
+  ],
+  "label": "¿QUÉ OPINAS?",
+  "cap": "¿QUÉ OPINAS?",
+  "txt": "Una clase magistral de comedia, un secreto de siete años, una cobra en Tailandia, y un hombre que simplemente sigue apareciendo. ¿Qué tan bueno es Michael J. Fox en realidad? Pregúntale a cualquiera que haya trabajado con él. Te lo va a decir. Solo dale un minuto para que se le pase la emoción. Y cuéntame en los comentarios cuál es tu película favorita de Michael J. Fox."
+ }
+]

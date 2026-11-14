@@ -1,0 +1,592 @@
+[
+ {
+  "src": [
+   "JI@1-57",
+   "JO@3-120"
+  ],
+  "label": "LOS SUPERSÓNICOS · 1962",
+  "cap": "",
+  "txt": "Seguro conoces a Los Supersónicos. Autos voladores, una robot que limpia la casa, un perro que habla y esa canción que todavía se nos pega. La caricatura que nos prometió un futuro brillante. Pero detrás de esa familia del año 2062 hay historias que casi nadie conoce: una serie que el público no podía ver a color, una robot que casi no salía, y una película donde dos actores se despidieron para siempre."
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "15 DATOS",
+  "txt": "Hoy te traigo quince datos increíbles sobre Los Supersónicos que probablemente no conocías. Todos verificados. Y quédate hasta el final, porque el último dato es sobre el futuro que la serie imaginó, y cuánto de él ya llegó. Cuéntame en los comentarios cuál te sorprendió más."
+ },
+ {
+  "src": [
+   "JP@1-50",
+   "JO@3-120"
+  ],
+  "label": "THE JETSONS · ABC 1962",
+  "cap": "#15",
+  "txt": "Número quince. Fue el primer programa a color de su cadena."
+ },
+ {
+  "src": [
+   "JO@3-120",
+   "JI@1-57"
+  ],
+  "label": "THE JETSONS · ABC 1962",
+  "cap": "23 DE SEPTIEMBRE, 1962",
+  "txt": "Los Supersónicos se estrenaron el 23 de septiembre de 1962 en la cadena ABC, y fueron el primer programa que esa cadena transmitió a color. Hanna-Barbera venía de conquistar el horario estelar con Los Picapiedra. Tenían la fórmula, el talento y la confianza. Así que la nueva familia viajó cien años al futuro, en lugar de millones de años al pasado.",
+  "fx": {
+   "type": "compare",
+   "title": "DOS FAMILIAS, DOS ÉPOCAS",
+   "left": [
+    "EDAD DE PIEDRA",
+    "LOS PICAPIEDRA · 1960"
+   ],
+   "right": [
+    "2062",
+    "LOS SUPERSÓNICOS · 1962"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "JP@1-50",
+  "label": "PROMOCIONAL DE ABC · 1963",
+  "cap": "EN BLANCO Y NEGRO",
+  "txt": "Pero había un problema. En 1962, muy pocos hogares de Estados Unidos tenían televisión a color. Se calcula que apenas alrededor del tres por ciento. Así que ese futuro brillante, lleno de colores, la mayoría del público lo vio en blanco y negro. Y así se ve en los promocionales de la época: una ciudad del futuro completamente gris.",
+  "fx": {
+   "type": "counter",
+   "value": 3,
+   "prefix": "~",
+   "suffix": "%",
+   "label": "HOGARES CON TV A COLOR EN 1962",
+   "sub": "La mayoría vio Los Supersónicos en blanco y negro",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS · 1962",
+  "cap": "#14",
+  "txt": "Número catorce. Solo tuvo veinticuatro episodios."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS · 1962",
+  "cap": "24 EPISODIOS",
+  "txt": "Mucha gente cree que Los Supersónicos estuvieron años al aire. Pero la serie original duró una sola temporada, de veinticuatro episodios, y ABC la canceló en 1963. Lo que pasó fue que esos mismos episodios se repitieron durante décadas, los sábados por la mañana. Los niños los vieron tantas veces que parecía una serie enorme. En realidad, eran siempre las mismas veinticuatro historias.",
+  "fx": {
+   "type": "compare",
+   "title": "LA SERIE ORIGINAL",
+   "left": [
+    "24",
+    "EPISODIOS"
+   ],
+   "right": [
+    "1",
+    "TEMPORADA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "JE2@20-1460",
+  "label": "UNA CITA CON JET SCREAMER · 1962",
+  "cap": "EEP OPP ORK AH-AH",
+  "txt": "Uno de los episodios más recordados de esa primera temporada es el segundo. Lucero gana un concurso para tener una cita con la estrella de rock del futuro, Jet Screamer, y su papá hace todo lo posible por arruinarla. La canción del episodio, Eep Opp Ork Ah-Ah, es pura tontería, y por eso mismo nadie la olvida. Incluso tuvo versiones grabadas por bandas reales décadas después."
+ },
+ {
+  "src": [
+   "JF@60-6300",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "EL REGRESO",
+  "txt": "Y más de veinte años después, Hanna-Barbera hizo algo poco común: volvió a producir la serie. En 1985 se estrenaron decenas de episodios nuevos, y en 1987 llegaron más. Por eso, en las repeticiones, los episodios de 1962 y los de los ochenta se mezclaban, y casi nadie notaba la diferencia de más de veinte años.",
+  "fx": {
+   "type": "timeline",
+   "title": "LAS VIDAS DE LOS SUPERSÓNICOS",
+   "items": [
+    [
+     "1962",
+     "Primera temporada"
+    ],
+    [
+     "1963",
+     "Cancelada"
+    ],
+    [
+     "1985",
+     "Nuevos episodios"
+    ],
+    [
+     "1990",
+     "La película"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "SW@60-240",
+   "JG@50-1500"
+  ],
+  "label": "FERIA MUNDIAL DE SEATTLE · 1962",
+  "cap": "#13",
+  "txt": "Número trece. Nació en plena carrera espacial."
+ },
+ {
+  "src": [
+   "JG@50-1500",
+   "SW@60-240"
+  ],
+  "label": "JOHN GLENN · 1962",
+  "cap": "FEBRERO DE 1962",
+  "txt": "En febrero de 1962, el astronauta John Glenn se convirtió en el primer estadounidense en dar la vuelta a la Tierra en órbita. Ese mismo año abrió la Feria Mundial de Seattle, con su famosa torre Space Needle, dedicada al siglo veintiuno. El país estaba obsesionado con el espacio y con el futuro. Y Los Supersónicos llegaron justo en ese momento.",
+  "fx": {
+   "type": "map",
+   "title": "1962: EL AÑO DEL FUTURO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Washington",
+    "Florida"
+   ],
+   "pins": [
+    {
+     "name": "FERIA MUNDIAL · SEATTLE",
+     "lon": -122.35,
+     "lat": 47.62
+    },
+    {
+     "name": "CABO CAÑAVERAL · JOHN GLENN",
+     "lon": -80.6,
+     "lat": 28.4
+    }
+   ],
+   "view": [
+    -128,
+    22,
+    -68,
+    51
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "SW@60-240",
+   "JI@1-57"
+  ],
+  "label": "FERIA MUNDIAL DE SEATTLE · 1962",
+  "cap": "",
+  "txt": "Y eso se nota en el diseño. Los edificios sobre columnas altísimas, los techos curvos y las formas de platillo volador venían de un estilo de arquitectura muy popular en esa época, que se usaba en cafeterías, gasolineras y moteles de carretera. Los dibujantes no inventaron el futuro desde cero. Tomaron lo más moderno de 1962 y lo subieron a las nubes."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#12",
+  "txt": "Número doce. Robotina casi no salía en la serie."
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "ROBOTINA",
+  "txt": "Robotina, la robot con delantal, es uno de los personajes más famosos de la serie. Pero en los veinticuatro episodios originales casi no aparece. Su papel importante es en el primer episodio, y después prácticamente desaparece. Fue en los episodios de los años ochenta cuando se volvió parte fija de la familia."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JF@60-6300"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "UN MODELO VIEJO",
+  "txt": "Y hay otro detalle curioso. La familia no era dueña de Robotina. La rentaban a una agencia de robots domésticos, y era un modelo viejo, porque los nuevos eran demasiado caros. Incluso en el año 2062, los Supersónicos tenían que conformarse con la opción económica.",
+  "fx": {
+   "type": "quote",
+   "text": "Un modelo viejo, rentado, porque los nuevos eran demasiado caros.",
+   "by": "El origen de Robotina, episodio 1 (1962)",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "EL AUTO MALETÍN",
+  "txt": "Y hablando de inventos famosos, uno de los favoritos del público era el auto volador de Súper Sónico. Al llegar al trabajo, con solo apretar un botón, el auto se plegaba hasta convertirse en un maletín. Era el sueño de cualquier persona que alguna vez buscó estacionamiento en una ciudad grande."
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JF@60-6300"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#11",
+  "txt": "Número once. Astro y Scooby-Doo hablan igual por una razón."
+ },
+ {
+  "src": "JS1@20-1500",
+  "label": "LA LLEGADA DE ASTRO · 1962",
+  "cap": "DON MESSICK",
+  "txt": "Astro, el perro que cambia las letras por erres, apareció por primera vez en un episodio llamado La llegada de Astro. Su voz era de Don Messick. Siete años después, en 1969, Hanna-Barbera estrenó otra serie con un perro que hablaba casi igual: Scooby-Doo. ¿Y quién le daba voz? Don Messick. Por eso los dos suenan como hermanos.",
+  "fx": {
+   "type": "compare",
+   "title": "LA MISMA VOZ",
+   "left": [
+    "ASTRO",
+    "1962"
+   ],
+   "right": [
+    "SCOOBY-DOO",
+    "1969"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JO@3-120"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "LAS VOCES",
+  "txt": "Y el resto del reparto también tenía historia. La voz original de Ultra era de Penny Singleton, que en los años treinta y cuarenta había protagonizado más de veinte películas de la serie Blondie. Y la voz de Cometín, el hijo menor, era de Daws Butler, el mismo actor detrás del oso Yogui y de Huckleberry Hound. En Hanna-Barbera, las mismas voces aparecían en casi todas sus caricaturas."
+ },
+ {
+  "src": [
+   "JO@3-120",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#10",
+  "txt": "Número diez. El trabajo más fácil del mundo."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "UN BOTÓN",
+  "txt": "Súper Sónico, el papá, llega a casa agotado en casi todos los episodios. ¿Y cuál es su trabajo? Apretar un botón. En la serie, la jornada laboral del futuro es de apenas unas horas, unos pocos días a la semana. Y aun así se queja como si trabajara en una mina. Es uno de los mejores chistes de la serie: en el futuro, la tecnología hace casi todo, pero la gente sigue igual de cansada."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JO@3-120"
+  ],
+  "label": "SPACELY SPACE SPROCKETS",
+  "cap": "ENGRANES",
+  "txt": "Y su jefe, el señor Júpiter, dueño de una fábrica de engranes espaciales, lo despide una y otra vez, para volver a contratarlo antes de que termine el episodio. Su gran rival es otra fábrica, la de Cogswell, que hace piezas casi idénticas. Toda una guerra empresarial del futuro, por productos que casi nadie podría distinguir."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "UNIBLAB",
+  "txt": "En uno de los episodios de 1962, el señor Júpiter compra a Uniblab, un robot supervisor que vigila a los empleados, los acusa y hasta le hace la barba al jefe. Súper Sónico tiene miedo de que el robot lo reemplace. Más de sesenta años después, la idea de que una máquina vigile tu trabajo, o te quite el empleo, suena mucho menos a caricatura que en 1962."
+ },
+ {
+  "src": [
+   "JO@3-120",
+   "JI@1-57"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#9",
+  "txt": "Número nueve. Una apertura que ya es parte de la cultura."
+ },
+ {
+  "src": [
+   "JI@1-57",
+   "JO@3-120"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "HOYT CURTIN",
+  "txt": "La canción de entrada la compuso Hoyt Curtin, el mismo músico detrás de los temas de Los Picapiedra y de muchas otras series de Hanna-Barbera. Y la escena de apertura es casi un resumen de la familia: el papá maneja el auto volador, deja a cada uno en su lugar, y la mamá le quita la cartera para irse de compras. Un chiste muy de 1962."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "¡DETÉN ESTA LOCURA!",
+  "txt": "Y el final es todavía más famoso. Súper Sónico saca a pasear a Astro en una caminadora, el perro ve un gato, la máquina se acelera, y el papá termina dando vueltas sin control mientras grita: ¡Ultra, detén esta cosa loca! Una imagen perfecta del futuro de la serie: máquinas maravillosas que a veces nadie puede controlar.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Ultra, detén esta cosa loca!",
+   "by": "Súper Sónico, al final de cada episodio",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#8",
+  "txt": "Número ocho. Una ciudad sobre columnas."
+ },
+ {
+  "src": [
+   "JI@1-57",
+   "JS1@20-1500"
+  ],
+  "label": "CIUDAD ORBITAL",
+  "cap": "CIUDAD ORBITAL",
+  "txt": "En Ciudad Orbital todos viven en edificios sobre columnas altísimas, por encima de las nubes, y casi nunca se ve el suelo. La serie original nunca explicó por qué. Durante décadas, los fanáticos inventaron teorías, desde la contaminación hasta las inundaciones. Pero oficialmente, en 1962 era simplemente una forma divertida de dibujar el futuro: arriba, lejos y brillante."
+ },
+ {
+  "src": [
+   "JF@60-6300",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#7",
+  "txt": "Número siete. Los nombres en español son otra historia."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JF@60-6300"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "EL DOBLAJE",
+  "txt": "En inglés, la familia se llama los Jetson: George, Jane, Judy, Elroy y Rosie. Pero en el doblaje latinoamericano recibieron nombres que muchos recuerdan mejor que los originales: Súper Sónico, Ultra, Lucero, Cometín y Robotina. Y el jefe, el señor Spacely, se convirtió en el señor Júpiter. Como pasó con Los Picapiedra, para millones de niños latinoamericanos esos nombres fueron los únicos que conocieron.",
+  "fx": {
+   "type": "list",
+   "title": "LOS NOMBRES EN ESPAÑOL",
+   "items": [
+    "George → Súper Sónico",
+    "Jane → Ultra",
+    "Judy → Lucero",
+    "Elroy → Cometín",
+    "Rosie → Robotina"
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "JF@60-6300",
+  "label": "LOS SUPERSÓNICOS CONOCEN A LOS PICAPIEDRA · 1987",
+  "cap": "#6",
+  "txt": "Número seis. Las dos familias se encontraron."
+ },
+ {
+  "src": "JF@60-6300",
+  "label": "LOS SUPERSÓNICOS CONOCEN A LOS PICAPIEDRA · 1987",
+  "cap": "1987",
+  "txt": "En 1987, Hanna-Barbera juntó a sus dos familias más famosas en una película para televisión. Un accidente con una máquina del tiempo manda a los Supersónicos a la Edad de Piedra, y a los Picapiedra al futuro. Pedro en Ciudad Orbital y Súper Sónico en Piedradura. Fue el encuentro que muchos niños habían imaginado durante décadas.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ENCUENTRO DE 1987",
+   "left": [
+    "PICAPIEDRA",
+    "VIAJAN AL FUTURO"
+   ],
+   "right": [
+    "SUPERSÓNICOS",
+    "VIAJAN AL PASADO"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "JF@60-6300",
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "2017",
+  "txt": "Y la familia nunca dejó de reaparecer. Ha tenido especiales, cómics, videojuegos y hasta una película animada en 2017 junto a los luchadores de la WWE. Más de cincuenta años después de su estreno, una familia que solo tuvo veinticuatro episodios originales seguía buscando nuevas formas de volver."
+ },
+ {
+  "src": "JM@140-4600",
+  "label": "JETSONS: THE MOVIE · 1990",
+  "cap": "#5",
+  "txt": "Número cinco. La película de 1990 y una despedida triste."
+ },
+ {
+  "src": "JM@140-4600",
+  "label": "JETSONS: THE MOVIE · 1990",
+  "cap": "GEORGE O'HANLON",
+  "txt": "George O'Hanlon le dio voz a Súper Sónico desde 1962. Para la película de cine de 1990 ya estaba muy enfermo, con problemas de vista después de un derrame cerebral. El director le leía cada línea, y él la repetía. En febrero de 1989, después de una sesión de grabación, se sintió mal, lo llevaron al hospital y murió ese mismo día.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA DESPEDIDA",
+   "items": [
+    [
+     "1962",
+     "O'Hanlon es Súper Sónico"
+    ],
+    [
+     "FEB 1989",
+     "Muere tras grabar"
+    ],
+    [
+     "JUL 1989",
+     "Muere Mel Blanc"
+    ],
+    [
+     "1990",
+     "Se estrena la película"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "JM@140-4600",
+  "label": "JETSONS: THE MOVIE · 1990",
+  "cap": "MEL BLANC",
+  "txt": "Y unos meses después, en julio de 1989, murió Mel Blanc, la voz del señor Júpiter, y también de Bugs Bunny y el Pato Lucas. Otro actor, Jeff Bergman, tuvo que terminar las líneas que faltaban de los dos personajes. La película está dedicada a ambos."
+ },
+ {
+  "src": "JM@140-4600",
+  "label": "JETSONS: THE MOVIE · 1990",
+  "cap": "#4",
+  "txt": "Número cuatro. Le quitaron la voz a Lucero."
+ },
+ {
+  "src": [
+   "JM@140-4600",
+   "JE2@20-1460"
+  ],
+  "label": "JETSONS: THE MOVIE · 1990",
+  "cap": "JANET WALDO",
+  "txt": "Janet Waldo le dio voz a Lucero, la hija adolescente, desde 1962. Para la película de 1990 grabó todas sus líneas. Pero el estudio decidió reemplazarla por la cantante pop Tiffany, que estaba de moda entre los jóvenes, pensando que su nombre vendería más boletos. A Waldo le pagaron completo, pero borraron su voz de un personaje que había interpretado durante casi treinta años.",
+  "fx": {
+   "type": "compare",
+   "title": "LA VOZ DE LUCERO",
+   "left": [
+    "JANET WALDO",
+    "DESDE 1962"
+   ],
+   "right": [
+    "TIFFANY",
+    "EN LA PELÍCULA DE 1990"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "JM@140-4600",
+  "label": "JETSONS: THE MOVIE · 1990",
+  "cap": "",
+  "txt": "La directora de voces, Andrea Romano, estaba tan molesta que intentó quitar su nombre de los créditos como protesta. Y para cuando la película se estrenó, la carrera musical de Tiffany ya había bajado mucho. La película no fue el éxito que el estudio esperaba, y Janet Waldo había perdido su papel más famoso para nada."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#3",
+  "txt": "Número tres. Súper Sónico todavía no nace."
+ },
+ {
+  "src": [
+   "JS1@20-1500",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "2022",
+  "txt": "La serie se ubica en el año 2062. Y según las cuentas que hicieron los fanáticos con la edad del personaje en la serie, Súper Sónico habría nacido alrededor del año 2022. En 2017, esa cuenta se volvió viral en internet, y mucha gente se dio cuenta de que ya estamos más cerca del futuro de Los Supersónicos que del año en que se estrenó la serie.",
+  "fx": {
+   "type": "compare",
+   "title": "¿CUÁNDO NACIÓ SÚPER SÓNICO?",
+   "left": [
+    "1962",
+    "ESTRENO DE LA SERIE"
+   ],
+   "right": [
+    "~2022",
+    "SEGÚN LOS FANS"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "JO@3-120",
+   "JI@1-57"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#2",
+  "txt": "Número dos. Predijo inventos que hoy usamos todos los días."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "LAS PREDICCIONES",
+  "txt": "En 1962, Los Supersónicos ya tenían videollamadas, pantallas planas, relojes con pantalla, robots que limpian el piso, y caminadoras en casa. Hoy, muchas de esas cosas están en cualquier hogar. Los autos voladores todavía no llegan, pero la aspiradora robot sí, y la usamos sin pensar que fue un sueño de caricatura.",
+  "fx": {
+   "type": "list",
+   "title": "LO QUE YA LLEGÓ",
+   "items": [
+    "Videollamadas",
+    "Pantallas planas",
+    "Relojes inteligentes",
+    "Aspiradoras robot",
+    "Caminadoras en casa"
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "JI@1-57",
+   "JE2@20-1460"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "#1",
+  "txt": "Y número uno. Un futuro con las mismas costumbres de 1962."
+ },
+ {
+  "src": [
+   "JE2@20-1460",
+   "JS1@20-1500"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "1962 EN EL FUTURO",
+  "txt": "Los creadores imaginaron autos voladores, robots y ciudades en las nubes. Pero la familia seguía funcionando exactamente igual que una familia de 1962. El papá trabajaba, la mamá estaba en casa aunque un robot hiciera todo, y en algunos episodios los chistes eran sobre que las mujeres no sabían manejar. La tecnología cambió por completo, pero las costumbres no."
+ },
+ {
+  "src": [
+   "JO@3-120",
+   "JF@60-6300"
+  ],
+  "label": "LOS SUPERSÓNICOS",
+  "cap": "UNA FAMILIA MODERNA",
+  "txt": "Y tal vez por eso la serie sigue siendo tan interesante. No es solo una predicción del futuro. Es una foto de cómo soñaba el mundo en 1962: con optimismo, con prisa, y con los mismos defectos de siempre. Hoy tenemos muchos de sus inventos. Lo que todavía estamos esperando es el auto volador."
+ },
+ {
+  "src": [
+   "JI@1-57",
+   "JO@3-120",
+   "JF@60-6300"
+  ],
+  "label": "¿CUÁL TE SORPRENDIÓ?",
+  "cap": "¿CUÁL TE SORPRENDIÓ?",
+  "txt": "Quince datos sobre Los Supersónicos. ¿Cuál te sorprendió más? ¿Sabías que Robotina casi no salía en la serie original, o que Astro y Scooby-Doo tenían la misma voz? Déjamelo en los comentarios. Y si te gustan estas historias de las caricaturas clásicas, suscríbete, porque viene mucho más."
+ }
+]

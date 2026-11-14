@@ -1,0 +1,528 @@
+[
+ {
+  "src": [
+   "TC3@20-1480",
+   "AL@5-410",
+   "DT@10-280"
+  ],
+  "label": "CARICATURAS DE 1961",
+  "cap": "",
+  "txt": "En 1961, cinco caricaturas llegaron a la televisión de Estados Unidos, y las cinco desaparecieron después de una sola temporada. Pero una de ellas, que fue un fracaso en horario estelar, terminó convirtiéndose en un ícono en todo el mundo. Y en América Latina, todavía la recordamos por otro nombre."
+ },
+ {
+  "src": [
+   "OZ@10-260",
+   "CC@40-1440",
+   "AL2@5-410"
+  ],
+  "label": "CARICATURAS DE 1961",
+  "cap": "5 CARICATURAS OLVIDADAS",
+  "txt": "Hoy vamos a viajar a 1961 para recordar cinco caricaturas de corta vida. Un mago de Oz sin tornado, un zorro y un oso que hablaban con las voces de una vieja comedia de radio, un detective que nunca hacía nada, unas ardillas cantantes con su propio programa, y el gato más famoso del callejón. Déjame en los comentarios cuál recuerdas, cuál merecía durar más, y cuál es mejor dejar en el olvido."
+ },
+ {
+  "src": [
+   "TC2@5-60",
+   "CC2@40-1420"
+  ],
+  "label": "TELEVISIÓN · 1961",
+  "cap": "LA FIEBRE DE PICAPIEDRA",
+  "txt": "Pero primero, un poco de contexto. En 1960, Los Picapiedra se estrenaron en horario estelar, y demostraron que una caricatura podía competir con los programas de actores por la noche. Los adultos la veían, los patrocinadores pagaban, y las cadenas de televisión querían repetir el éxito. Así que en 1961 todas se lanzaron a buscar su propia caricatura para la noche."
+ },
+ {
+  "src": [
+   "TC2@5-60",
+   "CC@40-1440"
+  ],
+  "label": "TELEVISIÓN · 1961",
+  "cap": "",
+  "txt": "El problema es que la animación era cara, los horarios eran muy competidos, y el público era impaciente. Si una serie no tenía buenos números en unas semanas, la sacaban del aire o la mandaban a los sábados por la mañana. Por eso muchas de las caricaturas de ese año duraron tan poco. Y por eso algunas encontraron una segunda vida en las repeticiones.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA CARRERA DE LAS CARICATURAS",
+   "items": [
+    [
+     "1960",
+     "Los Picapiedra en horario estelar"
+    ],
+    [
+     "1961",
+     "Todas las cadenas buscan su caricatura"
+    ],
+    [
+     "1962",
+     "La mayoría ya fue cancelada"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "OZ@10-260",
+  "label": "TALES OF THE WIZARD OF OZ · 1961",
+  "cap": "#5",
+  "txt": "Número cinco. Tales of the Wizard of Oz, los cuentos del mago de Oz."
+ },
+ {
+  "src": [
+   "OZ@10-260",
+   "OZ2@50-215"
+  ],
+  "label": "TALES OF THE WIZARD OF OZ · 1961",
+  "cap": "RANKIN/BASS",
+  "txt": "Todos conocen el camino amarillo. Pero en 1961, un pequeño estudio lo llevó por un rumbo muy distinto. Esta serie animada usaba los personajes de la novela de L. Frank Baum de 1900. La animó un estudio canadiense, Crawley Films, para una compañía llamada Videocraft. Y esa compañía, años después, sería conocida como Rankin y Bass, la misma de los especiales navideños que vimos durante décadas.",
+  "fx": {
+   "type": "map",
+   "title": "UNA SERIE CANADIENSE",
+   "countries": [
+    "Canada",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "CRAWLEY FILMS · OTTAWA",
+     "lon": -75.7,
+     "lat": 45.42
+    },
+    {
+     "name": "VIDEOCRAFT · NUEVA YORK",
+     "lon": -74.0,
+     "lat": 40.71
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -84,
+    37,
+    -66,
+    49
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "OZ2@50-215",
+   "OZ@10-260"
+  ],
+  "label": "TALES OF THE WIZARD OF OZ · 1961",
+  "cap": "SIN TORNADO",
+  "txt": "Y esta versión ni siquiera se molestó con el tornado. Dorothy y Toto llegaban desde Kansas a través de un agujero en el paisaje. Varios personajes también cambiaron de nombre. El León Cobarde se llamó Dandy, el Hombre de Hojalata se llamó Rusty, y el Espantapájaros se llamó Sócrates. Lo cual, sinceramente, es un ascenso.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS NUEVOS NOMBRES",
+   "left": [
+    "DANDY",
+    "EL LEÓN COBARDE"
+   ],
+   "right": [
+    "SÓCRATES",
+    "EL ESPANTAPÁJAROS"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "OZ@10-260",
+   "OZ2@50-215"
+  ],
+  "label": "TALES OF THE WIZARD OF OZ · 1961",
+  "cap": "5 MINUTOS",
+  "txt": "Cada episodio era una historia corta, de unos cinco minutos, pensada para que los canales locales la metieran dentro de sus programas infantiles. Muchas giraban alrededor del mago tratando de cumplir los deseos de sus amigos, siempre con resultados desastrosos. Los títulos eran puros juegos de palabras: la gran carrera de autos de Oz, la fuente de la juventud, o el valor que se conecta a la pared."
+ },
+ {
+  "src": "OZ2@50-215",
+  "label": "TALES OF THE WIZARD OF OZ · 1961",
+  "cap": "",
+  "txt": "Se produjeron más de cien de estos episodios cortos. La serie se estrenó en septiembre de 1961, y en unos pocos meses ya había terminado su producción. No hubo una cancelación dramática. Simplemente se hizo un paquete de episodios, y luego desapareció poco a poco. Los diseños se reutilizaron en un especial de una hora llamado Return to Oz, en 1964. Y hasta donde se sabe, la serie nunca ha tenido un lanzamiento oficial en DVD."
+ },
+ {
+  "src": [
+   "OZ@10-260",
+   "OZ2@50-215"
+  ],
+  "label": "TALES OF THE WIZARD OF OZ · 1961",
+  "cap": "RUDOLPH",
+  "txt": "Y aunque esta serie se olvidó, el estudio detrás de ella no. Apenas tres años después, en 1964, Rankin y Bass estrenaron Rudolph, el reno de la nariz roja, con muñecos animados cuadro por cuadro. Ese especial se sigue transmitiendo cada Navidad en Estados Unidos desde hace más de sesenta años. Todo empezó con un mago de Oz de cinco minutos.",
+  "fx": {
+   "type": "timeline",
+   "title": "DE OZ A RUDOLPH",
+   "items": [
+    [
+     "1961",
+     "Tales of the Wizard of Oz"
+    ],
+    [
+     "1964",
+     "Return to Oz"
+    ],
+    [
+     "1964",
+     "Rudolph, el reno"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CC@40-1440",
+  "label": "CALVIN AND THE COLONEL · 1961",
+  "cap": "#4",
+  "txt": "Número cuatro. Calvin and the Colonel, Calvin y el Coronel."
+ },
+ {
+  "src": [
+   "CC@40-1440",
+   "CC2@40-1420"
+  ],
+  "label": "CALVIN AND THE COLONEL · 1961",
+  "cap": "3 DE OCTUBRE, 1961",
+  "txt": "Esta comedia animada se estrenó en la cadena ABC el 3 de octubre de 1961. Contaba la historia del coronel Montgomery Klaxon, un zorro astuto que vendía bienes raíces, y de Calvin Burnside, un oso bastante distraído. El coronel siempre tenía un plan para hacerse rico rápido, y siempre arrastraba a Calvin con él, sin que Calvin entendiera muy bien qué estaba pasando."
+ },
+ {
+  "src": "CC2@40-1420",
+  "label": "CALVIN AND THE COLONEL · 1961",
+  "cap": "",
+  "txt": "Su abogado era una comadreja llamada Oliver Wendell Clutch. Y sí, literalmente era una comadreja. En casa, el coronel vivía con su esposa y con su cuñada, que nunca confió en él ni un segundo. Honestamente, la cuñada era el personaje más inteligente de todo el programa."
+ },
+ {
+  "src": [
+   "CC@40-1440",
+   "CC2@40-1420"
+  ],
+  "label": "CALVIN AND THE COLONEL · 1961",
+  "cap": "EL SECRETO",
+  "txt": "Y aquí está el detalle que casi nadie conoce. Esta caricatura era una nueva versión animada de Amos 'n' Andy, uno de los programas de radio más famosos de la historia de Estados Unidos. Las voces de los protagonistas eran de los mismos creadores del programa de radio, Freeman Gosden y Charles Correll. Varios guiones de la radio se adaptaron para la caricatura."
+ },
+ {
+  "src": "CC@40-1440",
+  "label": "CALVIN AND THE COLONEL · 1961",
+  "cap": "",
+  "txt": "El programa original de radio había sido muy criticado por sus estereotipos raciales, y convertir a los personajes en animales fue una forma de alejarse de esa polémica. Como Los Picapiedra, la serie tenía risas grabadas, para que se sintiera como una comedia de verdad, solo que dibujada."
+ },
+ {
+  "src": [
+   "CC2@40-1420",
+   "CC@40-1440"
+  ],
+  "label": "CALVIN AND THE COLONEL · 1961",
+  "cap": "26 EPISODIOS",
+  "txt": "¿Y qué salió mal? El rating. Después de unas pocas semanas, la sacaron del aire por baja audiencia. Pero meses después regresó los sábados, para cumplir el contrato de la temporada y con su patrocinador, Lever Brothers, la misma empresa que había patrocinado Amos 'n' Andy en la radio. En total se hicieron veintiséis episodios, y el último se transmitió en junio de 1962. Curiosamente, la serie encontró un público mucho más grande en Australia, donde se repitió durante décadas.",
+  "fx": {
+   "type": "timeline",
+   "title": "CALVIN AND THE COLONEL",
+   "items": [
+    [
+     "OCT 1961",
+     "Estreno en ABC"
+    ],
+    [
+     "1961",
+     "Cancelada por baja audiencia"
+    ],
+    [
+     "1962",
+     "Regresa los sábados"
+    ],
+    [
+     "JUN 1962",
+     "Último episodio"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "DT@10-280",
+  "label": "THE DICK TRACY SHOW · 1961",
+  "cap": "#3",
+  "txt": "Número tres. The Dick Tracy Show."
+ },
+ {
+  "src": "DT@10-280",
+  "label": "THE DICK TRACY SHOW · 1961",
+  "cap": "UPA",
+  "txt": "El famoso detective de las tiras cómicas de Chester Gould tuvo un trabajo muy diferente en esta caricatura. Casi no hacía nada. Y esa era justamente la idea. La serie la produjo UPA, el mismo estudio de Mister Magoo, y llegó a los canales locales a partir de 1961. En lugar de episodios largos, era un paquete de unos ciento treinta cortos de cinco minutos, para que cada canal los presentara a su manera."
+ },
+ {
+  "src": "DT@10-280",
+  "label": "THE DICK TRACY SHOW · 1961",
+  "cap": "EL JEFE",
+  "txt": "Cada episodio empezaba igual. Dick Tracy, el jefe de detectives, recibía una llamada en su famoso radio de pulsera. Y en lugar de ir él, le pasaba el caso a uno de sus ayudantes, que se peleaba a golpes con los criminales de la forma más torpe posible. Al final, Tracy llegaba en auto o en helicóptero, felicitaba al ayudante, y se llevaba a los criminales. Era básicamente un jefe que delegaba todo y se quedaba con el crédito.",
+  "fx": {
+   "type": "quote",
+   "text": "Un jefe que delegaba todo, y aun así se quedaba con el crédito.",
+   "by": "La fórmula de The Dick Tracy Show",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "DT@10-280",
+  "label": "THE DICK TRACY SHOW · 1961",
+  "cap": "LOS VILLANOS",
+  "txt": "Los villanos venían directo del cómic, con nombres que describían su aspecto: Cabeza Plana, Cara de Ciruela, la Ceja. Y el elenco de voces era impresionante. Everett Sloane le daba voz a Tracy, y en el equipo estaba nada menos que Mel Blanc, la voz de Bugs Bunny. La serie fue un éxito: los canales regalaban placas de Dick Tracy a los niños que escribían por correo, y había juguetes y radios de pulsera de juguete."
+ },
+ {
+  "src": "DT@10-280",
+  "label": "THE DICK TRACY SHOW · 1961",
+  "cap": "RETIRADA",
+  "txt": "¿Entonces por qué está en esta lista? Porque fue un solo paquete de episodios, y su vida después fue complicada. Algunos de sus ayudantes, como el detective japonés Joe Jitsu y el mexicano Go Go Gomez, eran estereotipos étnicos muy marcados. Por las quejas del público, la serie se retiró de la televisión en los años setenta y otra vez en los ochenta. Y hasta hoy, varios canales de caricaturas clásicas prefieren no transmitirla.",
+  "fx": {
+   "type": "compare",
+   "title": "THE DICK TRACY SHOW",
+   "left": [
+    "130",
+    "CORTOS DE 5 MINUTOS"
+   ],
+   "right": [
+    "1",
+    "SOLA TEMPORADA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "AL@5-410",
+  "label": "THE ALVIN SHOW · 1961",
+  "cap": "#2",
+  "txt": "Número dos. The Alvin Show, el show de Alvin."
+ },
+ {
+  "src": [
+   "AL@5-410",
+   "AL3@30-1460"
+  ],
+  "label": "THE ALVIN SHOW · 1961",
+  "cap": "4 DE OCTUBRE, 1961",
+  "txt": "Antes de las películas, antes de las secuelas, antes de que esas voces agudas fueran una marca mundial, existió The Alvin Show. Fue la primera serie de Alvin y las Ardillas. Se estrenó en la cadena CBS el 4 de octubre de 1961, en horario estelar, y duró una sola temporada. La creó Ross Bagdasarian, el músico que inventó a las ardillas, y que les daba voz a Alvin, Simón, Teodoro y también a su paciente papá adoptivo, David Seville."
+ },
+ {
+  "src": [
+   "AL3@30-1460",
+   "AL@5-410"
+  ],
+  "label": "THE ALVIN SHOW · 1961",
+  "cap": "",
+  "txt": "El programa convirtió al trío de los discos en tres niños traviesos. Alvin era el problemático, Simón el alto e inteligente, y Teodoro el tierno y siempre hambriento. Y la serie la patrocinaba General Foods, con sus marcas de gelatina y cereales. Las ardillas incluso aparecían en comerciales de esos productos.",
+  "fx": {
+   "type": "list",
+   "title": "LAS ARDILLAS",
+   "items": [
+    "Alvin, el travieso",
+    "Simón, el inteligente",
+    "Teodoro, el tierno",
+    "Dave Seville, el paciente"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "AL2@5-410",
+  "label": "CLYDE CRASHCUP",
+  "cap": "CLYDE CRASHCUP",
+  "txt": "Cada episodio era como un pequeño programa de variedades: una historia de las ardillas, una canción, y luego un segmento de otro personaje, Clyde Crashcup. Clyde era un inventor ridículo que, con su asistente silencioso Leonardo, aseguraba haber inventado todo. Clyde Crashcup inventa el béisbol. Clyde Crashcup inventa la bañera. Clyde Crashcup inventa la electricidad. Siempre con resultados desastrosos."
+ },
+ {
+  "src": [
+   "AL@5-410",
+   "AL3@30-1460"
+  ],
+  "label": "THE ALVIN SHOW · 1961",
+  "cap": "26 EPISODIOS",
+  "txt": "Se hicieron veintiséis episodios. Y en uno de ellos sonó la famosa canción navideña de las ardillas, que sigue siendo una de las canciones de Navidad más conocidas de Estados Unidos. Otro dato curioso: aunque la serie se produjo a color, en su primera transmisión se vio en blanco y negro."
+ },
+ {
+  "src": [
+   "AL3@30-1460",
+   "AL2@5-410"
+  ],
+  "label": "THE ALVIN SHOW · 1961",
+  "cap": "LA SEGUNDA VIDA",
+  "txt": "Después de su temporada en horario estelar, CBS la repitió los sábados por la mañana, y luego se vendió a canales locales. En enero de 1972, Ross Bagdasarian murió de un ataque al corazón, y parecía que las ardillas habían terminado para siempre. Pero su hijo, Ross Junior, las revivió con un disco en 1980, y ese éxito llevó a una nueva serie en 1983. Así que la próxima vez que escuches a Alvin, recuerda: todo empezó en 1961, con un programa patrocinado por una gelatina.",
+  "fx": {
+   "type": "timeline",
+   "title": "LAS VIDAS DE ALVIN",
+   "items": [
+    [
+     "1958",
+     "La primera canción"
+    ],
+    [
+     "1961",
+     "The Alvin Show"
+    ],
+    [
+     "1972",
+     "Muere su creador"
+    ],
+    [
+     "1983",
+     "Regresan a la TV"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "TC3@20-1480",
+   "TC2@5-60"
+  ],
+  "label": "TOP CAT · DON GATO",
+  "cap": "#1",
+  "txt": "Y número uno. Top Cat. O como lo conocimos en América Latina: Don Gato y su pandilla."
+ },
+ {
+  "src": [
+   "TC2@5-60",
+   "TC3@20-1480"
+  ],
+  "label": "TOP CAT · 1961",
+  "cap": "27 DE SEPTIEMBRE, 1961",
+  "txt": "Es la única serie de esta lista que casi todo el mundo reconoce. Y es la que tiene la historia más sorprendente. La produjo Hanna-Barbera, y se estrenó en ABC el 27 de septiembre de 1961, en horario estelar. Fue apenas la segunda serie animada original en el horario estelar de Estados Unidos, después de Los Picapiedra. Y duró una sola temporada de treinta episodios.",
+  "fx": {
+   "type": "counter",
+   "value": 30,
+   "suffix": " EPISODIOS",
+   "label": "TOP CAT EN ESTADOS UNIDOS",
+   "sub": "Una sola temporada · 1961-1962",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "TC3@20-1480",
+  "label": "DON GATO Y SU PANDILLA",
+  "cap": "LA PANDILLA",
+  "txt": "Don Gato era un gato amarillo, con sombrero y chaleco morado, que dirigía una pandilla de gatos callejeros en Manhattan. Lo acompañaban Benito Bodoque, su leal y bondadoso ayudante, y Cucho, Espanto, Panza y Demóstenes. Y su enemigo era el oficial Matute, el policía que siempre intentaba sacarlos del callejón o evitar que usaran su teléfono. Cada semana, Don Gato tenía un nuevo plan para hacerse rico, y cada semana terminaba en desastre.",
+  "fx": {
+   "type": "map",
+   "title": "EL CALLEJÓN DE DON GATO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York"
+   ],
+   "pins": [
+    {
+     "name": "MANHATTAN · NUEVA YORK",
+     "lon": -73.97,
+     "lat": 40.78
+    }
+   ],
+   "view": [
+    -80,
+    38,
+    -70,
+    45
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "TC3@20-1480",
+   "TC2@5-60"
+  ],
+  "label": "TOP CAT · 1961",
+  "cap": "EL SARGENTO BILKO",
+  "txt": "La idea venía de un lugar muy específico. Top Cat era una parodia del programa de Phil Silvers, una comedia militar sobre un sargento estafador y encantador llamado Bilko. Arnold Stang, la voz original de Don Gato, empezó imitando a Phil Silvers. Y el actor que le daba voz a Benito, Maurice Gosfield, también actuaba en el programa de Bilko, y el personaje se dibujó parecido a él."
+ },
+ {
+  "src": "TC3@20-1480",
+  "label": "DON GATO Y SU PANDILLA",
+  "cap": "",
+  "txt": "Hanna-Barbera contrató a escritores de comedias de televisión, y el resultado fue uno de sus programas más ingeniosos. Algunos historiadores de la animación incluso lo han leído como un comentario social: un grupo de personajes atrapados en la pobreza, tratando de escapar con planes imposibles."
+ },
+ {
+  "src": [
+   "TC2@5-60",
+   "TC3@20-1480"
+  ],
+  "label": "TOP CAT · 1961",
+  "cap": "UN FRACASO",
+  "txt": "Y aquí está el giro. Con todo ese talento, Top Cat fue un fracaso de audiencia en horario estelar. Se transmitió en blanco y negro, aunque se había producido a color. Después de su única temporada pasó a los sábados por la mañana, y luego otra cadena la repitió a color durante varios años. Y ahí fue donde por fin encontró a su público."
+ },
+ {
+  "src": "TC3@20-1480",
+  "label": "DON GATO Y SU PANDILLA",
+  "cap": "MÉXICO",
+  "txt": "Pero donde de verdad se volvió leyenda fue fuera de Estados Unidos. En México se dobló al español en 1963 con el nombre de Don Gato y su pandilla, y se convirtió en un éxito enorme en toda América Latina. Para muchas familias, el doblaje mexicano era incluso mejor que el original. En Brasil se llamó Manda-Chuva. Y en Inglaterra, la BBC le cambió el nombre a Boss Cat, porque Top Cat era el nombre de una marca de comida para gatos, y la BBC no podía hacer publicidad.",
+  "fx": {
+   "type": "map",
+   "title": "DON GATO CONQUISTA EL MUNDO",
+   "countries": [
+    "Mexico",
+    "Brazil",
+    "United Kingdom"
+   ],
+   "pins": [
+    {
+     "name": "MÉXICO · DON GATO",
+     "lon": -99.13,
+     "lat": 19.43
+    },
+    {
+     "name": "BRASIL · MANDA-CHUVA",
+     "lon": -46.63,
+     "lat": -23.55
+    },
+    {
+     "name": "REINO UNIDO · BOSS CAT",
+     "lon": -0.12,
+     "lat": 51.5
+    }
+   ],
+   "view": [
+    -120,
+    -40,
+    20,
+    62
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "TC3@20-1480",
+  "label": "DON GATO Y SU PANDILLA",
+  "cap": "EL DOBLAJE",
+  "txt": "Y gran parte de ese éxito se lo debe al doblaje. Los actores mexicanos no se limitaron a traducir: adaptaron los chistes, inventaron frases y les dieron a los personajes una personalidad propia. Por eso, para varias generaciones de latinoamericanos, Benito Bodoque y el oficial Matute suenan como de la familia. Muchos ni siquiera sabían que la serie era de Estados Unidos."
+ },
+ {
+  "src": [
+   "TC3@20-1480",
+   "TC2@5-60"
+  ],
+  "label": "DON GATO Y SU PANDILLA",
+  "cap": "LAS PELÍCULAS",
+  "txt": "Y la historia siguió creciendo. En 2011 y 2015, México produjo dos películas animadas de Don Gato para el cine. Y en 2024, la serie completa salió en Blu-ray. Una caricatura que fracasó en su primera transmisión terminó siendo una de las creaciones más queridas de Hanna-Barbera en todo el mundo. Don Gato demuestra que a veces una serie no fracasa. Simplemente llega antes de tiempo.",
+  "fx": {
+   "type": "compare",
+   "title": "TOP CAT · DON GATO",
+   "left": [
+    "1961",
+    "FRACASO EN EE.UU."
+   ],
+   "right": [
+    "HOY",
+    "ÍCONO EN LATINOAMÉRICA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "OZ@10-260",
+   "CC@40-1440",
+   "DT@10-280",
+   "AL@5-410",
+   "TC3@20-1480"
+  ],
+  "label": "CARICATURAS DE 1961",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Cinco caricaturas, una sola temporada cada una. Un mago de Oz sin tornado, un zorro con voz de radio, un detective que no hacía nada, unas ardillas con su propio show y el gato más famoso del callejón. ¿Cuál de estas cinco era tu favorita? Y ¿qué año quieres que visitemos después? Déjamelo en los comentarios, y suscríbete para más caricaturas olvidadas."
+ }
+]

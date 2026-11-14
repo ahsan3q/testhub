@@ -1,0 +1,426 @@
+[
+ {
+  "src": [
+   "TB@200-7400",
+   "RH@1-65"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "",
+  "txt": "Durante sesenta años, Hollywood le dijo a Sam Elliott qué tenía que cambiar. Que se quitara el acento. Que se rasurara el bigote. Que dejara de discutir los guiones. Y él respondió siempre lo mismo: no. Hoy tiene una nominación al Óscar, la voz más reconocida del cine, y todavía no usa correo electrónico."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "LE@3-176"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "HONESTIDAD BRUTAL",
+  "txt": "Cuando un presentador le preguntó cómo se comunicaba con la gente sin correo, respondió: por teléfono, o en persona. Así es Sam Elliott. Estas son las historias de un actor que le dijo lo que pensaba a todo Hollywood, y de las celebridades que no supieron qué hacer con su honestidad. Quédate hasta el final, porque una de sus opiniones le costó una disculpa pública.",
+  "fx": {
+   "type": "quote",
+   "text": "¿Cómo hablo con la gente? Por teléfono, o en persona.",
+   "by": "Sam Elliott, sobre por qué no usa correo electrónico",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "SA@20-880",
+  "label": "CALIFORNIA · AÑOS 50",
+  "cap": "SU PADRE",
+  "txt": "Sam Elliott nació en Sacramento, California, en 1944, y creció en Portland, Oregón. Su padre trabajaba para el gobierno, en el control de fauna silvestre, y no creía que la actuación fuera una carrera de verdad. Cuando Sam tenía dieciocho años, su padre murió de un ataque al corazón. Y años después, Sam lo resumió así: mi papá murió pensando que yo era un completo idiota por querer ser actor.",
+  "fx": {
+   "type": "map",
+   "title": "DE DÓNDE VIENE SAM ELLIOTT",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California",
+    "Oregon"
+   ],
+   "pins": [
+    {
+     "name": "SACRAMENTO · 1944",
+     "lon": -121.49,
+     "lat": 38.58
+    },
+    {
+     "name": "PORTLAND · OREGÓN",
+     "lon": -122.68,
+     "lat": 45.52
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -127,
+    35,
+    -114,
+    48
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "SA@20-880",
+  "label": "CALIFORNIA · AÑOS 50",
+  "cap": "",
+  "txt": "Aun así, se fue a Hollywood. Y para pagar la renta trabajó en la construcción, echando concreto. Cuenta que en los años sesenta trabajó en una ampliación del hotel Beverly Hilton. Un día vio llegar una fila de limosinas. Después se enteró de que era la ceremonia de los Globos de Oro. Él estaba del otro lado de la cerca, con las botas llenas de cemento.",
+  "fx": {
+   "type": "quote",
+   "text": "Mi papá murió pensando que yo era un completo idiota por querer ser actor.",
+   "by": "Sam Elliott",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SA@20-880",
+   "BC@5-52"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "EL ACENTO",
+  "txt": "Luego necesitaba un agente. Uno de los primeros le dio dos consejos. Primero, que regresara a su casa y se quedara en la construcción. Y segundo, que si iba a quedarse en Hollywood, tomara clases de dicción para quitarse ese acento del oeste. Sam no siguió ninguno de los dos consejos. Se quedó, y se quedó con el acento. Dice que en realidad habla igual que su mamá."
+ },
+ {
+  "src": "BC@5-52",
+  "label": "BUTCH CASSIDY · 1969",
+  "cap": "UNA SOMBRA",
+  "txt": "El estudio Fox lo contrató por un sueldo semanal muy modesto. Sam dice que ese programa de jóvenes actores no se tomaba muy en serio, y que funcionaba más por recomendaciones y relaciones que por talento. En 1969, Fox lo metió en Butch Cassidy and the Sundance Kid. Pero hay que buscarlo con lupa."
+ },
+ {
+  "src": "BC@5-52",
+  "label": "BUTCH CASSIDY · 1969",
+  "cap": "",
+  "txt": "Sam aparece en el juego de cartas al inicio de la película. O más bien, no aparece. En la versión final, él mismo cuenta que no está en cámara: solo se ve su sombra en la pared, y tiene una sola línea. Pero era un comienzo. Y lo curioso es que en esa misma película actuaba Katharine Ross, la mujer con la que se casaría años después. Ahí ni siquiera se conocieron.",
+  "fx": {
+   "type": "quote",
+   "text": "Soy literalmente una sombra en la pared.",
+   "by": "Sam Elliott, sobre Butch Cassidy (1969)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FR@15-125",
+   "FR2@800-5300"
+  ],
+  "label": "FROGS · 1972",
+  "cap": "FROGS",
+  "txt": "En los primeros años de los setenta tuvo papeles en televisión y en películas de bajo presupuesto. En 1972 protagonizó Frogs, una película de terror en la que las ranas y otros animales de un pantano se rebelan contra una familia rica. Hoy es una película de culto, de esas que se ven en maratones de cine malo. Y ahí está Sam, joven, sin bigote, y con camisa abierta."
+ },
+ {
+  "src": [
+   "FR2@800-5300",
+   "LG@10-430"
+  ],
+  "label": "SAM ELLIOTT · AÑOS 70",
+  "cap": "MISIÓN: IMPOSIBLE",
+  "txt": "En esos mismos años también tuvo un papel recurrente en la serie Misión: Imposible, como el doctor Doug Lane, a principios de los setenta. Era un trabajo estable, en uno de los programas más populares de la televisión. Pero Sam no quería ser un actor más de reparto. Quería papeles con los que pudiera pelear por cada línea del guion."
+ },
+ {
+  "src": "LG@10-430",
+  "label": "LIFEGUARD · 1976",
+  "cap": "LIFEGUARD",
+  "txt": "Siete años después de ser una sombra en la pared, por fin fue el protagonista de una película de estudio: Lifeguard, de 1976. Interpretaba a un salvavidas de playa que se acerca a los treinta años y se pregunta si debe dejar ese trabajo y tener una vida adulta. No fue un gran éxito, pero lo puso en el mapa.",
+  "fx": {
+   "type": "compare",
+   "title": "SIETE AÑOS DESPUÉS",
+   "left": [
+    "1969",
+    "UNA SOMBRA EN LA PARED"
+   ],
+   "right": [
+    "1976",
+    "PROTAGONISTA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "LE@3-176",
+   "LE2@170-5900"
+  ],
+  "label": "THE LEGACY · 1978",
+  "cap": "KATHARINE ROSS",
+  "txt": "En 1978 filmó una película de suspenso en Inglaterra, The Legacy. Su compañera era Katharine Ross, la actriz de El graduado y de Butch Cassidy. Esta vez sí se conocieron. Y en 1984 se casaron. Siguen juntos hasta hoy, más de cuarenta años después, y tienen una hija, Cleo. En un Hollywood famoso por los divorcios, es uno de los matrimonios más largos de la industria.",
+  "fx": {
+   "type": "counter",
+   "value": 40,
+   "prefix": "+",
+   "suffix": " AÑOS",
+   "label": "CASADO CON KATHARINE ROSS",
+   "sub": "Desde 1984",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "TB@200-7400"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "LA PRUEBA",
+  "txt": "Sam dice que en toda su carrera solo hizo una prueba de cámara. Una sola. Cuando le preguntaron si consiguió el papel, respondió que no, que se lo dieron a Harrison Ford. La película era Los cazadores del arca perdida. Y Sam lo cuenta con humor: a Harrison Ford no le fue nada mal."
+ },
+ {
+  "src": [
+   "LE2@170-5900",
+   "SI@50-230"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "EL GUIONISTA",
+  "txt": "Volvió a los westerns, y en 1987 un productor le prometió que iba a arreglar un guion para él. El arreglo nunca llegó. Así que Sam pasó el resto del rodaje reescribiendo páginas y metiéndolas por debajo de la puerta del director por la noche. Cuando le preguntaron si prefería ser difícil y hacer mejor arte, o quedarse callado, no dudó: prefería ser una molestia y hacer mejor arte.",
+  "fx": {
+   "type": "quote",
+   "text": "Prefiero ser una molestia y hacer mejor arte.",
+   "by": "Sam Elliott",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "MK@2-22",
+  "label": "MASK · 1985",
+  "cap": "MASK",
+  "txt": "Antes de eso, en 1985, había tenido uno de sus papeles más queridos: Mask, junto a Cher. Interpretaba al novio motociclista de una madre que lucha por su hijo, un adolescente con una enfermedad que deforma su rostro. Era un motociclista rudo, pero tierno, y mucha gente dice que ahí descubrió el tipo de personaje que haría famoso: el hombre duro con un gran corazón."
+ },
+ {
+  "src": [
+   "RH@1-65",
+   "RHB@30-1010"
+  ],
+  "label": "ROAD HOUSE · 1989",
+  "cap": "ROAD HOUSE",
+  "txt": "Dos años después llegó Road House, con Patrick Swayze. Sam interpretó a Wade Garrett, el mentor del protagonista. Y cuando le piden que la resuma, lo hace en una frase: es la fantasía masculina definitiva, y nadie iba a ser acusado de intelectual por salir en esa película. Pero se volvió un clásico de culto, y Wade Garrett es uno de sus personajes más recordados."
+ },
+ {
+  "src": [
+   "RHB@30-1010",
+   "RH@1-65"
+  ],
+  "label": "ROAD HOUSE · DETRÁS DE CÁMARAS",
+  "cap": "EL TRAJE GRIS",
+  "txt": "Para promocionar la película, Sam llegó a las entrevistas con un elegante traje gris y completamente rasurado. Una reportera de Texas, Bobbie Wygant, le dijo que parecía portada de revista de moda. Y luego le dijo que su forma de hablar seguramente la había heredado de su papá. Sam se rió y le dio la razón: una manera floja de hablar."
+ },
+ {
+  "src": "TB@200-7400",
+  "label": "TOMBSTONE · 1993",
+  "cap": "EL BIGOTE",
+  "txt": "El bigote, en cambio, se quedó. Y con él, los westerns. Cuando le preguntan si el bigote afectó su carrera, dice que no lo sabe. Pero que el mejor bigote que tuvo fue en Tombstone, de 1993, donde interpretó a Virgil Earp, el hermano mayor de Wyatt Earp, junto a Kurt Russell y Val Kilmer."
+ },
+ {
+  "src": "TB@200-7400",
+  "label": "TOMBSTONE · 1993",
+  "cap": "",
+  "txt": "Kurt Russell lo llamaba con cariño Igor, como el burro triste de Winnie the Pooh, por su voz grave y su tono melancólico. Tombstone se convirtió en uno de los westerns más queridos de los años noventa, y para muchos, la imagen de Sam Elliott con sombrero, abrigo largo y bigote es la imagen misma del oeste.",
+  "fx": {
+   "type": "map",
+   "title": "TOMBSTONE · ARIZONA",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Arizona"
+   ],
+   "pins": [
+    {
+     "name": "TOMBSTONE",
+     "lon": -110.07,
+     "lat": 31.71
+    }
+   ],
+   "view": [
+    -116,
+    30,
+    -106,
+    37.5
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "BL@8-65",
+  "label": "THE BIG LEBOWSKI · 1998",
+  "cap": "LOS COEN",
+  "txt": "Cinco años después, le llegó un guion de los hermanos Coen. Sam estaba emocionadísimo. Pensó: por fin voy a salir de los westerns. Abrió el guion, y la descripción de su personaje decía, literalmente: con una voz no muy distinta a la de Sam Elliott. Era The Big Lebowski, y su personaje era un vaquero narrador.",
+  "fx": {
+   "type": "quote",
+   "text": "Con una voz no muy distinta a la de Sam Elliott.",
+   "by": "El guion de The Big Lebowski (1998)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "BL@8-65",
+  "label": "THE BIG LEBOWSKI · 1998",
+  "cap": "LA CUARTA TOMA",
+  "txt": "El último día de rodaje, después de repetir su escena ocho o nueve veces, Sam miró a los directores y les preguntó qué demonios querían. Ellos le respondieron: no, ya la teníamos desde la cuarta toma. Solo nos gusta verte hacerla. Hoy, el vaquero de The Big Lebowski es uno de los personajes de culto más citados del cine."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "TB@200-7400"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "SIN BIGOTE",
+  "txt": "En el año 2000, por fin le tocó un papel de traje y corbata, en el drama político The Contender. Se quitó el bigote. Y le ofreció al director quitarse también el acento. El director, Rod Lurie, le dijo que no: que sonara como él sonaba. La voz se quedó. Y para entonces, esa voz ya tenía su propia carrera."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "TB@200-7400"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "EL VAQUERO DE MARLBORO",
+  "txt": "En 2005 tuvo uno de sus papeles más irónicos, en la comedia Gracias por fumar. Interpretaba a un antiguo vaquero de los anuncios de cigarros, que se estaba muriendo de cáncer y que demandaba a la industria del tabaco. Después vinieron papeles en películas de superhéroes: el general Ross en Hulk, de 2003, y el misterioso Cuidador en Ghost Rider, de 2007. Hasta Marvel quería esa voz."
+ },
+ {
+  "src": "SB@0-10",
+  "label": "SMOKEY BEAR · PSA",
+  "cap": "LA VOZ",
+  "txt": "Desde 2008, Sam Elliott es la voz del oso Smokey, el famoso personaje de los anuncios para prevenir incendios forestales en Estados Unidos. Solo tú puedes prevenir los incendios forestales. Y la relación tiene sentido: su padre trabajó toda la vida para el gobierno, cuidando la fauna silvestre."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "SB@0-10"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "LA VOZ DEL DINERO",
+  "txt": "Su voz también vende camionetas y cerveza. En un programa de negocios le preguntaron cuándo supo que tenía una voz que valía dinero. Respondió: cuando me empezaron a pagar por ella. Y agregó algo muy honesto: lo bueno de los comerciales es que le permiten rechazar la mayoría de las películas que le ofrecen.",
+  "fx": {
+   "type": "quote",
+   "text": "Lo bueno de los comerciales es que me permiten rechazar la mayoría de las películas.",
+   "by": "Sam Elliott",
+   "dur": 5
+  }
+ },
+ {
+  "src": "SI@50-230",
+  "label": "BARNYARD · 2006",
+  "cap": "UNA VACA",
+  "txt": "Esa voz también llegó a la animación. En 2006 le dio voz a Ben, el sabio líder de una granja, en la película animada Barnyard. Sí, Sam Elliott interpretó a una vaca. Y en la promoción de esa película, con el bigote intacto, explicó que le gustaba que su voz sirviera para contar historias a los niños, aunque fuera con forma de vaca."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "TB@200-7400"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "DUELO DE ELLIOTTS",
+  "txt": "En 2015 se unió a la serie Justified. Su protagonista, Timothy Olyphant, confesó que llevaba años imitando a Sam Elliott para sus personajes. Y ahora estaba en una escena sentado junto a él, imitándolo frente a él. Dijo que él sonaba como una niña de doce años, pero que lo intentaba. Lo llamó un duelo de Elliotts."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "LE@3-176"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "THE HERO",
+  "txt": "Dos años después, el director Brett Haley escribió una película entera pensando en él, The Hero, y dijo que Sam Elliott era su definición de lo que es un hombre. La respuesta de Sam fue muy suya: eso es exagerar un poco. Lo hace preguntarse con qué tipo de hombres ha estado juntándose ese director."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "TB@200-7400"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "THE RANCH",
+  "txt": "Entre 2016 y 2020, una nueva generación lo descubrió en la serie de Netflix The Ranch, como el padre gruñón de Ashton Kutcher, dueño de un rancho en Colorado. Era una comedia con risas grabadas, algo muy distinto a sus westerns serios. Pero el personaje era puro Sam Elliott: pocas palabras, voz grave y cero paciencia para las tonterías."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "TB@200-7400"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "BRADLEY COOPER",
+  "txt": "Y Bradley Cooper fue todavía más lejos. Para A Star Is Born, de 2018, construyó a su personaje copiando la voz de Sam Elliott, antes de conocerlo. Cooper dijo que lo que más miedo le daba era esa voz. Y cuando Sam fue a su casa, Cooper le hizo su imitación. Después lo eligió para interpretar a su hermano mayor."
+ },
+ {
+  "src": [
+   "SI@50-230",
+   "BC@5-52"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "EL ÓSCAR",
+  "txt": "Ese papel le dio a Sam Elliott su primera nominación al Óscar, a los setenta y cuatro años. Casi cincuenta años después de ser una sombra en la pared en Butch Cassidy. Cuando le dijeron que había llegado la temporada de Sam Elliott, respondió con calma: es como la temporada de patos. Llega, y se va.",
+  "fx": {
+   "type": "compare",
+   "title": "CINCUENTA AÑOS DESPUÉS",
+   "left": [
+    "1969",
+    "UNA SOMBRA EN LA PARED"
+   ],
+   "right": [
+    "2019",
+    "NOMINADO AL ÓSCAR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "TB@200-7400",
+   "SI@50-230"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "LA POLÉMICA",
+  "txt": "Pero su honestidad también le ha costado. En 2022, en un podcast, criticó con dureza una película del oeste que estaba compitiendo por los Óscar, El poder del perro, y usó palabras que mucha gente consideró ofensivas. La reacción fue inmediata. Y unas semanas después, Sam pidió disculpas públicamente, y dijo que había usado mal las palabras y que había lastimado a gente que no quería lastimar."
+ },
+ {
+  "src": "TB@200-7400",
+  "label": "SAM ELLIOTT",
+  "cap": "1883",
+  "txt": "Ese mismo año volvió a protagonizar un western, la serie 1883. Y cuando en la televisión le preguntaron por su famoso bigote, respondió que es algo raro: al final, es solo pelo sobre el labio de alguien. Después, en 2025, se unió a la serie Landman, como el padre del personaje de Billy Bob Thornton.",
+  "fx": {
+   "type": "timeline",
+   "title": "SESENTA AÑOS DE CARRERA",
+   "items": [
+    [
+     "1969",
+     "Butch Cassidy"
+    ],
+    [
+     "1989",
+     "Road House"
+    ],
+    [
+     "1993",
+     "Tombstone"
+    ],
+    [
+     "1998",
+     "The Big Lebowski"
+    ],
+    [
+     "2018",
+     "A Star Is Born"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "TB@200-7400",
+   "SI@50-230"
+  ],
+  "label": "SAM ELLIOTT",
+  "cap": "EL RANCHO DE BIGOTES",
+  "txt": "Y en esa misma entrevista contó, muy serio, que estaba grabando un episodio de Padre de familia en el que su personaje tiene un rancho donde cría bigotes. Sam Elliott sabe perfectamente que su bigote es un personaje por sí mismo. Y aunque diga que es solo pelo, lleva más de cincuenta años sin dejar que nadie se lo quite por mucho tiempo."
+ },
+ {
+  "src": [
+   "TB@200-7400",
+   "RH@1-65",
+   "BL@8-65"
+  ],
+  "label": "¿QUIÉN LO IMITA MEJOR?",
+  "cap": "¿QUIÉN LO IMITA MEJOR?",
+  "txt": "Sesenta años después, sigue teniendo el acento, el bigote y cada una de sus opiniones. Entonces dime en los comentarios: ¿quién imitó mejor a Sam Elliott, Timothy Olyphant o Bradley Cooper? Y suscríbete, porque la próxima leyenda de Hollywood ya está en camino."
+ }
+]
