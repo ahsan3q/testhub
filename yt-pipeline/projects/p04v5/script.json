@@ -1,0 +1,679 @@
+[
+ {
+  "src": [
+   "GR@60-1550",
+   "PS@20-200"
+  ],
+  "label": "DR. SEUSS",
+  "cap": "",
+  "txt": "Todos conocemos al Dr. Seuss por El gato en el sombrero, Huevos verdes con jamón y el Grinch. Pero antes de los libros infantiles, el hombre detrás de esos dibujos hizo caricaturas de guerra para soldados, documentales que ganaron el Óscar, una película que fue un fracaso total y especiales de televisión que casi nadie ha visto."
+ },
+ {
+  "src": [
+   "PS2@30-130",
+   "GM@30-410"
+  ],
+  "label": "DR. SEUSS",
+  "cap": "10 CARICATURAS SECRETAS",
+  "txt": "Hoy te traigo diez caricaturas y películas casi olvidadas del Dr. Seuss, desde la Segunda Guerra Mundial hasta su último especial. Algunas eran solo para soldados. Otras ganaron premios y luego desaparecieron. Quédate hasta el final, porque la última es una historia sobre una guerra por un pan con mantequilla.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA OTRA CARRERA DEL DR. SEUSS",
+   "items": [
+    [
+     "1943",
+     "Caricaturas para soldados"
+    ],
+    [
+     "1947",
+     "Un Óscar"
+    ],
+    [
+     "1953",
+     "Un fracaso en el cine"
+    ],
+    [
+     "1966",
+     "El Grinch"
+    ],
+    [
+     "1989",
+     "Su último especial"
+    ]
+   ],
+   "dur": 6
+  }
+ },
+ {
+  "src": "FL@0-60",
+  "label": "FLIT · COMERCIAL 1960",
+  "cap": "THEODOR GEISEL",
+  "txt": "Primero, el hombre. Su nombre real era Theodor Seuss Geisel, nació en 1904 en Springfield, Massachusetts, y antes de los libros se ganaba la vida como dibujante de anuncios. Durante unos diecisiete años dibujó la publicidad de un insecticida llamado Flit, con una frase que se volvió famosa en Estados Unidos: rápido, Henry, el Flit.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE NACIÓ EL DR. SEUSS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Massachusetts"
+   ],
+   "pins": [
+    {
+     "name": "SPRINGFIELD · 1904",
+     "lon": -72.59,
+     "lat": 42.1
+    }
+   ],
+   "view": [
+    -77,
+    40,
+    -68,
+    45
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FL@0-60",
+   "GR@60-1550"
+  ],
+  "label": "DR. SEUSS",
+  "cap": "27 RECHAZOS",
+  "txt": "Su primer libro infantil, Y pensar que lo vi en la calle Mulberry, fue rechazado por unas veintisiete editoriales antes de publicarse en 1937. Según contó él mismo, estaba a punto de quemar el manuscrito cuando se encontró en la calle a un antiguo compañero de universidad que acababa de empezar a trabajar en una editorial. Esa misma tarde, el libro tenía editor.",
+  "fx": {
+   "type": "counter",
+   "value": 27,
+   "suffix": " RECHAZOS",
+   "label": "SU PRIMER LIBRO",
+   "sub": "Publicado finalmente en 1937",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "GR@60-1550",
+   "FL@0-60"
+  ],
+  "label": "DR. SEUSS",
+  "cap": "50 PALABRAS",
+  "txt": "Después llegaron los éxitos. En 1957 publicó El gato en el sombrero, escrito con solo doscientas treinta y seis palabras distintas, para que los niños aprendieran a leer. Y su editor, Bennett Cerf, le apostó cincuenta dólares a que no podía escribir un libro con solo cincuenta palabras. El resultado fue Huevos verdes con jamón, uno de los libros infantiles más vendidos de la historia.",
+  "fx": {
+   "type": "bars",
+   "title": "PALABRAS DISTINTAS POR LIBRO",
+   "items": [
+    [
+     "EL GATO EN EL SOMBRERO",
+     236
+    ],
+    [
+     "HUEVOS VERDES CON JAMÓN",
+     50
+    ]
+   ],
+   "suffix": " PALABRAS",
+   "note": "La apuesta de Bennett Cerf: 50 dólares",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "PS@20-200",
+   "PS3@30-250"
+  ],
+  "label": "PRIVATE SNAFU · 1943",
+  "cap": "#10",
+  "txt": "Número diez. Private Snafu, el peor soldado del ejército."
+ },
+ {
+  "src": [
+   "PS@20-200",
+   "PS2@30-130"
+  ],
+  "label": "PRIVATE SNAFU · 1943",
+  "cap": "FRANK CAPRA",
+  "txt": "Durante la Segunda Guerra Mundial, Geisel entró a la unidad de cine del ejército de Estados Unidos, bajo el mando del director Frank Capra. Su trabajo era hacer películas para entrenar y advertir a los soldados. Y una de sus ideas fue un personaje: Private Snafu, un soldado torpe que hacía todo mal, para que los soldados de verdad aprendieran de sus errores.",
+  "fx": {
+   "type": "headline",
+   "paper": "ARMY-NAVY SCREEN MAGAZINE",
+   "date": "1943 · SOLO PARA TROPAS",
+   "headline": "CONOZCAN AL PEOR SOLDADO DEL EJÉRCITO",
+   "stamp": "CLASIFICADO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PS2@30-130",
+   "PS3@30-250"
+  ],
+  "label": "PRIVATE SNAFU · 1944",
+  "cap": "WARNER BROS",
+  "txt": "Las caricaturas las animó el estudio Warner Brothers, con directores como Chuck Jones y Friz Freleng, y la voz de Snafu era de Mel Blanc, la misma de Bugs Bunny. Snafu revelaba secretos a espías, ignoraba las trampas explosivas y no se protegía de los mosquitos de la malaria. Y casi siempre pagaba el precio. No eran para niños: eran películas de entrenamiento que solo veían los soldados.",
+  "fx": {
+   "type": "list",
+   "title": "LO QUE SNAFU HACÍA MAL",
+   "items": [
+    "Contaba secretos a espías",
+    "Ignoraba las trampas",
+    "No usaba el mosquitero",
+    "No se camuflaba"
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PS3@30-250",
+   "PS@20-200"
+  ],
+  "label": "PRIVATE SNAFU · 1944",
+  "cap": "SNAFU",
+  "txt": "El nombre tampoco era inocente. Snafu era una sigla que usaban los soldados, que en su versión educada significa: situación normal, todo arruinado. Se hicieron más de veinte cortos de Snafu, y varios tenían narraciones en rima, con el estilo inconfundible del Dr. Seuss. Por su trabajo en la guerra, Geisel terminó como teniente coronel y recibió la Legión al Mérito.",
+  "fx": {
+   "type": "headline",
+   "paper": "EJÉRCITO DE ESTADOS UNIDOS",
+   "date": "1946",
+   "headline": "THEODOR GEISEL RECIBE LA LEGIÓN AL MÉRITO",
+   "sub": "Teniente coronel de la unidad de cine del ejército",
+   "stamp": "MEDALLA",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "PS@20-200",
+  "label": "PRIVATE SNAFU · SPIES 1943",
+  "cap": "LOS ESPÍAS",
+  "txt": "En una de las más famosas, llamada Espías, Snafu tiene un secreto militar y no puede guardarlo. Lo va soltando poco a poco, en una carta, en una llamada, y en un bar, hasta que el enemigo lo descubre todo. Hoy, como fueron hechas por el gobierno de Estados Unidos, estas caricaturas son de dominio público, y cualquiera las puede ver.",
+  "fx": {
+   "type": "quote",
+   "text": "Un secreto que se cuenta deja de ser secreto.",
+   "by": "La lección de Private Snafu: Spies (1943)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "YJ@40-640",
+  "label": "YOUR JOB IN GERMANY · 1945",
+  "cap": "#9",
+  "txt": "Número nueve. Your Job in Germany, tu trabajo en Alemania."
+ },
+ {
+  "src": "YJ@40-640",
+  "label": "YOUR JOB IN GERMANY · 1945",
+  "cap": "1945",
+  "txt": "En 1945, cuando la guerra en Europa estaba por terminar, Geisel escribió una película para los soldados que iban a ocupar Alemania. Su mensaje era duro: no confíen en nadie, no se hagan amigos de los alemanes, porque la ideología nazi todavía podía estar ahí. La dirigió Frank Capra, y se mostró a las tropas estadounidenses.",
+  "fx": {
+   "type": "map",
+   "title": "LA OCUPACIÓN DE ALEMANIA",
+   "countries": [
+    "Germany"
+   ],
+   "pins": [
+    {
+     "name": "BERLÍN",
+     "lon": 13.4,
+     "lat": 52.52
+    }
+   ],
+   "view": [
+    -5,
+    42,
+    25,
+    58
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HL@40-1000",
+   "YJ@40-640"
+  ],
+  "label": "HITLER LIVES · 1945",
+  "cap": "EL ÓSCAR",
+  "txt": "Y aquí viene el giro. Warner Brothers tomó ese material, lo reeditó y lo estrenó en los cines con otro nombre: Hitler Lives, Hitler vive. Esa versión ganó el Óscar al mejor cortometraje documental. El nombre de Geisel no aparecía en los créditos. Su primer Óscar llegó, en cierto modo, de forma invisible.",
+  "fx": {
+   "type": "compare",
+   "title": "LA MISMA PELÍCULA",
+   "left": [
+    "YOUR JOB IN GERMANY",
+    "PARA LOS SOLDADOS"
+   ],
+   "right": [
+    "HITLER LIVES",
+    "GANA EL ÓSCAR"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "OJ@20-1000",
+  "label": "OUR JOB IN JAPAN · 1945",
+  "cap": "#8",
+  "txt": "Número ocho. Our Job in Japan, nuestro trabajo en Japón."
+ },
+ {
+  "src": "OJ@20-1000",
+  "label": "OUR JOB IN JAPAN · 1945",
+  "cap": "",
+  "txt": "Geisel escribió una película parecida para los soldados que iban a ocupar Japón. Esta vez el tono era distinto: explicaba que el pueblo japonés había sido manipulado por sus líderes militares, y que el trabajo de la ocupación era ayudar a cambiar esas ideas. Según se ha reportado, la película casi no se mostró a las tropas, y quedó guardada durante años.",
+  "fx": {
+   "type": "map",
+   "title": "LA OCUPACIÓN DE JAPÓN",
+   "countries": [
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "TOKIO",
+     "lon": 139.69,
+     "lat": 35.69
+    }
+   ],
+   "view": [
+    125,
+    28,
+    148,
+    46
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "OJ@20-1000",
+  "label": "OUR JOB IN JAPAN · 1945",
+  "cap": "LAS CARICATURAS",
+  "txt": "Y hay una parte incómoda de esta historia. Antes de entrar al ejército, Geisel dibujó cientos de caricaturas políticas para un periódico de Nueva York, llamado PM. Muchas atacaban a Hitler y al fascismo. Pero algunas sobre los japoneses y los japoneses estadounidenses usaban estereotipos racistas muy fuertes. Años después, él mismo cambió de postura, y la experiencia en Japón fue parte de ese cambio.",
+  "fx": {
+   "type": "counter",
+   "value": 400,
+   "prefix": "~",
+   "suffix": " CARICATURAS",
+   "label": "PARA EL PERIÓDICO PM",
+   "sub": "Entre 1941 y 1943",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "OJ@20-1000",
+   "YJ@40-640"
+  ],
+  "label": "OUR JOB IN JAPAN · 1945",
+  "cap": "#7",
+  "txt": "Número siete. Design for Death, su Óscar con su esposa."
+ },
+ {
+  "src": [
+   "OJ@20-1000",
+   "HL@40-1000"
+  ],
+  "label": "OUR JOB IN JAPAN · 1945",
+  "cap": "HELEN PALMER",
+  "txt": "Después de la guerra, Geisel y su esposa, Helen Palmer, usaron ideas de Our Job in Japan para escribir un documental largo sobre cómo Japón llegó a la guerra. Se llamó Design for Death, se estrenó en 1947, y ganó el Óscar al mejor largometraje documental. Hoy es una película muy difícil de encontrar, y casi nadie sabe que el autor del Grinch tiene un Óscar por un documental de guerra.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS DE LA ACADEMIA",
+   "date": "1948",
+   "headline": "DESIGN FOR DEATH GANA EL ÓSCAR AL MEJOR DOCUMENTAL",
+   "sub": "Escrito por Theodor Geisel y Helen Palmer",
+   "stamp": "ÓSCAR",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "GM@30-410",
+  "label": "GERALD McBOING-BOING · 1951",
+  "cap": "#6",
+  "txt": "Número seis. Gerald McBoing-Boing."
+ },
+ {
+  "src": "GM@30-410",
+  "label": "GERALD McBOING-BOING · 1951",
+  "cap": "BOING BOING",
+  "txt": "Gerald era un niño que no podía hablar con palabras: solo hacía efectos de sonido. Cuando abría la boca, salía un boing, un claxon o una sirena. La historia era del Dr. Seuss, y el estudio UPA la convirtió en caricatura en 1950, con un estilo moderno, muy simple y lleno de color, muy distinto a Disney. Ganó el Óscar al mejor cortometraje animado.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Boing! ¡Boing!",
+   "by": "Gerald McBoing-Boing (1950)",
+   "dur": 3.8
+  }
+ },
+ {
+  "src": "GM@30-410",
+  "label": "GERALD McBOING-BOING · 1951",
+  "cap": "UN DISCO",
+  "txt": "Y un detalle que casi nadie conoce: Gerald McBoing-Boing no nació como caricatura, sino como un disco infantil. El Dr. Seuss escribió la historia para un álbum de la disquera Capitol Records, que salió en 1950. Fue tan popular que el estudio UPA compró los derechos y la convirtió en animación ese mismo año."
+ },
+ {
+  "src": "GM@30-410",
+  "label": "GERALD McBOING-BOING · 1951",
+  "cap": "UPA",
+  "txt": "Era una historia sobre un niño rechazado por ser diferente, que al final encuentra su lugar haciendo los efectos de sonido de la radio. UPA hizo varias secuelas y, años después, hasta una serie de televisión. Y el estilo de UPA influyó en toda la animación de los cincuenta y sesenta, incluida la de los especiales del Dr. Seuss.",
+  "fx": {
+   "type": "bars",
+   "title": "LOS ÓSCAR LIGADOS AL DR. SEUSS",
+   "items": [
+    [
+     "HITLER LIVES",
+     1
+    ],
+    [
+     "DESIGN FOR DEATH",
+     1
+    ],
+    [
+     "GERALD McBOING-BOING",
+     1
+    ]
+   ],
+   "suffix": " ÓSCAR",
+   "note": "Antes de que sus libros fueran famosos",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "FT@0-110",
+   "FT2@150-5500"
+  ],
+  "label": "THE 5,000 FINGERS OF DR. T · 1953",
+  "cap": "#5",
+  "txt": "Número cinco. Los cinco mil dedos del Dr. T."
+ },
+ {
+  "src": "FT2@150-5500",
+  "label": "THE 5,000 FINGERS OF DR. T · 1953",
+  "cap": "EL PIANO GIGANTE",
+  "txt": "Es la única película con actores que escribió el Dr. Seuss. Un niño que odia sus clases de piano sueña que su maestro, el malvado Dr. Terwilliker, lo encierra en un castillo con un piano gigante, donde quinientos niños deben tocar al mismo tiempo. Quinientos niños, diez dedos cada uno: cinco mil dedos.",
+  "fx": {
+   "type": "counter",
+   "value": 5000,
+   "suffix": " DEDOS",
+   "label": "500 NIÑOS EN UN SOLO PIANO",
+   "sub": "The 5,000 Fingers of Dr. T (1953)",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "FT@0-110",
+   "FT2@150-5500"
+  ],
+  "label": "THE 5,000 FINGERS OF DR. T · 1953",
+  "cap": "STANLEY KRAMER",
+  "txt": "La produjo Stanley Kramer para Columbia Pictures, y el villano lo interpretó Hans Conried, un actor famoso por su voz, que ese mismo año le dio voz al Capitán Garfio en Peter Pan de Disney. El Dr. Seuss no solo escribió la historia: también diseñó los escenarios y las canciones, con decenas de números musicales que después se recortaron.",
+  "fx": {
+   "type": "compare",
+   "title": "EL EQUIPO DEL DR. T",
+   "left": [
+    "STANLEY KRAMER",
+    "PRODUCTOR"
+   ],
+   "right": [
+    "HANS CONRIED",
+    "EL DR. T"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "FT2@150-5500",
+   "FT@0-110"
+  ],
+  "label": "THE 5,000 FINGERS OF DR. T · 1953",
+  "cap": "UN FRACASO",
+  "txt": "La película fue un fracaso en taquilla. En las primeras funciones de prueba, parte del público se salió de la sala, y el estudio la recortó antes del estreno. Geisel quedó tan decepcionado que durante años prefirió no hablar de ella. Pero con el tiempo se volvió una película de culto, por sus escenarios surrealistas y sus colores imposibles.",
+  "fx": {
+   "type": "photo",
+   "src": "FT2@1500",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "zoom": 1.5,
+   "label": "EL CASTILLO DEL DR. T",
+   "title": "UNA PELÍCULA DE CULTO",
+   "circle": false,
+   "dur": 5
+  }
+ },
+ {
+  "src": "GR@60-1550",
+  "label": "HOW THE GRINCH STOLE CHRISTMAS · 1966",
+  "cap": "#4",
+  "txt": "Número cuatro. El Grinch de 1966."
+ },
+ {
+  "src": "GR@60-1550",
+  "label": "HOW THE GRINCH STOLE CHRISTMAS · 1966",
+  "cap": "CHUCK JONES",
+  "txt": "Después de años alejado de la animación, Geisel volvió en 1966 con un especial de televisión: Cómo el Grinch robó la Navidad. Lo dirigió Chuck Jones, el mismo de los Looney Tunes, y el narrador fue Boris Karloff, el actor famoso por interpretar a Frankenstein. Hoy es uno de los especiales navideños más transmitidos de la historia.",
+  "fx": {
+   "type": "compare",
+   "title": "EL EQUIPO DEL GRINCH",
+   "left": [
+    "CHUCK JONES",
+    "DIRECTOR"
+   ],
+   "right": [
+    "BORIS KARLOFF",
+    "NARRADOR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "GR@60-1550",
+  "label": "HOW THE GRINCH STOLE CHRISTMAS · 1966",
+  "cap": "CBS",
+  "txt": "El libro del Grinch salió en 1957, el mismo año que El gato en el sombrero. Y el especial se estrenó en la cadena CBS el dieciocho de diciembre de 1966. Duraba apenas veintiséis minutos. Chuck Jones y Geisel se conocían desde la guerra, porque Jones había dirigido varias caricaturas de Private Snafu. El círculo se cerraba.",
+  "fx": {
+   "type": "timeline",
+   "title": "DEL LIBRO A LA TELEVISIÓN",
+   "items": [
+    [
+     "1943",
+     "Jones y Geisel: Private Snafu"
+    ],
+    [
+     "1957",
+     "El libro del Grinch"
+    ],
+    [
+     "18 DIC 1966",
+     "Estreno en CBS"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "GR@60-1550",
+  "label": "HOW THE GRINCH STOLE CHRISTMAS · 1966",
+  "cap": "VERDE",
+  "txt": "Un dato curioso: en el libro original, el Grinch es blanco y negro, con algunos toques de rosa. El color verde que hoy todos conocemos se lo dio Chuck Jones para el especial de televisión. Y la famosa canción Eres un tipo malo, señor Grinch, no la cantaba Karloff, sino el cantante Thurl Ravenscroft, la voz del tigre de los cereales Zucaritas.",
+  "fx": {
+   "type": "compare",
+   "title": "EL COLOR DEL GRINCH",
+   "left": [
+    "LIBRO 1957",
+    "BLANCO Y NEGRO"
+   ],
+   "right": [
+    "TV 1966",
+    "VERDE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "HB@60-1450",
+  "label": "THE HOOBER-BLOOB HIGHWAY · 1975",
+  "cap": "#3",
+  "txt": "Número tres. La carretera Hoober-Bloob."
+ },
+ {
+  "src": "HB@60-1450",
+  "label": "THE HOOBER-BLOOB HIGHWAY · 1975",
+  "cap": "",
+  "txt": "Este es uno de los especiales más raros del Dr. Seuss. Se transmitió por CBS en 1975. El señor Hoober-Bloob trabaja en una especie de estación en el cielo, desde donde envía a los bebés a la Tierra. Antes de mandar a uno, le explica cómo es la vida en nuestro planeta, con lo bueno y lo malo, para que sepa a dónde va. Es un especial filosófico, con canciones, y casi nadie lo recuerda.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS ESPECIALES DE TV DEL DR. SEUSS",
+   "items": [
+    [
+     "1966",
+     "El Grinch"
+    ],
+    [
+     "1971",
+     "El gato en el sombrero"
+    ],
+    [
+     "1972",
+     "El Lorax"
+    ],
+    [
+     "1975",
+     "Hoober-Bloob"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "HB@60-1450",
+   "GR@60-1550"
+  ],
+  "label": "DR. SEUSS EN TV",
+  "cap": "EL LORAX",
+  "txt": "Entre esos especiales hubo uno con un mensaje muy adelantado a su época: El Lorax, transmitido por CBS en 1972. Es la historia de un ser que habla por los árboles, mientras un empresario los corta todos para fabricar un producto que nadie necesita. Cuarenta años después, en 2012, El Lorax se convirtió en una película animada que recaudó cerca de trescientos cincuenta millones de dólares en todo el mundo. Un especial casi olvidado, convertido en éxito mundial.",
+  "fx": {
+   "type": "bars",
+   "title": "EL LORAX: DE LA TV AL CINE",
+   "items": [
+    [
+     "ESPECIAL CBS 1972",
+     26
+    ],
+    [
+     "PELÍCULA 2012",
+     86
+    ]
+   ],
+   "suffix": " MIN",
+   "note": "La película recaudó cerca de 348 millones de dólares",
+   "dur": 5
+  }
+ },
+ {
+  "src": "GN@60-1500",
+  "label": "HALLOWEEN IS GRINCH NIGHT · 1977",
+  "cap": "#2",
+  "txt": "Número dos. Halloween es la noche del Grinch."
+ },
+ {
+  "src": "GN@60-1500",
+  "label": "HALLOWEEN IS GRINCH NIGHT · 1977",
+  "cap": "EL EMMY",
+  "txt": "En 1977, el Grinch volvió en un especial de Halloween. Esta vez es una noche de viento agrio, en la que el Grinch baja de su montaña a asustar a los habitantes de Villaquién, y un niño intenta detenerlo. El especial tiene una secuencia de pesadilla muy extraña y psicodélica. Y ganó el premio Emmy al mejor especial infantil.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS EMMY",
+   "date": "1978",
+   "headline": "HALLOWEEN ES LA NOCHE DEL GRINCH GANA EL EMMY",
+   "sub": "Mejor especial infantil",
+   "stamp": "EMMY",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "PP@80-1720",
+  "label": "PONTOFFEL POCK · 1980",
+  "cap": "EL PIANO MÁGICO",
+  "txt": "Y en 1980 llegó otro especial casi olvidado: Pontoffel Pock, ¿dónde estás?, sobre un trabajador de una fábrica de pepinillos que pierde su empleo y recibe un piano mágico que lo lleva volando a cualquier lugar del mundo. Dos años después, en 1982, el Grinch se enfrentó al gato en el sombrero en otro especial, que también ganó un Emmy."
+ },
+ {
+  "src": "BB@60-1350",
+  "label": "THE BUTTER BATTLE BOOK · 1989",
+  "cap": "#1",
+  "txt": "Y número uno. La batalla de la mantequilla."
+ },
+ {
+  "src": "BB@60-1350",
+  "label": "THE BUTTER BATTLE BOOK · 1989",
+  "cap": "YOOKS Y ZOOKS",
+  "txt": "En 1984, el Dr. Seuss publicó uno de sus libros más políticos. Dos pueblos, los Yooks y los Zooks, viven separados por un muro. Los Yooks comen su pan con la mantequilla hacia arriba, y los Zooks con la mantequilla hacia abajo. Y por esa diferencia empiezan una carrera de armas cada vez más peligrosas, hasta llegar a una bomba capaz de destruirlo todo. Era una parodia clarísima de la Guerra Fría.",
+  "fx": {
+   "type": "compare",
+   "title": "LA GUERRA DE LA MANTEQUILLA",
+   "left": [
+    "YOOKS",
+    "MANTEQUILLA ARRIBA"
+   ],
+   "right": [
+    "ZOOKS",
+    "MANTEQUILLA ABAJO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "BB@60-1350",
+  "label": "THE BUTTER BATTLE BOOK · 1989",
+  "cap": "RALPH BAKSHI",
+  "txt": "En 1989 se convirtió en un especial de televisión, dirigido por Ralph Bakshi, famoso por películas animadas para adultos. Y el final del especial, igual que el libro, no resuelve nada: los dos lados quedan frente a frente, cada uno con su bomba en la mano, sin saber quién la va a soltar primero. Ese mismo mes de noviembre de 1989 cayó el muro de Berlín.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA BATALLA DE LA MANTEQUILLA",
+   "items": [
+    [
+     "1984",
+     "El libro"
+    ],
+    [
+     "NOV 1989",
+     "El especial de TV"
+    ],
+    [
+     "NOV 1989",
+     "Cae el muro de Berlín"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "BB@60-1350",
+   "GR@60-1550"
+  ],
+  "label": "DR. SEUSS",
+  "cap": "SU LEGADO",
+  "txt": "En 1984 recibió una mención especial del premio Pulitzer por su contribución a la educación y el entretenimiento de los niños. Theodor Geisel murió en septiembre de 1991, a los ochenta y siete años. Y en 2021, la empresa que maneja su legado decidió dejar de publicar seis de sus libros por contener imágenes racistas, entre ellos el de la calle Mulberry. Su historia completa tiene caricaturas de guerra, Óscar olvidados, un fracaso en el cine, y especiales extraños. Mucho más que el gato en el sombrero.",
+  "fx": {
+   "type": "counter",
+   "value": 6,
+   "suffix": " LIBROS",
+   "label": "RETIRADOS EN 2021",
+   "sub": "Por imágenes racistas",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "PS@20-200",
+   "GM@30-410",
+   "GR@60-1550",
+   "BB@60-1350"
+  ],
+  "label": "¿CUÁL CONOCÍAS?",
+  "cap": "¿CUÁL CONOCÍAS?",
+  "txt": "Un soldado torpe, un Óscar invisible, un niño que solo hablaba con efectos de sonido, un piano de cinco mil dedos, y una guerra por un pan con mantequilla. ¿Cuál de estas obras del Dr. Seuss conocías? Déjamelo en los comentarios, y suscríbete para más secretos de las caricaturas clásicas."
+ }
+]

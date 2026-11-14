@@ -1,0 +1,790 @@
+[
+ {
+  "src": [
+   "CG@0-160",
+   "GB@480-720"
+  ],
+  "label": "CORTES DE CARNE",
+  "cap": "",
+  "txt": "Ribeye, filete, picaña, tomahawk. En cualquier carnicería o restaurante hay una lista de cortes de carne, y casi nadie sabe de qué parte de la res sale cada uno, por qué uno cuesta el triple que otro, o por qué el mismo corte tiene un nombre distinto en cada país."
+ },
+ {
+  "src": [
+   "BE@120-720",
+   "QM@80-270"
+  ],
+  "label": "CORTES DE CARNE",
+  "cap": "15 CORTES EXPLICADOS",
+  "txt": "Hoy te explico quince cortes de carne, de dónde salen, cómo se cocinan y la historia detrás de sus nombres. Algunos nacieron en un experimento universitario, otros se los guardaban los carniceros para ellos mismos, y uno de ellos tiene una medida oficial que decide cómo se llama.",
+  "fx": {
+   "type": "list",
+   "title": "LAS ZONAS DE LA RES",
+   "items": [
+    "Costillar",
+    "Lomo",
+    "Falda y pecho",
+    "Aguja y paleta",
+    "Cadera y pierna"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "BE2@100-720",
+   "QM@80-270"
+  ],
+  "label": "ROUND · PIERNA TRASERA",
+  "cap": "#15",
+  "txt": "Número quince. El corte de la pierna."
+ },
+ {
+  "src": [
+   "BE2@100-720",
+   "QM@80-270"
+  ],
+  "label": "ROUND · PIERNA TRASERA",
+  "cap": "EL MÚSCULO MÁS USADO",
+  "txt": "En inglés se llama round, y sale de la pierna trasera de la res. Incluye la tapa, la contratapa y el peceto, o redondo. Son músculos que la vaca usa todo el día para caminar, así que tienen fibras muy densas y casi nada de grasa. Por eso es de la carne más barata en cualquier supermercado.",
+  "fx": {
+   "type": "bars",
+   "title": "GRASA INTRAMUSCULAR (APROX.)",
+   "items": [
+    [
+     "PIERNA",
+     1
+    ],
+    [
+     "LOMO FINO",
+     2
+    ],
+    [
+     "BIFE ANCHO",
+     5
+    ]
+   ],
+   "suffix": "",
+   "note": "Escala ilustrativa: más barras = más marmoleo",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "TB@380-470",
+   "JT@40-150"
+  ],
+  "label": "ROUND · PIERNA TRASERA",
+  "cap": "CÓMO COCINARLO",
+  "txt": "Como bistec a la plancha no funciona bien: sin grasa interna, se seca enseguida. Por eso se usa para rosbif cortado muy fino, para milanesas o para guisos. Si lo quieres a la plancha, marínalo bastante y córtalo en láminas delgadas contra la fibra. Y si tienes tiempo, la mejor opción es cocinarlo lento, varias horas, con líquido."
+ },
+ {
+  "src": [
+   "ST@450-560",
+   "CG@0-160"
+  ],
+  "label": "CHUCK EYE · AGUJA",
+  "cap": "#14",
+  "txt": "Número catorce. El ribeye de los pobres."
+ },
+ {
+  "src": [
+   "ST@450-560",
+   "GB@480-720"
+  ],
+  "label": "CHUCK EYE · AGUJA",
+  "cap": "LA COSTILLA 5",
+  "txt": "El ribeye sale de las costillas seis a doce. Pero el mismo músculo sigue un poco más adelante, hacia la paleta, en la quinta costilla. De ahí sale el chuck eye, que en inglés tiene un apodo muy conocido: el ribeye de los pobres. Tiene un sabor muy parecido, es un poco más firme, y suele costar bastante menos.",
+  "fx": {
+   "type": "compare",
+   "title": "EL MISMO MÚSCULO",
+   "left": [
+    "RIBEYE",
+    "COSTILLAS 6 A 12"
+   ],
+   "right": [
+    "CHUCK EYE",
+    "COSTILLA 5"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "BE@120-720",
+   "QM@80-270"
+  ],
+  "label": "CHUCK EYE · AGUJA",
+  "cap": "PÍDELO",
+  "txt": "El problema es encontrarlo. De cada res salen muy pocos, porque casi toda la aguja se usa para carne molida o para guisar. Así que rara vez está en el mostrador. El consejo de los carniceros es simple: pregunta por él. Muchas veces lo tienen, solo que no lo exhiben."
+ },
+ {
+  "src": [
+   "SF@170-300",
+   "CG@0-160"
+  ],
+  "label": "BAVETTE",
+  "cap": "#13",
+  "txt": "Número trece. La bavette."
+ },
+ {
+  "src": "SF@170-300",
+  "label": "BAVETTE",
+  "cap": "BABERO",
+  "txt": "Bavette en francés significa babero. Es un corte delgado y de fibra abierta, de la parte baja del lomo, cerca del vacío, y en Estados Unidos se vende con el nombre poco atractivo de flap steak. Quizás por ese nombre nunca fue muy popular allá. Pero en los bistrós de París es un clásico de toda la vida.",
+  "fx": {
+   "type": "map",
+   "title": "LA BAVETTE DE PARÍS",
+   "countries": [
+    "France"
+   ],
+   "pins": [
+    {
+     "name": "PARÍS",
+     "lon": 2.35,
+     "lat": 48.86
+    }
+   ],
+   "view": [
+    -5,
+    42,
+    9,
+    51.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SF@170-300",
+   "GB@480-720"
+  ],
+  "label": "BAVETTE",
+  "cap": "A LA ÉCHALOTE",
+  "txt": "El plato se llama bavette à l'échalote: la carne sellada en sartén muy caliente, término medio, cortada en tiras finas contra la fibra, con una salsa de chalotas, mantequilla y vino tinto. Como su fibra es abierta, absorbe los marinados muy rápido, y tiene más grasa y más sabor que la falda.",
+  "fx": {
+   "type": "quote",
+   "text": "Sartén caliente, término medio, chalotas y mantequilla.",
+   "by": "La receta clásica de bistró",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "TB@380-470",
+   "KR@2600-6200"
+  ],
+  "label": "FLANK · FALDA",
+  "cap": "#12",
+  "txt": "Número doce. La falda, o flank."
+ },
+ {
+  "src": [
+   "TB@380-470",
+   "JT2@0-260"
+  ],
+  "label": "FLANK · FALDA",
+  "cap": "LONDON BROIL",
+  "txt": "Sale de la parte baja del vientre de la res. Es plana, ancha, magra, con una fibra muy marcada a lo largo. Y en Estados Unidos muchas veces aparece con la etiqueta London broil, como si fuera un corte. No lo es: London broil es una forma de prepararla, marinada, asada a fuego alto y cortada en láminas finas.",
+  "fx": {
+   "type": "compare",
+   "title": "NO ES LO MISMO",
+   "left": [
+    "FLANK",
+    "EL CORTE"
+   ],
+   "right": [
+    "LONDON BROIL",
+    "LA RECETA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "KR@2600-6200",
+   "TB@380-470"
+  ],
+  "label": "FLANK · FALDA",
+  "cap": "SALTEADOS",
+  "txt": "Durante mucho tiempo fue un corte barato. Pero se volvió muy popular para salteados al estilo asiático y para la carne asada, y el precio subió con la demanda. La regla de oro con este corte es la misma siempre: no pasarla de término medio, y cortarla contra la fibra, o vas a masticar un buen rato."
+ },
+ {
+  "src": [
+   "BR@0-50",
+   "KR@2600-6200"
+  ],
+  "label": "TRI-TIP · COLITA DE CUADRIL",
+  "cap": "#11",
+  "txt": "Número once. El tri-tip, o colita de cuadril."
+ },
+ {
+  "src": [
+   "KR@2600-6200",
+   "BE@120-720"
+  ],
+  "label": "TRI-TIP · COLITA DE CUADRIL",
+  "cap": "SANTA MARÍA",
+  "txt": "Es un músculo en forma de triángulo, en la parte baja del cuadril. En Argentina se conoce como colita de cuadril. Pero en Estados Unidos, durante buena parte del siglo veinte, casi no se vendía como bistec: se molía para hamburguesas. Lo salvó una tradición de un pueblo de California: Santa María, en la costa central.",
+  "fx": {
+   "type": "map",
+   "title": "LA BARBACOA DE SANTA MARÍA",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "SANTA MARÍA",
+     "lon": -120.44,
+     "lat": 34.95
+    }
+   ],
+   "view": [
+    -125,
+    31.5,
+    -113,
+    42.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "BR@0-50",
+   "CG@0-160"
+  ],
+  "label": "TRI-TIP · COLITA DE CUADRIL",
+  "cap": "DOS FIBRAS",
+  "txt": "La barbacoa estilo Santa María se hace con un adobo seco simple y sobre leña de roble rojo, y el tri-tip se volvió su corte estrella a partir de los años cincuenta. Un detalle importante: tiene dos direcciones de fibra que se juntan en el centro. Si lo cortas en una sola dirección, la mitad queda dura. Lo correcto es partirlo en dos y cortar cada mitad contra su propia fibra."
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "JT@40-150"
+  ],
+  "label": "FLAT IRON · PALETA",
+  "cap": "#10",
+  "txt": "Número diez. El flat iron, el corte que se inventó en una universidad."
+ },
+ {
+  "src": [
+   "BE@120-720",
+   "QM@80-270"
+  ],
+  "label": "FLAT IRON · PALETA",
+  "cap": "LA PALETA",
+  "txt": "Sale de la paleta, del hombro de la res, y su nombre en inglés significa plancha de ropa, por su forma rectangular. Durante décadas este músculo casi no servía como bistec, porque tiene una capa gruesa de tejido conectivo justo en el medio. Así que terminaba en la carne molida."
+ },
+ {
+  "src": [
+   "JT2@0-260",
+   "CG@0-160"
+  ],
+  "label": "FLAT IRON · PALETA",
+  "cap": "2002",
+  "txt": "Hasta que investigadores de la Universidad de Nebraska y la Universidad de Florida, en un estudio financiado por la industria de la carne para aprovechar mejor músculos olvidados, encontraron cómo quitar ese tejido y sacar dos piezas limpias. Así, a principios de los años dos mil, nació el flat iron. Y resultó ser uno de los cortes más tiernos de toda la res, solo detrás del lomo.",
+  "fx": {
+   "type": "map",
+   "title": "DOS UNIVERSIDADES, UN CORTE NUEVO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Nebraska",
+    "Florida"
+   ],
+   "pins": [
+    {
+     "name": "NEBRASKA",
+     "lon": -96.7,
+     "lat": 40.82
+    },
+    {
+     "name": "FLORIDA",
+     "lon": -82.35,
+     "lat": 29.65
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -106,
+    24,
+    -74,
+    46
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "GB@480-720"
+  ],
+  "label": "HANGER · ONGLET",
+  "cap": "#9",
+  "txt": "Número nueve. El corte del carnicero."
+ },
+ {
+  "src": [
+   "ST@450-560",
+   "CG@0-160"
+  ],
+  "label": "HANGER · ONGLET",
+  "cap": "UNO POR RES",
+  "txt": "El hanger cuelga del diafragma, entre las costillas y el lomo, y de ahí viene su nombre: colgante. Solo hay uno por animal, y pesa menos de un kilo, en una res que puede pesar más de quinientos. Tiene un sabor muy intenso, más que el sirloin y que el strip, y una membrana central que hay que quitar antes de cocinarlo.",
+  "fx": {
+   "type": "counter",
+   "value": 1,
+   "suffix": " POR RES",
+   "label": "EL HANGER STEAK",
+   "sub": "Menos de un kilo de carne",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "SF@170-300",
+   "GB@480-720"
+  ],
+  "label": "HANGER · ONGLET",
+  "cap": "EL SECRETO",
+  "txt": "Por ser tan escaso y tan sabroso, durante mucho tiempo los carniceros no lo ponían a la venta: se lo llevaban a casa. Por eso en inglés le dicen butcher's steak, el bistec del carnicero. En Francia se llama onglet, y es un clásico de bistró. En los últimos veinte años empezó a aparecer en los menús de restaurantes, con precios que por fin reflejan lo bueno que es."
+ },
+ {
+  "src": [
+   "TB@380-470",
+   "KR@2600-6200"
+  ],
+  "label": "SKIRT · ENTRAÑA · ARRACHERA",
+  "cap": "#8",
+  "txt": "Número ocho. La entraña, o arrachera."
+ },
+ {
+  "src": [
+   "TB@380-470",
+   "JT2@0-260"
+  ],
+  "label": "SKIRT · ENTRAÑA · ARRACHERA",
+  "cap": "FAJITAS",
+  "txt": "En inglés es skirt steak, en Argentina entraña, y en México arrachera. Sale de la zona del diafragma, debajo de las costillas, y es una tira larga, delgada y con bastante grasa. Y si alguna vez comiste fajitas, probablemente comiste este corte. La palabra fajita viene de faja, por la forma de tira de la carne.",
+  "fx": {
+   "type": "compare",
+   "title": "UN CORTE, TRES NOMBRES",
+   "left": [
+    "SKIRT",
+    "ESTADOS UNIDOS"
+   ],
+   "right": [
+    "ARRACHERA · ENTRAÑA",
+    "MÉXICO · ARGENTINA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "KR@2600-6200",
+   "TB@380-470"
+  ],
+  "label": "SKIRT · ENTRAÑA · ARRACHERA",
+  "cap": "INTERIOR Y EXTERIOR",
+  "txt": "Hay dos versiones: la entraña interior y la exterior. La exterior es más tierna y más sabrosa, y casi toda se va a restaurantes antes de llegar al supermercado. Con apenas media hora de marinado cambia muchísimo. Fuego alto, término medio, reposo, y cortarla fina contra la fibra."
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "JT@40-150"
+  ],
+  "label": "SIRLOIN · CADERA",
+  "cap": "#7",
+  "txt": "Número siete. El sirloin y su leyenda falsa."
+ },
+ {
+  "src": [
+   "BE@120-720",
+   "QM@80-270"
+  ],
+  "label": "SIRLOIN · CADERA",
+  "cap": "SIR LOIN",
+  "txt": "Durante siglos se ha contado que un rey de Inglaterra, normalmente se dice Enrique Octavo, disfrutó tanto este corte que lo nombró caballero, sir Loin. Los historiadores nunca encontraron pruebas. El nombre casi seguro viene del francés antiguo surlonge, que significa encima del lomo. La leyenda era simplemente una mejor historia.",
+  "fx": {
+   "type": "compare",
+   "title": "¿DE DÓNDE VIENE EL NOMBRE?",
+   "left": [
+    "LA LEYENDA",
+    "UN REY LO HIZO CABALLERO"
+   ],
+   "right": [
+    "LA REALIDAD",
+    "FRANCÉS: SURLONGE"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JT@40-150",
+   "GB@480-720"
+  ],
+  "label": "SIRLOIN · CADERA",
+  "cap": "EL PRECIO",
+  "txt": "El sirloin está detrás del lomo corto y delante de la pierna. El top sirloin es la parte más tierna. Tiene menos grasa que el ribeye, pero buen sabor, y aguanta muy bien los marinados. Es uno de los cortes más pedidos en los restaurantes de Estados Unidos por una razón muy simple: cuesta mucho menos que el ribeye o el filete."
+ },
+ {
+  "src": [
+   "BR@0-50",
+   "KR@2600-6200"
+  ],
+  "label": "PICANHA · TAPA DE CUADRIL",
+  "cap": "#6",
+  "txt": "Número seis. La picaña."
+ },
+ {
+  "src": [
+   "BR@0-50",
+   "KR@2600-6200"
+  ],
+  "label": "PICANHA · TAPA DE CUADRIL",
+  "cap": "LA CAPA DE GRASA",
+  "txt": "En Brasil es casi el corte nacional. Sale de la parte de arriba del cuadril, y en Argentina se llama tapa de cuadril. Su secreto es la capa gruesa de grasa que la cubre. Y en muchos supermercados se la quitan antes de venderla, lo cual es un error: esa grasa es justamente lo que la hace especial.",
+  "fx": {
+   "type": "map",
+   "title": "EL CORTE NACIONAL DE BRASIL",
+   "countries": [
+    "Brazil"
+   ],
+   "pins": [
+    {
+     "name": "SÃO PAULO",
+     "lon": -46.63,
+     "lat": -23.55
+    },
+    {
+     "name": "PORTO ALEGRE",
+     "lon": -51.23,
+     "lat": -30.03
+    }
+   ],
+   "view": [
+    -75,
+    -35,
+    -34,
+    6
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "KR@2600-6200",
+  "label": "PICANHA · TAPA DE CUADRIL",
+  "cap": "EL CHURRASCO",
+  "txt": "En las churrasquerías brasileñas la doblan en forma de C, la clavan en una espada de metal y la giran sobre carbón. A medida que la parte de afuera se cocina, el mesero corta rebanadas en la mesa y la espada vuelve al fuego. Mientras gira, la grasa se derrite y baña la carne desde arriba, sin que nadie haga nada.",
+  "fx": {
+   "type": "list",
+   "title": "CÓMO SE HACE EN BRASIL",
+   "items": [
+    "Se dobla en forma de C",
+    "Se clava en la espada",
+    "Se gira sobre carbón",
+    "Se corta en la mesa"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "JT2@0-260"
+  ],
+  "label": "NEW YORK STRIP · BIFE DE CHORIZO",
+  "cap": "#5",
+  "txt": "Número cinco. El New York strip, o bife de chorizo."
+ },
+ {
+  "src": "BE@120-720",
+  "label": "NEW YORK STRIP · BIFE DE CHORIZO",
+  "cap": "DOS CIUDADES",
+  "txt": "Este corte tiene un nombre distinto según la ciudad. En Nueva York se llama New York strip. En Kansas City, Kansas City strip. Y en Argentina, bife de chorizo. El nombre de Kansas City viene de sus famosos corrales de ganado, que por décadas fueron un centro de la carne en Estados Unidos. El de Nueva York se suele atribuir al restaurante Delmonico's, en el siglo diecinueve.",
+  "fx": {
+   "type": "map",
+   "title": "EL MISMO CORTE, DOS NOMBRES",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York",
+    "Missouri"
+   ],
+   "pins": [
+    {
+     "name": "KANSAS CITY",
+     "lon": -94.58,
+     "lat": 39.1
+    },
+    {
+     "name": "NUEVA YORK",
+     "lon": -74.0,
+     "lat": 40.71
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -104,
+    30,
+    -68,
+    48
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "GB@480-720",
+   "CG@0-160"
+  ],
+  "label": "NEW YORK STRIP · BIFE DE CHORIZO",
+  "cap": "LA GRASA DEL BORDE",
+  "txt": "Sale del lomo corto, justo al lado del lomo fino. Tiene más grasa que el filete y menos que el ribeye, con una franja de grasa en uno de sus bordes. Un truco de cocina: antes de sellarlo, pon el bistec de canto sobre esa grasa, en la sartén caliente, durante un minuto. La grasa se derrite y cocina el resto de la carne."
+ },
+ {
+  "src": [
+   "JT@40-150",
+   "GB@480-720"
+  ],
+  "label": "FILET MIGNON · LOMO FINO",
+  "cap": "#4",
+  "txt": "Número cuatro. El filet mignon."
+ },
+ {
+  "src": [
+   "JT@40-150",
+   "ST@450-560"
+  ],
+  "label": "FILET MIGNON · LOMO FINO",
+  "cap": "PEQUEÑO",
+  "txt": "Mignon en francés significa pequeño o delicado. Sale del lomo fino, el solomillo, un músculo largo y delgado debajo de la columna, que la vaca casi no usa. Por eso es el corte más tierno de toda la res. Y de un lomo completo salen pocas porciones, lo que lo convierte en uno de los cortes más caros del menú.",
+  "fx": {
+   "type": "bars",
+   "title": "TERNURA VS SABOR",
+   "items": [
+    [
+     "TERNURA",
+     10
+    ],
+    [
+     "MARMOLEO",
+     2
+    ]
+   ],
+   "suffix": "/10",
+   "note": "El filete: el más tierno, pero de sabor suave",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JT2@0-260",
+   "GB@480-720"
+  ],
+  "label": "FILET MIGNON · LOMO FINO",
+  "cap": "CON TOCINO",
+  "txt": "Pero tiene muy poca grasa, y por eso un sabor suave. Por eso casi siempre llega con salsa: bearnesa, reducción de vino tinto o mantequilla con hierbas. Y por eso muchas veces se envuelve en tocino. El tocino no es un adorno: le da la grasa que el corte no tiene. Lo que pagas en un filete es ternura, y casi solo ternura."
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "BE2@100-720"
+  ],
+  "label": "T-BONE",
+  "cap": "#3",
+  "txt": "Número tres. El T-bone."
+ },
+ {
+  "src": [
+   "BE2@100-720",
+   "CG@0-160"
+  ],
+  "label": "T-BONE",
+  "cap": "LA T",
+  "txt": "Sale del lomo corto, y tiene un hueso en forma de T que separa dos músculos: de un lado el strip, y del otro lado el lomo fino. Dos cortes en un solo bistec. El problema es que se cocinan a ritmos distintos: el strip necesita más tiempo, y el lomo fino se pasa muy fácil. Lograr los dos en su punto es todo un arte.",
+  "fx": {
+   "type": "compare",
+   "title": "DOS CORTES, UN HUESO",
+   "left": [
+    "STRIP",
+    "LADO GRANDE"
+   ],
+   "right": [
+    "LOMO FINO",
+    "LADO PEQUEÑO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "GB@480-720",
+   "ST@450-560"
+  ],
+  "label": "T-BONE",
+  "cap": "WAFFLE HOUSE",
+  "txt": "Un dato curioso: la cadena de desayunos Waffle House, famosa por estar abierta las veinticuatro horas, dice ser el mayor vendedor de T-bones del mundo. Y el T-bone tiene una regla oficial que decide si de verdad es un T-bone, o si es otro corte más caro. Esa regla nos lleva al número dos."
+ },
+ {
+  "src": [
+   "BE2@100-720",
+   "CG@0-160"
+  ],
+  "label": "PORTERHOUSE",
+  "cap": "#2",
+  "txt": "Número dos. El porterhouse, el rey de los bistecs."
+ },
+ {
+  "src": [
+   "BE2@100-720",
+   "JT@40-150"
+  ],
+  "label": "PORTERHOUSE",
+  "cap": "1.25 PULGADAS",
+  "txt": "El porterhouse es el mismo corte que el T-bone, pero de más atrás en el lomo, donde el lomo fino es más grueso. Según los estándares del Departamento de Agricultura de Estados Unidos, si la parte del lomo fino mide al menos una pulgada y cuarto de ancho, unos tres centímetros, es un porterhouse. Si mide menos, es un T-bone. Por unos milímetros, cambia el nombre y el precio.",
+  "fx": {
+   "type": "counter",
+   "value": 32,
+   "suffix": " MM",
+   "label": "LA LÍNEA ENTRE T-BONE Y PORTERHOUSE",
+   "sub": "1.25 pulgadas de lomo fino (USDA)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "BE@120-720",
+  "label": "PORTERHOUSE",
+  "cap": "LA CERVEZA PORTER",
+  "txt": "Un porterhouse completo puede pesar cerca de un kilo, por eso muchas veces se corta en la mesa y se comparte. Y su nombre viene de una bebida. En el siglo diecinueve, en Estados Unidos, una porter house era una taberna que servía cerveza porter. La teoría más contada es que este bistec se hizo famoso en una de esas tabernas, y el nombre se quedó.",
+  "fx": {
+   "type": "timeline",
+   "title": "DE UNA CERVEZA A UN BISTEC",
+   "items": [
+    [
+     "SIGLO XVIII",
+     "La cerveza porter"
+    ],
+    [
+     "SIGLO XIX",
+     "Las porter houses"
+    ],
+    [
+     "HOY",
+     "El rey de los bistecs"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "GB@480-720"
+  ],
+  "label": "RIBEYE · OJO DE BIFE",
+  "cap": "#1",
+  "txt": "Y número uno. El ribeye, o bife ancho."
+ },
+ {
+  "src": [
+   "GB@480-720",
+   "CG@0-160"
+  ],
+  "label": "RIBEYE · OJO DE BIFE",
+  "cap": "EL MARMOLEO",
+  "txt": "Sale de las costillas seis a doce, en la parte alta de la espalda. En Argentina se llama bife ancho u ojo de bife, porque el nombre en inglés se refiere a su centro ovalado, el ojo. Lo que lo hace especial es el marmoleo: vetas de grasa dentro del músculo que se derriten mientras se cocina y bañan la carne desde adentro. No necesita salsa.",
+  "fx": {
+   "type": "counter",
+   "value": 7,
+   "suffix": " COSTILLAS",
+   "label": "DE LA 6 A LA 12",
+   "sub": "De ahí sale el ribeye",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "JT@40-150"
+  ],
+  "label": "RIBEYE · OJO DE BIFE",
+  "cap": "LA TAPA",
+  "txt": "Y tiene una parte que mucha gente corta sin darse cuenta: la tapa del ribeye, una media luna muy marmoleada que rodea el ojo. Muchos chefs y carniceros la consideran el mejor bocado de toda la res, y algunas carnicerías la separan y la venden aparte, a precio de lujo. Sartén de hierro o parrilla bien caliente, término medio, y dejar que la grasa se derrita."
+ },
+ {
+  "src": [
+   "KB",
+   "CG@0-160"
+  ],
+  "label": "TOMAHAWK",
+  "cap": "EL TOMAHAWK",
+  "txt": "Y un extra: el tomahawk. No es un corte distinto. Es un ribeye con hueso, al que se le deja todo el hueso de la costilla, limpio, como un mango largo. Parece un hacha, de ahí el nombre. El hueso casi no aporta sabor. Lo que aporta es espectáculo, y se volvió estrella de los restaurantes gracias a las redes sociales. Pagas, literalmente, por la parte que no te comes.",
+  "fx": {
+   "type": "compare",
+   "title": "MISMA CARNE, OTRO PRECIO",
+   "left": [
+    "RIBEYE CON HUESO",
+    "LA CARNE"
+   ],
+   "right": [
+    "TOMAHAWK",
+    "+ EL HUESO LARGO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "KB",
+   "GB@480-720"
+  ],
+  "label": "WAGYU · KOBE",
+  "cap": "KOBE",
+  "txt": "Y si hablamos del corte más caro, hay que mencionar el wagyu de Kobe. No es un corte, sino una carne: viene de ganado Tajima criado en la prefectura de Hyōgo, en Japón, bajo reglas muy estrictas. Su marmoleo es tan intenso que la carne se ve casi blanca. Y cualquiera de los cortes de esta lista, hecho con esa carne, puede costar varias veces más.",
+  "fx": {
+   "type": "map",
+   "title": "LA CARNE DE KOBE",
+   "countries": [
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "KOBE · HYŌGO",
+     "lon": 135.19,
+     "lat": 34.69
+    }
+   ],
+   "view": [
+    128,
+    30,
+    145,
+    42
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CG@0-160",
+   "BR@0-50",
+   "GB@480-720",
+   "SF@170-300"
+  ],
+  "label": "¿CUÁL ES TU CORTE?",
+  "cap": "¿CUÁL ES TU CORTE?",
+  "txt": "Del ribeye de los pobres al rey de los bistecs, de un experimento universitario a un pueblo de California. Ahora ya sabes de dónde sale cada corte y por qué cuesta lo que cuesta. ¿Cuál es tu corte favorito, y cómo se llama en tu país? Déjamelo en los comentarios, y suscríbete para más historias de la comida."
+ }
+]

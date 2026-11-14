@@ -1,0 +1,670 @@
+[
+ {
+  "src": [
+   "PR",
+   "TB"
+  ],
+  "label": "LOS AÑOS 80",
+  "cap": "",
+  "txt": "Si creciste en los años ochenta, seguramente comiste o tomaste varias cosas de esta lista sin pensarlo dos veces. Pero décadas después, algunas fueron prohibidas, otras tuvieron que cambiar su receta, y algunas que todo el mundo jura que se prohibieron, en realidad nunca lo fueron."
+ },
+ {
+  "src": [
+   "HO",
+   "SQ2"
+  ],
+  "label": "LOS AÑOS 80",
+  "cap": "13 ALIMENTOS",
+  "txt": "Hoy te traigo trece alimentos de los años ochenta que desaparecieron o cambiaron para siempre, y lo que de verdad pasó con cada uno. Porque la historia real casi siempre es más extraña que el rumor.",
+  "fx": {
+   "type": "list",
+   "title": "LO QUE LES PASÓ",
+   "items": [
+    "Prohibidos de verdad",
+    "Receta cambiada",
+    "Simplemente descontinuados",
+    "Nunca prohibidos"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "WC",
+   "WC2"
+  ],
+  "label": "WHIP 'N CHILL · 1967",
+  "cap": "#13",
+  "txt": "Número trece. Whip 'n Chill."
+ },
+ {
+  "src": [
+   "WC",
+   "WC2"
+  ],
+  "label": "WHIP 'N CHILL · 1968",
+  "cap": "EL POSTRE DE MAMÁ",
+  "txt": "Mucha gente recuerda este postre sin recordar su nombre. Un polvo de la marca General Foods: le agregabas leche fría, lo batías, lo metías al refrigerador, y tenías un postre más ligero que un pudín, casi como una mousse. Venía en varios sabores, y para muchas familias era el postre fácil de los domingos."
+ },
+ {
+  "src": [
+   "WC2",
+   "WC"
+  ],
+  "label": "WHIP 'N CHILL · 1968",
+  "cap": "NUNCA PROHIBIDO",
+  "txt": "Whip 'n Chill nunca fue prohibido. Simplemente fue desapareciendo, a medida que la empresa cambió de dueños y la gente empezó a comprar postres refrigerados ya listos. No hubo escándalo ni retiro del mercado. Un día, simplemente, ya no estaba en el supermercado.",
+  "fx": {
+   "type": "compare",
+   "title": "¿QUÉ LE PASÓ?",
+   "left": [
+    "PROHIBIDO",
+    "NO"
+   ],
+   "right": [
+    "DESCONTINUADO",
+    "SÍ"
+   ],
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "HY",
+   "HY2@5-55"
+  ],
+  "label": "HYDROX · 1966",
+  "cap": "#12",
+  "txt": "Número doce. Hydrox, la galleta que llegó antes que Oreo."
+ },
+ {
+  "src": [
+   "HY2@5-55",
+   "HY"
+  ],
+  "label": "HYDROX · ANUNCIO 70s",
+  "cap": "1908",
+  "txt": "Mucha gente cree que Hydrox era una copia de Oreo. Es al revés. La empresa Sunshine Biscuits lanzó Hydrox en 1908, y Oreo llegó cuatro años después, en 1912. Hydrox tenía una galleta más oscura y crujiente, y un relleno menos dulce, y en los ochenta todavía tenía fans muy fieles.",
+  "fx": {
+   "type": "timeline",
+   "title": "¿QUIÉN LLEGÓ PRIMERO?",
+   "items": [
+    [
+     "1908",
+     "Hydrox"
+    ],
+    [
+     "1912",
+     "Oreo"
+    ],
+    [
+     "1999",
+     "Hydrox desaparece"
+    ],
+    [
+     "2015",
+     "Regresa"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "HY",
+  "label": "HYDROX · ANUNCIO 60s",
+  "cap": "EL NOMBRE",
+  "txt": "Pero tenía un problema: el nombre. Venía de hidrógeno y oxígeno, para sugerir pureza, como el agua, pero a muchos les sonaba a producto de limpieza. En los noventa la marca pasó a manos de Keebler, que cambió la receta y la retiró en 1999. Años después, en 2015, otra empresa la revivió. Nunca fue prohibida: perdió una guerra comercial."
+ },
+ {
+  "src": [
+   "HO",
+   "HO2"
+  ],
+  "label": "HOSTESS · 1982",
+  "cap": "#11",
+  "txt": "Número once. Los pays de pudín de Hostess."
+ },
+ {
+  "src": [
+   "HO",
+   "HO2"
+  ],
+  "label": "HOSTESS · 1982",
+  "cap": "EN LA LONCHERA",
+  "txt": "En las tiendas de los ochenta, al lado de los Twinkies y los Ding Dongs, estaban los pays de Hostess: una costra glaseada rellena de pudín de chocolate, vainilla o caramelo. Podían durar semanas en su envoltura, y terminaban en loncheras, máquinas expendedoras y gasolineras de todo Estados Unidos."
+ },
+ {
+  "src": [
+   "HO2",
+   "HO"
+  ],
+  "label": "HOSTESS · 1981",
+  "cap": "GRASAS TRANS",
+  "txt": "El gobierno nunca prohibió estos pays. Desaparecieron con los cambios de productos y de dueños de Hostess. Pero su historia sí toca algo que fue prohibido después: muchos pasteles empaquetados de esa época usaban aceites parcialmente hidrogenados, la fuente de las grasas trans. Y ese ingrediente sí tuvo su final. Lo veremos más adelante."
+ },
+ {
+  "src": [
+   "PR",
+   "LF2"
+  ],
+  "label": "POP ROCKS · 1979",
+  "cap": "#10",
+  "txt": "Número diez. Pop Rocks, y el rumor más famoso del recreo."
+ },
+ {
+  "src": "PR",
+  "label": "POP ROCKS · 1979",
+  "cap": "DIÓXIDO DE CARBONO",
+  "txt": "Los Pop Rocks eran caramelos que tronaban en la boca. El truco era dióxido de carbono atrapado a presión dentro de cristales de azúcar: al derretirse, el gas se escapaba con un chasquido. Los vendía General Foods desde mediados de los setenta, y fueron un éxito inmediato entre los niños.",
+  "fx": {
+   "type": "list",
+   "title": "CÓMO FUNCIONAN",
+   "items": [
+    "Azúcar derretida",
+    "Gas a presión",
+    "Cristales con burbujas",
+    "La saliva los abre: ¡pop!"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "LF",
+   "LF2"
+  ],
+  "label": "LIFE CEREAL · MIKEY",
+  "cap": "EL RUMOR DE MIKEY",
+  "txt": "Y entonces llegó el rumor. Se decía que Mikey, el niño de los comerciales del cereal Life, había muerto por comer Pop Rocks con refresco, porque el estómago le explotó. Era completamente falso: el actor estaba vivo y sano. Pero el rumor creció tanto que General Foods publicó anuncios en periódicos y envió cartas a miles de escuelas para desmentirlo.",
+  "fx": {
+   "type": "headline",
+   "paper": "EL RUMOR DEL RECREO",
+   "date": "FINALES DE LOS 70",
+   "headline": "¿MIKEY MURIÓ POR COMER POP ROCKS CON REFRESCO?",
+   "sub": "Falso: el actor estaba vivo y sano",
+   "stamp": "FALSO",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "PR",
+   "LF"
+  ],
+  "label": "POP ROCKS · 1979",
+  "cap": "HECHOS EN ESPAÑA",
+  "txt": "En los ochenta, General Foods dejó de venderlos, y la gente asumió que habían sido prohibidos. No lo fueron. Desde mediados de los ochenta, los Pop Rocks los fabrica una empresa de Barcelona, Zeta Espacial, que también hace los famosos Peta Zetas. Hoy todavía se pueden comprar.",
+  "fx": {
+   "type": "map",
+   "title": "DE ESTADOS UNIDOS A BARCELONA",
+   "countries": [
+    "United States of America",
+    "Spain"
+   ],
+   "pins": [
+    {
+     "name": "ESTADOS UNIDOS",
+     "lon": -90,
+     "lat": 39
+    },
+    {
+     "name": "BARCELONA",
+     "lon": 2.17,
+     "lat": 41.39
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -110,
+    20,
+    20,
+    58
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "SQ2",
+   "MD"
+  ],
+  "label": "SQUIRT · 1979",
+  "cap": "#9",
+  "txt": "Número nueve. Los refrescos cítricos y el BVO."
+ },
+ {
+  "src": "SQ2",
+  "label": "SQUIRT · 1979",
+  "cap": "EL ACEITE",
+  "txt": "Los refrescos de toronja, limón y cítricos tenían un problema: el aceite del sabor no se mezcla bien con el agua, y sube a la superficie. La solución durante décadas fue el aceite vegetal bromado, o BVO, que mantenía el sabor bien repartido. Refrescos como Mountain Dew lo usaron durante muchos años, y casi nadie sabía qué era."
+ },
+ {
+  "src": [
+   "MD",
+   "SQ2"
+  ],
+  "label": "MOUNTAIN DEW · 1986",
+  "cap": "2024",
+  "txt": "Con el tiempo, las grandes refresqueras lo fueron quitando de sus fórmulas. Y en julio de 2024, la FDA, la agencia de alimentos de Estados Unidos, revocó el permiso del BVO en alimentos, al concluir que ya no podía considerarse seguro. La regla entró en vigor en agosto de 2024. Las marcas siguieron existiendo; lo que cambió fue la receta.",
+  "fx": {
+   "type": "headline",
+   "paper": "FDA · ESTADOS UNIDOS",
+   "date": "JULIO 2024",
+   "headline": "LA FDA PROHÍBE EL ACEITE VEGETAL BROMADO EN ALIMENTOS",
+   "sub": "Entra en vigor en agosto de 2024",
+   "stamp": "PROHIBIDO",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "SL",
+   "SA@3-112"
+  ],
+  "label": "SWEET 'N LOW · 1979",
+  "cap": "#8",
+  "txt": "Número ocho. Sweet'N Low y la sacarina."
+ },
+ {
+  "src": [
+   "SL",
+   "SA@3-112"
+  ],
+  "label": "SWEET 'N LOW · 1979",
+  "cap": "LOS SOBRES ROSAS",
+  "txt": "Imagina una cafetería de los ochenta: taza de café, cuchara de metal, y un montón de sobrecitos rosas de Sweet'N Low. Su endulzante era la sacarina, que ya tenía casi cien años. Pero en los setenta, estudios con ratas de laboratorio la relacionaron con tumores de vejiga, en dosis muy altas, y en 1977 la FDA propuso prohibirla.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA HISTORIA DE LA SACARINA",
+   "items": [
+    [
+     "1879",
+     "Se descubre"
+    ],
+    [
+     "1977",
+     "La FDA propone prohibirla"
+    ],
+    [
+     "1977",
+     "El Congreso lo impide"
+    ],
+    [
+     "2000",
+     "Se retira la advertencia"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "SA@3-112",
+   "SL"
+  ],
+  "label": "SACARINA · 1977",
+  "cap": "LA ADVERTENCIA",
+  "txt": "La gente se asustó y corrió a comprar productos dietéticos antes de que desaparecieran. Pero el Congreso intervino: en lugar de prohibirla, obligó a poner una advertencia en la etiqueta. Durante más de veinte años, la gente endulzó su café leyendo que el producto había causado cáncer en animales. En el año 2000, nuevos estudios mostraron que ese efecto en ratas no aplicaba igual a humanos, y la advertencia se eliminó. La sacarina sigue siendo legal.",
+  "fx": {
+   "type": "counter",
+   "value": 23,
+   "suffix": " AÑOS",
+   "label": "CON ADVERTENCIA DE CÁNCER",
+   "sub": "De 1977 al año 2000",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "TB",
+   "TB2"
+  ],
+  "label": "TAB · 1985",
+  "cap": "#7",
+  "txt": "Número siete. Tab, el refresco de mamá."
+ },
+ {
+  "src": [
+   "TB2",
+   "TB"
+  ],
+  "label": "TAB · 1983",
+  "cap": "LA LATA ROSA",
+  "txt": "Tab fue el refresco de dieta de Coca-Cola, lanzado en 1963. Para muchos sabía horrible. Para otros, esa lata rosa era intocable: era el refresco de mamá. Y su fórmula estuvo marcada por dos peleas legales. La original usaba ciclamato y sacarina. Cuando se prohibió el ciclamato, Coca-Cola tuvo que cambiar la receta."
+ },
+ {
+  "src": [
+   "TB",
+   "TB2"
+  ],
+  "label": "TAB · 1985",
+  "cap": "2020",
+  "txt": "Después vino la polémica de la sacarina. Así que en los ochenta podías sacar del refrigerador un refresco totalmente legal, con una advertencia de cáncer impresa en la lata. Tab sobrevivió a todo eso. Lo que no sobrevivió fue la decisión de la empresa: Coca-Cola lo descontinuó a finales de 2020, después de más de cincuenta años.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DE TAB",
+   "items": [
+    [
+     "1963",
+     "Nace Tab"
+    ],
+    [
+     "1969",
+     "Prohíben el ciclamato"
+    ],
+    [
+     "1982",
+     "Llega Diet Coke"
+    ],
+    [
+     "2020",
+     "Adiós a Tab"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "DD",
+  "label": "DIET DELIGHT · 1965",
+  "cap": "#6",
+  "txt": "Número seis. El ciclamato, el endulzante que sí se prohibió."
+ },
+ {
+  "src": "DD",
+  "label": "DIET DELIGHT · 1965",
+  "cap": "1969",
+  "txt": "El ciclamato era barato y muy dulce, y estaba en refrescos de dieta, frutas en almíbar, mermeladas y endulzantes de mesa. Hasta que en 1969, después de estudios con animales, el gobierno de Estados Unidos lo prohibió en los alimentos. Las empresas tuvieron que reformular cientos de productos casi de un día para otro."
+ },
+ {
+  "src": "DD",
+  "label": "DIET DELIGHT · 1965",
+  "cap": "EN OTROS PAÍSES",
+  "txt": "Lo curioso es que no todos los países tomaron la misma decisión. El ciclamato sigue permitido en muchos lugares, incluida la Unión Europea y varios países de América Latina. Así que un producto con ciclamato puede ser legal en tu país y estar prohibido en Estados Unidos. Y esa diferencia sigue existiendo hoy.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CICLAMATO HOY",
+   "left": [
+    "ESTADOS UNIDOS",
+    "PROHIBIDO DESDE 1969"
+   ],
+   "right": [
+    "UNIÓN EUROPEA",
+    "PERMITIDO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "MG",
+   "MG2"
+  ],
+  "label": "MARGARINA · ANUNCIO",
+  "cap": "#5",
+  "txt": "Número cinco. La margarina de barra."
+ },
+ {
+  "src": [
+   "MG2",
+   "MG3"
+  ],
+  "label": "MARGARINA · 1960s",
+  "cap": "LA ALTERNATIVA SANA",
+  "txt": "Durante décadas, la margarina se vendió como la alternativa sana a la mantequilla. Era barata, fácil de untar y buena para hornear. Pero muchas se hacían con aceites parcialmente hidrogenados. Ese proceso volvía sólido el aceite vegetal, y de paso creaba grasas trans artificiales."
+ },
+ {
+  "src": [
+   "MG3",
+   "MG"
+  ],
+  "label": "MARGARINA · 1958",
+  "cap": "GRASAS TRANS",
+  "txt": "Con los años, los estudios relacionaron las grasas trans con el colesterol malo y las enfermedades del corazón. En 2015, la FDA determinó que los aceites parcialmente hidrogenados ya no se consideraban seguros, y les dio a las empresas hasta 2018 para quitarlos. La margarina no desapareció, pero la de hoy está hecha con otras grasas.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL FIN DE LAS GRASAS TRANS",
+   "items": [
+    [
+     "1911",
+     "Llega la manteca vegetal"
+    ],
+    [
+     "AÑOS 80",
+     "Margarina por todas partes"
+    ],
+    [
+     "2015",
+     "La FDA dice: no es segura"
+    ],
+    [
+     "2018",
+     "Fecha límite"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "RB",
+   "RB2"
+  ],
+  "label": "ROOT BEER · 1976",
+  "cap": "#4",
+  "txt": "Número cuatro. La root beer de sasafrás."
+ },
+ {
+  "src": [
+   "RB2",
+   "RB3"
+  ],
+  "label": "HIRES ROOT BEER · 1988",
+  "cap": "EL SAFROL",
+  "txt": "La root beer es una bebida muy americana, y su sabor original venía de la raíz del sasafrás, un árbol de Norteamérica. El problema es que el aceite de sasafrás contiene safrol, una sustancia que en estudios con animales se relacionó con cáncer de hígado. En 1960, la FDA prohibió el safrol como aditivo en alimentos.",
+  "fx": {
+   "type": "headline",
+   "paper": "FDA · ESTADOS UNIDOS",
+   "date": "1960",
+   "headline": "PROHÍBEN EL SAFROL DEL SASAFRÁS EN ALIMENTOS",
+   "sub": "La root beer tuvo que cambiar su sabor",
+   "stamp": "PROHIBIDO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "RB3",
+   "RB"
+  ],
+  "label": "A&W · 1989",
+  "cap": "SIN SAFROL",
+  "txt": "Así que la root beer que tomabas en los ochenta ya no usaba el sasafrás original. Los fabricantes encontraron extractos sin safrol y otras combinaciones de sabores que imitan ese gusto. Por eso la root beer de hoy todavía sabe a antigua, aunque la receta cambió hace más de sesenta años."
+ },
+ {
+  "src": [
+   "CN",
+   "CN2"
+  ],
+  "label": "LATAS · 1991",
+  "cap": "#3",
+  "txt": "Número tres. Las latas soldadas con plomo."
+ },
+ {
+  "src": [
+   "CN2",
+   "CN"
+  ],
+  "label": "LATAS · 1973",
+  "cap": "EN LA COSTURA",
+  "txt": "Este es el más invisible de la lista. Una lata de tomates de 1982 se veía casi igual que una de hoy. La diferencia estaba en la costura. Durante años, muchas latas se unían con soldadura que contenía plomo, y ese plomo podía pasar a la comida, sobre todo a los alimentos ácidos, como el tomate o las frutas."
+ },
+ {
+  "src": [
+   "CN",
+   "DD"
+  ],
+  "label": "LATAS · 1991",
+  "cap": "1995",
+  "txt": "En los ochenta, los fabricantes de Estados Unidos empezaron a abandonar la soldadura de plomo, y en 1995 la FDA la prohibió en las latas de comida. Nadie prohibió los enlatados ni las frutas en almíbar. Se prohibió una parte de la lata. La gente siguió comprando latas, mientras las latas cambiaban sin que nadie lo notara.",
+  "fx": {
+   "type": "compare",
+   "title": "LA MISMA LATA, OTRA COSTURA",
+   "left": [
+    "ANTES",
+    "SOLDADURA CON PLOMO"
+   ],
+   "right": [
+    "DESDE 1995",
+    "PROHIBIDA EN EE. UU."
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "WB",
+   "WB2"
+  ],
+  "label": "PAN DE CAJA",
+  "cap": "#2",
+  "txt": "Número dos. El bromato de potasio en el pan."
+ },
+ {
+  "src": [
+   "WB2",
+   "WB"
+  ],
+  "label": "PAN DE CAJA",
+  "cap": "EL MEJORADOR",
+  "txt": "El bromato de potasio se usa para fortalecer la masa del pan: le da estructura y ayuda a que la pieza quede alta y uniforme. Pero estudios con animales lo relacionaron con cáncer, y muchos países lo prohibieron en los alimentos, entre ellos los de la Unión Europea, el Reino Unido, Canadá, Brasil y China.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE ESTÁ PROHIBIDO EL BROMATO",
+   "countries": [
+    "Canada",
+    "United Kingdom",
+    "France",
+    "Germany",
+    "Spain",
+    "Italy",
+    "Brazil",
+    "China"
+   ],
+   "view": [
+    -140,
+    -40,
+    150,
+    70
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "WB",
+   "CN"
+  ],
+  "label": "PAN DE CAJA",
+  "cap": "CALIFORNIA 2027",
+  "txt": "Aquí está el detalle: en Estados Unidos, a nivel federal, todavía no está prohibido. Muchas panaderías dejaron de usarlo por su cuenta, pero sigue siendo legal en la mayor parte del país. El estado de California aprobó una ley que lo prohíbe a partir de 2027. Un mismo ingrediente: prohibido en un país, permitido en otro, y en camino de salir en un solo estado.",
+  "fx": {
+   "type": "map",
+   "title": "CALIFORNIA LO PROHÍBE EN 2027",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "CALIFORNIA · 2027",
+     "lon": -119.4,
+     "lat": 36.8
+    }
+   ],
+   "view": [
+    -126,
+    24,
+    -66,
+    50
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "AP@0-13",
+   "AP2"
+  ],
+  "label": "MANZANAS",
+  "cap": "#1",
+  "txt": "Y número uno. El pánico de las manzanas de 1989."
+ },
+ {
+  "src": [
+   "AP@0-13",
+   "AP2"
+  ],
+  "label": "MANZANAS",
+  "cap": "ALAR",
+  "txt": "Alar era el nombre comercial del daminozide, un químico que los productores de manzana rociaban en los árboles para que la fruta madurara de forma pareja, se mantuviera firme y no se cayera antes de tiempo. La mayoría de la gente nunca había oído hablar de él. Hasta que en febrero de 1989, el programa de televisión 60 Minutes transmitió un reportaje basado en un informe de un grupo ambientalista, que advertía sobre el riesgo de cáncer para los niños.",
+  "fx": {
+   "type": "headline",
+   "paper": "60 MINUTES · CBS",
+   "date": "FEBRERO 1989",
+   "headline": "UN QUÍMICO EN LAS MANZANAS: ¿RIESGO PARA LOS NIÑOS?",
+   "sub": "El reportaje que desató el pánico",
+   "stamp": "ALERTA",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "AP2",
+   "AP@0-13",
+   "SA@3-112"
+  ],
+  "label": "MANZANAS",
+  "cap": "EL PÁNICO",
+  "txt": "El pánico fue inmediato. Padres tiraron jugo de manzana a la basura, algunas escuelas sacaron las manzanas de sus comedores, y la venta de manzanas se desplomó. Los productores perdieron millones. Unos meses después, la empresa que fabricaba Alar, Uniroyal, dejó de venderlo para uso en alimentos, y la Agencia de Protección Ambiental prohibió su uso en cultivos de comida."
+ },
+ {
+  "src": [
+   "AP@0-13",
+   "AP2",
+   "SA@3-112"
+  ],
+  "label": "MANZANAS",
+  "cap": "EL DEBATE",
+  "txt": "Hasta hoy se discute si el miedo fue proporcional al riesgo real. Algunos científicos dijeron que la reacción fue exagerada; otros, que el químico debía salir del mercado. Pero el caso de Alar se volvió un ejemplo clásico de cómo la televisión, los padres asustados, el gobierno y toda una industria pueden chocar por una sola fruta.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CASO ALAR",
+   "left": [
+    "FEBRERO 1989",
+    "EL REPORTAJE"
+   ],
+   "right": [
+    "1989",
+    "SALE DE LOS ALIMENTOS"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "PR",
+   "TB",
+   "SL",
+   "HO"
+  ],
+  "label": "¿CUÁL RECUERDAS?",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Lo más curioso es lo normal que se sentía todo. Tab era el refresco de mamá, Pop Rocks era un reto entre amigos, Sweet'N Low estaba junto al café, y la lata de la despensa era solo una lata. Años después, unos ingredientes se prohibieron, otras recetas cambiaron, unas advertencias desaparecieron, y algunos productos simplemente se fueron. ¿Cuál de estos te regresa a tu infancia? Déjamelo en los comentarios, y suscríbete para más historias de los ochenta."
+ }
+]

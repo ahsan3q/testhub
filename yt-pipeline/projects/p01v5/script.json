@@ -1,0 +1,714 @@
+[
+ {
+  "src": [
+   "CF",
+   "NH"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "",
+  "txt": "Robert Mitchum estuvo en una cuadrilla de presos encadenados en Georgia y en una cárcel de Los Ángeles. Y en entrevista tras entrevista, lo contaba todo como si le hubiera pasado a otra persona, con media sonrisa y sin levantar la voz."
+ },
+ {
+  "src": [
+   "OP",
+   "TR"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "EL FORAJIDO",
+  "txt": "Ninguna celebridad contó historias de forajido como Robert Mitchum. Trenes de carga, cadenas en los tobillos, una celda, una pelea en un bar de Irlanda. Hoy vamos a recorrer su vida, contada como él la contaba, y separando lo que se puede comprobar de lo que él adornaba.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DE ROBERT MITCHUM",
+   "items": [
+    [
+     "1917",
+     "Nace en Connecticut"
+    ],
+    [
+     "1933",
+     "La cuadrilla de presos"
+    ],
+    [
+     "1948",
+     "El arresto"
+    ],
+    [
+     "1955",
+     "La noche del cazador"
+    ],
+    [
+     "1997",
+     "Muere a los 79"
+    ]
+   ],
+   "dur": 6
+  }
+ },
+ {
+  "src": [
+   "HB",
+   "CG"
+  ],
+  "label": "LA GRAN DEPRESIÓN",
+  "cap": "BRIDGEPORT · 1917",
+  "txt": "Nació en 1917 en Bridgeport, Connecticut. Su padre, un trabajador ferroviario, murió en un accidente en un patio de trenes antes de que Robert cumpliera dos años. Creció en plena Gran Depresión, y a los catorce ya viajaba de polizón en trenes de carga, de un estado a otro.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE EMPEZÓ TODO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Connecticut"
+   ],
+   "pins": [
+    {
+     "name": "BRIDGEPORT · 1917",
+     "lon": -73.19,
+     "lat": 41.19
+    }
+   ],
+   "view": [
+    -80,
+    37,
+    -68,
+    45
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HB",
+   "CG"
+  ],
+  "label": "LA GRAN DEPRESIÓN",
+  "cap": "UN VAGABUNDO",
+  "txt": "Según contaba él, un día llegó a casa y ya no había lugar para él en la mesa, así que se fue. Vivía como vagabundo: tocaba la puerta trasera de las casas y pedía un pedazo de pan. ¿Y el propósito de todo eso?, le preguntaron una vez. Ninguno, respondió. Solo seguir moviéndose.",
+  "fx": {
+   "type": "quote",
+   "text": "Ningún propósito. Solo seguir moviéndome.",
+   "by": "Robert Mitchum, sobre sus años de vagabundo",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "CG",
+   "HB"
+  ],
+  "label": "CUADRILLA DE PRESOS",
+  "cap": "SAVANNAH · 1933",
+  "txt": "En el verano de 1933, la policía de Savannah, Georgia, lo detuvo. Tenía quince años. Lo acusaron de vagancia, el delito de no tener dinero ni trabajo. Él contaba que incluso intentaron culparlo del robo de una zapatería, hasta que demostró que a esa hora ya estaba en la cárcel. El juez lo mandó a una cuadrilla de presos encadenados.",
+  "fx": {
+   "type": "map",
+   "title": "DE CONNECTICUT A GEORGIA",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Connecticut",
+    "Georgia"
+   ],
+   "pins": [
+    {
+     "name": "BRIDGEPORT",
+     "lon": -73.19,
+     "lat": 41.19
+    },
+    {
+     "name": "SAVANNAH · 1933",
+     "lon": -81.1,
+     "lat": 32.08
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -90,
+    28,
+    -66,
+    45
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "CG",
+   "CF2"
+  ],
+  "label": "CUADRILLA DE PRESOS",
+  "cap": "DOS VERSIONES",
+  "txt": "Y aquí empieza lo interesante: cómo salió de ahí dependía del año en que le preguntaras. En una entrevista dijo que simplemente se olvidaron de él. En otra, que le dispararon tiros de advertencia por encima de la cabeza mientras corría. Y años después contó una versión más tranquila: que después de una semana con grilletes, miró al horizonte y se fue caminando.",
+  "fx": {
+   "type": "compare",
+   "title": "¿CÓMO ESCAPÓ?",
+   "left": [
+    "VERSIÓN 1",
+    "TIROS DE ADVERTENCIA"
+   ],
+   "right": [
+    "VERSIÓN 2",
+    "SE FUE CAMINANDO"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HB",
+   "RS"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "DOROTHY",
+  "txt": "Lo que sí es seguro es que volvió a casa, a Delaware, con una pierna lastimada por los grilletes. Ese otoño conoció a Dorothy Spence. Ella tenía catorce años y él dieciséis, y él mismo admitía que un muchacho recién salido de una cuadrilla de presos no era lo que la madre de ella tenía en mente. Le prometió que volvería. Y volvió."
+ },
+ {
+  "src": [
+   "HB",
+   "LK"
+  ],
+  "label": "LOS ÁNGELES · AÑOS 30",
+  "cap": "CALIFORNIA",
+  "txt": "Primero se subió a otro tren de carga, rumbo al oeste, donde vivía su hermana. En California fue boxeador, cavó zanjas, y escribió canciones y textos para espectáculos. En 1940 volvió al este por Dorothy, y se casaron en marzo de ese año, en la cocina de la casa de un pastor, porque era el cuarto más caliente. Él pidió prestados dos dólares para la licencia.",
+  "fx": {
+   "type": "map",
+   "title": "EL VIAJE AL OESTE",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Delaware",
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "DELAWARE",
+     "lon": -75.53,
+     "lat": 39.16
+    },
+    {
+     "name": "LOS ÁNGELES",
+     "lon": -118.24,
+     "lat": 34.05
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -126,
+    24,
+    -66,
+    50
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "RS",
+   "NS"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "57 AÑOS",
+  "txt": "Y en una ciudad donde los matrimonios duraban meses, ese duró cincuenta y siete años, hasta la muerte de él. Hubo escándalos, rumores y separaciones temporales, pero Dorothy Mitchum fue su esposa durante toda su carrera.",
+  "fx": {
+   "type": "counter",
+   "value": 57,
+   "suffix": " AÑOS",
+   "label": "CASADO CON DOROTHY",
+   "sub": "De 1940 a 1997",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "LK",
+   "LK"
+  ],
+  "label": "LOCKHEED · 1940",
+  "cap": "LOCKHEED",
+  "txt": "De vuelta en California, el trabajo estable fue el turno de noche en Lockheed, la fábrica de aviones, en plena guerra. Y su pasado lo siguió hasta ahí: contaba que el FBI tuvo que revisar su historial, y apareció lo de Georgia. Después de un año de turnos nocturnos y casi sin dormir, perdió la vista durante unos días. Un médico le dijo que no tenía nada; simplemente odiaba ese trabajo."
+ },
+ {
+  "src": [
+   "B20",
+   "B20"
+  ],
+  "label": "HOPALONG CASSIDY · 1943",
+  "cap": "HOPALONG CASSIDY",
+  "txt": "Así que renunció, y en 1942 consiguió papeles pequeños en los westerns de Hopalong Cassidy, casi siempre como villano o como uno más de la banda. Hizo decenas de películas baratas en muy poco tiempo, y en 1944 el estudio RKO lo contrató.",
+  "fx": {
+   "type": "timeline",
+   "title": "DE LA FÁBRICA AL CINE",
+   "items": [
+    [
+     "1941",
+     "Lockheed, turno de noche"
+    ],
+    [
+     "1942",
+     "Hopalong Cassidy"
+    ],
+    [
+     "1944",
+     "Contrato con RKO"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "OP",
+   "PU"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "ROBERT MARSHALL",
+  "txt": "Y en RKO querían cambiarle el nombre. Él contaba que un productor del estudio quería llamarlo Robert Marshall, y que su esposa dijo que de ninguna manera. Se quedó como Mitchum. Ese mismo productor, Herman Schlom, hizo Nevada, su primer protagónico, y en los créditos decía: presentando a Bob Mitchum.",
+  "fx": {
+   "type": "compare",
+   "title": "EL NOMBRE QUE NO FUE",
+   "left": [
+    "ROBERT MARSHALL",
+    "LA IDEA DEL ESTUDIO"
+   ],
+   "right": [
+    "ROBERT MITCHUM",
+    "LA DECISIÓN DE DOROTHY"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "GI",
+  "label": "THE STORY OF G.I. JOE · 1945",
+  "cap": "G.I. JOE",
+  "txt": "En 1945 llegó la película que lo hizo estrella: The Story of G.I. Joe, sobre el corresponsal de guerra Ernie Pyle. Mitchum interpretó a un capitán de infantería agotado por la guerra, y justo entonces el ejército lo reclutó de verdad: pasó varios meses como soldado, trabajando como asistente médico, mientras la película se estrenaba. Ese papel le dio la única nominación al Óscar de toda su carrera."
+ },
+ {
+  "src": [
+   "GI",
+   "OP"
+  ],
+  "label": "THE STORY OF G.I. JOE · 1945",
+  "cap": "EL ÓSCAR",
+  "txt": "No fue a la ceremonia. Su explicación era muy suya: dijo que había votado por James Dunn, de Un árbol crece en Brooklyn, y que no iba a comprarse un esmoquin solo para eso. Y efectivamente, ganó James Dunn.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS DE LA ACADEMIA",
+   "date": "1946",
+   "headline": "ROBERT MITCHUM, NOMINADO AL ÓSCAR POR G.I. JOE",
+   "sub": "Fue la única nominación de su carrera",
+   "stamp": "NOMINADO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "OP",
+   "BS"
+  ],
+  "label": "OUT OF THE PAST · 1947",
+  "cap": "CINE NEGRO",
+  "txt": "En 1947 hizo Retorno al pasado, una de las grandes películas de cine negro, junto a Jane Greer y un joven Kirk Douglas. Esa película lo convirtió en protagonista de RKO, y en el rostro del detective cansado, con el sombrero caído y el cigarro en la boca."
+ },
+ {
+  "src": [
+   "PU",
+   "OP"
+  ],
+  "label": "PURSUED · 1947",
+  "cap": "CON Y SIN CABALLO",
+  "txt": "Y desde entonces cultivó una imagen: la del actor al que no le importaba nada. Se le atribuye una frase famosa sobre su técnica: que tenía dos estilos de actuación, con caballo y sin caballo. Pero los directores que trabajaron con él decían lo contrario: que llegaba sabiéndose no solo sus líneas, sino las de todos los demás, y que esa calma era puro oficio.",
+  "fx": {
+   "type": "compare",
+   "title": "SUS DOS ESTILOS",
+   "left": [
+    "CON CABALLO",
+    "WESTERNS"
+   ],
+   "right": [
+    "SIN CABALLO",
+    "TODO LO DEMÁS"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BS",
+   "HK"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "31 DE AGOSTO DE 1948",
+  "txt": "Y entonces, en la noche del treinta y uno de agosto de 1948, la policía entró a una casa en Laurel Canyon, en Los Ángeles, y lo arrestó junto a la actriz Lila Leeds, por posesión de marihuana. Fue noticia de primera plana en todo el país. Él contaba que llevaba siete minutos en la casa cuando tiraron la puerta.",
+  "fx": {
+   "type": "headline",
+   "paper": "LOS ANGELES · 1948",
+   "date": "1 DE SEPTIEMBRE DE 1948",
+   "headline": "ARRESTAN A ROBERT MITCHUM EN LAUREL CANYON",
+   "sub": "La estrella de RKO, acusada de posesión de marihuana",
+   "stamp": "ARRESTADO",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "HK",
+   "BS"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "PALM SPRINGS",
+  "txt": "Muchos creyeron que su carrera había terminado. No fue así. Lo condenaron a sesenta días, y pasó buena parte de ese tiempo en una granja penal, que él describió con una de sus frases más famosas: era como Palm Springs, pero sin la gentuza. Y años después, un tribunal anuló la condena.",
+  "fx": {
+   "type": "quote",
+   "text": "Es como Palm Springs, pero sin la gentuza.",
+   "by": "Robert Mitchum, sobre la granja penal (1949)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BS",
+   "HK"
+  ],
+  "label": "THE BIG STEAL · 1949",
+  "cap": "MÁS FANS",
+  "txt": "Y lo más curioso: el escándalo no lo hundió. Su película siguiente fue un éxito, y él decía que el arresto le había conseguido una cantidad enorme de fans nuevos. Ya no podía interpretar a boy scouts ni a predicadores, bromeaba. Lo que no sabía es que, unos años después, interpretaría a un predicador. Y sería el más aterrador del cine.",
+  "fx": {
+   "type": "counter",
+   "value": 60,
+   "suffix": " DÍAS",
+   "label": "LA CONDENA DE 1949",
+   "sub": "Después fue anulada",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "NH",
+  "label": "THE NIGHT OF THE HUNTER · 1955",
+  "cap": "EL PREDICADOR",
+  "txt": "En 1955, el actor Charles Laughton dirigió su única película: La noche del cazador. Y eligió a Mitchum para el papel de Harry Powell, un falso predicador asesino con las palabras amor y odio tatuadas en los dedos. Mitchum contaba que Laughton le dijo que el personaje era un ser totalmente despreciable, y que él contestó: presente."
+ },
+ {
+  "src": [
+   "NH",
+   "NH"
+  ],
+  "label": "THE NIGHT OF THE HUNTER · 1955",
+  "cap": "AMOR Y ODIO",
+  "txt": "En su estreno fue un fracaso, y Laughton nunca volvió a dirigir. Pero hoy La noche del cazador está considerada una de las mejores películas estadounidenses de todos los tiempos, y el Harry Powell de Mitchum, uno de los grandes villanos del cine.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS TATUAJES DE HARRY POWELL",
+   "left": [
+    "MANO DERECHA",
+    "L-O-V-E · AMOR"
+   ],
+   "right": [
+    "MANO IZQUIERDA",
+    "H-A-T-E · ODIO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "BA",
+   "HM"
+  ],
+  "label": "BLOOD ALLEY · 1955",
+  "cap": "DESPEDIDO",
+  "txt": "Ese mismo año, el director William Wellman lo despidió de la película Blood Alley. Circuló la historia de que había empujado a un empleado de la producción a la bahía de San Francisco. Él lo negó. Su reemplazo fue nada menos que John Wayne. Y dos años después, John Huston lo mandó a una isla del Pacífico con Deborah Kerr, para Solo Dios lo sabe, señor Allison."
+ },
+ {
+  "src": [
+   "HM",
+   "TR"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "CALYPSO",
+  "txt": "Y un dato que casi nadie conoce: Mitchum también cantaba. En 1957, después de filmar en el Caribe, grabó un disco completo de calipso, la música de Trinidad y Tobago, imitando el acento de la isla. Se llamó Calypso, Is Like So. Para muchos fue una rareza; para otros, la prueba de que podía hacer casi cualquier cosa sin que pareciera que se esforzaba.",
+  "fx": {
+   "type": "map",
+   "title": "EL DISCO DE CALIPSO",
+   "countries": [
+    "Trinidad and Tobago"
+   ],
+   "pins": [
+    {
+     "name": "TRINIDAD Y TOBAGO",
+     "lon": -61.22,
+     "lat": 10.65
+    }
+   ],
+   "view": [
+    -75,
+    5,
+    -55,
+    20
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "TR",
+   "TR2"
+  ],
+  "label": "THUNDER ROAD · 1958",
+  "cap": "THUNDER ROAD",
+  "txt": "En 1958 hizo su propia película: Thunder Road, sobre un contrabandista de whisky ilegal que maneja de noche por las montañas. La produjo, escribió la historia, ayudó a escribir la canción, que se volvió un éxito en la radio, y su hijo James interpretó a su hermano menor. Se volvió una película de culto en el sur de Estados Unidos.",
+  "fx": {
+   "type": "list",
+   "title": "THUNDER ROAD (1958)",
+   "items": [
+    "La produjo",
+    "Escribió la historia",
+    "Coescribió la canción",
+    "Su hijo actuó en ella"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CF",
+   "CF2"
+  ],
+  "label": "CAPE FEAR · 1962",
+  "cap": "MAX CADY",
+  "txt": "Y en 1962 volvió a Savannah, la ciudad que lo había encadenado de adolescente, para filmar El cabo del miedo, como Max Cady, un ex convicto que acosa a la familia del abogado que lo metió preso. Mitchum contaba que las señoritas de sociedad le preguntaban qué le parecía Savannah, y él respondía: es mi segunda vez aquí.",
+  "fx": {
+   "type": "map",
+   "title": "DE VUELTA A SAVANNAH",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Georgia"
+   ],
+   "pins": [
+    {
+     "name": "SAVANNAH · 1933 Y 1962",
+     "lon": -81.1,
+     "lat": 32.08
+    }
+   ],
+   "view": [
+    -87,
+    29,
+    -78,
+    36
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CF2",
+   "CF"
+  ],
+  "label": "CAPE FEAR · 1962",
+  "cap": "1991",
+  "txt": "Treinta años después, cuando Martin Scorsese hizo la nueva versión con Robert De Niro como Max Cady, Mitchum apareció en un pequeño papel, pero esta vez del lado de la ley: como teniente de policía.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CABO DEL MIEDO",
+   "left": [
+    "1962",
+    "MITCHUM ES MAX CADY"
+   ],
+   "right": [
+    "1991",
+    "MITCHUM ES POLICÍA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "PU",
+   "RS"
+  ],
+  "label": "EL DORADO · 1966",
+  "cap": "JOHN WAYNE",
+  "txt": "En 1966, Howard Hawks lo juntó con John Wayne en el western El Dorado, donde Mitchum era un sheriff borracho que tenía que recuperar la dignidad. Según contaba, Wayne le preguntaba cuándo lo iba a dejar dirigirlo, y él le contestaba que eso era lo único que Wayne hacía en el set: muévete, dilo así, haz esto. Y aun así, decía, se llevaban muy bien.",
+  "fx": {
+   "type": "compare",
+   "title": "EL DORADO (1966)",
+   "left": [
+    "JOHN WAYNE",
+    "EL PISTOLERO"
+   ],
+   "right": [
+    "ROBERT MITCHUM",
+    "EL SHERIFF BORRACHO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "PU",
+   "RS"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "PATTON",
+  "txt": "A finales de los sesenta, su nombre sonó para interpretar al general Patton. Por años no quiso hablar del tema. Mucho después contó que lo rechazó, y que sugirió a George C. Scott, alguien que de verdad pelearía por el personaje. George C. Scott ganó el Óscar por Patton, y lo rechazó.",
+  "fx": {
+   "type": "compare",
+   "title": "EL PAPEL DE PATTON",
+   "left": [
+    "MITCHUM",
+    "LO RECHAZÓ"
+   ],
+   "right": [
+    "GEORGE C. SCOTT",
+    "GANÓ EL ÓSCAR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "RD",
+  "label": "RYAN'S DAUGHTER · 1970",
+  "cap": "IRLANDA",
+  "txt": "El director David Lean lo quería para La hija de Ryan, como un maestro de escuela irlandés, tranquilo y callado. Según Mitchum, Lean le preguntó qué otros planes tenía, y él respondió que estaba pensando en suicidarse. Lean le dijo que si hacía primero la película, él con gusto pagaría su funeral. Mitchum aceptó.",
+  "fx": {
+   "type": "map",
+   "title": "LA HIJA DE RYAN",
+   "countries": [
+    "Ireland"
+   ],
+   "pins": [
+    {
+     "name": "PENÍNSULA DE DINGLE",
+     "lon": -10.27,
+     "lat": 52.14
+    }
+   ],
+   "view": [
+    -12,
+    50.5,
+    -4,
+    56
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "RD",
+   "HM"
+  ],
+  "label": "RYAN'S DAUGHTER · 1970",
+  "cap": "EL BAR",
+  "txt": "Y durante el rodaje en Irlanda nació otra de sus historias. En un bar, un irlandés agresivo lo confundió con Kirk Douglas y le dio un golpe. Mitchum contaba que solo le preguntó: ¿ya terminaste? Porque no le convenía seguir con esa costumbre, podía toparse con un actor que no supiera ni romper un huevo. Él decía que unas trescientas personas lo vieron."
+ },
+ {
+  "src": [
+   "FL",
+   "WW"
+  ],
+  "label": "FAREWELL, MY LOVELY · 1975",
+  "cap": "PHILIP MARLOWE",
+  "txt": "Ya mayor, siguió haciendo papeles memorables: el detective Philip Marlowe dos veces, en Adiós, muñeca y El sueño eterno, y un criminal cansado en Los amigos de Eddie Coyle. En 1983 protagonizó la miniserie Vientos de guerra, de más de catorce horas. Y sus hijos, James y Christopher, también se hicieron actores.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS AÑOS FINALES",
+   "items": [
+    [
+     "1973",
+     "Los amigos de Eddie Coyle"
+    ],
+    [
+     "1975",
+     "Adiós, muñeca"
+    ],
+    [
+     "1983",
+     "Vientos de guerra"
+    ],
+    [
+     "1987",
+     "Saturday Night Live"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "WW",
+   "FL"
+  ],
+  "label": "THE WINDS OF WAR · 1983",
+  "cap": "EL CONSEJO",
+  "txt": "¿Qué consejo les dio a sus hijos? Según él, solo dos: apréndanse sus líneas y no escriban a casa pidiendo dinero. Y una vez dijo que podían haber sido ladrones, siempre que no los atraparan, porque a él nadie lo había atrapado nunca actuando. Esa era su fama: hacía que todo pareciera sin esfuerzo.",
+  "fx": {
+   "type": "quote",
+   "text": "Apréndanse sus líneas y no escriban a casa pidiendo dinero.",
+   "by": "Robert Mitchum, a sus hijos actores",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "FL",
+   "WW"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "SATURDAY NIGHT LIVE",
+  "txt": "En 1987, a los sesenta y nueve años, fue el anfitrión de Saturday Night Live. En su monólogo bromeó con que no había mucho en el mundo que no hubiera visto, y todavía menos que no hubiera hecho, y que después de ese programa ya no le quedaría nada por hacer. Para un hombre que había sido vagabundo, preso, obrero de fábrica y estrella de cine, no era del todo una broma.",
+  "fx": {
+   "type": "counter",
+   "value": 69,
+   "suffix": " AÑOS",
+   "label": "ANFITRIÓN DE SNL",
+   "sub": "Saturday Night Live, 1987",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "FL",
+   "NS"
+  ],
+  "label": "ROBERT MITCHUM",
+  "cap": "1997",
+  "txt": "En 1992 recibió el premio Cecil B. DeMille de los Globos de Oro, por medio siglo de carrera. Y murió en su casa de California el primero de julio de 1997, a los setenta y nueve años. Al día siguiente murió James Stewart. Dos leyendas, dos días seguidos.",
+  "fx": {
+   "type": "timeline",
+   "title": "JULIO DE 1997",
+   "items": [
+    [
+     "1 DE JULIO",
+     "Muere Robert Mitchum"
+    ],
+    [
+     "2 DE JULIO",
+     "Muere James Stewart"
+    ]
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "NH",
+   "CF",
+   "OP",
+   "GI"
+  ],
+  "label": "¿CUÁL CREES?",
+  "cap": "¿CUÁL CREES?",
+  "txt": "Un vagabundo de quince años, un preso que escapó de una cuadrilla, un actor arrestado que salió más famoso, y el villano más aterrador del cine. Y nadie lo atrapó actuando. Entonces, ¿qué versión de la cuadrilla de presos te crees: los tiros de advertencia, o la caminata hacia el horizonte? Déjamelo en los comentarios, y suscríbete para más historias de las leyendas de Hollywood."
+ }
+]

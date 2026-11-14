@@ -1,0 +1,750 @@
+[
+ {
+  "src": [
+   "WD2",
+   "WD"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "",
+  "txt": "Durante veinte años, internet convirtió a Chuck Norris en un chiste. Decían que podía dividir entre cero, que las lágrimas de Chuck Norris curaban el cáncer, lástima que nunca llora. Pero los hombres que de verdad se pararon frente a él cuentan una historia muy distinta."
+ },
+ {
+  "src": [
+   "WD",
+   "OC"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "1940 - 2026",
+  "txt": "En marzo de 2026, Chuck Norris murió en Hawái, a los ochenta y seis años. Su familia lo anunció como una partida repentina, y dijo que murió en paz, rodeado de los suyos. Hoy vamos a recorrer su vida a través de lo que contaron sus rivales, sus compañeros y las leyendas que lo conocieron: la pelea con Bruce Lee, el campeón que nunca perdió su título, y el día que lo dejaron inconsciente en un tatami.",
+  "fx": {
+   "type": "headline",
+   "paper": "NOTICIAS · MARZO 2026",
+   "date": "MARZO DE 2026",
+   "headline": "MUERE CHUCK NORRIS A LOS 86 AÑOS",
+   "sub": "Leyenda de las artes marciales y del cine de acción",
+   "stamp": "1940-2026",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "KO",
+   "KD"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "CARLOS RAY",
+  "txt": "Su nombre real era Carlos Ray Norris. Nació el diez de marzo de 1940 en Ryan, un pueblo pequeño de Oklahoma, en una familia casi sin dinero. Su padre bebía, y a veces desaparecía durante meses. Su madre crió sola a Carlos y a sus hermanos, y la familia terminó mudándose a California.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE NACIÓ CARLOS RAY NORRIS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "pins": [
+    {
+     "name": "RYAN · 1940",
+     "lon": -97.95,
+     "lat": 34.02
+    }
+   ],
+   "view": [
+    -104,
+    30,
+    -90,
+    39
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "KD",
+   "KO"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "EL NIÑO TÍMIDO",
+  "txt": "Y aquí está lo que casi nadie sabe del hombre más rudo de internet: de niño era extremadamente tímido. Él mismo contó en una entrevista que su pelea más difícil no fue en un ring, sino contra su propia inseguridad. No era buen estudiante, no era buen atleta, y le costaba mirar a la gente a los ojos. Las artes marciales, decía, fueron lo que le cambió la vida.",
+  "fx": {
+   "type": "quote",
+   "text": "Mi pelea más difícil fue contra mi propia timidez.",
+   "by": "Chuck Norris, en una entrevista de televisión",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "KO",
+   "KO"
+  ],
+  "label": "COREA DEL SUR · AÑOS 50",
+  "cap": "COREA",
+  "txt": "En 1958 entró a la Fuerza Aérea de Estados Unidos, como policía militar, y lo mandaron a la base de Osan, en Corea del Sur. Ahí sus compañeros empezaron a llamarlo Chuck. Y ahí, en sus horas libres, entró a una escuela de Tang Soo Do, un arte marcial coreano. Volvió a casa con cinta negra.",
+  "fx": {
+   "type": "map",
+   "title": "DE CALIFORNIA A COREA",
+   "countries": [
+    "United States of America",
+    "South Korea"
+   ],
+   "pins": [
+    {
+     "name": "CALIFORNIA",
+     "lon": -118.3,
+     "lat": 33.8
+    },
+    {
+     "name": "BASE DE OSAN",
+     "lon": 127.03,
+     "lat": 37.09
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    100,
+    10,
+    260,
+    60
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "KD",
+   "KO"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "NORTHROP",
+  "txt": "Cuando dejó la Fuerza Aérea, en 1962, no había nada glamoroso en su vida. Trabajaba de día como empleado en la empresa aeronáutica Northrop, y en las noches daba clases de karate. Quería ser policía, y el karate era al principio una forma de prepararse. Pero las clases crecieron tanto que terminó abriendo su propia escuela en Torrance, California, y después varias más.",
+  "fx": {
+   "type": "map",
+   "title": "LA PRIMERA ESCUELA",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "TORRANCE",
+     "lon": -118.34,
+     "lat": 33.84
+    }
+   ],
+   "view": [
+    -125,
+    31,
+    -113,
+    42
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "KD",
+   "KK"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "CAMPEÓN",
+  "txt": "De regreso en California abrió una escuela de karate y empezó a competir en torneos. Y no empezó ganando: perdió varios de sus primeros torneos. Así que volvió a entrenar, más duro que nadie. En 1968 se convirtió en campeón mundial de karate de peso medio, y mantuvo ese título seis años seguidos, hasta que se retiró como campeón invicto.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL CAMPEÓN",
+   "items": [
+    [
+     "1958",
+     "Fuerza Aérea, Corea"
+    ],
+    [
+     "AÑOS 60",
+     "Su escuela de karate"
+    ],
+    [
+     "1968",
+     "Campeón mundial"
+    ],
+    [
+     "1974",
+     "Se retira invicto"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "KK",
+   "KD"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "SEIS AÑOS",
+  "txt": "Sus rivales de esos años lo recuerdan como un peleador de verdad. Bill Wallace, apodado Superfoot, el pie súper rápido, contó que una noche, antes de una pelea importante, no tenía quién lo asistiera en su esquina. Y en el vestidor aparecieron Chuck Norris, Joe Lewis y Mike Stone, tres campeones, para desearle suerte. Les pidió que fueran su esquina. Dijeron que sí. ¿Cómo iba a perder?",
+  "fx": {
+   "type": "counter",
+   "value": 6,
+   "suffix": " AÑOS",
+   "label": "CAMPEÓN MUNDIAL DE PESO MEDIO",
+   "sub": "De 1968 a 1974, sin perder el título",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "KD",
+   "KK"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "ALUMNOS FAMOSOS",
+  "txt": "Y sus escuelas se llenaron de gente famosa. Entre sus alumnos estuvieron Steve McQueen y su hijo Chad, Priscilla Presley, y los hermanos Donny y Marie Osmond. Para Hollywood, aprender karate con el campeón del mundo se volvió una moda.",
+  "fx": {
+   "type": "list",
+   "title": "SUS ALUMNOS FAMOSOS",
+   "items": [
+    "Steve McQueen",
+    "Chad McQueen",
+    "Priscilla Presley",
+    "Donny y Marie Osmond"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "KD",
+   "WD"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "DEAN MARTIN",
+  "txt": "Su primera aparición en el cine fue casi invisible. En 1968, el mismo año que se coronó campeón, tuvo un papel diminuto en una película de espías de Dean Martin, The Wrecking Crew, con apenas una línea de diálogo. Las peleas de esa película las coordinó un amigo suyo que todavía no era famoso: Bruce Lee.",
+  "fx": {
+   "type": "timeline",
+   "title": "SUS PRIMEROS PASOS EN EL CINE",
+   "items": [
+    [
+     "1968",
+     "The Wrecking Crew"
+    ],
+    [
+     "1972",
+     "El regreso del dragón"
+    ],
+    [
+     "1977",
+     "Breaker! Breaker!"
+    ],
+    [
+     "1978",
+     "Good Guys Wear Black"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "WD2",
+   "WD"
+  ],
+  "label": "WAY OF THE DRAGON · 1972",
+  "cap": "BRUCE LEE",
+  "txt": "En 1967, en un campeonato de karate en Nueva York, Chuck conoció a un joven artista marcial llamado Bruce Lee. Empezaron a entrenar juntos y se hicieron amigos. Años después, Bruce lo llamó: estaba haciendo una película y quería la pelea más grande de todas, entre los dos. Según contaba la familia Norris, Chuck preguntó: ¿y quién gana? Y Bruce le respondió: yo, es mi película."
+ },
+ {
+  "src": [
+   "WD",
+   "WD2"
+  ],
+  "label": "WAY OF THE DRAGON · 1972",
+  "cap": "EL COLISEO",
+  "txt": "La película fue El regreso del dragón, de 1972, y la pelea final se filmó en parte en el Coliseo de Roma. El presupuesto era tan pequeño que la llegada de Chuck se grabó en el aeropuerto real, con pasajeros reales. Y Bruce le pidió algo más: que subiera unos diez kilos, para verse más grande y más amenazante en pantalla.",
+  "fx": {
+   "type": "map",
+   "title": "LA PELEA EN EL COLISEO",
+   "countries": [
+    "Italy"
+   ],
+   "pins": [
+    {
+     "name": "COLISEO · ROMA",
+     "lon": 12.49,
+     "lat": 41.89
+    }
+   ],
+   "view": [
+    6,
+    36.5,
+    19,
+    47.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "WD",
+   "WD2"
+  ],
+  "label": "WAY OF THE DRAGON · 1972",
+  "cap": "EL PELO DEL PECHO",
+  "txt": "Y esa pelea tiene uno de los momentos más recordados del cine de artes marciales: en medio del combate, Bruce Lee le arranca a Chuck un mechón de pelo del pecho, lo sopla, y sigue peleando. Es una escena de pocos segundos, pero se convirtió en un símbolo de la película, junto con el gatito que observa toda la pelea desde las ruinas del Coliseo."
+ },
+ {
+  "src": [
+   "WD2",
+   "WD"
+  ],
+  "label": "WAY OF THE DRAGON · 1972",
+  "cap": "RÉCORD",
+  "txt": "El regreso del dragón fue escrita, dirigida y protagonizada por Bruce Lee, y se convirtió en un éxito enorme: rompió récords de taquilla en Hong Kong ese año. Para Chuck fue su presentación al mundo. Durante décadas, millones de personas lo conocieron primero como el villano que pierde contra Bruce Lee en el Coliseo.",
+  "fx": {
+   "type": "headline",
+   "paper": "HONG KONG · 1972",
+   "date": "1972",
+   "headline": "EL REGRESO DEL DRAGÓN ROMPE RÉCORDS DE TAQUILLA",
+   "sub": "Escrita, dirigida y protagonizada por Bruce Lee",
+   "stamp": "RÉCORD",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "WD2",
+   "WD"
+  ],
+  "label": "WAY OF THE DRAGON · 1972",
+  "cap": "¿QUIÉN ERA MEJOR?",
+  "txt": "Esa pelea hizo famoso a Chuck en todo el mundo. Pero Bruce Lee nunca compitió en torneos, y Chuck sí. Así que la pregunta siempre fue: fuera de las cámaras, ¿quién era mejor? Chuck siempre contestó lo mismo: que nunca pelearon de verdad, y que Bruce no necesitaba competir para ser famoso. Él sí lo necesitó. Bruce Lee murió un año después de filmar esa pelea, a los treinta y dos años.",
+  "fx": {
+   "type": "compare",
+   "title": "DOS CAMINOS",
+   "left": [
+    "BRUCE LEE",
+    "NUNCA COMPITIÓ"
+   ],
+   "right": [
+    "CHUCK NORRIS",
+    "CAMPEÓN DE TORNEOS"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "GG",
+   "OC"
+  ],
+  "label": "GOOD GUYS WEAR BLACK · 1978",
+  "cap": "STEVE McQUEEN",
+  "txt": "Uno de sus alumnos de karate era Steve McQueen, la estrella de cine. Y fue McQueen quien le dijo que dejara de dar clases y empezara a actuar. Chuck le dijo que no sabía actuar. McQueen le dijo que lo intentara de todas formas. En 1978 protagonizó Good Guys Wear Black, una película pequeña que fue un éxito inesperado.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ALUMNO Y EL MAESTRO",
+   "left": [
+    "STEVE McQUEEN",
+    "SU ALUMNO DE KARATE"
+   ],
+   "right": [
+    "CHUCK NORRIS",
+    "SU NUEVO ACTOR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "GG",
+   "OC"
+  ],
+  "label": "A FORCE OF ONE · 1979",
+  "cap": "SUPERFOOT",
+  "txt": "Y Bill Wallace contó otra historia. En 1978 estaba dando una clase de karate en Memphis, y de pronto Chuck Norris subió las escaleras y le preguntó si quería entrenar con él. Se pusieron guantes y protecciones, sacaron a todos del gimnasio, y pelearon durante unas dos horas. Nadie más vio lo que pasó. Poco después, Chuck le ofreció el papel del villano en su siguiente película, A Force of One.",
+  "fx": {
+   "type": "quote",
+   "text": "Nos pegamos durante dos horas. Y la pasamos increíble.",
+   "by": "Bill Wallace, sobre su entrenamiento con Chuck Norris",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "OC",
+   "MIA"
+  ],
+  "label": "THE OCTAGON · 1980",
+  "cap": "PELEADORES REALES",
+  "txt": "Esa era su forma de hacer cine: peleadores de verdad y golpes que se veían de verdad. Después vinieron The Octagon, en 1980, y Lone Wolf McQuade, en 1983, un western moderno en Texas que años después inspiraría a su personaje más famoso.",
+  "fx": {
+   "type": "timeline",
+   "title": "SUS PELÍCULAS DE ACCIÓN",
+   "items": [
+    [
+     "1972",
+     "El regreso del dragón"
+    ],
+    [
+     "1978",
+     "Good Guys Wear Black"
+    ],
+    [
+     "1980",
+     "The Octagon"
+    ],
+    [
+     "1983",
+     "Lone Wolf McQuade"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "OC",
+   "MIA"
+  ],
+  "label": "LONE WOLF McQUADE · 1983",
+  "cap": "DAVID CARRADINE",
+  "txt": "En Lone Wolf McQuade interpretó a un ranger de Texas solitario, y su rival fue David Carradine, la estrella de la serie Kung Fu. La pelea final entre los dos fue otro duelo de leyendas de las artes marciales en pantalla. Muchos críticos dicen que ese personaje fue el ensayo de lo que diez años después sería Walker.",
+  "fx": {
+   "type": "compare",
+   "title": "EL DUELO DE 1983",
+   "left": [
+    "CHUCK NORRIS",
+    "EL RANGER"
+   ],
+   "right": [
+    "DAVID CARRADINE",
+    "EL VILLANO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "MIA",
+   "DF"
+  ],
+  "label": "MISSING IN ACTION · 1984",
+  "cap": "LOS AÑOS 80",
+  "txt": "A mediados de los ochenta, Chuck Norris era la estrella de artes marciales más grande del mundo. Desaparecido en combate, en 1984. Invasión USA, en 1985. Y Delta Force, en 1986, junto a Lee Marvin. Eran películas de acción con bajo presupuesto y mucho éxito, y lo convirtieron en un héroe de los videoclubes.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA ERA DORADA",
+   "items": [
+    [
+     "1984",
+     "Missing in Action"
+    ],
+    [
+     "1985",
+     "Invasion U.S.A."
+    ],
+    [
+     "1986",
+     "Delta Force"
+    ],
+    [
+     "1986",
+     "Su propia caricatura"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "MIA",
+   "DF"
+  ],
+  "label": "MISSING IN ACTION · 1984",
+  "cap": "WIELAND",
+  "txt": "Pero detrás de Desaparecido en combate había una historia muy personal. Su hermano menor, Wieland Norris, murió en la guerra de Vietnam en 1970, durante una patrulla. Chuck dedicó la película a su memoria. Y su otro hermano, Aaron, trabajó con él durante décadas como doble, coordinador de acción, productor y director, incluida buena parte de la serie de Walker.",
+  "fx": {
+   "type": "headline",
+   "paper": "EN MEMORIA",
+   "date": "1970",
+   "headline": "WIELAND NORRIS MUERE EN VIETNAM",
+   "sub": "Chuck le dedicó Missing in Action (1984)",
+   "stamp": "EN MEMORIA",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "DF",
+   "MIA"
+  ],
+  "label": "THE DELTA FORCE · 1986",
+  "cap": "CANNON FILMS",
+  "txt": "Detrás de esas películas estaba Cannon Films, el estudio de los primos israelíes Menahem Golan y Yoram Globus, famoso por hacer cine de acción rápido y barato. Con Chuck Norris encontraron una mina de oro: varias de sus películas se filmaban casi una detrás de otra, y llenaban cines y videoclubes en todo el mundo, de Estados Unidos a América Latina.",
+  "fx": {
+   "type": "list",
+   "title": "CHUCK NORRIS Y CANNON FILMS",
+   "items": [
+    "Missing in Action",
+    "Invasion U.S.A.",
+    "The Delta Force",
+    "Firewalker"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "DF",
+   "KK"
+  ],
+  "label": "THE DELTA FORCE · 1986",
+  "cap": "KARATE KOMMANDOS",
+  "txt": "Fue tan famoso que en 1986 tuvo hasta su propia caricatura: Chuck Norris Karate Kommandos, donde él mismo aparecía en persona al final de cada capítulo para dar un mensaje a los niños. Y según contó su hijo Mike, por esos años un joven belga llegaba temprano a su casa todos los días, a veces durmiendo en su coche, solo para entrenar con su papá. Se llamaba Jean-Claude Van Damme.",
+  "fx": {
+   "type": "compare",
+   "title": "EL VISITANTE DE CADA MAÑANA",
+   "left": [
+    "CHUCK NORRIS",
+    "LA ESTRELLA"
+   ],
+   "right": [
+    "VAN DAMME",
+    "EL JOVEN BELGA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "WD2",
+   "KD"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "HÉLIO GRACIE",
+  "txt": "Pero la historia que mejor lo describe la contó él mismo. Entrenando jiu-jitsu brasileño con Hélio Gracie, un hombre veintisiete años mayor que él, Chuck lo derribó y se le montó encima. Gracie le dijo: pégame. Chuck no quería. Gracie insistió. Chuck echó la mano hacia atrás, y lo siguiente que recuerda es despertar en el tatami, estrangulado. No se fue enojado: volvió al tatami, y años después obtuvo su cinta negra en jiu-jitsu brasileño.",
+  "fx": {
+   "type": "map",
+   "title": "EL JIU-JITSU DE BRASIL",
+   "countries": [
+    "Brazil"
+   ],
+   "pins": [
+    {
+     "name": "RÍO DE JANEIRO",
+     "lon": -43.2,
+     "lat": -22.9
+    }
+   ],
+   "view": [
+    -75,
+    -35,
+    -34,
+    6
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "WT",
+   "WT2"
+  ],
+  "label": "WALKER, TEXAS RANGER · 1993",
+  "cap": "WALKER",
+  "txt": "En 1993, la cadena CBS le dio una serie: Walker, Texas Ranger. Duró ocho temporadas y cerca de doscientos episodios, y se transmitió en todo el mundo, incluida toda América Latina. Para millones de personas, Chuck Norris es, antes que nada, el ranger Cordell Walker.",
+  "fx": {
+   "type": "counter",
+   "value": 8,
+   "suffix": " TEMPORADAS",
+   "label": "WALKER, TEXAS RANGER",
+   "sub": "De 1993 a 2001, en la cadena CBS",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "WT2",
+   "WT"
+  ],
+  "label": "WALKER, TEXAS RANGER",
+  "cap": "LOS DOBLES",
+  "txt": "Los dobles de riesgo que recibían sus golpes en la serie lo recuerdan con cariño. Uno de ellos bromeaba que había peleado contra Chuck Norris decenas de veces y nunca le había tocado ni un pelo, porque Chuck controlaba cada golpe como un profesional. Y su coprotagonista, Sheree J. Wilson, contaba que hizo la audición sin saber que el protagonista sería Chuck.",
+  "fx": {
+   "type": "map",
+   "title": "EL RANGER DE TEXAS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Texas"
+   ],
+   "pins": [
+    {
+     "name": "DALLAS",
+     "lon": -96.8,
+     "lat": 32.78
+    }
+   ],
+   "view": [
+    -108,
+    24,
+    -92,
+    38
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "KD",
+   "WT"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "KICKSTART KIDS",
+  "txt": "Fuera de cámaras, en 1990 creó una fundación para enseñar artes marciales gratis en escuelas de Texas, hoy llamada KickStart Kids, para que niños con problemas aprendieran disciplina y confianza, lo mismo que el karate le había dado a él. Durante más de treinta años, decenas de miles de niños pasaron por ese programa.",
+  "fx": {
+   "type": "list",
+   "title": "KICKSTART KIDS",
+   "items": [
+    "Fundada en 1990",
+    "Clases gratis en escuelas",
+    "Disciplina y confianza",
+    "Más de 30 años"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "KK",
+   "DF"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "LOS DATOS",
+  "txt": "Y en 2005 internet lo descubrió. Empezaron los Chuck Norris Facts: chistes absurdos sobre su fuerza que se repitieron millones de veces y se volvieron uno de los primeros fenómenos virales. Al principio, según su familia, Chuck no sabía si se estaban burlando de él. Después conoció a los creadores, entendió que eran admiradores, y terminó disfrutándolos.",
+  "fx": {
+   "type": "headline",
+   "paper": "INTERNET · 2005",
+   "date": "2005",
+   "headline": "CHUCK NORRIS NO DUERME. ESPERA.",
+   "sub": "Uno de los primeros fenómenos virales",
+   "stamp": "VIRAL",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "DF",
+   "KK"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "THE EXPENDABLES 2",
+  "txt": "Y Chuck supo reírse de su propia leyenda. En 2012 apareció en Los Indestructibles 2, junto a Sylvester Stallone, Arnold Schwarzenegger y Bruce Willis, y en la película hasta repite uno de los chistes de internet sobre él. También creó su propio sistema de artes marciales, el Chun Kuk Do, que combinaba lo que había aprendido en toda su vida.",
+  "fx": {
+   "type": "compare",
+   "title": "EL HOMBRE Y LA LEYENDA",
+   "left": [
+    "CHUCK NORRIS",
+    "EL PELEADOR REAL"
+   ],
+   "right": [
+    "CHUCK NORRIS FACTS",
+    "EL CHISTE DE INTERNET"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "KK",
+   "DF"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "EL LIBRO",
+  "txt": "Y Chuck terminó adoptando el chiste. En 2009 publicó un libro con los datos de Chuck Norris que más le gustaban, y contó que su favorito era uno muy simple: que no existe la teoría de la evolución, solo una lista de especies a las que Chuck Norris permite vivir. Lo que empezó como una broma de internet terminó haciéndolo famoso para una generación que nunca había visto sus películas.",
+  "fx": {
+   "type": "quote",
+   "text": "No existe la evolución. Solo una lista de especies a las que Chuck Norris permite vivir.",
+   "by": "Su dato favorito, según el propio Chuck Norris",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "WT",
+   "KD"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "FAMILIA",
+  "txt": "En lo personal, se casó en 1998 con Gena O'Kelley, y en 2001 tuvieron gemelos, un niño y una niña. Y durante años apareció en los famosos comerciales de televisión de un aparato de ejercicio, junto a la modelo Christie Brinkley, ya con más de sesenta años y en una forma física que avergonzaba a muchos de veinte.",
+  "fx": {
+   "type": "timeline",
+   "title": "SU VIDA DESPUÉS DE WALKER",
+   "items": [
+    [
+     "1998",
+     "Se casa con Gena"
+    ],
+    [
+     "2001",
+     "Nacen sus gemelos"
+    ],
+    [
+     "2005",
+     "Los Chuck Norris Facts"
+    ],
+    [
+     "2012",
+     "Los Indestructibles 2"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "WD2",
+   "OC"
+  ],
+  "label": "CHUCK NORRIS",
+  "cap": "UN PELEADOR REAL",
+  "txt": "Pero los peleadores que lo conocieron nunca se rieron. Decían que Chuck salió a competir y se arriesgó de verdad, que ganó campeonatos antes de llegar al cine, y que nunca presumió de lo que no era. Nunca dijo que podía ganarle a Mike Tyson. Y fue uno de los primeros occidentales en recibir el octavo grado de cinta negra en taekwondo.",
+  "fx": {
+   "type": "bars",
+   "title": "LO QUE CHUCK NORRIS SÍ LOGRÓ",
+   "items": [
+    [
+     "AÑOS CAMPEÓN MUNDIAL",
+     6
+    ],
+    [
+     "TEMPORADAS DE WALKER",
+     8
+    ],
+    [
+     "GRADO EN TAEKWONDO",
+     8
+    ]
+   ],
+   "suffix": "",
+   "note": "Además de la cinta negra en jiu-jitsu brasileño",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "WD",
+   "WT",
+   "GG",
+   "KD"
+  ],
+  "label": "¿CUÁL ES TU FAVORITA?",
+  "cap": "¿CUÁL ES TU FAVORITA?",
+  "txt": "Un niño tímido de Oklahoma llamado Carlos, que encontró el karate en Corea, se volvió campeón invicto, peleó con Bruce Lee en el Coliseo, y terminó convertido en leyenda de internet. Pero los que se pararon frente a él siempre dijeron lo mismo: era real. ¿Cuál es tu película o recuerdo favorito de Chuck Norris? Déjamelo en los comentarios, y suscríbete para más historias de leyendas."
+ }
+]

@@ -1,0 +1,628 @@
+[
+ {
+  "src": [
+   "CC@30-1170",
+   "TL@60-420",
+   "CA@10-430"
+  ],
+  "label": "CARICATURAS DE 1959",
+  "cap": "",
+  "txt": "En 1959, la televisión estaba llena de caricaturas que casi nadie recuerda. Una usaba labios humanos reales sobre caras dibujadas. Otra es considerada una de las peores caricaturas de la historia. Una le dio a un burro un nombre que hoy se grita en los torneos de golf. Y otra estaba hecha con caricaturas de otros países que los niños estadounidenses nunca habían visto."
+ },
+ {
+  "src": [
+   "BH@10-370",
+   "EK@30-1360",
+   "CC2@30-1200"
+  ],
+  "label": "CARICATURAS DE 1959",
+  "cap": "5 CARICATURAS OLVIDADAS",
+  "txt": "Hoy vamos a viajar a 1959 para recordar cinco caricaturas de corta vida. Déjame en los comentarios cuál recuerdas, cuál merecía durar más, y cuál es mejor dejar en el olvido. Y quédate hasta el número uno, porque es la caricatura de la que casi no queda rastro.",
+  "fx": {
+   "type": "list",
+   "title": "1959 EN LA TELEVISIÓN",
+   "items": [
+    "Matty's Funday Funnies",
+    "Bucky and Pepito",
+    "Clutch Cargo",
+    "Quick Draw McGraw",
+    "Captain Sailor Bird"
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "QK@3-120",
+   "MF@30-1300"
+  ],
+  "label": "TELEVISIÓN · 1959",
+  "cap": "EL NEGOCIO",
+  "txt": "Pero primero, el contexto. A finales de los cincuenta, casi todos los hogares de Estados Unidos ya tenían televisión, y las caricaturas se habían vuelto el gancho perfecto para vender productos a los niños. Cereales, juguetes y dulces patrocinaban programas completos. Muchas de estas series no nacieron para contar una historia, sino para llenar un horario y vender.",
+  "fx": {
+   "type": "bars",
+   "title": "HOGARES CON TELEVISIÓN EN EE.UU.",
+   "items": [
+    [
+     "1950",
+     9
+    ],
+    [
+     "1955",
+     65
+    ],
+    [
+     "1959",
+     86
+    ]
+   ],
+   "suffix": "%",
+   "note": "Porcentaje aproximado de hogares",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "QK@3-120",
+   "MF@30-1300"
+  ],
+  "label": "TELEVISIÓN · 1959",
+  "cap": "LA SINDICACIÓN",
+  "txt": "Y muchas de estas series no se vendían a una gran cadena, sino directamente a canales locales de cada ciudad, en lo que se llamaba sindicación. Cada canal decidía cuándo pasarlas, a veces en medio de su propio programa infantil, con un presentador disfrazado. Por eso hay caricaturas de esa época que se vieron en todo el país, pero de las que casi no quedan registros oficiales.",
+  "fx": {
+   "type": "map",
+   "title": "LA SINDICACIÓN",
+   "countries": [
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "NUEVA YORK",
+     "lon": -74.0,
+     "lat": 40.7
+    },
+    {
+     "name": "CHICAGO",
+     "lon": -87.6,
+     "lat": 41.9
+    },
+    {
+     "name": "LOS ÁNGELES",
+     "lon": -118.2,
+     "lat": 34.05
+    },
+    {
+     "name": "DALLAS",
+     "lon": -96.8,
+     "lat": 32.8
+    }
+   ],
+   "view": [
+    -128,
+    23,
+    -65,
+    51
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "MF@30-1300",
+   "CA@10-430"
+  ],
+  "label": "MATTY'S FUNDAY FUNNIES · 1959",
+  "cap": "#5",
+  "txt": "Número cinco. Matty's Funday Funnies."
+ },
+ {
+  "src": [
+   "CA@10-430",
+   "MF@30-1300"
+  ],
+  "label": "CASPER · HARVEYTOONS",
+  "cap": "UN CATÁLOGO DE JUGUETES",
+  "txt": "Se estrenó el 11 de octubre de 1959 en la cadena ABC, los domingos por la tarde. Y el Matty del título no era un niño cualquiera: era Matty Mattel, la mascota animada de la empresa de juguetes Mattel, que patrocinaba el programa. Es decir, media hora de caricaturas que también era un enorme comercial de juguetes. Matty y su hermana Belle presentaban las caricaturas y anunciaban los productos de Mattel.",
+  "fx": {
+   "type": "headline",
+   "paper": "TV GUÍA",
+   "date": "11 DE OCTUBRE, 1959",
+   "headline": "MATTEL PATROCINA SU PROPIO PROGRAMA DE CARICATURAS",
+   "sub": "Los domingos por la tarde en ABC",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "MF@30-1300",
+   "CA@10-430"
+  ],
+  "label": "MATTY'S FUNDAY FUNNIES · 1959",
+  "cap": "BARBIE",
+  "txt": "Y 1959 fue un año enorme para Mattel. En marzo de ese mismo año lanzó una muñeca llamada Barbie, que se convertiría en el juguete más famoso del mundo. Mattel ya había sido una de las primeras empresas de juguetes en anunciarse todo el año en televisión, patrocinando el Club de Mickey Mouse desde 1955. Tener su propio programa de caricaturas era el siguiente paso lógico.",
+  "fx": {
+   "type": "timeline",
+   "title": "MATTEL Y LA TELEVISIÓN",
+   "items": [
+    [
+     "1955",
+     "Patrocina el Club de Mickey"
+    ],
+    [
+     "MAR 1959",
+     "Nace Barbie"
+    ],
+    [
+     "OCT 1959",
+     "Su propio programa"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "CA@10-430",
+   "BH@10-370"
+  ],
+  "label": "CASPER · HARVEYTOONS",
+  "cap": "CASPER",
+  "txt": "Las caricaturas venían de Famous Studios, el estudio de animación de Paramount, que había hecho cientos de cortos para el cine. Ahí estaban Casper, el fantasma amigable, Baby Huey, el pato gigante, y la pequeña Audrey. Si conociste a Casper de niño, probablemente fue gracias a programas como este. Y un detalle curioso: los títulos se volvieron a filmar con un nuevo nombre, Harveytoons, porque la editorial Harvey Comics había comprado los derechos de todos esos personajes."
+ },
+ {
+  "src": "CA@10-430",
+  "label": "CASPER · HARVEYTOONS",
+  "cap": "EL FANTASMA AMIGABLE",
+  "txt": "Casper tenía su propia historia. La idea nació a finales de los años treinta, de los escritores Seymour Reit y Joe Oriolo, y su primera caricatura llegó a los cines en 1945, con el título The Friendly Ghost. Un fantasma que no quería asustar a nadie, solo tener amigos. En América Latina también lo conocimos como Gasparín. Décadas después tuvo su propia película, en 1995."
+ },
+ {
+  "src": "BH@10-370",
+  "label": "BABY HUEY",
+  "cap": "BABY HUEY",
+  "txt": "Y Baby Huey era otra estrella del paquete: un patito gigante, enorme y torpe, con pañal, que no conocía su propia fuerza. Debutó en los cines en 1950, y su chiste siempre era el mismo: un zorro intentaba comérselo, y Huey, sin darse cuenta, lo dejaba destrozado. Décadas después, en los noventa, hasta tuvo su propio programa de televisión.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS PERSONAJES DE HARVEY",
+   "left": [
+    "CASPER",
+    "1945"
+   ],
+   "right": [
+    "BABY HUEY",
+    "1950"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BC@30-1150",
+   "MF@30-1300"
+  ],
+  "label": "BEANY AND CECIL · 1962",
+  "cap": "BEANY Y CECIL",
+  "txt": "El programa duró en ABC hasta diciembre de 1961, e incluso tuvo una versión en horario estelar. En enero de 1962 lo reemplazó otra serie de Mattel, con las creaciones de Bob Clampett: Beany y Cecil, la serpiente marina. Después, el programa original pasó a los canales locales con otro nombre, Casper and Company, ya sin la publicidad de Mattel. Dos años de vida, y muchas vidas después.",
+  "fx": {
+   "type": "timeline",
+   "title": "LAS VIDAS DE MATTY'S FUNDAY FUNNIES",
+   "items": [
+    [
+     "OCT 1959",
+     "Estreno en ABC"
+    ],
+    [
+     "1960",
+     "Versión en horario estelar"
+    ],
+    [
+     "ENE 1962",
+     "Llegan Beany y Cecil"
+    ],
+    [
+     "1962",
+     "Casper and Company"
+    ]
+   ],
+   "dur": 5.8
+  }
+ },
+ {
+  "src": "BP@30-45",
+  "label": "BUCKY AND PEPITO · 1959",
+  "cap": "#4",
+  "txt": "Número cuatro. Bucky and Pepito."
+ },
+ {
+  "src": "BP@30-45",
+  "label": "BUCKY AND PEPITO · 1959",
+  "cap": "LA PEOR",
+  "txt": "Esta es la caricatura con la peor reputación de la lista. Se estrenó en 1959, creada por Sam Singer. Bucky era un niño estadounidense con sombrero de vaquero que soñaba con ser un héroe del oeste, y Pepito, su amigo mexicano, un pequeño inventor. En cada episodio aparecía un villano, casi siempre un animal, y los niños intentaban vencerlo con los inventos de Pepito.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS PERSONAJES",
+   "left": [
+    "BUCKY",
+    "SUEÑA CON SER VAQUERO"
+   ],
+   "right": [
+    "PEPITO",
+    "EL INVENTOR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "BP@30-45",
+  "label": "BUCKY AND PEPITO · 1959",
+  "cap": "RÁPIDO Y BARATO",
+  "txt": "Se hizo rápido y barato: animación limitada, fondos reutilizados, y música y efectos de bibliotecas gratuitas. Hubo treinta y seis episodios, entre septiembre de 1959 y marzo de 1960. Décadas después, el historiador de animación Harry McCracken incluyó dos episodios en una colección de las peores caricaturas jamás hechas, y dijo que había puesto un estándar de lo malo que ninguna caricatura de televisión posterior había superado.",
+  "fx": {
+   "type": "headline",
+   "paper": "LAS PEORES CARICATURAS",
+   "date": "SEGÚN HARRY McCRACKEN",
+   "headline": "UN ESTÁNDAR DE LO MALO QUE NADIE HA SUPERADO",
+   "stamp": "LA PEOR",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "BP@30-45",
+  "label": "BUCKY AND PEPITO · 1959",
+  "cap": "DOMINIO PÚBLICO",
+  "txt": "Y hay que ser honestos: el personaje de Pepito ha sido criticado por basarse en estereotipos sobre los mexicanos, algo que hoy se ve de forma muy distinta. Un último dato: nadie renovó los derechos de autor de la serie, así que todos sus episodios pasaron al dominio público. La caricatura que debía desaparecer sigue circulando, gratis, por un error de papeleo.",
+  "fx": {
+   "type": "counter",
+   "value": 36,
+   "suffix": " EPISODIOS",
+   "label": "BUCKY AND PEPITO",
+   "sub": "Hoy en dominio público",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "CC@30-1170",
+   "CC2@30-1200"
+  ],
+  "label": "CLUTCH CARGO · 1959",
+  "cap": "#3",
+  "txt": "Número tres. Clutch Cargo."
+ },
+ {
+  "src": [
+   "CC@30-1170",
+   "CC2@30-1200"
+  ],
+  "label": "CLUTCH CARGO · 1959",
+  "cap": "9 DE MARZO, 1959",
+  "txt": "Se estrenó el 9 de marzo de 1959. La creó el caricaturista Clark Haas, y contaba las aventuras de Clutch Cargo, un aventurero que viajaba por el mundo con su joven ayudante Spinner y su perro salchicha Paddlefoot. Selvas, desiertos, barcos fantasma, piratas, castillos embrujados y hasta el abominable hombre de las nieves.",
+  "fx": {
+   "type": "map",
+   "title": "LAS AVENTURAS DE CLUTCH CARGO",
+   "countries": [
+    "Brazil",
+    "Egypt",
+    "Nepal",
+    "Greenland"
+   ],
+   "pins": [
+    {
+     "name": "SELVA",
+     "lon": -60,
+     "lat": -5
+    },
+    {
+     "name": "DESIERTO",
+     "lon": 30,
+     "lat": 26
+    },
+    {
+     "name": "HIMALAYA",
+     "lon": 86.9,
+     "lat": 28
+    },
+    {
+     "name": "ÁRTICO",
+     "lon": -40,
+     "lat": 72
+    }
+   ],
+   "route": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "view": [
+    -110,
+    -40,
+    140,
+    78
+   ],
+   "dur": 6.4
+  }
+ },
+ {
+  "src": "CC2@30-1200",
+  "label": "CLUTCH CARGO · 1959",
+  "cap": "5 CAPÍTULOS",
+  "txt": "Cada aventura se dividía en cinco capítulos de cinco minutos. Los cuatro primeros terminaban en suspenso, y el quinto cerraba la historia. Así, los canales podían pasar un capítulo cada día de la semana, y la aventura completa el sábado. Se hicieron cincuenta y dos aventuras en total."
+ },
+ {
+  "src": [
+   "CC@30-1170",
+   "CC2@30-1200"
+  ],
+  "label": "CLUTCH CARGO · 1959",
+  "cap": "LOS LABIOS",
+  "txt": "Pero lo más famoso de Clutch Cargo no era la historia, sino cómo se hacía. Por falta de dinero y de tiempo, usaron una técnica llamada Synchro-Vox: sobre la cara dibujada de cada personaje, pegaban la boca real de un actor filmada en video. Así que, cuando un personaje hablaba, veías un dibujo casi inmóvil con unos labios humanos moviéndose encima. Es extraño. Es inquietante. Y una vez que lo ves, no lo puedes olvidar.",
+  "fx": {
+   "type": "photo",
+   "src": "CC@35",
+   "focus": [
+    0.45,
+    0.55
+   ],
+   "zoom": 2.2,
+   "label": "LABIOS REALES · SYNCHRO-VOX",
+   "title": "LA TÉCNICA DE CLUTCH CARGO",
+   "r": 170,
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "CC2@30-1200",
+  "label": "CLUTCH CARGO · 1959",
+  "cap": "$18,000",
+  "txt": "Y no era el único truco. Para fingir acción, movían la cámara o los propios dibujos, y mezclaban filmaciones reales, como humo de verdad para las explosiones. Clark Haas presumía que su equipo podía hacer por unos dieciocho mil dólares lo que a Disney le costaría unos doscientos cincuenta mil. La música era de jazz, con bongós, vibráfono y flauta.",
+  "fx": {
+   "type": "bars",
+   "title": "EL COSTO, SEGÚN CLARK HAAS",
+   "items": [
+    [
+     "DISNEY",
+     250000
+    ],
+    [
+     "CLUTCH CARGO",
+     18000
+    ]
+   ],
+   "prefix": "$",
+   "note": "Por el mismo tipo de material animado",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "CC@30-1170",
+   "CC2@30-1200"
+  ],
+  "label": "CLUTCH CARGO · 1959",
+  "cap": "CULTO",
+  "txt": "La revista TV Guide criticó en 1960 todos esos atajos, y la llamó una especie de tira cómica para televisión. Pero la imaginación de las historias la convirtió en una caricatura de culto. Décadas después, la película Pulp Fiction la mostró en una televisión, y una nueva generación descubrió esos extraños labios humanos."
+ },
+ {
+  "src": [
+   "CC@30-1170",
+   "CC2@30-1200"
+  ],
+  "label": "CLUTCH CARGO · 1959",
+  "cap": "LA PARODIA",
+  "txt": "La técnica de los labios la había inventado Edwin Gillette, un camarógrafo de televisión, para comerciales con animales que hablaban. Y se volvió tan famosa por lo rara que se ve, que décadas después varios programas de comedia la imitaron, pegando labios reales sobre fotos de personajes famosos. El truco barato de 1959 se convirtió en un recurso de humor que todavía se reconoce."
+ },
+ {
+  "src": [
+   "TL@60-420",
+   "EK@30-1360"
+  ],
+  "label": "TIRO LOCO McGRAW",
+  "cap": "#2",
+  "txt": "Número dos. Quick Draw McGraw, conocido en América Latina como Tiro Loco McGraw."
+ },
+ {
+  "src": [
+   "QK@3-120",
+   "TL@60-420"
+  ],
+  "label": "QUICK DRAW McGRAW · KELLOGG'S",
+  "cap": "HANNA-BARBERA",
+  "txt": "Es el nombre más grande de esta lista. Fue la tercera serie de Hanna-Barbera, después de Ruff y Reddy y de Huckleberry Hound. Se estrenó el 28 de septiembre de 1959, y la patrocinaba Kellogg's. De hecho, los personajes también aparecían en comerciales de cereal. Cada programa tenía tres caricaturas: Tiro Loco McGraw, Augie Doggie y su papá, y Snooper y Blabber, un gato y un ratón detectives.",
+  "fx": {
+   "type": "list",
+   "title": "UN PROGRAMA, TRES CARICATURAS",
+   "items": [
+    "Tiro Loco McGraw",
+    "Augie Doggie y Doggie Daddy",
+    "Snooper y Blabber"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "TL@60-420",
+  "label": "TIRO LOCO McGRAW",
+  "cap": "EL SHERIFF",
+  "txt": "Tiro Loco era un caballo que hacía de sheriff en el viejo oeste, con un ayudante burro mexicano, Baba Looey, que casi siempre era el inteligente. El chiste se repetía: Baba Looey veía el error en el plan, intentaba advertirle, y Tiro Loco lo interrumpía diciendo que él era el que pensaba. Y el plan, por supuesto, fracasaba."
+ },
+ {
+  "src": "EK@30-1360",
+  "label": "EL KABONG",
+  "cap": "EL KABONG",
+  "txt": "Y luego estaba su identidad secreta: El Kabong, un héroe enmascarado que golpeaba a los villanos con una guitarra. El guionista Michael Maltese dijo que se inspiró en el Zorro de Douglas Fairbanks. La mayoría de las voces, incluidas las de Tiro Loco, Baba Looey, Augie y Snooper, las hacía un solo actor: Daws Butler. Un hombre, todo un elenco.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Kabong!",
+   "by": "El Kabong, el alter ego de Tiro Loco McGraw",
+   "dur": 3.8
+  }
+ },
+ {
+  "src": [
+   "TL@60-420",
+   "EK@30-1360"
+  ],
+  "label": "TIRO LOCO McGRAW",
+  "cap": "SNAGGLEPUSS",
+  "txt": "Y en este programa apareció por primera vez otro personaje famoso: Snagglepuss, el león rosado. Al principio era un villano en las caricaturas de Tiro Loco, y luego tuvo sus propios segmentos. Su frase para escapar, salida por la izquierda del escenario, se volvió una de las más recordadas de Hanna-Barbera."
+ },
+ {
+  "src": "TL@60-420",
+  "label": "TIRO LOCO McGRAW",
+  "cap": "AUGIE DOGGIE",
+  "txt": "Los otros segmentos también tenían su encanto. Doggie Daddy, el papá de Augie, tenía la voz del actor Doug Young imitando al comediante Jimmy Durante, y siempre terminaba diciendo lo orgulloso que estaba de su hijo. El programa original duró dos años, pero después CBS lo repitió los sábados por la mañana entre 1963 y 1966, y así lo conoció toda una nueva generación."
+ },
+ {
+  "src": [
+   "QD@40-1440",
+   "EK@30-1360"
+  ],
+  "label": "DAWS BUTLER Y DON MESSICK",
+  "cap": "DAWS BUTLER",
+  "txt": "Daws Butler y su compañero Don Messick grabaron incluso discos con las aventuras de estos personajes. Daws también hizo la voz del oso Yogui y de Huckleberry Hound. En total, el programa tuvo cuarenta y cinco episodios con ciento treinta y cinco segmentos, entre 1959 y 1961.",
+  "fx": {
+   "type": "counter",
+   "value": 135,
+   "suffix": " SEGMENTOS",
+   "label": "THE QUICK DRAW McGRAW SHOW",
+   "sub": "45 episodios · 1959-1961",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "QK@3-120",
+   "TL@60-420"
+  ],
+  "label": "HANNA-BARBERA",
+  "cap": "LA FÁBRICA",
+  "txt": "Para entender la importancia de esta serie hay que ver la carrera de Hanna-Barbera. En solo cuatro años pasaron de su primera serie de televisión a la primera caricatura en horario estelar. Tiro Loco McGraw fue uno de los escalones de esa subida. Un año después llegarían Los Picapiedra, y todo cambiaría para la animación en televisión.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL ASCENSO DE HANNA-BARBERA",
+   "items": [
+    [
+     "1957",
+     "Ruff y Reddy"
+    ],
+    [
+     "1958",
+     "Huckleberry Hound"
+    ],
+    [
+     "1959",
+     "Tiro Loco McGraw"
+    ],
+    [
+     "1960",
+     "Los Picapiedra"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "TL@60-420",
+   "EK@30-1360"
+  ],
+  "label": "TIRO LOCO McGRAW",
+  "cap": "BABA BOOEY",
+  "txt": "Pero lo más extraño pasó décadas después. El 26 de julio de 1990, en el programa de radio de Howard Stern, el productor Gary Dell'Abate intentó decir Baba Looey y le salió Baba Booey. Ese pequeño error se volvió leyenda: la frase se gritaba en transmisiones de noticias y en torneos de golf después de cada tiro. Un burro de caricatura de 1959 terminó siendo un chiste nacional treinta años después.",
+  "fx": {
+   "type": "headline",
+   "paper": "LA RADIO",
+   "date": "26 DE JULIO, 1990",
+   "headline": "BABA LOOEY SE CONVIERTE EN BABA BOOEY",
+   "sub": "Un error de un segundo que duró décadas",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "MF@30-1300",
+   "QK@3-120"
+  ],
+  "label": "TELEVISIÓN LOCAL · 1959",
+  "cap": "#1",
+  "txt": "Y número uno. Captain Sailor Bird."
+ },
+ {
+  "src": "MF@30-1300",
+  "label": "TELEVISIÓN LOCAL · 1959",
+  "cap": "UN PÁJARO PRESENTADOR",
+  "txt": "Es la caricatura de la que casi no queda rastro. Captain Sailor Bird se estrenó en 1959, y no funcionaba como una caricatura normal. No había héroe, ni villano, ni historia. El personaje principal, un pájaro marinero, solo aparecía para presentar otras caricaturas. Y esas caricaturas ni siquiera eran estadounidenses.",
+  "fx": {
+   "type": "map",
+   "title": "CARICATURAS DE OTROS PAÍSES",
+   "countries": [
+    "France",
+    "Czechia",
+    "Russia",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "EUROPA",
+     "lon": 15,
+     "lat": 50
+    },
+    {
+     "name": "ESTADOS UNIDOS",
+     "lon": -98,
+     "lat": 39
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -130,
+    10,
+    60,
+    70
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "MF@30-1300",
+   "QK@3-120"
+  ],
+  "label": "TELEVISIÓN LOCAL · 1959",
+  "cap": "EN PARTES",
+  "txt": "Eran películas animadas de otros países, editadas y dobladas al inglés por un hombre llamado Paul Killiam. Para muchos niños de 1959, fue la primera vez que vieron caricaturas de fuera de Estados Unidos. Y si una película duraba más de cinco minutos, simplemente la cortaban en partes y la pasaban durante varios días, como una caricatura por entregas."
+ },
+ {
+  "src": "MF@30-1300",
+  "label": "TELEVISIÓN LOCAL · 1959",
+  "cap": "RELLENO",
+  "txt": "¿Y por qué desapareció? No hay una historia de cancelación. No hubo escándalo ni malas audiencias famosas. Era relleno, en el mejor sentido: unos minutos de caricatura que los canales locales ponían donde tenían un hueco. Y cuando la televisión cambió, Captain Sailor Bird simplemente desapareció. Si lo recuerdas, eres parte de un club muy pequeño.",
+  "fx": {
+   "type": "compare",
+   "title": "CAPTAIN SAILOR BIRD",
+   "left": [
+    "1959",
+    "PRESENTA CARICATURAS EXTRANJERAS"
+   ],
+   "right": [
+    "HOY",
+    "CASI NO QUEDA RASTRO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "CA@10-430",
+   "CC@30-1170",
+   "TL@60-420",
+   "BC@30-1150"
+  ],
+  "label": "CARICATURAS DE 1959",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Una mascota de juguetes, la peor caricatura de la historia, unos labios humanos sobre dibujos, un caballo sheriff con guitarra, y un pájaro que presentaba caricaturas de otros países. Así era la televisión infantil de 1959. ¿Cuál de estas viste? ¿Y qué año visitamos después? Déjamelo en los comentarios, y suscríbete para más caricaturas olvidadas."
+ }
+]
