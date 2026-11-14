@@ -1,0 +1,312 @@
+[
+ {
+  "src": "HE",
+  "label": "THE MIGHTY HERCULES · 1963",
+  "cap": "",
+  "txt": "En 1963, las caricaturas del sábado por la mañana todavía eran una idea nueva. Los canales necesitaban llenar horas y horas de programación infantil, y los estudios se apresuraron a producir cualquier cosa que pudiera mantener a un niño frente al televisor. Algunas de esas series se volvieron clásicos. Otras desaparecieron casi sin dejar rastro."
+ },
+ {
+  "src": "MIX",
+  "label": "CARICATURAS DE 1963",
+  "cap": "5 CARICATURAS OLVIDADAS",
+  "txt": "Hoy vamos a viajar a 1963 para recordar cinco caricaturas de corta vida que formaron parte de la primera generación de la televisión infantil. Un héroe griego con un anillo mágico, un pingüino que aprendía ciencia, un fantasma amigable con episodios nuevos, un joven patriota con un perro que hablaba, y un niño astronauta que ayudó a nacer a uno de los estudios más importantes de la animación. Cuéntame en los comentarios cuál recuerdas, cuál merecía durar más, y cuál debería seguir olvidada."
+ },
+ {
+  "src": "TT",
+  "label": "TELEVISIÓN · 1961",
+  "cap": "UN VASTO PÁRAMO",
+  "txt": "Pero primero, un poco de contexto. En mayo de 1961, el presidente de la Comisión Federal de Comunicaciones de Estados Unidos, Newton Minow, dio un discurso que hizo temblar a la industria. Dijo que la televisión era un vasto páramo, un desierto lleno de violencia, comerciales y programas sin valor. Los canales sintieron la presión de ofrecer contenido más educativo. Y esa presión se nota en varias caricaturas de esta lista.",
+  "fx": {
+   "type": "quote",
+   "text": "La televisión es un vasto páramo.",
+   "by": "Newton Minow, presidente de la FCC, mayo de 1961",
+   "dur": 4.5
+  }
+ },
+ {
+  "src": "TT",
+  "label": "SÁBADOS POR LA MAÑANA",
+  "cap": "EL NEGOCIO",
+  "txt": "Y para entender por qué tantas series duraron tan poco, hay que entender el negocio. Las caricaturas del sábado eran baratas de producir en comparación con un programa con actores, y las empresas de cereales, dulces y juguetes estaban dispuestas a pagar mucho para llegar directamente a los niños. Así que los canales compraban series cortas, las repetían una y otra vez, y las reemplazaban en cuanto aparecía algo más nuevo. Muchas caricaturas de esa época no fracasaron por ser malas. Simplemente fueron sustituidas por la siguiente novedad."
+ },
+ {
+  "src": "HE",
+  "label": "THE MIGHTY HERCULES",
+  "cap": "#5",
+  "txt": "Número cinco. The Mighty Hercules."
+ },
+ {
+  "src": "HE",
+  "label": "THE MIGHTY HERCULES · 1963",
+  "cap": "SEPTIEMBRE DE 1963",
+  "txt": "Mucho antes de que los superhéroes dominaran la televisión, un héroe musculoso de la antigua Grecia volaba por las pantallas en episodios de solo cinco minutos. The Mighty Hercules estaba basada, muy libremente, en el héroe griego Heracles, pero usando su nombre romano. Se estrenó en sindicación en septiembre de 1963, y se mantuvo al aire hasta mayo de 1966, aprovechando la moda de las películas de espadas y sandalias que llenaban los cines en esos años."
+ },
+ {
+  "src": "HD",
+  "label": "ADVENTURE CARTOON PRODUCTIONS",
+  "cap": "GRIM NATWICK",
+  "txt": "La serie la produjo Adventure Cartoon Productions junto con Trans-Lux Television, la misma empresa que años después llevaría el anime Speed Racer a los televisores de Estados Unidos. El productor y director fue Joe Oriolo, y entre sus animadores había veteranos de la animación de Nueva York. Uno de ellos era Grim Natwick, el mismo animador que en 1930 había dibujado por primera vez a Betty Boop."
+ },
+ {
+  "src": "HD",
+  "label": "MONTE OLIMPO",
+  "cap": "EL ANILLO MÁGICO",
+  "txt": "La historia empezaba en el monte Olimpo. Hércules le ganaba a su amigo Teseo una carrera y una pelea de lucha, y como premio, su padre Zeus le concedía un deseo. Hércules pidió bajar a la Tierra para luchar contra el mal. Pero había una trampa: al salir del Olimpo perdería sus poderes divinos y sería un simple mortal. Así que Zeus le dio un anillo mágico. Cada vez que había peligro, Hércules se lo ponía, levantaba el puño, un rayo caía sobre el anillo, y recuperaba la fuerza de un dios."
+ },
+ {
+  "src": "HD",
+  "label": "THE MIGHTY HERCULES",
+  "cap": "",
+  "txt": "Hércules tenía un grupo de amigos muy peculiar. Y también enemigos que poco tenían que ver con la mitología.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PERSONAJES DE HÉRCULES",
+   "items": [
+    "Newton: un joven centauro que repetía todo",
+    "Tewt: un sátiro que solo hablaba con su flauta",
+    "Helena: su novia",
+    "Dédalo: ¡el villano principal!"
+   ],
+   "dur": 6
+  }
+ },
+ {
+  "src": "HD",
+  "label": "DÉDALO",
+  "cap": "UN VILLANO EXTRAÑO",
+  "txt": "Y aquí hay algo curioso. El villano principal era Dédalo, un brujo malvado que siempre andaba con su gato. Pero en los mitos griegos, Dédalo no era un villano: era un brillante inventor, el que construyó el laberinto del Minotauro y las alas de Ícaro. También aparecían una bruja del mar llamada Wilamene, y criaturas de los doce trabajos de Hércules, como el león de Nemea y la hidra."
+ },
+ {
+  "src": "HE",
+  "label": "THE MIGHTY HERCULES",
+  "cap": "128 EPISODIOS",
+  "txt": "En total se hicieron ciento veintiocho episodios de unos cinco minutos y medio cada uno. Los canales locales los mezclaban con otras caricaturas, o pasaban varios seguidos para llenar media hora. Y hay un detalle muy raro: la serie tuvo dos juegos de voces. En los primeros episodios, Newton sonaba como un adolescente con la voz quebrada. En los siguientes, de pronto tenía una voz aguda de caricatura. En un episodio de la primera temporada, la voz cambia a mitad de la historia.",
+  "fx": {
+   "type": "counter",
+   "value": 128,
+   "suffix": " EPISODIOS",
+   "label": "THE MIGHTY HERCULES",
+   "sub": "De unos 5 minutos y medio cada uno",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "HE",
+  "label": "JOHNNY NASH",
+  "cap": "",
+  "txt": "La música también tiene su historia. El tema de apertura lo cantaba Johnny Nash, el cantante que años después se haría famoso con la canción I Can See Clearly Now. Y la música estaba acreditada a Winston Sharples, que había pasado más de veinte años en Paramount componiendo para las caricaturas de Superman y Popeye. El himno dramático que sonaba cuando Hércules se ponía el anillo venía de una película de 1954, El escudo negro de Falworth."
+ },
+ {
+  "src": "HD",
+  "label": "JAPÓN · 1963",
+  "cap": "FUJI TV",
+  "txt": "La serie viajó lejos. En Japón se estrenó en noviembre de 1963 en Fuji Television, en un espacio de cinco minutos, seis días a la semana, con una versión del tema cantada por un coro de niños. Décadas después, en 2011, un DVD recopiló veinte episodios de la primera temporada. Y el animador Bruce Timm ha contado que el diseño de este Hércules inspiró al Superman de la serie animada de los noventa. Nada mal para una caricatura de cinco minutos que casi nadie recuerda.",
+  "fx": {
+   "type": "map",
+   "title": "HÉRCULES LLEGA A JAPÓN",
+   "countries": [
+    "United States of America",
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "NUEVA YORK · 1963",
+     "lon": -74.0,
+     "lat": 40.7
+    },
+    {
+     "name": "FUJI TV · TOKIO",
+     "lon": 139.7,
+     "lat": 35.7
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -175,
+    5,
+    175,
+    60
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "TT",
+  "label": "TENNESSEE TUXEDO",
+  "cap": "#4",
+  "txt": "Número cuatro. Tennessee Tuxedo and His Tales."
+ },
+ {
+  "src": "TT",
+  "label": "TENNESSEE TUXEDO · 1963",
+  "cap": "28 DE SEPTIEMBRE, 1963",
+  "txt": "Si alguna vez te preguntaste qué pasaría si una caricatura intentara enseñarte ciencia mientras te reías, esta es la respuesta. Tennessee Tuxedo and His Tales se estrenó en CBS el veintiocho de septiembre de 1963, y se transmitió los sábados por la mañana hasta 1966. La produjo Total Television, el mismo estudio de King Leonardo y del famoso Underdog. Y su patrocinador principal era General Mills, lo que muestra cuánto dinero ya ponían las empresas de cereal en la televisión infantil."
+ },
+ {
+  "src": "TT",
+  "label": "ZOOLÓGICO MEGALÓPOLIS",
+  "cap": "PINGÜINO Y MORSA",
+  "txt": "La serie seguía a Tennessee Tuxedo, un pingüino pequeño y muy seguro de sí mismo, y a su mejor amigo Chumley, una morsa no muy brillante. Vivían en el zoológico Megalópolis, dirigido por el gruñón Stanley Livingston y su ayudante Flunky. Y casi todos los episodios empezaban igual: Tennessee tenía un gran plan, Chumley dudaba, Tennessee le aseguraba que su mente brillante resolvería todo, y el plan fracasaba."
+ },
+ {
+  "src": "TT",
+  "label": "MR. WHOOPEE",
+  "cap": "LA PIZARRA 3D",
+  "txt": "Entonces corrían a ver a su amigo Phineas J. Whoopee, el hombre que lo sabía todo. Mister Whoopee abría un armario lleno de cachivaches, sacaba su pizarra tridimensional, y les explicaba cómo funcionaban las cosas: teléfonos, relojes, globos aerostáticos, cámaras, cohetes, helicópteros, rayos X y hasta las huellas digitales. Era una clase de ciencia disfrazada de caricatura. Y no era casualidad: después del discurso del vasto páramo, los canales necesitaban contenido educativo. Los guionistas hicieron que los alumnos fueran los personajes, para que los niños no sintieran que les estaban dando una clase."
+ },
+ {
+  "src": "TT",
+  "label": "DON ADAMS",
+  "cap": "",
+  "txt": "El reparto de voces era impresionante. Don Adams le dio a Tennessee su voz cortante, y poco después se haría famoso como el torpe agente secreto de la serie Get Smart. Larry Storch era Mister Whoopee, y Bradley Bolke era Chumley. En total hubo setenta episodios en tres temporadas. Y un par de bromas escondidas: el nombre del director del zoológico, Stanley Livingston, era un guiño a los famosos exploradores Stanley y Livingstone. Y Austin Russell, del programa El precio de la historia, tiene el apodo de Chumlee justamente por esta morsa.",
+  "fx": {
+   "type": "counter",
+   "value": 70,
+   "suffix": " EPISODIOS",
+   "label": "TENNESSEE TUXEDO",
+   "sub": "Tres temporadas · 1963–1966",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "CA",
+  "label": "CASPER",
+  "cap": "#3",
+  "txt": "Número tres. The New Casper Cartoon Show."
+ },
+ {
+  "src": "CA",
+  "label": "CASPER",
+  "cap": "1963",
+  "txt": "Casper, el fantasma amigable, es uno de los personajes más reconocidos de la animación. Pero su programa de los sábados por la mañana es mucho menos recordado que él. The New Casper Cartoon Show llegó a ABC en el otoño de 1963. Y tiene una historia curiosa: el estudio de caricaturas de Paramount ya le había vendido el personaje a Harvey Comics, pero volvió a producir veintiséis episodios nuevos de Casper solo para esta serie."
+ },
+ {
+  "src": "CA",
+  "label": "CASPER",
+  "cap": "26 EPISODIOS NUEVOS",
+  "txt": "Esos episodios nuevos se mezclaban con caricaturas antiguas de Paramount, así que el programa era una combinación de aventuras frescas de Casper con cortos reciclados. Todos los nuevos episodios fueron dirigidos por Seymour Kneitel, y la música era otra vez de Winston Sharples, el mismo compositor de The Mighty Hercules. En las historias, Casper se hacía amigo de un sauce llorón al que molestaban los otros árboles, ayudaba a un gigante solitario, y calmaba una guerra con marcianos después de que un niño marciano chocara su platillo volador contra una casa."
+ },
+ {
+  "src": "CA",
+  "label": "EL TRÍO FANTASMAL",
+  "cap": "",
+  "txt": "Aparecían también Wendy, la brujita buena, y el famoso Trío Fantasmal, los tíos que siempre querían asustar a todos, mientras Casper solo quería hacer amigos. El material nuevo se hizo en una sola temporada, entre 1963 y 1964. Pero ABC siguió repitiendo el programa durante seis temporadas, hasta enero de 1970. Por eso técnicamente duró años en televisión, aunque todo lo nuevo salió de un solo año. En 2011, los veintiséis episodios por fin salieron en DVD.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DEL NUEVO CASPER",
+   "items": [
+    [
+     "1963",
+     "26 episodios nuevos en ABC"
+    ],
+    [
+     "1964",
+     "Termina la producción"
+    ],
+    [
+     "1970",
+     "Últimas repeticiones en ABC"
+    ],
+    [
+     "2011",
+     "Llega al DVD"
+    ]
+   ],
+   "dur": 5.5
+  }
+ },
+ {
+  "src": "HH",
+  "label": "HECTOR HEATHCOTE",
+  "cap": "#2",
+  "txt": "Número dos. The Hector Heathcote Show."
+ },
+ {
+  "src": "HH",
+  "label": "HECTOR HEATHCOTE",
+  "cap": "",
+  "txt": "¿Y si una caricatura intentara enseñarte historia de Estados Unidos con un adolescente pelirrojo que siempre aparecía en el momento justo? Hector Heathcote era un personaje de Terrytoons que apareció por primera vez en 1959. Era un joven patriota de la época colonial que llegaba a los grandes momentos de la historia como un héroe desconocido, salvaba el día, y nunca recibía el crédito. Lo acompañaba su perro Winston, que hablaba con un ligero acento inglés, y su enemigo era un bravucón llamado Benedict, un chiste sobre Benedict Arnold, el traidor más famoso de la historia del país."
+ },
+ {
+  "src": "HT",
+  "label": "THE FIRST TELEPHONE · 1963",
+  "cap": "EL PRIMER TELÉFONO",
+  "txt": "Los títulos de sus cortos lo dicen todo: el cruce del Delaware, el primer correo rápido, una fiesta del té, y una campana para Filadelfia. En El primer teléfono, Hector trabaja como mensajero para el señor Benedict, pero está cansado de entregar mensajes bajo la lluvia. Así que habla a través de dos latas unidas por un hilo, y con ayuda de su perro Winston le agrega electricidad, inventando sin querer la comunicación a larga distancia. Y el señor Benedict intenta sabotearlo, porque el invento acabaría con su negocio de mensajeros."
+ },
+ {
+  "src": "HT",
+  "label": "NBC · 1963–1965",
+  "cap": "5 DE OCTUBRE, 1963",
+  "txt": "The Hector Heathcote Show se transmitió por NBC los sábados por la mañana, desde el cinco de octubre de 1963 hasta septiembre de 1965. Para llenar la media hora, incluía otras caricaturas, como Hashimoto, un ratón japonés, y Sidney, un elefante despistado. Y cada episodio terminaba con un detalle tierno que ya casi no se ve: una escena de Hector yéndose a dormir. El personaje tuvo loncheras, libros y juguetes. Pero su cómic de 1964 solo tuvo un número. Uno solo."
+ },
+ {
+  "src": "HH",
+  "label": "TERRYTOONS",
+  "cap": "",
+  "txt": "Lo más interesante es que entre los artistas de Terrytoons de esa época estaba un joven llamado Ralph Bakshi, que años después se convertiría en uno de los directores de animación más polémicos de los setenta, con películas como Fritz el gato. Una carrera que no se parece en nada a este patriota amable. Hoy, Hector Heathcote está casi completamente olvidado. Y si lo recuerdas, cuéntamelo en los comentarios, porque este parece haber desaparecido por completo."
+ },
+ {
+  "src": "RR",
+  "label": "ROD ROCKET",
+  "cap": "#1",
+  "txt": "Número uno. Rod Rocket."
+ },
+ {
+  "src": "RR",
+  "label": "ROD ROCKET · 1963",
+  "cap": "FILMATION",
+  "txt": "Nuestro número uno es una caricatura que ocupa un lugar importante en la historia de la animación, aunque casi nadie la recuerda. Rod Rocket se estrenó en sindicación en 1963, y fue la primera producción de Filmation. Sí, ese Filmation, el estudio que después sería famoso por Fat Albert, He-Man y Los Archies."
+ },
+ {
+  "src": "RR",
+  "label": "ROD ROCKET",
+  "cap": "",
+  "txt": "La historia de cómo nació es complicada. Un pequeño estudio de Los Ángeles llamado True Line subcontrató el trabajo a una compañía recién creada por Lou Scheimer y Hal Sutherland, que se habían conocido haciendo caricaturas de Bozo el payaso y de Popeye para televisión. Y ellos produjeron la serie para una empresa llamada SIB Productions. En otras palabras, uno de los estudios más importantes de las siguientes dos décadas comenzó con una caricatura espacial de cinco minutos."
+ },
+ {
+  "src": "RR",
+  "label": "EL PEQUEÑO ARGO",
+  "cap": "CLIFFHANGERS",
+  "txt": "Rod Rocket era un niño que viajaba por el espacio con su mejor amigo Joey, en una nave llamada el Pequeño Argo, enviados por un sabio inventor, el profesor Argus, mientras su nieta Cassie esperaba en casa. El formato era distinto: cada aventura se dividía en cinco segmentos de cinco minutos que terminaban en suspenso. Un canal podía pasar uno al día, o juntar los cinco en un programa semanal. En total se hicieron alrededor de sesenta y cinco segmentos. Y un dato curioso: el mismo actor, Sam Edwards, le daba voz a Rod y a Joey.",
+  "fx": {
+   "type": "compare",
+   "title": "ROD ROCKET HOY",
+   "left": [
+    "65",
+    "SEGMENTOS PRODUCIDOS"
+   ],
+   "right": [
+    "1",
+    "EPISODIO ENCONTRADO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "RR",
+  "label": "ROD ROCKET",
+  "cap": "¿POR QUÉ DESAPARECIÓ?",
+  "txt": "¿Por qué desapareció? Las caricaturas de cinco minutos eran comunes en los sesenta, pero eran fáciles de reemplazar. El espacio estaba de moda por la carrera espacial, así que había muchas series similares. Y Rod Rocket nunca tuvo juguetes, ni un tema musical famoso, ni cómics. Hoy es tan difícil de encontrar que solo se conoce un episodio completo. Pero su legado es enorme: sin este pequeño proyecto, Filmation quizá nunca habría nacido. Fue la primera ficha del dominó."
+ },
+ {
+  "src": "MIX",
+  "label": "¿DÓNDE VERLAS HOY?",
+  "cap": "ARCHIVOS",
+  "txt": "¿Y dónde se pueden ver hoy? Muchas de estas series sobreviven gracias a coleccionistas y archivos digitales, que han rescatado copias de cintas viejas y transmisiones de televisión. Algunas tienen ediciones en DVD, como Tennessee Tuxedo, que tuvo una colección completa en 2012, o los veintiséis episodios del nuevo Casper. Otras, como Rod Rocket, casi se perdieron por completo. Por eso cada episodio que aparece es un pequeño tesoro para los fanáticos de la animación clásica."
+ },
+ {
+  "src": "MIX",
+  "label": "CARICATURAS DE 1963",
+  "cap": "5 IDEAS DISTINTAS",
+  "txt": "Y así termina nuestro viaje a 1963. Cinco caricaturas, cinco ideas muy distintas: un héroe mitológico con un anillo mágico, un pingüino que aprendía ciencia por las malas, un fantasma amigable con una serie nueva, un joven patriota con un perro que hablaba, y un niño en un cohete que ayudó a lanzar a todo un estudio."
+ },
+ {
+  "src": "MIX",
+  "label": "",
+  "cap": "¿QUÉ AÑO SIGUE?",
+  "txt": "Dime en los comentarios cuál recordabas, y qué año quieres que cubramos después. Si te gustan estos viajes en el tiempo, suscríbete y activa las notificaciones. Nos vemos en el próximo episodio."
+ }
+]
