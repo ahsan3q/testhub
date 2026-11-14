@@ -1,0 +1,633 @@
+[
+ {
+  "src": [
+   "LB@20-700",
+   "OY3@0-200",
+   "SU2@3-104"
+  ],
+  "label": "COMIDAS DE LUJO",
+  "cap": "",
+  "txt": "Langosta, ostras, caviar, sushi. Hoy son comidas que la gente guarda para un aniversario o una ocasión especial. Pero durante siglos, muchas de ellas fueron comida de pobres. Comida de prisioneros. Incluso basura que se usaba como abono en el campo."
+ },
+ {
+  "src": [
+   "PF@90-600",
+   "OX@150-1000"
+  ],
+  "label": "COMIDAS DE LUJO",
+  "cap": "DE POBRES A RICOS",
+  "txt": "Hoy te traigo ocho comidas de lujo que antes eran baratísimas, y la historia de cómo cambiaron de mesa. En casi todos los casos, el ingrediente no cambió. Lo que cambió fue cuánto había, quién lo comía y la historia que alguien decidió contar sobre él. Quédate hasta el final, porque el último pasó de ser comida rápida callejera a costar cientos de dólares por persona."
+ },
+ {
+  "src": "LB@20-700",
+  "label": "PESCA DE LANGOSTA · 1945",
+  "cap": "#8",
+  "txt": "Número ocho. La langosta."
+ },
+ {
+  "src": [
+   "LB@20-700",
+   "LB2@20-800"
+  ],
+  "label": "PESCA DE LANGOSTA · 1945",
+  "cap": "BASURA DE LA PLAYA",
+  "txt": "Durante buena parte de la historia de Estados Unidos, la langosta era considerada comida de bajo nivel. En los siglos diecisiete y dieciocho, después de las tormentas, aparecían montañas de langostas en las playas de Nueva Inglaterra y de la costa atlántica de Canadá. Los colonos no veían una cena. Veían un problema. Los granjeros las usaban como abono para sus campos.",
+  "fx": {
+   "type": "map",
+   "title": "LA COSTA DE LAS LANGOSTAS",
+   "countries": [
+    "United States of America",
+    "Canada"
+   ],
+   "states": [
+    "Maine",
+    "Massachusetts"
+   ],
+   "pins": [
+    {
+     "name": "NUEVA INGLATERRA",
+     "lon": -70.2,
+     "lat": 43.7
+    },
+    {
+     "name": "NUEVA ESCOCIA · CANADÁ",
+     "lon": -63.6,
+     "lat": 44.65
+    }
+   ],
+   "view": [
+    -78,
+    39,
+    -58,
+    49
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "LB@20-700",
+  "label": "PESCA DE LANGOSTA · 1945",
+  "cap": "",
+  "txt": "Se cuenta que había sirvientes que pedían en su contrato que no les dieran langosta más de unas pocas veces por semana. Y que había leyes que prohibían dársela a los presos demasiado seguido, porque era un castigo cruel. Los historiadores han buscado esas leyes y nunca las han encontrado. Pero la historia sobrevive porque refleja algo real: la langosta era sinónimo de pobreza."
+ },
+ {
+  "src": [
+   "LB3@40-1400",
+   "LB@20-700"
+  ],
+  "label": "LA LANGOSTA",
+  "cap": "EL TREN",
+  "txt": "Lo que lo cambió todo no fue la langosta. Fue el tren. A mediados del siglo diecinueve, cuando las vías conectaron la costa con las ciudades del interior, mucha gente que nunca había visto una langosta la probó por primera vez en los vagones restaurante, como una novedad. Lo novedoso se volvió deseable. Y lo deseable se volvió caro. Los restaurantes la pusieron en manteles blancos, y empezaron a cobrarla a precio de mercado.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA LANGOSTA",
+   "items": [
+    [
+     "1600-1700",
+     "Abono para el campo"
+    ],
+    [
+     "1800s",
+     "Llega en tren al interior"
+    ],
+    [
+     "HOY",
+     "Plato de lujo"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "LB3@40-1400",
+   "LB2@20-800"
+  ],
+  "label": "LA LANGOSTA",
+  "cap": "BICHOS DE MAR",
+  "txt": "Y la vieja fama de la langosta no desapareció en todas partes. En Australia, a unos crustáceos muy parecidos todavía se les llama bugs, es decir, bichos, como la langosta de la bahía de Moreton. El nombre sobrevivió porque allá nunca se olvidó del todo que eran vistos como insectos de mar. El resto del mundo simplemente decidió olvidarlo, y empezó a pagar por ellos como si siempre hubieran sido un manjar."
+ },
+ {
+  "src": [
+   "OX@150-1000",
+   "OX2@250-1550"
+  ],
+  "label": "COLA DE RES",
+  "cap": "#7",
+  "txt": "Número siete. La cola de res."
+ },
+ {
+  "src": [
+   "OX@150-1000",
+   "OX2@250-1550"
+  ],
+  "label": "COLA DE RES",
+  "cap": "SOLO HUESO",
+  "txt": "Es literalmente la cola de la vaca. Casi todo hueso, con un anillo delgado de carne y mucho tejido conectivo alrededor. Durante siglos fue lo último que alguien quería comprar. Necesitaba horas de cocción para poder comerse, pero costaba casi nada y llenaba una olla. Por eso se volvió la base de guisos en comunidades pobres del Caribe, de África y de Europa."
+ },
+ {
+  "src": [
+   "OX2@250-1550",
+   "OX@150-1000"
+  ],
+  "label": "COLA DE RES",
+  "cap": "RABO DE TORO",
+  "txt": "En España tiene su propia versión famosa: el rabo de toro, sobre todo en Córdoba, un guiso que durante mucho tiempo se hacía con la cola de los toros de las corridas, porque era la parte que nadie más quería. Hoy aparece en las cartas de restaurantes elegantes, guisado en vino tinto durante horas. El mismo corte, otra mesa."
+ },
+ {
+  "src": [
+   "OX2@250-1550",
+   "OX@150-1000"
+  ],
+  "label": "COLA DE RES",
+  "cap": "",
+  "txt": "El guiso jamaiquino de cola de res, la sopa coreana, la coda alla vaccinara de Roma. Ninguno nació en un restaurante. Nacieron como formas de convertir un corte despreciado en algo delicioso. Y en muchas casas de América Latina, el caldo o la sopa de cola de res también fue durante generaciones una comida humilde, de domingo."
+ },
+ {
+  "src": [
+   "OX@150-1000",
+   "OX2@250-1550"
+  ],
+  "label": "COLA DE RES",
+  "cap": "UNA COLA POR VACA",
+  "txt": "Lo que la hacía tan trabajosa es justo lo que hoy la vuelve valiosa. El colágeno, al cocinarse lento, deja la salsa espesa y brillante. Cuando los chefs y las redes sociales descubrieron eso, la demanda subió más rápido de lo que los ganaderos podían responder. Y aquí está la matemática: solo hay una cola por animal. Cuando todos la quieren, el precio sube. Hoy cuesta más por kilo que muchos filetes.",
+  "fx": {
+   "type": "counter",
+   "value": 1,
+   "suffix": " COLA",
+   "label": "POR CADA VACA",
+   "sub": "Por eso el precio subió tanto",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "CV@8-45",
+   "SA@100-4200"
+  ],
+  "label": "ESTURIÓN",
+  "cap": "#6",
+  "txt": "Número seis. El caviar."
+ },
+ {
+  "src": "CV@8-45",
+  "label": "ESTURIÓN",
+  "cap": "",
+  "txt": "El caviar verdadero son las huevas saladas del esturión, un pez enorme y muy antiguo. Y en el siglo diecinueve, Estados Unidos estaba lleno de esturiones. El río Delaware, el Hudson, los ríos del noroeste del Pacífico. Las huevas eran un subproducto barato de la pesca. Hacia finales de ese siglo, Estados Unidos producía la mayor parte del caviar del mundo.",
+  "fx": {
+   "type": "map",
+   "title": "LOS RÍOS DEL CAVIAR",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York",
+    "New Jersey",
+    "Delaware",
+    "Pennsylvania"
+   ],
+   "pins": [
+    {
+     "name": "RÍO DELAWARE",
+     "lon": -75.2,
+     "lat": 40.0
+    },
+    {
+     "name": "RÍO HUDSON",
+     "lon": -73.95,
+     "lat": 41.7
+    }
+   ],
+   "view": [
+    -80,
+    37.5,
+    -70,
+    44
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "SA@100-4200",
+  "label": "SALOON BAR · 1940",
+  "cap": "GRATIS EN EL BAR",
+  "txt": "Era tan abundante y tan salado, que en muchos bares de Estados Unidos lo ponían gratis en la barra, junto a los pretzels. No como lujo, sino como truco. La sal daba sed, y la gente con sed pedía más cerveza. El caviar era, básicamente, una herramienta para vender cerveza."
+ },
+ {
+  "src": [
+   "CV@8-45",
+   "SA@100-4200"
+  ],
+  "label": "ESTURIÓN",
+  "cap": "LOS ZARES",
+  "txt": "Pero la pesca excesiva, las presas en los ríos y la contaminación acabaron con los esturiones de América del Norte a principios del siglo veinte. Y cuando el caviar estadounidense desapareció, llegó una nueva historia, importada de Europa: el caviar de los zares rusos, servido con cucharas de nácar porque el metal supuestamente afecta el sabor. El ingrediente no cambió. Cambió la escasez. Y escasez más una buena historia es todo lo que el lujo necesita.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CAVIAR",
+   "left": [
+    "GRATIS",
+    "EN LOS BARES DEL 1800"
+   ],
+   "right": [
+    "LUJO",
+    "CON CUCHARA DE NÁCAR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "CV@8-45",
+  "label": "ESTURIÓN",
+  "cap": "100 AÑOS",
+  "txt": "Y hay una razón más por la que el caviar se volvió tan caro: el esturión tarda muchísimo en reproducirse. Algunas especies pueden vivir más de cien años, y las hembras pueden tardar alrededor de veinte años en producir huevas. Si las pescas antes de tiempo, no hay reemplazo. Por eso varios esturiones salvajes están en peligro, y el comercio de algunos tipos de caviar está prohibido o muy controlado. Hoy, casi todo el caviar del mundo viene de granjas.",
+  "fx": {
+   "type": "counter",
+   "value": 20,
+   "prefix": "~",
+   "suffix": " AÑOS",
+   "label": "PARA QUE ALGUNAS HEMBRAS DEN HUEVAS",
+   "sub": "Por eso el esturión salvaje casi desaparece",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": "PB@20-800",
+  "label": "PANCETA DE CERDO",
+  "cap": "#5",
+  "txt": "Número cinco. La panceta de cerdo."
+ },
+ {
+  "src": "PB@20-800",
+  "label": "PANCETA DE CERDO",
+  "cap": "",
+  "txt": "La panceta es la parte de abajo del cerdo. Es el mismo corte que se convierte en tocino cuando se cura y se ahúma. Y cruda, es una plancha gruesa de capas de grasa y carne que necesita mucho tiempo para cocinarse bien. Durante el siglo diecinueve y casi todo el veinte, los cortes grasosos eran lo que comías cuando no podías pagar los magros. La panceta terminaba escondida en salchichas o hervida en casa."
+ },
+ {
+  "src": "PB@20-800",
+  "label": "PANCETA DE CERDO",
+  "cap": "DE LA NARIZ A LA COLA",
+  "txt": "Entonces, a partir de los años noventa, llegó un movimiento de chefs que defendía usar todas las partes del animal, de la nariz a la cola, y presentarlas con el mismo cuidado que un corte fino. La panceta se volvió su ejemplo favorito. Asada lentamente hasta que la grasa queda suave como seda, y terminada a fuego alto para que la piel quede crujiente. Un ingrediente de fondo se convirtió en el centro del plato, y en uno de los más caros del menú.",
+  "fx": {
+   "type": "compare",
+   "title": "LA PANCETA",
+   "left": [
+    "ANTES",
+    "ESCONDIDA EN SALCHICHAS"
+   ],
+   "right": [
+    "HOY",
+    "PLATO PRINCIPAL"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "PB@20-800",
+  "label": "PANCETA DE CERDO",
+  "cap": "ASIA",
+  "txt": "Aunque en Asia la historia es diferente. En China, el cerdo Dongpo, panceta cocida lentamente en salsa de soya y vino, tiene casi mil años de tradición. Y en Corea, la panceta asada a la parrilla en la mesa, el samgyeopsal, es uno de los platos más populares del país. En esas cocinas, la panceta nunca fue un corte despreciado. Occidente simplemente tardó siglos en darse cuenta."
+ },
+ {
+  "src": [
+   "OY@25-860",
+   "OY2@90-600"
+  ],
+  "label": "OSTRAS · AÑOS 30",
+  "cap": "#4",
+  "txt": "Número cuatro. Las ostras."
+ },
+ {
+  "src": "OY@25-860",
+  "label": "BAHÍA DE CHESAPEAKE · AÑOS 30",
+  "cap": "NUEVA YORK",
+  "txt": "Nueva York tenía tantas ostras, que con las conchas se pavimentaban calles, se reforzaban cimientos de edificios y se hacía cal para el mortero. Se calcula que el puerto de Nueva York tenía cientos de miles de acres de criaderos de ostras. Los vendedores las vendían en la calle por cubetas, a cualquiera que tuviera unos centavos. Eran relleno barato para pasteles y guisos.",
+  "fx": {
+   "type": "counter",
+   "value": 220000,
+   "suffix": " ACRES",
+   "label": "DE OSTRAS EN EL PUERTO DE NUEVA YORK",
+   "sub": "Según estimaciones históricas",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "OY@25-860",
+   "OY2@90-600"
+  ],
+  "label": "OSTRAS",
+  "cap": "LA ISLA DE LAS OSTRAS",
+  "txt": "Hay huellas de eso en la propia ciudad. Pearl Street, en el sur de Manhattan, debe su nombre según la tradición a las conchas de ostra que cubrían la zona. Y la isla Ellis, por donde entraron millones de inmigrantes, antes era conocida como una de las islas de las ostras. Hoy, un proyecto llamado Billion Oyster Project intenta devolver mil millones de ostras al puerto, no para comerlas, sino para limpiar el agua.",
+  "fx": {
+   "type": "map",
+   "title": "EL PUERTO DE LAS OSTRAS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York",
+    "New Jersey"
+   ],
+   "pins": [
+    {
+     "name": "PEARL STREET · MANHATTAN",
+     "lon": -74.01,
+     "lat": 40.705
+    },
+    {
+     "name": "ISLA ELLIS",
+     "lon": -74.04,
+     "lat": 40.699
+    }
+   ],
+   "view": [
+    -75.5,
+    39.8,
+    -72.5,
+    41.6
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "OY2@90-600",
+   "OY@25-860"
+  ],
+  "label": "OSTRAS",
+  "cap": "LA CAÍDA",
+  "txt": "Pero a finales del siglo diecinueve, el puerto se llenó de aguas negras, y la pesca excesiva acabó con los criaderos. Las pocas ostras que quedaban se volvieron sinónimo de contaminación, no de abundancia. Durante buena parte del siglo veinte, comerse una ostra de Nueva York era un riesgo real para la salud."
+ },
+ {
+  "src": "OY3@0-200",
+  "label": "BARRA DE OSTRAS",
+  "cap": "EL REGRESO",
+  "txt": "Y luego, a principios de los dos mil, las barras de ostras crudas regresaron con un vocabulario nuevo: el nombre de cada bahía impreso en el menú, como si fueran vinos, y comparaciones entre las ostras de la costa este y la del oeste. Hoy se comen con champaña y se pagan por pieza. Para volver a ser lujo, tuvieron que ser escasas, limpias y de origen conocido. Justo lo contrario de lo que fueron.",
+  "fx": {
+   "type": "timeline",
+   "title": "LAS OSTRAS",
+   "items": [
+    [
+     "1800s",
+     "Se venden por cubetas"
+    ],
+    [
+     "1900s",
+     "Contaminación"
+    ],
+    [
+     "2000s",
+     "Barras de lujo"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SR@99-1450",
+   "SR2@5-260"
+  ],
+  "label": "COSTILLAS DE RES",
+  "cap": "#3",
+  "txt": "Número tres. Las costillas cortas de res."
+ },
+ {
+  "src": [
+   "SR2@5-260",
+   "SR@99-1450"
+  ],
+  "label": "COSTILLAS DE RES",
+  "cap": "",
+  "txt": "Vienen de la parte baja de las costillas, donde se unen con el esternón. Tienen mucha grasa, un hueso grueso y bandas de tejido conectivo. No se pueden asar rápido: necesitan horas en líquido a fuego bajo hasta que la carne se deshace. Por eso eran baratas. Duras, con mucho hueso y mucho trabajo no eran exactamente un argumento de venta."
+ },
+ {
+  "src": [
+   "SR@99-1450",
+   "SR2@5-260"
+  ],
+  "label": "COSTILLAS DE RES",
+  "cap": "EL TIEMPO",
+  "txt": "Durante siglos, ese proceso era normal en las casas donde los cortes caros no estaban al alcance, y el tiempo era el único recurso que sobraba. Pero desde finales de los noventa, los restaurantes descubrieron que una costilla cocinada por horas, brillante, deshaciéndose sobre un puré, se ve y sabe a lujo. Y como el proceso toma tanto tiempo, los chefs tenían la justificación perfecta para cobrarla como un corte fino.",
+  "fx": {
+   "type": "counter",
+   "value": 12,
+   "suffix": " HORAS",
+   "label": "PUEDE TARDAR UN BUEN BRASEADO",
+   "sub": "Y por eso se cobra como corte fino",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "SR@99-1450",
+   "SR2@5-260"
+  ],
+  "label": "COSTILLAS DE RES",
+  "cap": "GALBI",
+  "txt": "Y en Corea, las costillas cortas tienen su propia fama: el galbi, costillas marinadas en salsa dulce y asadas. Cuando ese estilo llegó a ciudades como Los Ángeles, se volvió uno de los platos más buscados de la comida coreana en Estados Unidos. Así que el mismo corte duro y barato terminó viviendo dos vidas de lujo: una lenta, en el horno de un restaurante elegante, y otra rápida, en la parrilla de una mesa coreana."
+ },
+ {
+  "src": [
+   "FG@150-300",
+   "FG@500-680"
+  ],
+  "label": "FOIE GRAS · FRANCIA",
+  "cap": "#2",
+  "txt": "Número dos. El foie gras."
+ },
+ {
+  "src": [
+   "FG@150-300",
+   "FG@500-680"
+  ],
+  "label": "FOIE GRAS · FRANCIA",
+  "cap": "EGIPTO",
+  "txt": "El foie gras es el hígado de un pato o de un ganso, engordado mediante alimentación forzada. Es una práctica antiquísima: hay pinturas en tumbas egipcias de hace unos cuatro mil quinientos años que muestran a personas alimentando gansos a mano. Y lo que casi nadie cuenta es por qué la gente común lo hacía.",
+  "fx": {
+   "type": "map",
+   "title": "UNA PRÁCTICA ANTIGUA",
+   "countries": [
+    "Egypt",
+    "France"
+   ],
+   "pins": [
+    {
+     "name": "EGIPTO · ~2500 A.C.",
+     "lon": 31.2,
+     "lat": 30.0
+    },
+    {
+     "name": "ALSACIA · FRANCIA",
+     "lon": 7.75,
+     "lat": 48.58
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -10,
+    20,
+    45,
+    55
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FG@500-680",
+   "FG@150-300"
+  ],
+  "label": "FOIE GRAS · FRANCIA",
+  "cap": "",
+  "txt": "En partes de Europa, sobre todo entre las comunidades judías de Francia y Alsacia, los gansos se criaban principalmente por su grasa, que se usaba para cocinar en lugar de la manteca de cerdo. El hígado grande era un subproducto. Aprovecharlo no era un lujo: era no desperdiciar nada. Siglos después, la alta cocina francesa lo convirtió en terrinas y paté, servido en porciones pequeñas a precios de ocasión especial."
+ },
+ {
+  "src": [
+   "FG@150-300",
+   "FG@500-680"
+  ],
+  "label": "FOIE GRAS · FRANCIA",
+  "cap": "PROHIBIDO",
+  "txt": "Hoy, el foie gras está prohibido o restringido en varios lugares, como California, por el debate sobre el bienestar de los animales, y en otras ciudades y países la discusión sigue abierta. Y aun así, sigue siendo uno de los platos más caros de los restaurantes con estrellas Michelin del mundo.",
+  "fx": {
+   "type": "compare",
+   "title": "EL FOIE GRAS",
+   "left": [
+    "ANTES",
+    "UN SUBPRODUCTO"
+   ],
+   "right": [
+    "HOY",
+    "LUJO Y POLÉMICA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "SU@90-270",
+   "SU2@3-104"
+  ],
+  "label": "TOKIO",
+  "cap": "#1",
+  "txt": "Y número uno. El sushi."
+ },
+ {
+  "src": "SU2@3-104",
+  "label": "SUSHI",
+  "cap": "EL ARROZ",
+  "txt": "Primero, un detalle: sushi no significa pescado crudo. Lo que define al sushi es el arroz, sazonado con vinagre, sal y azúcar. Las primeras formas de sushi eran técnicas para conservar el pescado: se empacaba con arroz fermentado durante meses, y luego el arroz se tiraba. Solo se comía el pescado."
+ },
+ {
+  "src": [
+   "SU@90-270",
+   "SU2@3-104"
+  ],
+  "label": "TOKIO",
+  "cap": "COMIDA RÁPIDA",
+  "txt": "En el siglo diecinueve, en la ciudad de Edo, la actual Tokio, ese proceso se convirtió en algo muy distinto: el nigiri, un bocado de arroz con una rebanada de pescado encima, hecho en segundos y vendido en puestos callejeros. Los trabajadores lo comían de pie, entre un trabajo y otro, porque no tenían tiempo de sentarse. Era comida rápida en el sentido más literal.",
+  "fx": {
+   "type": "map",
+   "title": "EL ORIGEN DEL NIGIRI",
+   "countries": [
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "EDO · HOY TOKIO",
+     "lon": 139.69,
+     "lat": 35.69
+    }
+   ],
+   "view": [
+    128,
+    30,
+    146,
+    44
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "SU@90-270",
+   "SU2@3-104"
+  ],
+  "label": "TOKIO",
+  "cap": "HANAYA YOHEI",
+  "txt": "A un cocinero de esa época, Hanaya Yohei, se le atribuye haber popularizado el nigiri en la década de 1820. Su idea era simple: en lugar de esperar meses a que el pescado fermentara, usar pescado fresco de la bahía de Edo y arroz con vinagre, y servirlo al momento. Era más rápido, más barato y más sabroso. Exactamente lo que necesitaba una ciudad llena de trabajadores con prisa."
+ },
+ {
+  "src": "SU2@3-104",
+  "label": "SUSHI",
+  "cap": "OMAKASE",
+  "txt": "Hoy, el sushi tiene dos extremos. De un lado, las bandas giratorias y las bandejas del supermercado. Del otro, el omakase, que significa algo así como lo dejo en sus manos. No hay menú. Te sientas en una barra con otros diez o doce comensales, y el chef te sirve lo que llegó esa mañana del mercado de pescado. En las grandes ciudades de Estados Unidos, una cena así puede costar entre ciento cincuenta y trescientos dólares por persona. El mismo bocado que antes se comía de pie en la calle.",
+  "fx": {
+   "type": "compare",
+   "title": "EL SUSHI",
+   "left": [
+    "EDO 1800s",
+    "COMIDA DE PIE EN LA CALLE"
+   ],
+   "right": [
+    "$150-$300",
+    "OMAKASE POR PERSONA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SU2@3-104",
+   "SU@90-270"
+  ],
+  "label": "SUSHI",
+  "cap": "EL ATÚN RÉCORD",
+  "txt": "Y los precios del pescado también se volvieron legendarios. En 2019, en la primera subasta del año del mercado de pescado de Tokio, un solo atún rojo se vendió por más de trescientos treinta millones de yenes, unos tres millones de dólares. El comprador fue el dueño de una cadena de restaurantes de sushi. Del puesto callejero de Edo a la subasta más cara del mundo, en menos de doscientos años.",
+  "fx": {
+   "type": "counter",
+   "value": 3,
+   "prefix": "~$",
+   "suffix": " MILLONES",
+   "label": "POR UN SOLO ATÚN · 2019",
+   "sub": "Subasta de Año Nuevo en Tokio",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "PF@90-600",
+   "OX@150-1000",
+   "SR@99-1450"
+  ],
+  "label": "COMIDAS DE LUJO",
+  "cap": "LA FÓRMULA",
+  "txt": "Si te fijas, casi todas estas historias siguen la misma fórmula. Primero, un ingrediente abundante o despreciado que solo comen los pobres. Después, algo lo vuelve escaso: la contaminación, la pesca excesiva o simplemente que todos lo quieren al mismo tiempo. Y al final, alguien le cuenta al mundo una nueva historia sobre él: los zares, la tradición francesa, el chef famoso. Con esa receta, casi cualquier comida humilde puede terminar en un mantel blanco.",
+  "fx": {
+   "type": "list",
+   "title": "LA FÓRMULA DEL LUJO",
+   "items": [
+    "1. Abundante y barato",
+    "2. Se vuelve escaso",
+    "3. Una nueva historia",
+    "4. Precio de lujo"
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "LB@20-700",
+   "OY@25-860",
+   "PB@20-800",
+   "SU2@3-104"
+  ],
+  "label": "¿CUÁL TE SORPRENDIÓ?",
+  "cap": "¿CUÁL TE SORPRENDIÓ?",
+  "txt": "Langosta como abono, caviar gratis en los bares, calles pavimentadas con ostras y sushi comido de pie. Casi ninguna de estas comidas cambió. Cambió cuánto había, y la historia que se contó sobre ellas. Dime en los comentarios: ¿cuál de estas te sorprendió más? Y si te gustan estas historias de la comida, suscríbete, porque viene mucho más."
+ }
+]

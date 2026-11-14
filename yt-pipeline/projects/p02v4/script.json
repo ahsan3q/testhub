@@ -1,0 +1,508 @@
+[
+ {
+  "src": [
+   "RJ@100-3850",
+   "SL@60-2550"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "",
+  "txt": "Dublín, 1972. Un periodista le preguntó a Muhammad Ali si alguna vez subía al ring con miedo. Y el hombre más ruidoso del planeta admitió algo inesperado: estaba nervioso por todo lo que hablaba, porque después tenía que demostrarlo. Dijo que si perdía contra su rival de esa noche, no podría regresar a Estados Unidos. Tenía miedo de su propia boca."
+ },
+ {
+  "src": [
+   "TM@20-900",
+   "JF@100-3350"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "¿QUÉ TAN BUENO ERA?",
+  "txt": "Pero los hombres que estuvieron frente a él cuentan la historia a su manera. El golpe que George Foreman todavía escucha cincuenta años después. La noche en que Larry Holmes le rogó al árbitro que detuviera la pelea, y luego lloró en el vestidor de Ali. Y una llamada telefónica a un muchacho de catorce años que también lloraba. Quédate hasta el final para esa historia. Pero primero, los que dudan.",
+  "fx": {
+   "type": "quote",
+   "text": "Estoy nervioso por todo lo que hablo. Tengo que demostrarlo.",
+   "by": "Muhammad Ali, Dublín 1972",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "LS@10-610",
+   "FP@50-1750"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "LOS CRÍTICOS",
+  "txt": "Hay quienes no están convencidos. Floyd Mayweather ha dicho que Ali perdió contra Leon Spinks, un boxeador que solo tenía siete peleas profesionales, y que Ken Norton le dio tres batallas durísimas. Y el veterano entrenador Marshall Kaufman, que ha pasado su vida en gimnasios de boxeo, dice que su técnica tenía muchos defectos: no protegía la barbilla, peleaba con las manos abajo. Pero que se salía con la suya porque era rapidísimo."
+ },
+ {
+  "src": [
+   "GC@100-3500",
+   "FP@50-1750"
+  ],
+  "label": "ALI VS CHUVALO · 1972",
+  "cap": "VELOCIDAD",
+  "txt": "Manos abajo y la barbilla al aire. ¿Cómo se salía con la suya? Pregúntale a los que intentaron pegarle. El canadiense George Chuvalo peleó con él dos veces. Dijo que si tuviera que resumirlo en una palabra, sería velocidad. Velocidad de pies, velocidad de manos. El que más rápido golpeaba, y el que más rápido se movía de todos los que enfrentó. Y además, muy inteligente. El paquete completo.",
+  "fx": {
+   "type": "quote",
+   "text": "Si hay una palabra que lo resume, es velocidad.",
+   "by": "George Chuvalo, que peleó con Ali dos veces",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "ES@10-380",
+  "label": "ALI VS SHAVERS · 1977",
+  "cap": "ERNIE SHAVERS",
+  "txt": "Ernie Shavers fue quizá uno de los pegadores más fuertes de la historia. En 1977 conectó a Ali de lleno, y Ali empezó a hablarle en pleno combate: vamos, Ernie, abre los golpes, déjame ver cómo pegas. Shavers contó que entendió el truco: le estaba haciendo la guerra psicológica. Un bocón con suerte, o el más grande de todos. Entonces, ¿qué tan bueno era Muhammad Ali en realidad?"
+ },
+ {
+  "src": [
+   "CL@1-38",
+   "SB@3-125"
+  ],
+  "label": "CASSIUS CLAY · LOUISVILLE",
+  "cap": "LA LLAMADA",
+  "txt": "1958. Un cuarto de hotel en Louisville, Kentucky. El entrenador Angelo Dundee contestó el teléfono. Una voz joven le dijo: mi nombre es Cassius Marcellus Clay, gané los Guantes de Oro de Louisville, de Chicago, y voy a ganar los Juegos Olímpicos de 1960. Dundee no sabía quién era. Tapó el teléfono y le dijo a su compañero: hay un loco abajo que quiere hablar con nosotros.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE TODO EMPEZÓ",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Kentucky"
+   ],
+   "pins": [
+    {
+     "name": "LOUISVILLE · KENTUCKY",
+     "lon": -85.76,
+     "lat": 38.25
+    }
+   ],
+   "view": [
+    -91,
+    35,
+    -80,
+    41
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "SB@3-125",
+   "CL@1-38"
+  ],
+  "label": "CASSIUS CLAY · \"I AM THE GREATEST\" 1963",
+  "cap": "ROMA 1960",
+  "txt": "Dos años después, ese muchacho ganó la medalla de oro en los Juegos Olímpicos de Roma. Y empezó a hablar como nadie había hablado en el boxeo: con poemas, predicciones del asalto en que ganaría, y frases que los periodistas copiaban palabra por palabra. Flota como mariposa, pica como abeja.",
+  "fx": {
+   "type": "quote",
+   "text": "Flota como mariposa, pica como abeja.",
+   "by": "Cassius Clay",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "SL@60-2550",
+   "SL2@50-1950"
+  ],
+  "label": "CLAY VS LISTON · 1964",
+  "cap": "SACUDÍ AL MUNDO",
+  "txt": "A los veintidós años se enfrentó a Sonny Liston, el hombre más temido del boxeo, con las apuestas siete a uno en su contra. Liston no salió de su esquina para el séptimo asalto. Y el muchacho gritó: ¡sacudí al mundo! Días después anunció su nuevo nombre: Muhammad Ali.",
+  "fx": {
+   "type": "compare",
+   "title": "CLAY VS LISTON · 1964",
+   "left": [
+    "7 A 1",
+    "EN CONTRA DE CLAY"
+   ],
+   "right": [
+    "CAMPEÓN",
+    "A LOS 22 AÑOS"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "SL2@50-1950",
+   "FP@50-1750"
+  ],
+  "label": "ALI VS LISTON · 1965",
+  "cap": "¿CUÁL ES MI NOMBRE?",
+  "txt": "Muchos se negaron a llamarlo por su nuevo nombre. En 1967, el boxeador Ernie Terrell lo siguió llamando Cassius Clay antes de su pelea. Durante el combate, Ali lo castigó asalto tras asalto mientras le gritaba: ¿cuál es mi nombre? En la revancha contra Liston, en 1965, lo había noqueado en el primer asalto con un golpe tan rápido que muchos ni siquiera lo vieron, y que hasta hoy se conoce como el golpe fantasma.",
+  "fx": {
+   "type": "quote",
+   "text": "¿Cuál es mi nombre?",
+   "by": "Muhammad Ali a Ernie Terrell (1967)",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "ID@30-200",
+   "AK@10-90"
+  ],
+  "label": "MUHAMMAD ALI · 1968",
+  "cap": "VIETNAM",
+  "txt": "Y en abril de 1967, el ejército lo llamó para ir a Vietnam. Ali se negó a dar el paso al frente. Le quitaron el título, la licencia para pelear y el pasaporte. Tenía veinticinco años, los mejores años que puede tener un boxeador. Le ofrecieron hacer solo exhibiciones para las tropas. Igual dijo que no. Se le atribuye una frase que se volvió famosa: ningún vietcong me ha llamado nunca con insultos racistas.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL EXILIO",
+   "items": [
+    [
+     "ABR 1967",
+     "Se niega a ir a Vietnam"
+    ],
+    [
+     "1967-70",
+     "Sin licencia para pelear"
+    ],
+    [
+     "1971",
+     "La Corte Suprema le da la razón"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "ID@30-200",
+   "AK@10-90"
+  ],
+  "label": "MUHAMMAD ALI · 1968",
+  "cap": "3 AÑOS Y MEDIO",
+  "txt": "El basquetbolista Charles Barkley tenía cuatro años, y nunca olvidó cómo se explicaba Ali: en mi propio país no me dejan quedarme en los mismos hoteles, hay baños y bebederos separados, y ustedes quieren que vaya a matar a desconocidos. El entrenador Teddy Atlas dice que todavía no puede superar lo que eso le costó: tres años y medio fuera del ring, en la mejor etapa de su carrera.",
+  "fx": {
+   "type": "counter",
+   "value": 3,
+   "suffix": " AÑOS Y MEDIO",
+   "label": "SIN PODER PELEAR",
+   "sub": "En la mejor etapa de su carrera",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "ID@30-200",
+   "AK@10-90"
+  ],
+  "label": "MUHAMMAD ALI · 1968",
+  "cap": "LA CORTE SUPREMA",
+  "txt": "Durante esos años no pudo pelear, pero no se quedó callado. Daba conferencias en universidades, defendía su decisión y se convirtió en un símbolo para millones de jóvenes que estaban en contra de la guerra. En 1971, la Corte Suprema de Estados Unidos anuló su condena por unanimidad. Pero los años perdidos en el ring nunca se los devolvió nadie.",
+  "fx": {
+   "type": "counter",
+   "value": 8,
+   "suffix": " A 0",
+   "label": "LA DECISIÓN DE LA CORTE SUPREMA",
+   "sub": "1971 · anulan su condena",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "JF@100-3350",
+  "label": "ALI VS FRAZIER · 1971",
+  "cap": "LA PELEA DEL SIGLO",
+  "txt": "Cuando regresó, en 1971, se enfrentó a Joe Frazier en la llamada Pelea del Siglo, en el Madison Square Garden. Perdió por decisión. Fue su primera derrota como profesional. Y Joe Frazier nunca le encontró gracia a nada de lo que Ali decía de él antes de las peleas. Para Frazier, los insultos eran personales, y los iba a guardar durante décadas."
+ },
+ {
+  "src": [
+   "JF@100-3350",
+   "FP@50-1750"
+  ],
+  "label": "ALI VS FRAZIER · 1971",
+  "cap": "KEN NORTON",
+  "txt": "Y no fue la única pelea dura de esa época. En 1973, Ken Norton le rompió la mandíbula y le ganó por decisión. Ali siguió peleando con la mandíbula rota durante varios asaltos. Lo enfrentó tres veces en total, y muchos creen que Norton fue el rival cuyo estilo más le complicó la vida. Por eso los críticos de Ali siempre mencionan su nombre."
+ },
+ {
+  "src": [
+   "RJ@100-3850",
+   "BBC@80-2650"
+  ],
+  "label": "RUMBLE IN THE JUNGLE · 1974",
+  "cap": "ZAIRE",
+  "txt": "Para 1974, el campeón era George Foreman, de veinticinco años, invicto. Había tumbado a Frazier seis veces en dos asaltos. Había gente que de verdad temía que Ali pudiera morir en ese ring. Pero en África, en Zaire, todo el país estaba de su lado. Ali, bumaye, le gritaba la gente.",
+  "fx": {
+   "type": "map",
+   "title": "LA PELEA EN LA SELVA",
+   "countries": [
+    "Democratic Republic of the Congo"
+   ],
+   "pins": [
+    {
+     "name": "KINSHASA · 30 OCT 1974",
+     "lon": 15.27,
+     "lat": -4.32
+    }
+   ],
+   "view": [
+    0,
+    -20,
+    40,
+    10
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "RJ@100-3850",
+  "label": "RUMBLE IN THE JUNGLE · 1974",
+  "cap": "LAS CUERDAS",
+  "txt": "Durante siete asaltos, Ali se recargó en las cuerdas y dejó que el hombre más fuerte del mundo le pegara. Y hay un golpe que George Foreman nunca ha olvidado. Contó que lo golpeó tan fuerte cerca del cuello, que lo escuchó quejarse. Foreman dijo: él estaba tratando de ganar una pelea de boxeo. Yo estaba tratando de matarlo. En el octavo asalto, Ali salió de las cuerdas y Foreman cayó.",
+  "fx": {
+   "type": "quote",
+   "text": "Él trataba de ganar una pelea. Yo trataba de matarlo.",
+   "by": "George Foreman, sobre Zaire 1974",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "RJ@100-3850",
+   "BBC@80-2650"
+  ],
+  "label": "RUMBLE IN THE JUNGLE · 1974",
+  "cap": "SUGAR RAY",
+  "txt": "Y Ali nunca dejó de hablar, ni de aconsejar. En 1976, Sugar Ray Leonard estaba por volverse profesional, sobre todo para ayudar a su padre, que estaba muy enfermo. Ali le dio un consejo: Ray, sé tu propio hombre. Firma tus propios cheques. Cuídate de todos. Leonard dice que fue uno de los consejos más profundos que recibió."
+ },
+ {
+  "src": "TM@20-900",
+  "label": "THRILLA IN MANILA · 1975",
+  "cap": "MANILA",
+  "txt": "La tercera pelea contra Frazier fue en Manila, Filipinas, en 1975, con un calor asfixiante bajo las luces. Ali dijo después que fue lo más cercano a la muerte que había conocido. Su asistente Gene Kilroy contó que le ponían tanto hielo entre asaltos que casi se congela, mientras Frazier no tenía nada para el calor. Antes del último asalto, el entrenador de Frazier le preguntó cuántos dedos tenía levantados. Frazier ya no podía ver bien. Y su entrenador detuvo la pelea.",
+  "fx": {
+   "type": "map",
+   "title": "THRILLA IN MANILA",
+   "countries": [
+    "Philippines"
+   ],
+   "pins": [
+    {
+     "name": "MANILA · 1 OCT 1975",
+     "lon": 120.98,
+     "lat": 14.6
+    }
+   ],
+   "view": [
+    110,
+    4,
+    132,
+    22
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "LS@10-610",
+  "label": "ALI VS SPINKS II · 1978",
+  "cap": "TRES VECES",
+  "txt": "Debió retirarse ahí. Pero en 1978 perdió el título contra Leon Spinks, un hombre con solo siete peleas profesionales. Mayweather tenía razón en eso. Pero siete meses después, Ali lo recuperó en la revancha, y se convirtió en el primer hombre en ser campeón de peso pesado tres veces.",
+  "fx": {
+   "type": "counter",
+   "value": 3,
+   "suffix": " VECES",
+   "label": "CAMPEÓN DE PESO PESADO",
+   "sub": "El primero en lograrlo",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "LH@80-2900",
+  "label": "ALI VS HOLMES · 1980",
+  "cap": "LARRY HOLMES",
+  "txt": "Y luego, a los treinta y ocho años, con el habla ya más lenta, volvió una vez más contra Larry Holmes, quien había sido su compañero de entrenamiento. Holmes dice que estaba en una situación en la que no podía ganar: si vencía a Ali, todos dirían que Ali ya estaba viejo. Durante la pelea le pidió al árbitro que la detuviera. Ya no le pegaba fuerte. Solo quería que Ali se rindiera."
+ },
+ {
+  "src": "LH@80-2900",
+  "label": "ALI VS HOLMES · 1980",
+  "cap": "EL VESTIDOR",
+  "txt": "Ali no salió para el asalto once. Fue la única vez en su vida que perdió una pelea sentado en su banquillo. Y después, Holmes fue a buscarlo a su vestidor. Lo abrazó, le dio un beso y le dijo: tú siempre serás el más grande. Cuando un periodista le recordó que había llorado esa noche, Holmes se rió entre lágrimas: me vas a hacer llorar otra vez, y mi esposa me va a matar.",
+  "fx": {
+   "type": "quote",
+   "text": "Tú siempre serás el más grande.",
+   "by": "Larry Holmes a Ali, en el vestidor (1980)",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "LH@80-2900",
+   "SF@10-580"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "EL MUCHACHO",
+  "txt": "Esa noche, en el norte del estado de Nueva York, un muchacho de catorce años había visto la pelea con su entrenador, Cus D'Amato. Era Mike Tyson. Al día siguiente, Ali llamó a Cus, y Cus le pasó el teléfono al muchacho. Tyson cuenta que estaba llorando. Y le prometió a Ali: cuando yo crezca, voy a vengarte."
+ },
+ {
+  "src": [
+   "SF@10-580",
+   "LH@80-2900"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "LA PROMESA",
+  "txt": "El 22 de enero de 1988, Mike Tyson, ya campeón del mundo, peleó contra Larry Holmes. Antes de la pelea, Ali se le acercó en el ring y le dijo: dale una paliza por mí. Tyson le respondió: cuenta con eso. Tyson noqueó a Holmes en el cuarto asalto. La promesa de un niño de catorce años se cumplió.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA PROMESA DE TYSON",
+   "items": [
+    [
+     "OCT 1980",
+     "Holmes vence a Ali"
+    ],
+    [
+     "1980",
+     "Tyson, 14 años, promete vengarlo"
+    ],
+    [
+     "ENE 1988",
+     "Tyson noquea a Holmes"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "SF@10-580",
+   "AK@10-90"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "PARKINSON",
+  "txt": "Cuatro años después de la pelea contra Holmes, los médicos le diagnosticaron Parkinson. Tenía cuarenta y dos años. Pero nunca se escondió. En 1996, en los Juegos Olímpicos de Atlanta, con los brazos temblando, encendió el pebetero olímpico frente al mundo entero. Fue uno de los momentos más emotivos de la historia del deporte.",
+  "fx": {
+   "type": "map",
+   "title": "LA LLAMA OLÍMPICA",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Georgia"
+   ],
+   "pins": [
+    {
+     "name": "ATLANTA · 1996",
+     "lon": -84.39,
+     "lat": 33.75
+    }
+   ],
+   "view": [
+    -90,
+    29,
+    -78,
+    37
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "SF@10-580",
+   "SB@3-125"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "LA MEDALLA",
+  "txt": "Y en esos mismos Juegos de Atlanta pasó algo más. Durante años se contó que Ali había tirado su medalla de oro de Roma a un río, furioso porque en su ciudad no lo dejaron entrar a un restaurante por el color de su piel. Él mismo terminó admitiendo que en realidad la había perdido. En 1996, durante los Juegos, le entregaron una medalla de reemplazo. Treinta y seis años después, el campeón olímpico de Roma recuperó su oro.",
+  "fx": {
+   "type": "compare",
+   "title": "LA MEDALLA DE ORO",
+   "left": [
+    "1960",
+    "LA GANA EN ROMA"
+   ],
+   "right": [
+    "1996",
+    "SE LA DEVUELVEN EN ATLANTA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SF@10-580",
+   "BBC@80-2650"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "EL NIÑO",
+  "txt": "Gene Kilroy, su asistente, vio un lado de Ali que las cámaras casi nunca mostraban. Antes de la pelea contra Foreman, un padre llevó a su hijo, enfermo de leucemia, al campamento. Ali lo abrazó y le dijo: tú vas a vencer a la leucemia, y yo voy a vencer a George Foreman. Días después, el niño estaba muy grave en un hospital de Filadelfia. Ali fue a verlo."
+ },
+ {
+  "src": [
+   "SF@10-580",
+   "BBC@80-2650"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "",
+  "txt": "Según contó Kilroy, el niño gritó: campeón, sabía que vendrías. Ali le recordó su promesa: tú vas a vencer al cáncer, y yo voy a vencer a Foreman. Y el niño le respondió: no, Muhammad. Yo voy a ver a Dios. Y le voy a decir que tú eres mi amigo. Kilroy dice que esa vez él también lloró.",
+  "fx": {
+   "type": "quote",
+   "text": "Voy a ver a Dios, y le voy a decir que tú eres mi amigo.",
+   "by": "Un niño a Muhammad Ali, según Gene Kilroy",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "RJ@100-3850",
+   "SF@10-580"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "FOREMAN",
+  "txt": "Muhammad Ali murió el 3 de junio de 2016, a los setenta y cuatro años. Y el hombre que intentó matarlo en África se había convertido en algo muy distinto. George Foreman contó que con el tiempo se volvieron grandes amigos, que hablaban por teléfono y luego por videollamada, y que siempre competían hasta en cuántos nietos tenían. Dijo que Ali se convirtió en su amigo más querido."
+ },
+ {
+  "src": [
+   "SF@10-580",
+   "LS@10-610"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "LAILA",
+  "txt": "Y su legado siguió en su familia. Su hija Laila Ali se volvió boxeadora profesional, y se retiró invicta, con veinticuatro victorias y ninguna derrota. Una de sus hijas dice que lo que más aprendió de su padre fue que nunca hay que pisar a los demás para salir adelante. Y su viuda, Lonnie, lo describe como alguien que unía a las personas.",
+  "fx": {
+   "type": "compare",
+   "title": "LAILA ALI",
+   "left": [
+    "24",
+    "VICTORIAS"
+   ],
+   "right": [
+    "0",
+    "DERROTAS"
+   ],
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "SF@10-580",
+   "RJ@100-3850",
+   "TM@20-900"
+  ],
+  "label": "MUHAMMAD ALI",
+  "cap": "EL CORAZÓN",
+  "txt": "Una vez le preguntaron qué hace grande a un hombre. Respondió que un hombre es su corazón. Que un corazón mentiroso hace a un hombre mentiroso, y un corazón generoso hace a un hombre generoso. Y que sin importar su título, su dinero o su posición, si el corazón no es grande, el hombre no puede ser grande. Cincuenta y seis victorias, tres títulos de peso pesado, y la boca más ruidosa del deporte. Y respaldó cada una de sus palabras.",
+  "fx": {
+   "type": "compare",
+   "title": "MUHAMMAD ALI",
+   "left": [
+    "56",
+    "VICTORIAS"
+   ],
+   "right": [
+    "3",
+    "TÍTULOS DE PESO PESADO"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "RJ@100-3850",
+   "SL@60-2550",
+   "TM@20-900"
+  ],
+  "label": "¿QUÉ OPINAS?",
+  "cap": "¿QUÉ OPINAS?",
+  "txt": "En Dublín admitió que tenía miedo de tener que respaldar cada palabra. Las respaldó todas. Ahora dime tú en los comentarios: ¿Muhammad Ali fue el más grande de todos los tiempos? Y si te gustó esta historia, suscríbete, porque la próxima leyenda ya está en camino."
+ }
+]

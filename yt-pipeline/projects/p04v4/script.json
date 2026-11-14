@@ -1,0 +1,522 @@
+[
+ {
+  "src": [
+   "WH@20-470",
+   "FH@20-460"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "",
+  "txt": "Bugs Bunny es, para muchos, el personaje más astuto de la historia de la animación. Pero no lo diseñó un genio. Lo armaron, casi por accidente, cinco hombres distintos que no siempre se llevaban bien, dentro de un estudio tan pobre que sus propios animadores bautizaron el edificio con el nombre de las termitas que vivían en las paredes."
+ },
+ {
+  "src": [
+   "WT@20-450",
+   "SR@20-450"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "12 SECRETOS",
+  "txt": "Hoy te traigo doce secretos sobre el origen de Bugs Bunny, el conejo de la suerte, como lo conocimos en América Latina. Desde el pato al que le pusieron un disfraz de conejo, hasta la pelea por quién lo había creado, que duró décadas. Y quédate hasta el final, porque el conejo terminó con un rango militar más alto que muchos soldados. Dime en los comentarios cuál es tu caricatura favorita de Bugs."
+ },
+ {
+  "src": "PD@20-470",
+  "label": "PORKY'S DUCK HUNT · 1937",
+  "cap": "#12",
+  "txt": "Número doce. Empezó como un pato con disfraz de conejo."
+ },
+ {
+  "src": [
+   "PD@20-470",
+   "PH@20-460"
+  ],
+  "label": "PORKY'S DUCK HUNT · 1937",
+  "cap": "EL PATO",
+  "txt": "En 1937, el estudio de caricaturas de Warner Brothers ya tenía una estrella: el cerdito Porky. Ese año estrenaron Porky's Duck Hunt, donde Porky intentaba cazar a un pato loco que no se dejaba atrapar. Ese pato era la primera versión del Pato Lucas. Y la fórmula funcionó tan bien, que un año después el director Ben Hardaway decidió repetirla.",
+  "fx": {
+   "type": "timeline",
+   "title": "ANTES DE BUGS",
+   "items": [
+    [
+     "1937",
+     "Porky caza a un pato loco"
+    ],
+    [
+     "1938",
+     "Porky caza a un conejo loco"
+    ],
+    [
+     "1940",
+     "Nace Bugs Bunny"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "PH@20-460",
+  "label": "PORKY'S HARE HUNT · 1938",
+  "cap": "EL DISFRAZ",
+  "txt": "Según contó una compañera del estudio, Hardaway dijo que simplemente iba a ponerle un disfraz de conejo a ese pato. El resultado fue Porky's Hare Hunt, de 1938. Porky se enfrentaba a un conejo blanco sin nombre, que no se dejaba atrapar, no se callaba nunca, y que terminó robándole la caricatura al personaje principal. Ese conejo todavía no era Bugs. Pero era el comienzo.",
+  "fx": {
+   "type": "quote",
+   "text": "Le voy a poner un disfraz de conejo a ese pato.",
+   "by": "Ben Hardaway, según una compañera del estudio",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "PH@20-460",
+  "label": "PORKY'S HARE HUNT · 1938",
+  "cap": "#11",
+  "txt": "Número once. Su nombre era un apodo del jefe."
+ },
+ {
+  "src": [
+   "PH@20-460",
+   "HS@20-440"
+  ],
+  "label": "PORKY'S HARE HUNT · 1938",
+  "cap": "BUGS'S BUNNY",
+  "txt": "En el estudio le decían Happy Rabbit, el conejo feliz, porque nadie había decidido un nombre mejor. Hasta que en 1939, el dibujante Charles Thorson escribió en una hoja de diseño: el conejo de Bugs. Bugs era el apodo de Ben Hardaway, el director. Es decir, el conejo más famoso del mundo no se llamó así por una idea brillante, sino por una nota que decía de quién era el dibujo.",
+  "fx": {
+   "type": "compare",
+   "title": "EL NOMBRE",
+   "left": [
+    "BUGS",
+    "EL APODO DE BEN HARDAWAY"
+   ],
+   "right": [
+    "BUGS BUNNY",
+    "EL CONEJO DE BUGS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "PC@20-390",
+  "label": "PREST-O CHANGE-O · 1939",
+  "cap": "#10",
+  "txt": "Número diez. Lo reinventaron tres equipos distintos."
+ },
+ {
+  "src": [
+   "PC@20-390",
+   "HS@20-440"
+  ],
+  "label": "PREST-O CHANGE-O · 1939",
+  "cap": "CHUCK JONES",
+  "txt": "El conejo no pertenecía a un solo director. En 1939, Chuck Jones lo usó en Prest-O Change-O, donde era un conejo mágico, muy distinto al bromista que conocemos. Ese mismo año, Hardaway y Cal Dalton lo rediseñaron otra vez en Hare-um Scare-um. Para cuando Tex Avery tomó el personaje en 1940, el conejo ya había sido dibujado, con voz y reescrito por tres equipos que no seguían ningún plan común. No estaba evolucionando. Lo estaban reinventando una y otra vez."
+ },
+ {
+  "src": [
+   "HS@20-440",
+   "PH@20-460"
+  ],
+  "label": "HARE-UM SCARE-UM · 1939",
+  "cap": "#9",
+  "txt": "Número nueve. Nació en el estudio más pobre de Hollywood."
+ },
+ {
+  "src": [
+   "HS@20-440",
+   "PD@20-470"
+  ],
+  "label": "HARE-UM SCARE-UM · 1939",
+  "cap": "TERMITE TERRACE",
+  "txt": "El estudio de caricaturas de Warner lo manejaba un productor llamado Leon Schlesinger, que lo administraba como un negocio basado en no gastar. Contrataba animadores dispuestos a trabajar por sueldos de la Gran Depresión, y los puso en un pequeño edificio tan viejo y lleno de bichos que ellos mismos lo bautizaron como la Terraza de las Termitas. El apodo sobrevivió al edificio.",
+  "fx": {
+   "type": "map",
+   "title": "LA TERRAZA DE LAS TERMITAS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "HOLLYWOOD · LOS ÁNGELES",
+     "lon": -118.33,
+     "lat": 34.1
+    }
+   ],
+   "view": [
+    -124,
+    32,
+    -114,
+    38.5
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "HS@20-440",
+   "WT@20-450"
+  ],
+  "label": "HARE-UM SCARE-UM · 1939",
+  "cap": "CONTRA DISNEY",
+  "txt": "Disney tenía el color exclusivo de Technicolor, un estilo pulido y prestigio. Schlesinger no tenía nada de eso. Así que sus directores, Tex Avery, Chuck Jones, Bob Clampett y Friz Freleng, hicieron otra cosa: caricaturas rápidas, que se burlaban de sí mismas y hablaban directamente con el público. Disney vendía la ilusión de que sus personajes estaban vivos. Warner no tenía dinero para esa ilusión, así que la rompió.",
+  "fx": {
+   "type": "compare",
+   "title": "DOS ESTILOS",
+   "left": [
+    "DISNEY",
+    "LA ILUSIÓN DE LA VIDA"
+   ],
+   "right": [
+    "WARNER",
+    "ROMPER LA CUARTA PARED"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "WT@20-450",
+   "FH@20-460"
+  ],
+  "label": "WABBIT TWOUBLE · 1941",
+  "cap": "#8",
+  "txt": "Número ocho. La voz existe porque el jefe era tacaño."
+ },
+ {
+  "src": [
+   "MB@40-1700",
+   "WT@20-450"
+  ],
+  "label": "MEL BLANC",
+  "cap": "MEL BLANC",
+  "txt": "Mel Blanc llegó al estudio en 1936, y para cuando Bugs necesitó una voz fija, ya hacía decenas de personajes. Según la historia más conocida, Schlesinger no quería subirle el sueldo cada vez que aparecía un personaje nuevo, así que hicieron un trato: Blanc tendría su nombre en los créditos de pantalla, algo muy raro en esa época, en lugar de un aumento. Fue una de las decisiones baratas más importantes de la animación.",
+  "fx": {
+   "type": "quote",
+   "text": "Voz: Mel Blanc.",
+   "by": "El crédito que recibió en lugar de un aumento",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "WT@20-450",
+   "MB@40-1700"
+  ],
+  "label": "MEL BLANC",
+  "cap": "UNA SOLA VOZ",
+  "txt": "Porque así, un solo actor le dio voz a casi todos los grandes personajes de Warner durante décadas: Bugs, el Pato Lucas, Porky, Silvestre, Sam Bigotes y Piolín. Disney repartía sus voces entre muchos actores. Las caricaturas de Warner suenan como suenan, en parte, porque un productor quiso ahorrarse unos dólares. Y cuenta la leyenda que el ceceo de Lucas y de Silvestre se inspiró en la forma de hablar del propio Schlesinger.",
+  "fx": {
+   "type": "list",
+   "title": "UNA SOLA VOZ",
+   "items": [
+    "Bugs Bunny",
+    "Pato Lucas",
+    "Porky",
+    "Silvestre",
+    "Sam Bigotes",
+    "Piolín"
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PH@20-460",
+   "WT@20-450"
+  ],
+  "label": "MEL BLANC",
+  "cap": "ESO ES TODO",
+  "txt": "Y un detalle que muchos confunden: la famosa frase del final, eso es todo, amigos, no era de Bugs. Era la frase de Porky, el cerdito tartamudo, que la decía al cerrar las caricaturas. Bugs la usó algunas veces, pero el dueño original de la despedida era el personaje al que el conejo le robó el protagonismo en 1938."
+ },
+ {
+  "src": "WH@20-470",
+  "label": "A WILD HARE · 1940",
+  "cap": "#7",
+  "txt": "Número siete. Tex Avery le quitó lo loco."
+ },
+ {
+  "src": "WH@20-470",
+  "label": "A WILD HARE · 1940",
+  "cap": "TEX AVERY",
+  "txt": "Para 1940, el conejo había salido en varias caricaturas y ninguna había funcionado del todo. Era loco, como el Pato Lucas, gracioso pero sin forma. Así que el director Tex Avery no lo ajustó: lo reconstruyó. Junto al animador Virgil Ross, le quitaron la energía desesperada y le dieron calma. Un conejo relajado, despreocupado, que se acercaba al peligro con el sarcasmo seco de un comediante de Hollywood."
+ },
+ {
+  "src": "WH@20-470",
+  "label": "A WILD HARE · 1940",
+  "cap": "LA ZANAHORIA",
+  "txt": "Hasta la forma de comer la zanahoria tenía una inspiración. Según Friz Freleng, venía de un personaje de las comedias de esa época, un tipo listo que hablaba mientras masticaba con total tranquilidad. El gesto hacía que Bugs pareciera aburrido del peligro. Mientras un cazador lo apuntaba con una escopeta, él seguía masticando como si nada."
+ },
+ {
+  "src": "WH@20-470",
+  "label": "A WILD HARE · 1940",
+  "cap": "#6",
+  "txt": "Número seis. ¿Qué hay de nuevo, viejo?"
+ },
+ {
+  "src": "WH@20-470",
+  "label": "A WILD HARE · 1940",
+  "cap": "27 DE JULIO, 1940",
+  "txt": "Y entonces llegó la frase que nadie planeó. Tex Avery la puso en el guion casi sin pensarlo: what's up, doc?, una expresión que se usaba en Texas cuando él era niño. En América Latina la conocimos como ¿qué hay de nuevo, viejo? Cuando A Wild Hare se estrenó, el 27 de julio de 1940, la reacción del público a esa frase le dijo al estudio que ya no era un detalle. Era el personaje.",
+  "fx": {
+   "type": "quote",
+   "text": "¿Qué hay de nuevo, viejo?",
+   "by": "Bugs Bunny, desde A Wild Hare (1940)",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": "WH@20-470",
+  "label": "A WILD HARE · 1940",
+  "cap": "ELMER",
+  "txt": "A Wild Hare también fue la primera vez que Bugs se enfrentó al cazador Elmer Gruñón, el rival que lo acompañaría durante décadas. Elmer, con su escopeta y su forma de hablar cambiando las erres, era el contrapeso perfecto: un hombre torpe y persistente frente a un conejo tranquilo y astuto. La caricatura incluso fue nominada al Óscar. Desde ese momento, la fórmula de Bugs quedó fija."
+ },
+ {
+  "src": [
+   "WH@20-470",
+   "WT@20-450"
+  ],
+  "label": "A WILD HARE · 1940",
+  "cap": "",
+  "txt": "Y la voz hizo el resto. Cuando Mel Blanc vio los nuevos dibujos, no escuchó a un animal de caricatura. Escuchó a un tipo listo de ciudad, una mezcla del acento de Brooklyn y el Bronx, en Nueva York, al que no le importaba quién le estuviera apuntando. Por eso A Wild Hare se considera el verdadero debut de Bugs: no fue su primera aparición, pero fueron los ocho minutos en los que todo lo que otros habían construido por fin encajó.",
+  "fx": {
+   "type": "map",
+   "title": "EL ACENTO DE BUGS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York"
+   ],
+   "pins": [
+    {
+     "name": "BROOKLYN",
+     "lon": -73.95,
+     "lat": 40.65
+    },
+    {
+     "name": "EL BRONX",
+     "lon": -73.87,
+     "lat": 40.84
+    }
+   ],
+   "view": [
+    -75.2,
+    40.0,
+    -72.6,
+    41.4
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "FH@20-460",
+   "SR@20-450"
+  ],
+  "label": "FALLING HARE · 1943",
+  "cap": "#5",
+  "txt": "Número cinco. Entró al ejército."
+ },
+ {
+  "src": "SR@20-450",
+  "label": "SUPER RABBIT · 1943",
+  "cap": "SARGENTO",
+  "txt": "La Segunda Guerra Mundial lo convirtió de estrella de cine en mascota nacional. En la caricatura Super Rabbit, de 1943, Bugs aparece al final con el uniforme de gala de la Infantería de Marina. Y los Marines, en lugar de ignorarlo, le siguieron el juego: lo nombraron soldado honorario, y para el final de la guerra lo habían ascendido en papel a sargento mayor. Un conejo creado para molestar a Porky terminó con un rango más alto que muchos de los soldados que lo veían en el cine.",
+  "fx": {
+   "type": "compare",
+   "title": "LA CARRERA MILITAR DE BUGS",
+   "left": [
+    "1943",
+    "SOLDADO HONORARIO"
+   ],
+   "right": [
+    "FIN DE LA GUERRA",
+    "SARGENTO MAYOR HONORARIO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "FH@20-460",
+  "label": "FALLING HARE · 1943",
+  "cap": "",
+  "txt": "Durante la guerra, Bugs apareció en muchas caricaturas relacionadas con el conflicto. En Falling Hare, de 1943, se enfrenta a un gremlin, una criatura que según los pilotos saboteaba los aviones, y por primera vez es Bugs el que termina perdiendo la calma. Algunas caricaturas de esa época también tenían estereotipos y propaganda que hoy son muy ofensivos, y por eso varias ya no se transmiten."
+ },
+ {
+  "src": "HR@20-450",
+  "label": "HARE RIBBIN' · 1944",
+  "cap": "#4",
+  "txt": "Número cuatro. Superó a Mickey Mouse."
+ },
+ {
+  "src": [
+   "HR@20-450",
+   "WT@20-450"
+  ],
+  "label": "HARE RIBBIN' · 1944",
+  "cap": "",
+  "txt": "En los años cuarenta, Bugs se convirtió en el personaje de caricatura más popular de los cines de Estados Unidos, superando incluso a Mickey Mouse en muchas encuestas de dueños de cines. Y a diferencia de Mickey, que con los años se volvió más tranquilo y bien portado, Bugs nunca perdió su lado travieso. Esa irreverencia era justamente lo que el público adulto disfrutaba."
+ },
+ {
+  "src": "KK@20-375",
+  "label": "KNIGHTY KNIGHT BUGS · 1958",
+  "cap": "#3",
+  "txt": "Número tres. Ganó el Óscar que su jefe despreciaba."
+ },
+ {
+  "src": "KK@20-375",
+  "label": "KNIGHTY KNIGHT BUGS · 1958",
+  "cap": "EL ÓSCAR",
+  "txt": "Leon Schlesinger estaba convencido de que los premios Óscar favorecían a Disney, y llegó a boicotearlos. Pero años después, en 1958, Bugs Bunny ganó el Óscar al mejor cortometraje animado con Knighty Knight Bugs, donde se enfrenta a Sam Bigotes en un castillo medieval. La misma Academia que su antiguo jefe acusaba de estar del lado de Disney le dio su premio al conejo.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ÓSCAR DE BUGS",
+   "left": [
+    "SCHLESINGER",
+    "BOICOTEABA LOS ÓSCAR"
+   ],
+   "right": [
+    "1958",
+    "BUGS GANA EL ÓSCAR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "KK@20-375",
+   "WT@20-450"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "CHUCK JONES",
+  "txt": "En los años cincuenta, Chuck Jones dirigió algunas de las caricaturas más famosas del conejo, como la trilogía en la que Bugs y el Pato Lucas discuten si es temporada de conejos o de patos, mientras Elmer no sabe a quién disparar. Y en 1957, What's Opera, Doc?, una parodia de ópera, se convirtió años después en la primera caricatura corta elegida para el Registro Nacional de Cine de Estados Unidos."
+ },
+ {
+  "src": [
+   "KK@20-375",
+   "WH@20-470"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "#2",
+  "txt": "Número dos. La pelea por quién lo creó."
+ },
+ {
+  "src": [
+   "WT@20-450",
+   "HS@20-440"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "CLAMPETT VS. JONES",
+  "txt": "Con tantos padres, Bugs nunca tuvo una historia de origen tranquila. En 1975, el exdirector Bob Clampett presentó un documental llamado Bugs Bunny Superstar, en el que se presentaba como uno de los principales creadores del conejo. Sus excompañeros no se quedaron callados. Chuck Jones escribió una respuesta punto por punto y se la mandó a Tex Avery, que estuvo de acuerdo con casi todo."
+ },
+ {
+  "src": [
+   "KK@20-375",
+   "WH@20-470"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "LOS RETRATOS",
+  "txt": "Y según se cuenta, Jones tuvo la última palabra de forma visual. En su película de 1979, Bugs camina por una mansión llena de retratos de sus padres: Avery, Freleng, McKimson y el propio Jones. El retrato de Clampett no aparece. Hoy, los historiadores suelen dar el crédito así: Hardaway y Dalton por el prototipo, Avery por la personalidad, Mel Blanc por la voz, y Bob Givens y Robert McKimson por el diseño final.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PADRES DE BUGS",
+   "items": [
+    "Ben Hardaway y Cal Dalton",
+    "Tex Avery",
+    "Mel Blanc",
+    "Bob Givens y Robert McKimson",
+    "Chuck Jones y Friz Freleng"
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "WH@20-470",
+   "FH@20-460"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "#1",
+  "txt": "Y número uno. El primer personaje de caricatura en un sello postal."
+ },
+ {
+  "src": [
+   "SR@20-450",
+   "KK@20-375"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "1985 · 1997",
+  "txt": "En 1985, Bugs Bunny recibió su propia estrella en el Paseo de la Fama de Hollywood. Y en 1997 se convirtió en el primer personaje de caricatura en aparecer en un sello postal de Estados Unidos. Ese conejo que nació de un chiste repetido, en un estudio lleno de termitas, terminó en los mismos honores que las grandes estrellas del cine.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS HONORES DE BUGS",
+   "items": [
+    [
+     "1940",
+     "A Wild Hare"
+    ],
+    [
+     "1958",
+     "El Óscar"
+    ],
+    [
+     "1985",
+     "Estrella en Hollywood"
+    ],
+    [
+     "1997",
+     "Sello postal"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "WH@20-470",
+   "SR@20-450"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "ROGER RABBIT",
+  "txt": "Y siguió conquistando nuevas generaciones. En 1988 apareció en ¿Quién engañó a Roger Rabbit?, compartiendo una escena con Mickey Mouse. Se dice que el contrato exigía que los dos tuvieran exactamente el mismo tiempo en pantalla, para que ninguno de los dos estudios quedara por debajo. Y en 1996 protagonizó Space Jam junto a Michael Jordan, una de las películas que más recuerdan los niños de los noventa.",
+  "fx": {
+   "type": "compare",
+   "title": "BUGS EN EL CINE",
+   "left": [
+    "1988",
+    "CON MICKEY EN ROGER RABBIT"
+   ],
+   "right": [
+    "1996",
+    "CON MICHAEL JORDAN"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "WT@20-450",
+   "HR@20-450"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "OCHENTA AÑOS",
+  "txt": "En 2020, al cumplir ochenta años de su debut, Warner estrenó una nueva serie de cortos, Looney Tunes Cartoons, con el estilo clásico de las caricaturas de los cuarenta: rápidas, absurdas y sin miedo a romper la cuarta pared. Ochenta años después, la fórmula de aquel estudio pobre seguía funcionando. El conejo que nadie diseñó a propósito seguía siendo el más listo de la sala."
+ },
+ {
+  "src": [
+   "WH@20-470",
+   "WT@20-450"
+  ],
+  "label": "BUGS BUNNY",
+  "cap": "UNA RIVALIDAD",
+  "txt": "Bugs Bunny no lo construyó un solo genio. Lo construyó un director que le puso un disfraz de conejo a un chiste que ya había funcionado, unos animadores que trabajaban en un edificio lleno de termitas, un actor de voz atado a un trato para ahorrar dinero, y varios hombres que pasaron décadas discutiendo quién merecía el crédito. No es la historia de una mente brillante. Es la historia de una rivalidad que hizo al conejo más listo de la animación."
+ },
+ {
+  "src": [
+   "PH@20-460",
+   "WH@20-470",
+   "SR@20-450",
+   "KK@20-375"
+  ],
+  "label": "¿CUÁL TE SORPRENDIÓ?",
+  "cap": "¿CUÁL TE SORPRENDIÓ?",
+  "txt": "Doce secretos sobre Bugs Bunny. ¿Sabías que empezó como un pato disfrazado, o que su nombre era el apodo de un director? Dime en los comentarios cuál te sorprendió más, y cuál es tu caricatura favorita del conejo. Y suscríbete, porque la historia de las caricaturas clásicas tiene mucho más que contar. Eso es todo, amigos."
+ }
+]

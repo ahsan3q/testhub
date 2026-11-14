@@ -1,0 +1,433 @@
+[
+ {
+  "src": [
+   "DW@3-130",
+   "OW@3-115"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "",
+  "txt": "Charles Bronson hizo casi cien películas. Y durante treinta años, la gente a su alrededor se preparaba para su carácter. Los presentadores de televisión, los directores, los escritores. Incluso su propia esposa, en el escenario de los Globos de Oro. Él mismo lo resumió una vez: usé toda mi calma, y se me acabó el último día de rodaje."
+ },
+ {
+  "src": [
+   "MS@4-150",
+   "DW3@15-95"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "EL CARÁCTER",
+  "txt": "Ninguna celebridad tuvo un carácter como el de Charles Bronson. Hoy vamos a recorrer su vida, de un pueblo minero de Pensilvania a la saga de El vengador anónimo, con las historias que él mismo contaba en las entrevistas. Y quédate hasta el final, porque hubo una sola persona que supo cómo esperar a que se le pasara el enojo.",
+  "fx": {
+   "type": "quote",
+   "text": "Usé toda mi calma, y se me acabó el último día.",
+   "by": "Charles Bronson",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "MS@4-150",
+  "label": "CHARLES BRONSON",
+  "cap": "NO ME DIGAS",
+  "txt": "En una entrevista de televisión, el presentador empezó a describir una de sus películas: es un western de comedia, y es... Bronson lo interrumpió: no, no nos digas qué es. Yo te digo qué es. Tú solo haz preguntas. Así era Bronson frente a una cámara: pocas palabras, cero paciencia, y muy claro sobre quién mandaba en la conversación."
+ },
+ {
+  "src": "CM@20-540",
+  "label": "MINAS DE CARBÓN · AÑOS 50",
+  "cap": "BUCHINSKY",
+  "txt": "Nació en 1921 como Charles Buchinsky, el undécimo de quince hijos, en un pueblo minero de Pensilvania. Su padre, un minero inmigrante de Lituania, murió cuando él era niño. La familia era tan pobre que, según le contó al crítico Roger Ebert, una vez tuvo que ir a la escuela con un vestido heredado de sus hermanas, porque no había otra ropa.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE NACIÓ BRONSON",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Pennsylvania"
+   ],
+   "pins": [
+    {
+     "name": "EHRENFELD · PENSILVANIA · 1921",
+     "lon": -78.78,
+     "lat": 40.37
+    }
+   ],
+   "view": [
+    -82,
+    38.5,
+    -73,
+    43
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "CM@20-540",
+  "label": "MINAS DE CARBÓN · AÑOS 50",
+  "cap": "LA MINA",
+  "txt": "De adolescente entró a la mina, como su padre y sus hermanos, y trabajó ahí unos cinco años y medio. Le pagaban por tonelada de carbón cargada. Una revista contó que Bronson golpeaba con el puño las paredes de la mina por lo desesperante que era ese trabajo. Cuando se lo preguntaron, respondió: no era el único. Todos estaban así de enojados.",
+  "fx": {
+   "type": "counter",
+   "value": 15,
+   "suffix": " HERMANOS",
+   "label": "CHARLES ERA EL NÚMERO 11",
+   "sub": "Hijo de un minero de Pensilvania",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "CM@20-540",
+   "B29@15-600"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "LA CICATRIZ",
+  "txt": "Y contaba una historia todavía más dura. De niño, dijo, se subía a los trenes de carga, y con otros muchachos de su pueblo robó la tienda de la compañía minera. Los atraparon a unos quinientos kilómetros, y le dispararon cuando saltaba de un vagón. Le mostró la cicatriz al entrevistador, y agregó que la bala se salió sola."
+ },
+ {
+  "src": "B29@15-600",
+  "label": "B-29 · 1944",
+  "cap": "LA GUERRA",
+  "txt": "En 1943 lo reclutaron para la Segunda Guerra Mundial. Y dijo que por primera vez en su vida comió bien y tuvo ropa decente. Fue artillero en un bombardero B-29 en el Pacífico, voló veinticinco misiones y regresó con un Corazón Púrpura, la condecoración que se da a los soldados heridos en combate.",
+  "fx": {
+   "type": "counter",
+   "value": 25,
+   "suffix": " MISIONES",
+   "label": "COMO ARTILLERO DE UN B-29",
+   "sub": "Recibió un Corazón Púrpura",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "B29@15-600",
+   "HW@25-66"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "UN ERUCTO",
+  "txt": "Después de la guerra intentó ser actor en Nueva York, compartiendo departamento con otro aspirante, Jack Klugman. Luego estudió en el Pasadena Playhouse. En 1951 consiguió su primera película, una comedia de la Marina con Gary Cooper, en la que también debutaba Lee Marvin. Y según le contó a Ebert, le dieron el papel porque podía eructar cuando se lo pedían."
+ },
+ {
+  "src": "HW@25-66",
+  "label": "HOUSE OF WAX · 1953",
+  "cap": "EL CAMBIO DE NOMBRE",
+  "txt": "Durante sus primeros años, los créditos decían Charles Buchinsky. En 1954 se cambió el nombre. Él explicó que en esa época el senador McCarthy estaba cazando comunistas, y el representante de la Unión Soviética en las Naciones Unidas se llamaba Vyshinsky. Buchinsky sonaba demasiado parecido. Así que pensó: qué diablos, me cambio el nombre.",
+  "fx": {
+   "type": "compare",
+   "title": "EL NOMBRE",
+   "left": [
+    "BUCHINSKY",
+    "HASTA 1954"
+   ],
+   "right": [
+    "BRONSON",
+    "DESDE 1954"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "HW@25-66",
+   "MK@100-4900"
+  ],
+  "label": "CHARLES BRONSON · 1954",
+  "cap": "VERA CRUZ",
+  "txt": "Ese mismo año apareció en dos westerns importantes, Apache y Vera Cruz, junto a Burt Lancaster y Gary Cooper. En uno de ellos todavía aparecía con su nombre antiguo, y en el otro ya como Bronson. Eran papeles pequeños, casi siempre de indio, de soldado o de pistolero. Pero lo mantenían trabajando, y cada película le enseñaba algo nuevo frente a la cámara."
+ },
+ {
+  "src": [
+   "HW@25-66",
+   "MK@100-4900"
+  ],
+  "label": "HOUSE OF WAX · 1953",
+  "cap": "EL VILLANO",
+  "txt": "Hollywood lo usaba siempre como el malo o el rudo. En La casa de cera, de 1953, era el asistente mudo de Vincent Price. En Machine-Gun Kelly, de 1958, tuvo su primer protagónico, como un gánster. Y en televisión protagonizó la serie Man with a Camera, como un fotógrafo de prensa que se metía en problemas por conseguir la foto."
+ },
+ {
+  "src": "MC@40-1500",
+  "label": "MAN WITH A CAMERA · 1958",
+  "cap": "",
+  "txt": "Bronson tenía una cara que no parecía de estrella de cine: dura, con pómulos marcados y ojos pequeños, una cara que, como decían los críticos, parecía tallada en piedra. En los cincuenta eso lo condenaba a papeles secundarios. Pero años después, esa misma cara se convirtió en su mayor atractivo."
+ },
+ {
+  "src": "MS@4-150",
+  "label": "THE MAGNIFICENT SEVEN · 1960",
+  "cap": "LOS SIETE MAGNÍFICOS",
+  "txt": "En 1960 fue uno de Los siete magníficos, el pistolero tranquilo que protege a los niños del pueblo. Y en 1963, en El gran escape, interpretó a Danny, el rey de los túneles, un excavador que entra en pánico bajo tierra. Después de cinco años y medio en una mina, Bronson no necesitó investigar mucho para ese papel."
+ },
+ {
+  "src": "MS@4-150",
+  "label": "CHARLES BRONSON · 1963",
+  "cap": "EL REY DEL TÚNEL",
+  "txt": "Ese mismo año se unió a una serie del oeste, The Travels of Jaimie McPheeters. El protagonista era un niño de doce años llamado Kurt Russell. Y en noviembre, Bronson cumplió cuarenta y dos años. Kurt le regaló un avión de control remoto. Bronson lo miró, miró al suelo y se fue. Minutos después lo llamó a su camerino y le dijo: nadie me había dado nunca un regalo de cumpleaños. Gracias.",
+  "fx": {
+   "type": "quote",
+   "text": "Nadie me había dado nunca un regalo de cumpleaños.",
+   "by": "Charles Bronson a Kurt Russell (1963)",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "DD@200-8800",
+  "label": "THE DIRTY DOZEN · 1967",
+  "cap": "EUROPA",
+  "txt": "En Hollywood seguía en grupos, como en Doce del patíbulo, de 1967. Pero fue Europa la que lo convirtió en protagonista. En Francia filmó con Alain Delon, y en Italia fue el hombre de la armónica en Hasta que llegó su hora, de Sergio Leone, en 1968. Cuatro años antes había rechazado a Leone para Por un puñado de dólares, el papel que hizo famoso a Clint Eastwood."
+ },
+ {
+  "src": "OW@3-115",
+  "label": "ONCE UPON A TIME IN THE WEST · 1968",
+  "cap": "LA ARMÓNICA",
+  "txt": "El papel del hombre de la armónica es uno de los más recordados del western. Casi no habla, toca una melodía inquietante, y espera. Era perfecto para Bronson: un hombre que decía más con el silencio que con las palabras. Desde entonces, en Europa lo llamaban el monstruo sagrado, y en Italia, el feo.",
+  "fx": {
+   "type": "map",
+   "title": "LA ESTRELLA DE EUROPA",
+   "countries": [
+    "France",
+    "Italy",
+    "Spain"
+   ],
+   "pins": [
+    {
+     "name": "FRANCIA · ALAIN DELON",
+     "lon": 2.35,
+     "lat": 48.85
+    },
+    {
+     "name": "ITALIA · SERGIO LEONE",
+     "lon": 12.5,
+     "lat": 41.9
+    }
+   ],
+   "view": [
+    -10,
+    35,
+    20,
+    52
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "OW@3-115",
+   "DD@200-8800"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "SOL ROJO",
+  "txt": "Y en Europa siguió filmando con estrellas internacionales. En 1971 hizo Sol rojo, un western filmado en España con el francés Alain Delon y el japonés Toshiro Mifune, el actor favorito de Akira Kurosawa. Un pistolero estadounidense, un samurái japonés y un villano francés en el viejo oeste. Solo en los setenta podía existir una película así."
+ },
+ {
+  "src": "OW@3-115",
+  "label": "ONCE UPON A TIME IN THE WEST · 1968",
+  "cap": "EL GUIÓN",
+  "txt": "En Francia, filmando El pasajero de la lluvia, una escena le pedía levantar a una actriz del piso. El guionista insistía: así está en el guion, tiene que levantarla. Bronson le preguntó por qué no podía simplemente rodarla al sillón. El escritor repitió que estaba en el guion. Y Bronson respondió: al diablo con tu guion. Levántala tú. La película ganó un Globo de Oro de todas formas."
+ },
+ {
+  "src": [
+   "DD@200-8800",
+   "OW@3-115"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "JILL IRELAND",
+  "txt": "En 1968 se casó con la actriz Jill Ireland, y juntos hicieron quince películas. Para entonces, los periódicos lo llamaban el terrible Bronson: decían que guardaba rencores, que odiaba las entrevistas, y que nunca trabajaría con un director que lo había despreciado años antes. Cuando se lo preguntaron, dijo que la mayoría de esas historias eran falsas. Que hasta decían que le había pegado a un caballo en el hocico.",
+  "fx": {
+   "type": "counter",
+   "value": 15,
+   "suffix": " PELÍCULAS",
+   "label": "CON JILL IRELAND",
+   "sub": "Casados en 1968",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "OW@3-115",
+   "DD@200-8800"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "EL DIRECTOR",
+  "txt": "Pero admitió una. Sí, había sacudido a un director una vez, en París, en 1971, durante una película en la que también actuaba Jill. Dijo que el director arruinó la película entera, perdiendo el tiempo en interpretaciones absurdas del guion. Y entonces llegó su frase famosa: usé mi calma, y se me acabó el último día."
+ },
+ {
+  "src": [
+   "OW@3-115",
+   "DD@200-8800"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "LA VERSIÓN DE JILL",
+  "txt": "Jill Ireland estaba en ese set. Y en una entrevista contó su versión: ella misma se había enojado, le dijo a Charlie que ese director era un poco lento, y Charlie lo agarró del saco y le dio una buena sacudida. ¿Y mejoró su trabajo?, le preguntaron. Sí, respondió ella. Lo calmó. Cuando le preguntaron si su esposo le sacaba canas, dijo: ya no. Aprendí a sentarme tranquila, y esperar a que se le pase."
+ },
+ {
+  "src": "DD@200-8800",
+  "label": "CHARLES BRONSON",
+  "cap": "EL MÁS TAQUILLERO",
+  "txt": "En 1972, los Globos de Oro lo nombraron favorito del cine mundial, junto a Sean Connery. Y hacia 1973 se le consideraba la estrella más taquillera del mundo, con un millón de dólares por película. En Europa y en Japón era una superestrella, aunque en Hollywood todavía no lo veían como protagonista.",
+  "fx": {
+   "type": "counter",
+   "value": 1,
+   "prefix": "$",
+   "suffix": " MILLÓN",
+   "label": "POR PELÍCULA EN 1973",
+   "sub": "La estrella más taquillera del mundo",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "DD@200-8800",
+  "label": "CHARLES BRONSON",
+  "cap": "MANDOM",
+  "txt": "En Japón su fama era tan grande que protagonizó una serie de comerciales para una loción para hombres llamada Mandom, a partir de 1970. En el anuncio, Bronson se pasaba la mano por la cara y decía una sola palabra: Mandom. Fue un éxito tan grande que la empresa terminó cambiando su propio nombre al de la loción. Una sola palabra de Bronson valía más que cualquier guion."
+ },
+ {
+  "src": "DW@3-130",
+  "label": "DEATH WISH · 1974",
+  "cap": "EL VENGADOR ANÓNIMO",
+  "txt": "Y entonces regresó a Estados Unidos para hacer Death Wish, conocida en América Latina como El vengador anónimo, de 1974, con el director británico Michael Winner. Bronson, a los cincuenta y dos años, interpretó a Paul Kersey, un arquitecto de Nueva York que se convierte en justiciero después de que atacan a su familia. Fue un éxito enorme, y también muy polémico.",
+  "fx": {
+   "type": "map",
+   "title": "EL VENGADOR ANÓNIMO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York"
+   ],
+   "pins": [
+    {
+     "name": "NUEVA YORK · 1974",
+     "lon": -74.0,
+     "lat": 40.71
+    }
+   ],
+   "view": [
+    -80,
+    38,
+    -70,
+    45
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "HT@150-5450",
+   "DW@3-130"
+  ],
+  "label": "HARD TIMES · 1975",
+  "cap": "NO SOY DE CIUDAD",
+  "txt": "Siguieron más éxitos, como Hard Times, de 1975, donde era un peleador callejero en la Gran Depresión. Pero pasaba en Hollywood el menor tiempo posible. Cuando le preguntaron por qué, respondió: no soy de ciudad. No me gustan las ciudades. No nací ni crecí en una, y siempre me encuentro entrando y saliendo de puertas. Eso me parece ridículo. Es una vida horrible."
+ },
+ {
+  "src": [
+   "DW2@15-110",
+   "DW@3-130"
+  ],
+  "label": "DEATH WISH II · 1982",
+  "cap": "LOS GLOBOS DE ORO",
+  "txt": "En 1978, Bronson y Jill Ireland presentaron juntos los Globos de Oro. Y ella abrió contando cómo era vivir con él: la mayoría de la gente cree que esa mirada seria e intolerante es parte de su imagen de macho. En realidad, dijo, le viene de cargar mis maletas. El público estalló de risa, y Bronson, por una vez, sonrió."
+ },
+ {
+  "src": "DW2@15-110",
+  "label": "DEATH WISH II · 1982",
+  "cap": "MICHAEL WINNER",
+  "txt": "Michael Winner dirigió también El vengador anónimo dos, en 1982. Años antes le había contado a Ebert que el equipo siempre preguntaba cuándo iba a explotar Bronson. Nunca lo hizo, dijo Winner. Era muy controlado y razonable, pero con una gran furia escondida por debajo.",
+  "fx": {
+   "type": "quote",
+   "text": "Muy controlado y razonable, con una gran furia escondida por debajo.",
+   "by": "Michael Winner, director de El vengador anónimo",
+   "dur": 5
+  }
+ },
+ {
+  "src": "DW3@15-95",
+  "label": "DEATH WISH 3 · 1985",
+  "cap": "EMPÚJAME MÁS FUERTE",
+  "txt": "Death Wish 3 se filmó en 1985, sobre todo en una calle de Londres decorada como Nueva York. Bronson tenía sesenta y tres años. Un joven actor que interpretaba a un pandillero tenía que empujarlo contra una reja. Después de la primera toma, Bronson le dijo: hijo, empújame más fuerte. Lo intentó otra vez. No, no, empújame fuerte. El actor pensó: bueno, es su funeral, señor Bronson."
+ },
+ {
+  "src": [
+   "DW3@15-95",
+   "DW2@15-110"
+  ],
+  "label": "DEATH WISH 3 · 1985",
+  "cap": "CINCO PELÍCULAS",
+  "txt": "Paul Kersey regresó una cuarta vez en 1987, y una quinta en 1994, cuando Bronson ya tenía más de setenta años. Cinco películas de El vengador anónimo en veinte años. Los críticos casi nunca las trataron bien, pero el público seguía yendo. Y para toda una generación, Charles Bronson ya no era el hombre de la armónica ni el rey del túnel. Era el justiciero de Nueva York.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL VENGADOR ANÓNIMO",
+   "items": [
+    [
+     "1974",
+     "Death Wish"
+    ],
+    [
+     "1982",
+     "Parte II"
+    ],
+    [
+     "1985",
+     "Parte 3"
+    ],
+    [
+     "1987",
+     "Parte 4"
+    ],
+    [
+     "1994",
+     "Parte 5"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "DW3@15-95",
+   "OW@3-115"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "JILL",
+  "txt": "Durante todo eso, la persona que esperó con paciencia a que se le pasaran los enojos fue Jill Ireland, su esposa durante veintiún años. Ella murió de cáncer en mayo de 1990, a los cincuenta y cuatro años. Dos años después, en una entrevista, le preguntaron si todavía pensaba en ella. Respondió: sí. Todas sus cosas siguen ahí. La ropa, el maquillaje, todo. Ella era mucho más inteligente que yo."
+ },
+ {
+  "src": [
+   "OW@3-115",
+   "MS@4-150"
+  ],
+  "label": "CHARLES BRONSON",
+  "cap": "EL FINAL",
+  "txt": "Le preguntaron si se volvería a casar. Dijo que de ninguna manera. No porque hubiera sido malo, sino porque fue tan bueno, que estaría haciendo comparaciones todo el tiempo. Años después, en 1998, se casó con la actriz Kim Weeks. Hizo su última película en 1999, y murió en 2003, a los ochenta y un años.",
+  "fx": {
+   "type": "timeline",
+   "title": "CHARLES BRONSON",
+   "items": [
+    [
+     "1921",
+     "Nace en Pensilvania"
+    ],
+    [
+     "1960",
+     "Los siete magníficos"
+    ],
+    [
+     "1974",
+     "El vengador anónimo"
+    ],
+    [
+     "2003",
+     "Muere a los 81"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "DW@3-130",
+   "OW@3-115",
+   "MS@4-150"
+  ],
+  "label": "¿QUIÉN SALIÓ PEOR?",
+  "cap": "¿QUIÉN SALIÓ PEOR?",
+  "txt": "El carácter era real, y las historias, en su mayoría, también. Pero la persona que supo esperar a que pasara la tormenta fue Jill Ireland. Ahora dime tú en los comentarios: ¿quién salió peor, el guionista de El pasajero de la lluvia, o el director de París? Y suscríbete, porque la próxima leyenda de Hollywood ya está en camino."
+ }
+]

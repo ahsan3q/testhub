@@ -1,0 +1,444 @@
+[
+ {
+  "src": [
+   "GJ2@20-1280",
+   "HE@10-530",
+   "BG@30-1260"
+  ],
+  "label": "CARICATURAS DE 1967",
+  "cap": "",
+  "txt": "En el otoño de 1967, siete caricaturas llegaron a la televisión de Estados Unidos. Y antes de la primavera, todas habían dejado de producir episodios nuevos. Un hombre de la selva que chocaba contra todos los árboles, un presidente con superpoderes, unos monstruos gigantes que defendían a una familia, y una caricatura protagonizada por un comediante que había muerto ocho años antes."
+ },
+ {
+  "src": [
+   "SG@10-600",
+   "MM2@10-375",
+   "SP@10-390"
+  ],
+  "label": "CARICATURAS DE 1967",
+  "cap": "7 CARICATURAS OLVIDADAS",
+  "txt": "Hoy vamos a viajar a 1967 para recordar siete caricaturas de corta vida. Algunas las conocimos en América Latina con otros nombres, y otras casi nadie las recuerda. Déjame en los comentarios cuál viste, cuál merecía otra temporada, y cuál es mejor dejar en el olvido."
+ },
+ {
+  "src": "SPG@10-430",
+  "label": "SPACE GHOST · 1966",
+  "cap": "LA FÓRMULA",
+  "txt": "Pero primero, un poco de contexto. En 1966, Hanna-Barbera estrenó Space Ghost, el Fantasma del Espacio, y fue un éxito enorme los sábados por la mañana. Los niños querían acción, superhéroes y monstruos. Así que para el otoño de 1967, las cadenas pidieron más series de aventuras en el mismo estilo. Y casi todas se estrenaron el mismo día: el 9 de septiembre de 1967.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA FIEBRE DE LOS SUPERHÉROES",
+   "items": [
+    [
+     "1966",
+     "Space Ghost"
+    ],
+    [
+     "9 SEP 1967",
+     "Llegan las nuevas series"
+    ],
+    [
+     "1968",
+     "Las críticas a la violencia"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "GJ2@20-1280",
+  "label": "GEORGE OF THE JUNGLE · 1967",
+  "cap": "#7",
+  "txt": "Número siete. George of the Jungle, George de la selva."
+ },
+ {
+  "src": [
+   "GJ@5-40",
+   "GJ2@20-1280"
+  ],
+  "label": "GEORGE OF THE JUNGLE · 1967",
+  "cap": "¡CUIDADO CON EL ÁRBOL!",
+  "txt": "La crearon Jay Ward y Bill Scott, los mismos de Rocky y Bullwinkle. Era una parodia completa de Tarzán, sobre un hombre de la selva musculoso, de buen corazón, y espectacularmente torpe, que no podía columpiarse en una liana sin estrellarse de cara contra un árbol. El chiste se volvió tan famoso que todavía se repite: cuidado con ese árbol.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Cuidado con ese árbol!",
+   "by": "La canción de George of the Jungle (1967)",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "GJ2@20-1280",
+  "label": "GEORGE OF THE JUNGLE · 1967",
+  "cap": "LAS VOCES",
+  "txt": "Detrás de las voces estaba el mismo equipo de Rocky y Bullwinkle. Bill Scott, el cocreador, le daba voz a George, y June Foray, una de las actrices de voz más importantes de la historia de la animación, le daba voz a Úrsula. Por eso el humor se sentía tan parecido: chistes de palabras, narradores que hablaban con el público y personajes que sabían que estaban en una caricatura."
+ },
+ {
+  "src": "GJ2@20-1280",
+  "label": "GEORGE OF THE JUNGLE · 1967",
+  "cap": "",
+  "txt": "George vivía con su elefante Shep, al que insistía en llamar perro, y con su novia Úrsula, a la que llamaba Fella, es decir, amigo. La única voz de la razón era un gorila llamado Ape, con acento británico de Oxford, que pasaba cada episodio poniendo los ojos en blanco por lo poco que George entendía de su propia vida. Y cada programa incluía otras dos caricaturas: Tom Slick, un piloto de carreras, y Super Chicken, un pollo superhéroe."
+ },
+ {
+  "src": "GJ2@20-1280",
+  "label": "GEORGE OF THE JUNGLE · 1967",
+  "cap": "17 EPISODIOS",
+  "txt": "Se estrenó en ABC el 9 de septiembre de 1967, y solo se produjeron diecisiete episodios. La cadena prefirió repetir lo que ya tenía. Pero esos diecisiete episodios nunca desaparecieron: se repitieron durante décadas en canales locales, y fueron construyendo un público de culto. Tanto, que treinta años después Disney hizo una película con actores, George of the Jungle, en 1997. Nada mal para un héroe que nunca veía venir un árbol.",
+  "fx": {
+   "type": "compare",
+   "title": "GEORGE OF THE JUNGLE",
+   "left": [
+    "17",
+    "EPISODIOS EN 1967"
+   ],
+   "right": [
+    "1997",
+    "PELÍCULA DE DISNEY"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "GJ2@20-1280",
+   "GJ@5-40"
+  ],
+  "label": "GEORGE OF THE JUNGLE · 1967",
+  "cap": "LA CANCIÓN",
+  "txt": "Y gran parte de su fama viene de la canción de entrada. George, George, George de la selva, fuerte como puede ser. Es una de esas canciones que se quedan pegadas para siempre, y la película de 1997 la volvió a hacer famosa. Después hubo una secuela directa a video y hasta una nueva serie animada en 2007. Todo a partir de diecisiete episodios."
+ },
+ {
+  "src": "SP@10-390",
+  "label": "SUPER PRESIDENT · 1967",
+  "cap": "#6",
+  "txt": "Número seis. Super President, el súper presidente."
+ },
+ {
+  "src": "SP@10-390",
+  "label": "SUPER PRESIDENT · 1967",
+  "cap": "EL PRESIDENTE DE GRANITO",
+  "txt": "Si George of the Jungle se preguntaba qué pasaría si un superhéroe fuera torpe, esta serie se preguntaba algo mucho más raro: ¿qué pasaría si el presidente de Estados Unidos pudiera convertirse en granito? La produjo el estudio DePatie-Freleng, el de La Pantera Rosa. Contaba la historia de James Norcross, un exastronauta que, después de una tormenta cósmica, podía transformar su cuerpo en acero, agua o electricidad."
+ },
+ {
+  "src": "SP@10-390",
+  "label": "SUPER PRESIDENT · 1967",
+  "cap": "",
+  "txt": "Ya como presidente, Norcross guardaba su secreto. Entraba a una base subterránea por un panel escondido en la Oficina Oval, y se movía en un vehículo que podía volar, manejar y navegar bajo el agua. Solo su asesor sabía la verdad. Y como segunda historia, el programa tenía a Spy Shadow, un agente secreto que podía controlar su propia sombra.",
+  "fx": {
+   "type": "map",
+   "title": "LA BASE SECRETA",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Virginia",
+    "Maryland"
+   ],
+   "pins": [
+    {
+     "name": "CASA BLANCA · WASHINGTON",
+     "lon": -77.04,
+     "lat": 38.9
+    }
+   ],
+   "view": [
+    -80,
+    37,
+    -74,
+    41
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "SP@10-390",
+  "label": "SUPER PRESIDENT · 1967",
+  "cap": "MAL GUSTO",
+  "txt": "Se estrenó en NBC en septiembre de 1967, y duró una sola temporada. El problema no fue solo la audiencia, fue la época. Pocos años después del asesinato de John F. Kennedy, muchos críticos consideraron de mal gusto mostrar a un presidente real como un héroe de acción invencible. La serie desapareció, y hasta hoy casi nunca se ha vuelto a transmitir ni se ha lanzado oficialmente en video en Estados Unidos.",
+  "fx": {
+   "type": "timeline",
+   "title": "SUPER PRESIDENT",
+   "items": [
+    [
+     "1963",
+     "Asesinato de Kennedy"
+    ],
+    [
+     "SEP 1967",
+     "Estreno en NBC"
+    ],
+    [
+     "1968",
+     "Cancelada"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "HE@10-530",
+  "label": "THE HERCULOIDS · 1967",
+  "cap": "#5",
+  "txt": "Número cinco. The Herculoids, Los Herculoides."
+ },
+ {
+  "src": "HE@10-530",
+  "label": "THE HERCULOIDS · 1967",
+  "cap": "ALEX TOTH",
+  "txt": "Después del éxito de Space Ghost, la cadena CBS le pidió a Hanna-Barbera tres series nuevas de acción para 1967. The Herculoids fue la más querida. En el planeta Amzot, una familia de guerreros, Zandor, su esposa Tara y su hijo Dorno, defendía su mundo junto a cinco criaturas gigantes y leales. La diseñó Alex Toth, el mismo artista de Space Ghost, uno de los dibujantes más admirados de la animación."
+ },
+ {
+  "src": "HE@10-530",
+  "label": "THE HERCULOIDS · 1967",
+  "cap": "LOS MONSTRUOS",
+  "txt": "Zok, un dragón que disparaba rayos y podía volar por el espacio. Igoo, un gorila de piedra casi indestructible. Tundro, un rinoceronte de diez patas que lanzaba rocas explosivas. Y Gloop y Gleep, dos manchas que cambiaban de forma y podían convertirse en escudos o resorteras. Lo especial era que no eran solo armas: entendían a los humanos, mostraban emociones, y se portaban como parte de la familia.",
+  "fx": {
+   "type": "list",
+   "title": "LOS HERCULOIDES",
+   "items": [
+    "Zok, el dragón",
+    "Igoo, el gorila de piedra",
+    "Tundro, el rinoceronte",
+    "Gloop y Gleep, las manchas"
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "HE@10-530",
+  "label": "THE HERCULOIDS · 1967",
+  "cap": "LA VIOLENCIA",
+  "txt": "Tuvo muy buena audiencia. Pero como muchas caricaturas de acción de esa época, terminó siendo víctima de otra batalla: las quejas de los padres por la violencia en la televisión infantil. A finales de los sesenta, las cadenas empezaron a retirar los programas de superhéroes y monstruos. Aun así, su influencia siguió: el creador del videojuego A Boy and His Blob dijo que su criatura se inspiró en Gloop y Gleep."
+ },
+ {
+  "src": [
+   "HE@10-530",
+   "SPG@10-430"
+  ],
+  "label": "THE HERCULOIDS · 1967",
+  "cap": "1968",
+  "txt": "Y ese cambio tuvo un contexto muy serio. En 1968 asesinaron a Martin Luther King y a Robert Kennedy, y en Estados Unidos creció la presión contra la violencia en la televisión. Las cadenas cambiaron sus programas de los sábados por la mañana. Para 1969, los superhéroes y los monstruos fueron reemplazados por comedias y misterios más tranquilos. Ese mismo año, por ejemplo, se estrenó Scooby-Doo.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL FIN DE LA ACCIÓN",
+   "items": [
+    [
+     "1967",
+     "Llegan los superhéroes"
+    ],
+    [
+     "1968",
+     "Presión contra la violencia"
+    ],
+    [
+     "1969",
+     "Llega Scooby-Doo"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "MM2@10-375",
+  "label": "MIGHTY MIGHTOR · 1967",
+  "cap": "#4",
+  "txt": "Número cuatro. Moby Dick y el Poderoso Mightor."
+ },
+ {
+  "src": "MM2@10-375",
+  "label": "MIGHTY MIGHTOR · 1967",
+  "cap": "EL GARROTE MÁGICO",
+  "txt": "Era la segunda serie de acción de CBS en 1967, y juntaba dos historias en media hora. La principal era Mightor. Un joven cavernícola llamado Tor salva a un ermitaño del ataque de un dinosaurio, y como recompensa recibe un garrote mágico. Cada vez que lo levanta al cielo, se convierte en Mightor, un héroe enmascarado, fuerte y volador, y su pequeño dinosaurio mascota se transforma en un dragón que lanza fuego.",
+  "fx": {
+   "type": "compare",
+   "title": "LA TRANSFORMACIÓN",
+   "left": [
+    "TOR",
+    "UN JOVEN CAVERNÍCOLA"
+   ],
+   "right": [
+    "MIGHTOR",
+    "EL HÉROE DEL GARROTE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "MM2@10-375",
+  "label": "MIGHTY MIGHTOR · 1967",
+  "cap": "",
+  "txt": "El parecido con Thor, el dios del trueno de Marvel, es difícil de ignorar: una identidad secreta, un arma mágica y hasta un nombre parecido. La otra mitad del programa era Moby Dick, en la que la famosa ballena blanca rescataba a dos adolescentes náufragos y los protegía en aventuras submarinas. En América Latina la serie se conoció como El Poderoso Mightor."
+ },
+ {
+  "src": "MM2@10-375",
+  "label": "MIGHTY MIGHTOR · 1967",
+  "cap": "18 EPISODIOS",
+  "txt": "Se estrenó en CBS el 9 de septiembre de 1967, se hicieron dieciocho episodios, y se repitió hasta 1969. Como Los Herculoides, nació de la misma orden: copiar la fórmula de Space Ghost. Y por eso siempre la compararon con el original. Cuando terminó la temporada, la cadena simplemente pasó a otra cosa."
+ },
+ {
+  "src": "BG@30-1260",
+  "label": "BIRDMAN · 1967",
+  "cap": "#3",
+  "txt": "Número tres. Birdman y el Trío Galaxia."
+ },
+ {
+  "src": "BG@30-1260",
+  "label": "BIRDMAN · 1967",
+  "cap": "EL PODER DEL SOL",
+  "txt": "También la diseñó Alex Toth, y NBC la pidió para competir con la caricatura de Los Cuatro Fantásticos de ABC. Birdman era Ray Randall, un hombre común al que el dios egipcio del sol, Ra, le dio poderes: lanzaba rayos solares con los puños, creaba escudos de energía y volaba con unas enormes alas. Su debilidad: necesitaba recibir sol con frecuencia para recargar sus poderes. Y eso pasaba en casi todos los episodios."
+ },
+ {
+  "src": "BG@30-1260",
+  "label": "BIRDMAN · 1967",
+  "cap": "EL TRÍO GALAXIA",
+  "txt": "Trabajaba para una agencia secreta, junto a su águila Avenger. La otra historia del programa era el Trío Galaxia: Vapor Man, Meteor Man y Gravity Girl, tres superhéroes que patrullaban el espacio. Tuvo muy buena audiencia, pero en 1968 NBC decidió alejarse de las caricaturas de acción más intensas y pasarse a comedias más suaves. Esa decisión también acabó con Super President y con la siguiente serie de esta lista.",
+  "fx": {
+   "type": "list",
+   "title": "EL TRÍO GALAXIA",
+   "items": [
+    "Vapor Man",
+    "Meteor Man",
+    "Gravity Girl"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "BG@30-1260",
+  "label": "BIRDMAN · 1967",
+  "cap": "HARVEY BIRDMAN",
+  "txt": "Pero Birdman tuvo una segunda vida muy extraña. Más de treinta años después, en el año 2000, el canal Adult Swim lo convirtió en Harvey Birdman, abogado, una parodia en la que el viejo superhéroe trabaja en un bufete defendiendo a otros personajes clásicos de Hanna-Barbera en los tribunales. Para muchos jóvenes, esa fue la primera vez que lo vieron.",
+  "fx": {
+   "type": "compare",
+   "title": "LAS DOS VIDAS DE BIRDMAN",
+   "left": [
+    "1967",
+    "SUPERHÉROE SOLAR"
+   ],
+   "right": [
+    "2000",
+    "ABOGADO EN ADULT SWIM"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "SPG@10-430",
+   "BG@30-1260"
+  ],
+  "label": "SPACE GHOST · 1966",
+  "cap": "COAST TO COAST",
+  "txt": "Y Birdman no fue el único. En 1994, el propio Space Ghost, el héroe que inició toda esta fiebre, regresó como presentador de un programa de entrevistas absurdo, Space Ghost Coast to Coast, usando escenas recicladas de la caricatura original. Así, los héroes serios de los sesenta encontraron una segunda vida como comedia para adultos, varias décadas después."
+ },
+ {
+  "src": "SG@10-600",
+  "label": "SAMSON Y GOLIATH · 1967",
+  "cap": "#2",
+  "txt": "Número dos. Sansón y Goliat."
+ },
+ {
+  "src": "SG@10-600",
+  "label": "SAMSON Y GOLIATH · 1967",
+  "cap": "LOS BRAZALETES",
+  "txt": "Esta serie de Hanna-Barbera contaba la historia de un joven llamado Samson, que recorría el país en motocicleta con su perro Goliath. Cuando había problemas, chocaba sus dos brazaletes dorados y se convertía en el forzudo de la Biblia, mientras su perro se transformaba en un enorme león con superpoderes. Peleaban contra monstruos, robots de Venus y hasta una organización terrorista internacional."
+ },
+ {
+  "src": "SG@10-600",
+  "label": "SAMSON Y GOLIATH · 1967",
+  "cap": "TIM MATHESON",
+  "txt": "Un dato curioso: la voz de Samson era de un actor muy joven llamado Tim Matheson, que también le daba voz a Jace en Space Ghost. Años después se volvió conocido como actor de cine y televisión, en películas como la comedia Animal House y, mucho más tarde, como el vicepresidente en la serie The West Wing. Pero antes de todo eso, fue un muchacho que chocaba brazaletes dorados."
+ },
+ {
+  "src": "SG@10-600",
+  "label": "SAMSON Y GOLIATH · 1967",
+  "cap": "YOUNG SAMSON",
+  "txt": "En abril de 1968 le cambiaron el nombre a Young Samson, el joven Sansón, para que no la confundieran con otra serie, Davey and Goliath, un programa religioso hecho con muñecos. Se estrenó en NBC el 9 de septiembre de 1967, y fue otra de las víctimas del cambio de NBC hacia caricaturas más suaves en 1968. Una de las caricaturas de acción más recordadas de esa temporada, y también una de las que menos duró.",
+  "fx": {
+   "type": "timeline",
+   "title": "SAMSON Y GOLIATH",
+   "items": [
+    [
+     "SEP 1967",
+     "Estreno en NBC"
+    ],
+    [
+     "ABR 1968",
+     "Cambia a Young Samson"
+    ],
+    [
+     "1968",
+     "NBC deja la acción"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "AC@30-1390",
+  "label": "ABBOTT Y COSTELLO · TV AÑOS 50",
+  "cap": "#1",
+  "txt": "Y número uno. La caricatura de Abbott y Costello."
+ },
+ {
+  "src": "AC@30-1390",
+  "label": "ABBOTT Y COSTELLO · TV AÑOS 50",
+  "cap": "UNA DUPLA LEGENDARIA",
+  "txt": "Bud Abbott y Lou Costello fueron uno de los dúos cómicos más famosos de la historia. Su rutina ¿Quién está en primera? es uno de los números de comedia más famosos del siglo veinte. Hicieron películas, radio y su propio programa de televisión en los años cincuenta. Pero Lou Costello murió en 1959."
+ },
+ {
+  "src": "AC@30-1390",
+  "label": "ABBOTT Y COSTELLO · TV AÑOS 50",
+  "cap": "LA VOZ",
+  "txt": "Así que en 1967, ocho años después, llegó una caricatura protagonizada por los dos. Bud Abbott, ya enfermo y con problemas económicos, le dio voz a su propio personaje animado. La serie fue, en parte, una forma de darle trabajo en sus últimos años. Y la voz de Costello la hizo Stan Irwin, un amigo cercano del dúo, para mantener vivo al personaje.",
+  "fx": {
+   "type": "compare",
+   "title": "LAS VOCES",
+   "left": [
+    "BUD ABBOTT",
+    "SE DOBLÓ A SÍ MISMO"
+   ],
+   "right": [
+    "STAN IRWIN",
+    "FUE LA VOZ DE COSTELLO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "AC@30-1390",
+  "label": "ABBOTT Y COSTELLO · TV AÑOS 50",
+  "cap": "39 EPISODIOS",
+  "txt": "Cada episodio tenía varias caricaturas cortas de cinco minutos, casi siempre con Costello perseguido por algún monstruo, mientras Abbott hacía de serio. Se estrenó en septiembre de 1967 y llegó a treinta y nueve episodios, la más larga de esta lista. Pero los críticos dijeron que los episodios se parecían demasiado, y que nada del ingenio verbal de la dupla original llegó a los guiones. Aun así, para un programa protagonizado por un comediante que ya había muerto, que existiera ya era un logro.",
+  "fx": {
+   "type": "counter",
+   "value": 39,
+   "suffix": " EPISODIOS",
+   "label": "LA MÁS LARGA DE LA LISTA",
+   "sub": "The Abbott and Costello Cartoon Show · 1967-68",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "AC@30-1390",
+  "label": "ABBOTT Y COSTELLO · TV AÑOS 50",
+  "cap": "¿QUIÉN ESTÁ EN PRIMERA?",
+  "txt": "Y su legado real sigue vivo. La rutina ¿Quién está en primera?, en la que un jugador de béisbol se llama Quién, otro Qué y otro No sé, se volvió tan famosa que una grabación de esa rutina se exhibe en el Salón de la Fama del Béisbol de Estados Unidos. La caricatura de 1967 no logró capturar ese ingenio, pero ayudó a que una nueva generación de niños conociera sus nombres.",
+  "fx": {
+   "type": "quote",
+   "text": "¿Quién está en primera?",
+   "by": "La rutina más famosa de Abbott y Costello",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "GJ2@20-1280",
+   "HE@10-530",
+   "BG@30-1260",
+   "SG@10-600",
+   "MM2@10-375"
+  ],
+  "label": "CARICATURAS DE 1967",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Siete caricaturas, todas estrenadas en el otoño de 1967, y casi todas terminadas antes de la primavera. Un hombre de la selva, un presidente de granito, monstruos gigantes, un cavernícola con garrote, un superhéroe solar, un joven con brazaletes y un dúo cómico animado. ¿Cuál de estas viste de niño? ¿Y qué año quieres que visitemos después? Déjamelo en los comentarios, y suscríbete para más caricaturas olvidadas."
+ }
+]

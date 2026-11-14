@@ -1,0 +1,482 @@
+[
+ {
+  "src": [
+   "TB2",
+   "NO",
+   "BK"
+  ],
+  "label": "MASCOTAS DE COMERCIALES",
+  "cap": "",
+  "txt": "Hubo un tiempo en que algunas de las estrellas más grandes de la televisión no eran actores ni atletas. Ni siquiera eran personas reales. Eran mascotas de comerciales. Un chihuahua más famoso que los tacos que vendía. Un rey de plástico que aparecía en tu cama sin explicación. Y un calcetín que se volvió celebridad mientras su empresa perdía millones."
+ },
+ {
+  "src": [
+   "PC@2-14",
+   "MT",
+   "CH"
+  ],
+  "label": "MASCOTAS DE COMERCIALES",
+  "cap": "¿QUÉ PASÓ?",
+  "txt": "Hoy te traigo diez mascotas de comerciales que desaparecieron de la televisión, y lo que realmente les pasó. Una terminó relacionada con un secuestro real. Otra desapareció por críticas a sus estereotipos. Y una sobrevivió a la empresa que la creó. Y ojo: contrario a lo que mucha gente recuerda, casi ninguna fue prohibida. Cuéntame en los comentarios cuál recuerdas."
+ },
+ {
+  "src": [
+   "NO",
+   "NO2"
+  ],
+  "label": "DOMINO'S · 1986",
+  "cap": "#10",
+  "txt": "Número diez. El Noid, de Domino's Pizza."
+ },
+ {
+  "src": [
+   "NO",
+   "NO2"
+  ],
+  "label": "DOMINO'S · 1986",
+  "cap": "EVITA AL NOID",
+  "txt": "Si viste televisión a finales de los ochenta, seguramente recuerdas a esta criatura molesta, con traje rojo, orejas de conejo y una sonrisa malvada. Su única misión en la vida era arruinar las pizzas. Domino's lo creó en 1986, cuando estaba promocionando su servicio a domicilio. El Noid representaba todo lo que podía salir mal entre la pizzería y tu puerta. Y la solución era el lema: evita al Noid.",
+  "fx": {
+   "type": "quote",
+   "text": "Evita al Noid.",
+   "by": "El lema de Domino's Pizza (1986)",
+   "dur": 4
+  }
+ },
+ {
+  "src": [
+   "NO",
+   "NO2"
+  ],
+  "label": "DOMINO'S · 1986",
+  "cap": "YO! NOID",
+  "txt": "La fama del Noid llegó hasta los videojuegos. En 1989 salió un juego de computadora llamado Avoid the Noid, y en 1990 llegó a la consola de Nintendo Yo! Noid, en el que, curiosamente, el Noid era el héroe. Un villano creado para arruinar pizzas terminó protagonizando su propio videojuego. Pocos personajes de comerciales pueden decir lo mismo."
+ },
+ {
+  "src": "NO2",
+  "label": "DOMINO'S · 1986",
+  "cap": "1989",
+  "txt": "El Noid apareció en comerciales, juguetes y hasta en videojuegos. Pero en 1989 pasó algo que nadie en Domino's pudo haber imaginado. Un hombre llamado Kenneth Lamar Noid entró armado a un Domino's en Georgia y tomó como rehenes a los empleados. Según los reportes, creía que la mascota era un ataque personal contra él, por tener el mismo apellido. Los empleados lograron escapar sin heridas graves.",
+  "fx": {
+   "type": "map",
+   "title": "EL INCIDENTE DE 1989",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Georgia"
+   ],
+   "pins": [
+    {
+     "name": "CHAMBLEE · GEORGIA",
+     "lon": -84.3,
+     "lat": 33.89
+    }
+   ],
+   "view": [
+    -90,
+    29,
+    -78,
+    37
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "NO",
+   "NO2"
+  ],
+  "label": "DOMINO'S · 1986",
+  "cap": "",
+  "txt": "Mucha gente repite que por eso Domino's retiró al Noid. Pero no está comprobado. La campaña siguió un tiempo después del incidente, y a principios de los noventa la empresa simplemente cambió de estrategia. Domino's lo ha traído de vuelta en algunas ocasiones, por nostalgia. Para una mascota cuyo trabajo era hacer difícil la entrega de pizza, el Noid resultó muy difícil de olvidar."
+ },
+ {
+  "src": [
+   "TB2",
+   "TB"
+  ],
+  "label": "TACO BELL · 1998",
+  "cap": "#9",
+  "txt": "Número nueve. El chihuahua de Taco Bell."
+ },
+ {
+  "src": [
+   "TB2",
+   "TB"
+  ],
+  "label": "TACO BELL · 1998",
+  "cap": "YO QUIERO",
+  "txt": "A finales de los noventa, una de las celebridades más grandes de Estados Unidos pesaba apenas unos kilos. En 1997, Taco Bell presentó a un chihuahua que miraba a la cámara y decía una frase imposible de olvidar, en español: ¡Yo quiero Taco Bell! El perro era en realidad una hembra llamada Gidget, y la voz era del actor Carlos Alazraqui.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Yo quiero Taco Bell!",
+   "by": "El chihuahua de Taco Bell (1997)",
+   "dur": 4
+  }
+ },
+ {
+  "src": [
+   "TB2",
+   "TB"
+  ],
+  "label": "TACO BELL · 1998",
+  "cap": "GODZILLA",
+  "txt": "El chihuahua se volvió tan famoso que Taco Bell lo usó en promociones con películas de Hollywood. En 1998, para el estreno de Godzilla, apareció en un comercial intentando atrapar al monstruo con una pequeña trampa, llamándolo como si fuera una lagartija. Era el tipo de chiste que solo funcionaba porque todo el país ya conocía al perrito."
+ },
+ {
+  "src": [
+   "TB",
+   "TB2"
+  ],
+  "label": "TACO BELL · 1998",
+  "cap": "",
+  "txt": "Hubo peluches, camisetas y todo tipo de productos. La gente repetía la frase en la escuela y en el trabajo. Pero detrás de la fama, Taco Bell tenía un problema: ser famoso no era lo mismo que vender más tacos. Algunos grupos hispanos criticaron la campaña por usar estereotipos, y la empresa dudaba de que el perro estuviera ayudando al negocio. En el año 2000, la campaña terminó."
+ },
+ {
+  "src": [
+   "TB2",
+   "TB"
+  ],
+  "label": "TACO BELL · 1998",
+  "cap": "LA DEMANDA",
+  "txt": "Y hubo un giro más. Dos hombres de Michigan demandaron a Taco Bell, diciendo que la idea del chihuahua había sido suya y que la empresa se la había robado. En 2003, un jurado les dio la razón y ordenó pagar unos treinta millones de dólares. Pero esa demanda no fue la razón por la que el perro dejó la televisión. Gidget, la perrita, vivió una vida tranquila y murió en 2009.",
+  "fx": {
+   "type": "counter",
+   "value": 30,
+   "prefix": "$",
+   "suffix": " MILLONES",
+   "label": "LA DEMANDA POR LA IDEA DEL CHIHUAHUA",
+   "sub": "Veredicto de 2003",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": [
+   "MT",
+   "MT2"
+  ],
+  "label": "McDONALD'S · 1987",
+  "cap": "#8",
+  "txt": "Número ocho. Mac Tonight, de McDonald's."
+ },
+ {
+  "src": [
+   "MT",
+   "MT2"
+  ],
+  "label": "McDONALD'S · 1987",
+  "cap": "LA LUNA",
+  "txt": "En los ochenta, McDonald's quería recordarle a la gente que sus hamburguesas no eran solo para el almuerzo, sino también para la cena. Y en lugar de mostrar a una familia comiendo, creó a un cantante con una luna en lugar de cabeza. Se llamaba Mac Tonight. Traje elegante, lentes oscuros, y un piano. Cantaba sobre ir a McDonald's de noche, con una melodía inspirada en la famosa canción Mack the Knife."
+ },
+ {
+  "src": [
+   "MT2",
+   "MT"
+  ],
+  "label": "McDONALD'S · 1987",
+  "cap": "EL PIANO",
+  "txt": "Los comerciales se veían como pequeños videos musicales. Mac Tonight tocaba el piano sobre una nube, o en el techo de un restaurante, bajo las estrellas. La producción era cuidada, con escenarios nocturnos y luces de neón, algo muy distinto al resto de la publicidad de McDonald's, siempre llena de colores brillantes y del payaso Ronald."
+ },
+ {
+  "src": [
+   "MT2",
+   "MT"
+  ],
+  "label": "McDONALD'S · 1987",
+  "cap": "",
+  "txt": "No estaba pensado solo para niños. Tenía la actitud de un cantante de club nocturno, y justo esa era la idea: atraer clientes por la noche. Pero la campaña terminó desvaneciéndose. Hubo problemas legales por el parecido con la canción original, y McDonald's cambió de estrategia. En algunos países el personaje siguió apareciendo un tiempo más, pero para quienes lo vieron en los ochenta, Mac Tonight pertenece a esa década.",
+  "fx": {
+   "type": "compare",
+   "title": "MAC TONIGHT",
+   "left": [
+    "1986",
+    "NACE PARA VENDER CENAS"
+   ],
+   "right": [
+    "1989",
+    "PROBLEMAS POR LA CANCIÓN"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BK",
+   "BK2",
+   "BK3"
+  ],
+  "label": "BURGER KING · 2006",
+  "cap": "#7",
+  "txt": "Número siete. El Rey de Burger King."
+ },
+ {
+  "src": [
+   "BK",
+   "BK3"
+  ],
+  "label": "BURGER KING · 2006",
+  "cap": "DESPIERTA CON EL REY",
+  "txt": "En la década de 2000, Burger King reinventó a su mascota real. El nuevo rey era un hombre con una enorme cabeza de plástico, una sonrisa congelada, y cero respeto por el espacio personal. En uno de los comerciales más famosos, un hombre despierta en su cama y encuentra al rey acostado a su lado, mirándolo fijamente. Y le ofrece el desayuno. Nada dice buenos días como un monarca de comida rápida en tu cama."
+ },
+ {
+  "src": [
+   "BK4",
+   "BK2"
+  ],
+  "label": "BURGER KING · VIDEOJUEGOS 2006",
+  "cap": "SNEAK KING",
+  "txt": "El rey se volvió tan famoso que protagonizó videojuegos de Xbox que se vendían en los restaurantes. Uno de ellos se llamaba Sneak King, y el objetivo era acercarte a escondidas a la gente y sorprenderla con comida. La adaptación perfecta del personaje. Pero en 2011, Burger King cambió de rumbo y retiró al rey de sus comerciales principales. Años después lo ha traído de vuelta en algunas ocasiones.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL REY DE BURGER KING",
+   "items": [
+    [
+     "2004",
+     "Vuelve el rey"
+    ],
+    [
+     "2006",
+     "Sus videojuegos"
+    ],
+    [
+     "2011",
+     "Lo retiran"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "PC@2-14",
+   "PC2@2-14"
+  ],
+  "label": "PETS.COM · 2000",
+  "cap": "#6",
+  "txt": "Número seis. El calcetín de Pets.com."
+ },
+ {
+  "src": [
+   "PC@2-14",
+   "PC2@2-14"
+  ],
+  "label": "PETS.COM · 2000",
+  "cap": "EL CALCETÍN",
+  "txt": "Pets.com vendía productos para mascotas por internet en 1999, cuando comprar en línea todavía era algo nuevo. Mandar costales pesados de comida para perro por paquetería era carísimo. Y aun así, la empresa gastó muchísimo en publicidad. Su mascota era un títere hecho con un calcetín, con forma de perro y un micrófono. Hacía chistes sarcásticos, apareció en el Super Bowl del año 2000, y el público lo adoró."
+ },
+ {
+  "src": [
+   "PC2@2-14",
+   "PC@2-14"
+  ],
+  "label": "PETS.COM · 2000",
+  "cap": "LA BURBUJA",
+  "txt": "Solo había un problema: el negocio no funcionaba. En noviembre del año 2000, Pets.com anunció que cerraba, y se convirtió en uno de los ejemplos más famosos de la caída de las empresas de internet. Pero el calcetín no desapareció. Otra empresa compró los derechos del títere y lo usó en su propia publicidad. Es una de las pocas mascotas que sobrevivió a la empresa que la creó.",
+  "fx": {
+   "type": "compare",
+   "title": "PETS.COM",
+   "left": [
+    "ENERO 2000",
+    "COMERCIAL EN EL SUPER BOWL"
+   ],
+   "right": [
+    "NOV 2000",
+    "LA EMPRESA CIERRA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "QZ",
+  "label": "QUIZNOS · 2004",
+  "cap": "#5",
+  "txt": "Número cinco. Los Spongmonkeys de Quiznos."
+ },
+ {
+  "src": "QZ",
+  "label": "QUIZNOS · 2004",
+  "cap": "",
+  "txt": "En 2004, Quiznos presentó a dos criaturas extrañas, flotando y cantando sobre sándwiches tostados. Tenían ojos saltones, cuerpos raros y bocas demasiado entusiasmadas. Venían de una animación de internet del creador británico Joel Veitch, famosa por una canción absurda sobre la luna. Quiznos llevó ese humor de internet a la televisión nacional."
+ },
+ {
+  "src": "QZ",
+  "label": "QUIZNOS · 2004",
+  "cap": "AMOR U ODIO",
+  "txt": "Hubo quien los encontró divertidísimos, y quien los encontró perturbadores. Pero casi nadie quedó indiferente. Quiznos pasó después a otras campañas y las criaturas desaparecieron. Hoy se ven como un aviso temprano de lo que el humor de internet iba a hacerle a la publicidad: raro, inolvidable, y para muchos, un poco incómodo.",
+  "fx": {
+   "type": "quote",
+   "text": "Nos encantan los sándwiches.",
+   "by": "Los Spongmonkeys de Quiznos (2004)",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "FB",
+  "label": "FRITOS · FRITO BANDITO",
+  "cap": "#4",
+  "txt": "Número cuatro. El Frito Bandito."
+ },
+ {
+  "src": [
+   "FB",
+   "FR"
+  ],
+  "label": "FRITOS · AÑOS 60",
+  "cap": "",
+  "txt": "No todas las mascotas desaparecieron porque la empresa quisiera renovarse. A finales de los sesenta, Fritos usó a un personaje de caricatura vestido como un bandido mexicano estereotipado: sombrero enorme, pistolas y un acento exagerado. Su personalidad entera giraba alrededor de robar papitas de maíz. Y su voz era de Mel Blanc, la voz de Bugs Bunny."
+ },
+ {
+  "src": "FB",
+  "label": "FRITOS · FRITO BANDITO",
+  "cap": "LAS CRÍTICAS",
+  "txt": "Organizaciones mexicoamericanas criticaron al personaje por reforzar estereotipos negativos. El problema no era que a un bandido de caricatura le gustaran las papitas, sino que una marca enorme usara una caricatura étnica como símbolo publicitario. Fritos intentó cambiar el personaje, pero las críticas siguieron. A principios de los setenta, el Frito Bandito fue retirado. En este caso, la polémica sí fue la razón central.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL FRITO BANDITO",
+   "items": [
+    [
+     "1967",
+     "Nace el personaje"
+    ],
+    [
+     "1969-70",
+     "Crecen las críticas"
+    ],
+    [
+     "1971",
+     "Retirado"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "GC",
+   "GC2",
+   "GC3"
+  ],
+  "label": "GEICO · CAVERNÍCOLAS",
+  "cap": "#3",
+  "txt": "Número tres. Los cavernícolas de GEICO."
+ },
+ {
+  "src": [
+   "GC2",
+   "GC"
+  ],
+  "label": "GEICO · CAVERNÍCOLAS",
+  "cap": "TAN FÁCIL QUE...",
+  "txt": "La aseguradora GEICO promocionaba su servicio con la frase: tan fácil que hasta un cavernícola puede hacerlo. Y luego se preguntó: ¿qué pasaría si un cavernícola de verdad escuchara eso y se ofendiera? Así nacieron unos cavernícolas modernos, inteligentes, educados y profundamente molestos con el lema. Iban a restaurantes, a aeropuertos, y cada vez que alguien repetía la frase, ponían cara de cansancio.",
+  "fx": {
+   "type": "quote",
+   "text": "Tan fácil que hasta un cavernícola puede hacerlo.",
+   "by": "El lema de GEICO (2004)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "GC3",
+   "GC2"
+  ],
+  "label": "GEICO · CAVERNÍCOLAS",
+  "cap": "LA SERIE",
+  "txt": "Los comerciales fueron tan populares que en 2007 la cadena ABC estrenó una comedia completa con ellos, llamada Cavemen. Fue un desastre: malas críticas y poca duración. Convertir un chiste de treinta segundos en un programa de media hora resultó mucho más difícil de lo que pensaban. GEICO siguió usando a los cavernícolas un tiempo, hasta que otros personajes, como su famosa lagartija, tomaron el centro.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS CAVERNÍCOLAS",
+   "left": [
+    "30 SEG",
+    "EXITOSO COMERCIAL"
+   ],
+   "right": [
+    "30 MIN",
+    "SERIE CANCELADA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "BF@20-1050",
+  "label": "BUDWEISER · RANAS",
+  "cap": "#2",
+  "txt": "Número dos. Las ranas de Budweiser."
+ },
+ {
+  "src": "BF@20-1050",
+  "label": "BUDWEISER · RANAS",
+  "cap": "BUD... WEIS... ER",
+  "txt": "En el Super Bowl de 1995, Budweiser presentó a tres ranas en un pantano. Casi no se movían. Solo croaban tres sílabas: bud, weis, er. Eso era todo el comercial. Y se volvió una de las campañas de cerveza más recordadas de los noventa. La gente repetía los sonidos, los comediantes los imitaban, y tres ranas animadas se volvieron celebridades nacionales.",
+  "fx": {
+   "type": "quote",
+   "text": "Bud... weis... er.",
+   "by": "Las ranas de Budweiser (Super Bowl 1995)",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "BF@20-1050",
+  "label": "BUDWEISER · LAGARTIJAS",
+  "cap": "LAS LAGARTIJAS",
+  "txt": "Después llegaron dos lagartijas, Frank y Louie, celosas de las ranas, y los comerciales se convirtieron en una especie de serie de comedia con historias que continuaban. Pero también hubo debate: muchos criticaban que las marcas de alcohol usaran animales de caricatura que podían atraer a los jóvenes. Las ranas no fueron prohibidas, pero la campaña cambió y para finales de los noventa ya no dominaban la televisión."
+ },
+ {
+  "src": [
+   "CH",
+   "CH2"
+  ],
+  "label": "CHARMIN · SR. WHIPPLE",
+  "cap": "#1",
+  "txt": "Y número uno. El señor Whipple, de Charmin."
+ },
+ {
+  "src": [
+   "CH2",
+   "CH"
+  ],
+  "label": "CHARMIN · SR. WHIPPLE",
+  "cap": "NO APRIETEN",
+  "txt": "Durante más de veinte años, un hombre en la televisión de Estados Unidos intentó evitar que la gente apretara el papel higiénico. Se llamaba el señor Whipple, el gerente de una tienda, interpretado por el actor Dick Wilson. Desde 1964, su regla era una sola: por favor, no aprieten el Charmin. Pero el papel era tan suave que los clientes no podían resistirse."
+ },
+ {
+  "src": [
+   "CH",
+   "CH2"
+  ],
+  "label": "CHARMIN · SR. WHIPPLE",
+  "cap": "EL TERCERO",
+  "txt": "Y lo más gracioso: el propio señor Whipple tampoco podía resistirse, y lo apretaba cuando nadie lo veía. Apareció en cientos de comerciales. Según encuestas de los años setenta, era uno de los rostros más reconocidos de Estados Unidos, junto a presidentes y celebridades. A mediados de los ochenta fue retirado poco a poco, y años después Charmin pasó a usar a sus famosos osos animados.",
+  "fx": {
+   "type": "counter",
+   "value": 500,
+   "prefix": "+",
+   "suffix": " COMERCIALES",
+   "label": "DEL SEÑOR WHIPPLE",
+   "sub": "De 1964 a mediados de los 80",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "CH2",
+   "CH"
+  ],
+  "label": "CHARMIN · SR. WHIPPLE",
+  "cap": "",
+  "txt": "No lo despidieron por ningún escándalo. Su campaña simplemente llegó al final de una carrera extraordinaria. Muchas mascotas se hacen famosas por hacer algo ruidoso o ridículo. El señor Whipple se hizo famoso por pedir, una y otra vez, que no hicieras una cosa muy simple. Y millones de personas lo recuerdan por eso."
+ },
+ {
+  "src": [
+   "NO",
+   "TB2",
+   "MT",
+   "PC@2-14",
+   "BF@20-1050"
+  ],
+  "label": "¿CUÁL RECUERDAS?",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Las empresas cambian, los productos cambian y los comerciales desaparecen. Pero décadas después, alguien te muestra un chihuahua, una luna con lentes oscuros o un calcetín con micrófono, y de pronto estás otra vez frente a la televisión. Dime en los comentarios: ¿cuál de estas mascotas recuerdas más? ¿Y cuál olvidamos en esta lista? Suscríbete para más viajes al pasado de la televisión."
+ }
+]
