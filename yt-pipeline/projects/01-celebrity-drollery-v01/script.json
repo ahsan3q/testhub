@@ -1,0 +1,189 @@
+[
+ {
+  "src": "MS1",
+  "label": "LEE MARVIN",
+  "cap": "",
+  "txt": "Lee Marvin fue herido en Saipán, ganó un Óscar por una comedia del oeste, y pasó cuarenta años dándoles a los presentadores de televisión las respuestas más cortas de su vida. Una vez le preguntaron cada cuánto visitaba a sus amigos de Hollywood. Respondió: lo menos posible."
+ },
+ {
+  "src": "BH",
+  "label": "LEE MARVIN",
+  "cap": "HISTORIAS DE GUERRA",
+  "txt": "Las celebridades nunca supieron qué hacer con su humor seco, ni con sus historias de guerra. Y detrás de esas respuestas cortas había una vida increíble. Esta es la historia del actor que no necesitaba fingir ser duro."
+ },
+ {
+  "src": "SI",
+  "label": "MARINES · SAIPÁN 1944",
+  "cap": "18 AÑOS",
+  "txt": "Lee Marvin se unió a los Marines a los dieciocho años y peleó en el Pacífico como explorador y francotirador. En junio de 1944, en la batalla de Saipán, fue herido. Durante toda su vida describió esa herida con la menor cantidad de palabras posible.",
+  "fx": {
+   "type": "map",
+   "title": "DE NUEVA YORK A SAIPÁN",
+   "countries": [
+    "United States of America",
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "NUEVA YORK",
+     "lon": -74.0,
+     "lat": 40.7
+    },
+    {
+     "name": "SAIPÁN · 1944",
+     "lon": 145.75,
+     "lat": 15.2
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -170,
+    -5,
+    175,
+    60
+   ],
+   "dur": 5.5
+  }
+ },
+ {
+  "src": "SA",
+  "label": "SAIPÁN · 1944",
+  "cap": "MONTE TAPOCHAU",
+  "txt": "Pero los registros cuentan algo más duro. Fue alcanzado por fuego de ametralladora en el monte Tapochau. La bala le cortó el nervio ciático, y pasó más de un año en hospitales. En casa, en Nueva York, su madre estaba a punto de recibir un telegrama. Él le escribió antes para que no se asustara. Y ella le respondió que lo había soñado: lo vio en la puerta de su cuarto, con su uniforme de gala y la cabeza vendada. Marvin bromeaba después que las vendas, en realidad, estaban bastante más abajo."
+ },
+ {
+  "src": "SA",
+  "label": "CORAZÓN PÚRPURA",
+  "cap": "",
+  "txt": "Recibió la medalla del Corazón Púrpura. Cuando un presentador le dijo que se la había ganado, Marvin lo corrigió de inmediato.",
+  "fx": {
+   "type": "quote",
+   "text": "No se ganan. Te las dan cuando te disparan. Preferiría no tenerla.",
+   "by": "Lee Marvin",
+   "dur": 5
+  }
+ },
+ {
+  "src": "SI",
+  "label": "EL MITO",
+  "cap": "MITO",
+  "txt": "Y aquí hay que aclarar una leyenda famosa. Mucha gente cree que Marvin le contó a Johnny Carson que el hombre más valiente que conoció en Iwo Jima fue el Capitán Canguro, el presentador infantil. Nunca pasó. Marvin jamás estuvo en Iwo Jima, y Bob Keeshan entró a los Marines demasiado tarde para combatir."
+ },
+ {
+  "src": "MS3",
+  "label": "WOODSTOCK, NUEVA YORK",
+  "cap": "",
+  "txt": "Después de la guerra, trabajaba como ayudante de plomero en Woodstock, Nueva York, cuando un grupo de teatro de verano necesitó a alguien para reemplazar a un actor enfermo. Él contaba la razón sin adornos: había llegado al pueblo una actriz muy guapa, y él preguntó quién era. Así se volvió actor. Con la ayuda del gobierno para veteranos pagó sus clases de actuación, y en 1951 ya estaba en Broadway y en su primera película."
+ },
+ {
+  "src": "BH",
+  "label": "THE BIG HEAT · 1953",
+  "cap": "EL VILLANO",
+  "txt": "Hollywood lo eligió para hacer de matón y asesino, en películas como The Big Heat, The Wild One y Conspiración de silencio. Él decía que no era por su cara de malo, sino porque no tenía cara de galán. Una vez le preguntaron si disfrutaba golpear a John Wayne en pantalla. Respondió: a cualquiera le gustaría. Y salirse con la suya."
+ },
+ {
+  "src": "MS1",
+  "label": "M SQUAD · 1957",
+  "cap": "EL HÉROE",
+  "txt": "La televisión, por fin, lo convirtió en el héroe. Durante tres años fue un detective de Chicago en la serie M Squad, con más de cien episodios. Luego, en 1962, el director John Ford lo eligió para ser Liberty Valance, el bandido al que el personaje de John Wayne termina matando."
+ },
+ {
+  "src": "MS3",
+  "label": "LEE MARVIN",
+  "cap": "",
+  "txt": "Para su escena de muerte, Marvin tuvo una idea. Pidió unas monedas de plata dentro de su sombrero, para que al caer salieran volando sobre las tablas y una quedara girando. Él contaba que quedó tan bien que la cortaron, porque era demasiado mitológica."
+ },
+ {
+  "src": "CB",
+  "label": "CAT BALLOU · 1965",
+  "cap": "EL ÓSCAR",
+  "txt": "En 1964, Los asesinos le dio el primer papel principal de su carrera. Y luego llegó Cat Ballou, una comedia del oeste con Jane Fonda, donde hizo un doble papel. Lo nominaron al Óscar como mejor actor, contra Laurence Olivier, Richard Burton y Rod Steiger. Y ganó.",
+  "fx": {
+   "type": "quote",
+   "text": "Creo que la mitad de esto le pertenece a un caballo en algún lugar del Valle.",
+   "by": "Lee Marvin, al recibir su Óscar",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "CB",
+  "label": "LEE MARVIN · 1967",
+  "cap": "DOCE CONDENADOS",
+  "txt": "Ahora era protagonista. En 1967 llegó Doce del patíbulo, donde hacía de un mayor que debía convertir a doce soldados condenados en un comando. Entre ellos estaban Jim Brown, Charles Bronson y John Cassavetes. Marvin decía que fue una película de supervivencia, porque todos los actores querían robarse las escenas."
+ },
+ {
+  "src": "MS1",
+  "label": "LEE MARVIN · 1969",
+  "cap": "",
+  "txt": "En 1969 incluso cantó, a su manera, en el musical La leyenda de la ciudad sin nombre, junto a Clint Eastwood. Su canción, Wand'rin' Star, llegó al número uno en Gran Bretaña en marzo de 1970. Y dejó en segundo lugar a Let It Be, de los Beatles.",
+  "fx": {
+   "type": "compare",
+   "title": "LISTA BRITÁNICA · MARZO 1970",
+   "left": [
+    "#1",
+    "LEE MARVIN · WAND'RIN' STAR"
+   ],
+   "right": [
+    "#2",
+    "THE BEATLES · LET IT BE"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "MS1",
+  "label": "EL SECRETO DEL VILLANO",
+  "cap": "",
+  "txt": "En un programa de televisión le preguntaron cuál era el secreto para hacer de villano. Dijo que simplemente hacía lo que odiaría que alguien le hiciera a él. Y años después le dio una lección al joven actor Héctor Elizondo, que le dijo que admiraba sus papeles de malo.",
+  "fx": {
+   "type": "quote",
+   "text": "Nunca hice de malo en mi vida. ¿Algún malo que conozcas cree que es malo? Así se interpreta a un malo.",
+   "by": "Lee Marvin a Héctor Elizondo",
+   "dur": 6
+  }
+ },
+ {
+  "src": "SA",
+  "label": "SEGUNDA GUERRA MUNDIAL",
+  "cap": "",
+  "txt": "En 1980 hizo Uno rojo, división de choque, escrita y dirigida por Samuel Fuller, un veterano que desembarcó en la playa de Omaha. Marvin hacía de sargento, y Mark Hamill y Robert Carradine eran sus jóvenes soldados. Carradine contó que en el primer viaje en auto, Marvin no dijo nada, hasta que preguntó sin voltear: ¿quién quiere ser Carradine? No era una pregunta. Marvin le explicó después que tenía que poner orden desde el principio con cuatro muchachos jóvenes."
+ },
+ {
+  "src": "MS3",
+  "label": "LEE MARVIN · 1924–1987",
+  "cap": "ARLINGTON",
+  "txt": "Le preguntaron si las películas de guerra se parecían al combate real. Respondió que el combate es algo muy personal, y que nadie quería ver un noticiero de muerte y destrucción de verdad. Su última película fue Delta Force, en 1986. Murió en agosto del año siguiente, a los sesenta y tres años. Está enterrado en el Cementerio Nacional de Arlington, entre soldados.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DE LEE MARVIN",
+   "items": [
+    [
+     "1944",
+     "Herido en Saipán"
+    ],
+    [
+     "1951",
+     "Primera película"
+    ],
+    [
+     "1966",
+     "Gana el Óscar"
+    ],
+    [
+     "1987",
+     "Muere a los 63 años"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "MIX",
+  "label": "",
+  "cap": "¿QUÉ LE PREGUNTARÍAS?",
+  "txt": "Si pudieras hacerle una pregunta a Lee Marvin, ¿cuál sería? ¿Y con cuántas palabras crees que te respondería? Déjalo en los comentarios. Y si te gustan las respuestas cortas, suscríbete."
+ }
+]

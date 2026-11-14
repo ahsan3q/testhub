@@ -1,0 +1,309 @@
+[
+ {
+  "src": "WB",
+  "label": "WENDY'S · 1984",
+  "cap": "",
+  "txt": "Hubo una época en que los comerciales de televisión eran tan famosos como los programas que interrumpían. Una anciana podía convertir una sola pregunta en una frase nacional. Y dos personajes de caricatura podían detenerse a fumar un cigarrillo en horario familiar."
+ },
+ {
+  "src": "MIX",
+  "label": "COMERCIALES CLÁSICOS",
+  "cap": "¿QUÉ PASÓ?",
+  "txt": "Algunos de estos comerciales eran geniales. Otros, absurdos. Y unos cuantos hoy serían imposibles. Pero no todos fueron prohibidos. Algunos terminaron en demandas, otros en escándalos, y otros simplemente se volvieron demasiado caros. Estos son siete comerciales polémicos y divertidos que desaparecieron de la televisión, y lo que de verdad les pasó."
+ },
+ {
+  "src": "FW",
+  "label": "WINSTON · LOS PICAPIEDRA",
+  "cap": "#7",
+  "txt": "Número siete. Los Picapiedra vendiendo cigarrillos."
+ },
+ {
+  "src": "FW",
+  "label": "LOS PICAPIEDRA · 1960",
+  "cap": "30 DE SEPTIEMBRE, 1960",
+  "txt": "Antes de que alguien se escandalice, un poco de contexto. Los Picapiedra se estrenaron el treinta de septiembre de 1960, y no eran una caricatura para niños. Fue la primera serie animada en el horario estelar de la televisión, pensada para toda la familia, al estilo de las comedias de adultos de la época. De hecho, al día siguiente del estreno, la revista Variety la llamó un desastre de pluma y tinta."
+ },
+ {
+  "src": "FW2",
+  "label": "WINSTON · 1960",
+  "cap": "",
+  "txt": "Sus dos primeras temporadas fueron patrocinadas por los cigarrillos Winston. Y así nacieron unos comerciales que hoy parecen irreales. Pedro y Pablo, cansados mientras Vilma y Betty hacen los quehaceres, se esconden detrás de la casa, encienden un Winston y lo disfrutan tranquilamente. Con el tiempo, el público de la serie se volvió más infantil, Winston se retiró, y el nuevo patrocinador fue una marca de jugo de uva."
+ },
+ {
+  "src": "FW",
+  "label": "LA PROHIBICIÓN · 1971",
+  "cap": "",
+  "txt": "Pero lo que acabó con estos comerciales fue una ley. El presidente Richard Nixon firmó la ley de salud pública sobre el cigarrillo, y desde el dos de enero de 1971, la publicidad de cigarrillos quedó prohibida en la televisión y la radio de Estados Unidos. El último comercial salió al aire la noche anterior, durante el programa de Johnny Carson.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL FIN DE LOS COMERCIALES DE TABACO",
+   "items": [
+    [
+     "1960",
+     "Winston patrocina Los Picapiedra"
+    ],
+    [
+     "1970",
+     "Nixon firma la ley"
+    ],
+    [
+     "1971",
+     "Prohibidos desde el 2 de enero"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "LC",
+  "label": "LIFECALL · 1989",
+  "cap": "#6",
+  "txt": "Número seis. Me caí y no me puedo levantar."
+ },
+ {
+  "src": "LC",
+  "label": "LIFECALL · 1989",
+  "cap": "",
+  "txt": "Este comercial no intentaba ser gracioso. Era para LifeCall, un servicio de alarma médica para personas mayores que vivían solas. Les daban un colgante con un botón, y al presionarlo podían hablar directamente con una central de emergencias, sin necesidad de llegar al teléfono.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Me he caído y no me puedo levantar!",
+   "by": "Mrs. Fletcher, comercial de LifeCall (1989)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "LC",
+  "label": "EDITH FORE",
+  "cap": "1989",
+  "txt": "En 1989, LifeCall lanzó el comercial donde una señora, la señora Fletcher, cae al suelo del baño y dice la frase que todo el país empezó a repetir. La interpretaba la actriz Edith Fore. La actuación era tan dramática que se volvió un chiste nacional: aparecía en programas de comedia, en escuelas y en bares. LifeCall incluso registró la frase como marca. Pero la empresa quebró en 1993. Y años después, la frase terminó siendo marca registrada de su competidor, Life Alert. Por eso hoy mucha gente cree que era un comercial de Life Alert."
+ },
+ {
+  "src": "CE",
+  "label": "CRAZY EDDIE",
+  "cap": "#5",
+  "txt": "Número cinco. Crazy Eddie, y sus precios de locura."
+ },
+ {
+  "src": "CE2",
+  "label": "CRAZY EDDIE · 1978",
+  "cap": "",
+  "txt": "Si creciste en Nueva York, seguramente recuerdas a un hombre gritando a toda velocidad que los precios de Crazy Eddie eran una locura. Crazy Eddie era una cadena de tiendas de electrónica fundada en 1969 en Nueva York por Eddie Antar y su familia. Pero el hombre que gritaba en los comerciales no era Eddie. Era un locutor llamado Jerry Carroll.",
+  "fx": {
+   "type": "map",
+   "title": "EL IMPERIO DE CRAZY EDDIE",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York",
+    "New Jersey",
+    "Connecticut",
+    "Pennsylvania"
+   ],
+   "pins": [
+    {
+     "name": "NUEVA YORK · 1969",
+     "lon": -74.0,
+     "lat": 40.7
+    }
+   ],
+   "view": [
+    -82,
+    37,
+    -68,
+    45.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CE",
+  "label": "CRAZY EDDIE · 1988",
+  "cap": "43 TIENDAS",
+  "txt": "En su mejor momento, Crazy Eddie tuvo cuarenta y tres tiendas en cuatro estados y más de trescientos millones de dólares en ventas. Pero detrás de los gritos había un secreto. La empresa llevaba años cometiendo fraude: ocultaban ingresos, se quedaban con impuestos y pagaban empleados por debajo de la mesa. Eddie Antar renunció en 1986, y en 1989 la empresa se declaró en bancarrota. Los comerciales parecían una locura. Pero la verdadera locura estaba en las cuentas.",
+  "fx": {
+   "type": "counter",
+   "value": 300,
+   "prefix": "+$",
+   "suffix": " MILLONES",
+   "label": "VENTAS DE CRAZY EDDIE",
+   "sub": "43 tiendas en 4 estados",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "MC",
+  "label": "MCDONALDLAND",
+  "cap": "#4",
+  "txt": "Número cuatro. El mundo mágico de McDonald's."
+ },
+ {
+  "src": "MC2",
+  "label": "MCDONALDLAND · 1971",
+  "cap": "ENERO DE 1971",
+  "txt": "En enero de 1971 se transmitió el primer comercial de McDonaldland, un mundo de fantasía donde vivían Ronald McDonald, Grimace, el Hamburglar, el alcalde McCheese, el Capitán Crook y otros personajes extraños. Para los niños era un sueño. Pero para dos hermanos, Sid y Marty Krofft, era una copia."
+ },
+ {
+  "src": "MC",
+  "label": "KROFFT VS MCDONALD'S",
+  "cap": "",
+  "txt": "Los Krofft eran los creadores de H. R. Pufnstuf, un programa infantil con personajes de colores en un mundo mágico. En 1973 demandaron a McDonald's. Un jurado les dio la razón y McDonald's tuvo que pagar cincuenta mil dólares. Pero en 1977, un tribunal de apelaciones subió la cifra a más de un millón de dólares.",
+  "fx": {
+   "type": "compare",
+   "title": "LA DEMANDA DE LOS KROFFT",
+   "left": [
+    "$50,000",
+    "DECISIÓN DEL JURADO"
+   ],
+   "right": [
+    "+$1,000,000",
+    "TRAS LA APELACIÓN, 1977"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "MC",
+  "label": "MCDONALDLAND · 1985",
+  "cap": "HASTA 1985",
+  "txt": "McDonaldland no desapareció de un día para otro. Pero personajes como el alcalde McCheese, el Oficial Big Mac y el Capitán Crook dejaron de usarse en 1985. Ronald, Grimace y el Hamburglar sobrevivieron. Y desde 2003, el mundo de McDonaldland casi no aparece en los comerciales."
+ },
+ {
+  "src": "WB",
+  "label": "WENDY'S · 1984",
+  "cap": "#3",
+  "txt": "Número tres. ¿Dónde está la carne?"
+ },
+ {
+  "src": "WB2",
+  "label": "WENDY'S · 1984",
+  "cap": "",
+  "txt": "En 1984, Wendy's estrenó un comercial llamado Fluffy Bun. Tres señoras mayores reciben una hamburguesa con un pan gigante. Levantan la tapa, y adentro hay una carne diminuta. Y una de ellas, Clara Peller, grita la frase que hizo historia: ¿Dónde está la carne?",
+  "fx": {
+   "type": "quote",
+   "text": "¿Dónde está la carne?",
+   "by": "Clara Peller, Wendy's (1984)",
+   "dur": 4
+  }
+ },
+ {
+  "src": "WB",
+  "label": "CLARA PELLER",
+  "cap": "$317 POR DÍA",
+  "txt": "Clara Peller no era actriz. Había trabajado treinta y cinco años como manicurista en Chicago, y a los ochenta años la contrataron para un comercial de una barbería. El director, Joe Sedelmaier, quería que dijera una frase más larga, pero ella no podía por un problema de enfisema. Así nació la versión corta. Por ese primer comercial le pagaron trescientos diecisiete dólares por día."
+ },
+ {
+  "src": "WB2",
+  "label": "WENDY'S · 1985",
+  "cap": "",
+  "txt": "El resultado fue enorme. La frase apareció en programas, películas y hasta en canciones. Y las ventas de Wendy's subieron un treinta y uno por ciento, hasta novecientos cuarenta y cinco millones de dólares. Pero en 1985, Clara apareció en un comercial de salsa Prego diciendo que por fin había encontrado la carne. A Wendy's no le hizo gracia, y terminó su relación con ella.",
+  "fx": {
+   "type": "counter",
+   "value": 945,
+   "prefix": "$",
+   "suffix": " MILLONES",
+   "label": "VENTAS DE WENDY'S EN 1985",
+   "sub": "+31% gracias a una sola frase",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "TC",
+  "label": "TASTER'S CHOICE",
+  "cap": "#2",
+  "txt": "Número dos. La telenovela del café."
+ },
+ {
+  "src": "TC2",
+  "label": "NESCAFÉ · TASTER'S CHOICE",
+  "cap": "",
+  "txt": "La mayoría de los comerciales quieren tu atención por treinta segundos. Este quería que volvieras por el siguiente capítulo. Todo empezó en el Reino Unido en 1987, con el café Gold Blend de Nescafé. Una vecina toca la puerta porque se quedó sin café. Él tiene un frasco. Y así empieza un romance contado en pequeños episodios.",
+  "fx": {
+   "type": "map",
+   "title": "UN ROMANCE QUE CRUZÓ EL OCÉANO",
+   "countries": [
+    "United Kingdom",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "REINO UNIDO · 1987",
+     "lon": -0.1,
+     "lat": 51.5
+    },
+    {
+     "name": "ESTADOS UNIDOS · 1990",
+     "lon": -74.0,
+     "lat": 40.7
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -95,
+    22,
+    15,
+    62
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "TC",
+  "label": "TASTER'S CHOICE · 1993",
+  "cap": "ANTHONY HEAD",
+  "txt": "Los protagonistas eran Anthony Head y Sharon Maughan. En el Reino Unido, la historia tuvo doce episodios entre 1987 y 1993, y los primeros once hasta se vendieron juntos en un video llamado Love Over Gold. En 1990 el romance llegó a Estados Unidos con la marca Taster's Choice, y el público se obsesionó: la gente escribía cartas para saber si la pareja terminaría junta. Sin escándalos ni prohibiciones, la marca simplemente decidió cerrar la historia y buscar una campaña nueva."
+ },
+ {
+  "src": "CR",
+  "label": "CALIFORNIA RAISINS",
+  "cap": "#1",
+  "txt": "Número uno. Las pasas de California."
+ },
+ {
+  "src": "CR",
+  "label": "CALIFORNIA RAISINS · 1986",
+  "cap": "19 DE JUNIO, 1986",
+  "txt": "¿A quién se le ocurrió ponerle lentes de sol, brazos y piernas a una pasa, y hacerla cantar Motown? Pues funcionó. El diecinueve de junio de 1986 aparecieron por primera vez las California Raisins, hechas en plastilina, cantando I Heard It Through the Grapevine. La voz principal era del músico Buddy Miles."
+ },
+ {
+  "src": "CR",
+  "label": "CALIFORNIA RAISINS",
+  "cap": "4 ÁLBUMES",
+  "txt": "Las pasas se volvieron estrellas de verdad. Grabaron cuatro álbumes entre 1987 y 1988, su canción entró a la lista Billboard Hot 100, ganaron un premio Emmy y tuvieron su propio club de fans. Pero toda esa fama costaba muchísimo dinero, y lo pagaban los productores de pasas a través de un consejo publicitario. Los agricultores se cansaron de pagar cuotas cada vez más altas, el consejo colapsó, y el treinta y uno de julio de 1994, las California Raisins se retiraron.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA CARRERA DE LAS PASAS",
+   "items": [
+    [
+     "1986",
+     "Primer comercial"
+    ],
+    [
+     "1987",
+     "Primer álbum"
+    ],
+    [
+     "1994",
+     "Fin de la campaña"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "MIX",
+  "label": "COMERCIALES CLÁSICOS",
+  "cap": "7 COMERCIALES",
+  "txt": "Lo más curioso es que casi ninguno fue prohibido. Los Picapiedra cayeron por una ley. LifeCall quebró. Crazy Eddie se hundió en un fraude. McDonaldland perdió en los tribunales. Clara encontró la carne en otra marca. Y las pasas se volvieron demasiado caras. Los comerciales desaparecieron, pero siguen viviendo en nuestra memoria."
+ },
+ {
+  "src": "MIX",
+  "label": "",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "¿Cuál de estos comerciales recuerdas? ¿Y cuál debería haber estado en esta lista? Déjamelo en los comentarios. Suscríbete y activa la campanita para el próximo viaje al pasado de la televisión."
+ }
+]

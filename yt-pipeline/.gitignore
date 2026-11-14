@@ -1,0 +1,11 @@
+tools/.env
+tools/assets/
+projects/*/src*/
+projects/*/vo/
+projects/*/build/
+projects/*/upload/
+projects/*/thumb/
+*.mp4
+*.mp3
+*.m4a
+*.wav
