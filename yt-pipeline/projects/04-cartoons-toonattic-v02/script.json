@@ -1,0 +1,375 @@
+[
+ {
+  "src": "IN",
+  "label": "LOS PICAPIEDRA · 1960",
+  "cap": "",
+  "txt": "Seguro conoces a Los Picapiedra. La familia moderna de la Edad de Piedra, el grito de Pedro, la risa de Vilma, el dinosaurio Dino. Pero detrás de esa caricatura alegre hay una historia que casi nadie cuenta: una idea que nadie quería comprar, un famoso comediante que pensó en demandar, comerciales de cigarrillos, un actor grabando desde una cama de hospital, y una actriz que cambió millones por quince mil dólares."
+ },
+ {
+  "src": "MIX",
+  "label": "LOS PICAPIEDRA",
+  "cap": "15 DATOS",
+  "txt": "Hoy te traigo quince datos increíbles sobre Los Picapiedra que probablemente no conocías. Todos verificados. Y quédate hasta el final, porque el último explica por qué esta serie cambió la televisión para siempre. Cuéntame en los comentarios cuál te sorprendió más."
+ },
+ {
+  "src": "RQ",
+  "label": "HANNA-BARBERA",
+  "cap": "#15",
+  "txt": "Número quince. Nadie la quería comprar."
+ },
+ {
+  "src": "S2",
+  "label": "HANNA-BARBERA",
+  "cap": "7 ÓSCAR",
+  "txt": "Para entender por qué arriesgaron tanto, hay que saber quiénes eran. William Hanna y Joseph Barbera habían creado Tom y Jerry en los estudios MGM, y esas caricaturas ganaron siete premios Óscar. Pero en 1957, MGM cerró su departamento de animación, y los dos se quedaron sin trabajo. Así que fundaron su propio estudio, Hanna-Barbera, y empezaron a hacer caricaturas baratas para la televisión, como El oso Yogui y Huckleberry Hound. Los Picapiedra era su apuesta más grande: pasar de los programas infantiles al horario estelar.",
+  "fx": {
+   "type": "counter",
+   "value": 7,
+   "suffix": " ÓSCAR",
+   "label": "TOM Y JERRY EN MGM",
+   "sub": "Antes de fundar Hanna-Barbera en 1957",
+   "dur": 4
+  }
+ },
+ {
+  "src": "RQ",
+  "label": "HANNA-BARBERA · 1959",
+  "cap": "8 SEMANAS",
+  "txt": "Hoy parece imposible, pero Los Picapiedra fue muy difícil de vender. William Hanna y Joseph Barbera querían hacer algo nunca visto: una caricatura para adultos, en horario estelar, como las comedias familiares con actores. Probaron varios escenarios antes de elegir la Edad de Piedra. Y luego Joseph Barbera tuvo que presentarla todos los días durante ocho semanas, a canales y agencias de publicidad, hasta que por fin ABC dijo que sí.",
+  "fx": {
+   "type": "counter",
+   "value": 8,
+   "suffix": " SEMANAS",
+   "label": "PRESENTÁNDOLA TODOS LOS DÍAS",
+   "sub": "Hasta que ABC dijo que sí",
+   "dur": 4
+  }
+ },
+ {
+  "src": "RQ",
+  "label": "LOS PICAPIEDRA",
+  "cap": "#14",
+  "txt": "Número catorce. Fue la primera de su tipo."
+ },
+ {
+  "src": "RQ",
+  "label": "30 DE SEPTIEMBRE, 1960",
+  "cap": "8:30 PM",
+  "txt": "Los Picapiedra se estrenaron el treinta de septiembre de 1960, a las ocho y media de la noche, hora del este, por ABC. Fue la primera serie animada con un espacio en horario estelar, y la primera comedia animada de la historia de la televisión. No estaba pensada para los sábados por la mañana. Estaba pensada para que la vieran mamá y papá después de cenar. Por eso el humor se parecía a las comedias de la época, con problemas familiares que se resolvían al final de cada episodio, y hasta con risas grabadas."
+ },
+ {
+  "src": "RQ",
+  "label": "HANNA-BARBERA",
+  "cap": "ANIMACIÓN LIMITADA",
+  "txt": "Y hay que entender cómo era posible hacer una caricatura semanal de media hora en 1960. Las caricaturas de cine, como las de Disney o Warner, costaban muchísimo, porque cada segundo tenía decenas de dibujos distintos. Hanna-Barbera, que venía de hacer Tom y Jerry para MGM, perfeccionó lo que se llama animación limitada: los personajes se quedaban quietos mientras solo se movía la boca, los fondos se repetían una y otra vez mientras Pedro caminaba, y los mismos movimientos se reciclaban en muchos episodios. Los críticos de animación lo odiaban. Pero gracias a ese método, la televisión pudo tener caricaturas todas las semanas, y casi todas las series animadas de las siguientes décadas siguieron esa misma fórmula."
+ },
+ {
+  "src": "RQ",
+  "label": "THE HONEYMOONERS",
+  "cap": "#13",
+  "txt": "Número trece. Estaba inspirada en otra serie."
+ },
+ {
+  "src": "RQ",
+  "label": "PEDRO Y PABLO",
+  "cap": "JACKIE GLEASON",
+  "txt": "Si alguna vez viste The Honeymooners, la comedia de Jackie Gleason de los años cincuenta, seguro notaste el parecido. Un esposo gritón que siempre tiene planes para hacerse rico, su esposa más inteligente que él, y una pareja de vecinos que son sus mejores amigos. William Hanna nunca lo negó. Dijo que en ese momento The Honeymooners era el programa más popular de la televisión, y para él, el más gracioso.",
+  "fx": {
+   "type": "quote",
+   "text": "The Honeymooners era el programa más popular de la televisión, y para mí, el más gracioso.",
+   "by": "William Hanna, cocreador de Los Picapiedra",
+   "dur": 5.5
+  }
+ },
+ {
+  "src": "RQ",
+  "label": "JACKIE GLEASON",
+  "cap": "",
+  "txt": "Jackie Gleason se dio cuenta. En una entrevista de 1986, contó que pensó en demandar a Hanna-Barbera por copiar su programa, pero decidió dejarlo pasar. Según el actor Henry Corden, amigo de Gleason, sus abogados le dijeron que probablemente podría sacar a Los Picapiedra del aire. Pero Gleason no quiso ser recordado como el hombre que le quitó Pedro Picapiedra a los niños. Y hay un detalle curioso: Alan Reed, la voz de Pedro, había hecho doblajes para Gleason en sus primeras películas."
+ },
+ {
+  "src": "RQ",
+  "label": "ALAN REED",
+  "cap": "#12",
+  "txt": "Número doce. El grito más famoso de la animación."
+ },
+ {
+  "src": "IN",
+  "label": "ALAN REED",
+  "cap": "YABBA DABBA DOO",
+  "txt": "El famoso yabba dabba doo, que en español se volvió el inolvidable grito de Pedro, se convirtió en la frase de su personaje. Según la historia más conocida, el guion decía algo mucho más simple, y fue Alan Reed, el actor que le daba voz, quien propuso el grito tal como lo conocemos. En la propia serie, se explica en la primera temporada que es el grito oficial de su logia, los Búfalos Mojados. Alan Reed fue la voz de Pedro hasta su muerte, en 1977. Después, el papel pasó a Henry Corden, el mismo amigo de Jackie Gleason."
+ },
+ {
+  "src": "RQ",
+  "label": "VARIETY · 1960",
+  "cap": "#11",
+  "txt": "Número once. La crítica la destrozó."
+ },
+ {
+  "src": "RQ",
+  "label": "LA CRÍTICA · 1960",
+  "cap": "UN DESASTRE",
+  "txt": "Al día siguiente del estreno, la revista Variety la llamó un desastre de pluma y tinta. Y no estaba sola: la temporada de televisión de 1960 a 1961 es considerada una de las peores de la historia, la misma que inspiró el famoso discurso del vasto páramo. Pero el público no estuvo de acuerdo con la crítica. La serie se volvió un éxito rápidamente.",
+  "fx": {
+   "type": "quote",
+   "text": "Un desastre de pluma y tinta.",
+   "by": "Revista Variety, al día siguiente del estreno (1960)",
+   "dur": 4
+  }
+ },
+ {
+  "src": "RQ",
+  "label": "THE ROCK QUARRY STORY · 1961",
+  "cap": "ESTRELLAS DE PIEDRA",
+  "txt": "Y como la serie era para adultos, estaba llena de bromas sobre Hollywood. Las estrellas de cine aparecían convertidas en cavernícolas con nombres de piedra. En el episodio The Rock Quarry Story, de 1961, Pedro y Pablo conocen a Rock Quarry, una parodia del galán Rock Hudson, que está cansado de la fama. Después aparecieron Cary Granite, una parodia de Cary Grant, y Ann-Margrock, inspirada en Ann-Margret. Y lo mejor es que algunas estrellas se prestaron para la broma: Ann-Margret le dio voz a su propia versión de piedra en 1963, y Tony Curtis hizo lo mismo como Stony Curtis en 1965. Para una estrella de Hollywood, aparecer en Los Picapiedra era una señal de fama."
+ },
+ {
+  "src": "WI",
+  "label": "WINSTON · 1960",
+  "cap": "#10",
+  "txt": "Número diez. Vendían cigarrillos."
+ },
+ {
+  "src": "WI",
+  "label": "WINSTON · 1960–1962",
+  "cap": "",
+  "txt": "Las dos primeras temporadas fueron copatrocinadas por los cigarrillos Winston. Y los personajes aparecían en comerciales en blanco y negro, al final de los créditos, fumando y recomendando la marca. Hoy suena impensable, pero en ese momento la serie era para adultos, y la publicidad de cigarrillos era normal en la televisión. Con el tiempo, el público se volvió cada vez más infantil, y Winston retiró su patrocinio. Su lugar lo tomó una marca de jugos y mermeladas de uva: Welch's.",
+  "fx": {
+   "type": "timeline",
+   "title": "DE CIGARRILLOS A JUGO DE UVA",
+   "items": [
+    [
+     "1960",
+     "Winston patrocina la serie"
+    ],
+    [
+     "1963",
+     "El público se vuelve infantil"
+    ],
+    [
+     "1963",
+     "Llega Welch's"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "RQ",
+  "label": "MEL BLANC",
+  "cap": "#9",
+  "txt": "Número nueve. Grabó desde una cama de hospital."
+ },
+ {
+  "src": "RQ",
+  "label": "24 DE ENERO, 1961",
+  "cap": "SUNSET BOULEVARD",
+  "txt": "Mel Blanc, el legendario actor que también era la voz de Bugs Bunny, le daba voz a Pablo Mármol y a Dino. El veinticuatro de enero de 1961, iba manejando solo por Sunset Boulevard cuando su auto deportivo chocó de frente con otro. Se fracturó las piernas y la pelvis, y quedó enyesado. Durante algunos episodios, otro gran actor, Daws Butler, tomó el papel de Pablo.",
+  "fx": {
+   "type": "map",
+   "title": "EL ACCIDENTE DE MEL BLANC",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "SUNSET BLVD · LOS ÁNGELES",
+     "lon": -118.35,
+     "lat": 34.09
+    }
+   ],
+   "view": [
+    -125,
+    31,
+    -112,
+    40
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "RQ",
+  "label": "MEL BLANC",
+  "cap": "",
+  "txt": "Pero la producción encontró una solución increíble. Instalaron un estudio de grabación temporal junto a la cama de Mel Blanc en el hospital, y luego en su casa. El resto del elenco iba hasta allá, y él grababa su voz acostado. Por eso pudo volver a la serie mucho antes de lo esperado. Los fans de Pablo Mármol nunca notaron que su voz salía de una cama de hospital."
+ },
+ {
+  "src": "IN",
+  "label": "MEET THE FLINTSTONES",
+  "cap": "#8",
+  "txt": "Número ocho. La canción no era la original."
+ },
+ {
+  "src": "IN",
+  "label": "MEET THE FLINTSTONES",
+  "cap": "TEMPORADA 3",
+  "txt": "La canción que todos recordamos, la de los Picapiedra, no estaba al principio. Las dos primeras temporadas usaban otro tema musical, instrumental, llamado Rise and Shine. A partir del tercer episodio de la tercera temporada, Barney el invisible, empezó a sonar Meet the Flintstones. Y fue tan popular que después se agregó también a las dos primeras temporadas en las repeticiones. Por eso hoy casi nadie recuerda que existió otro tema."
+ },
+ {
+  "src": "CM",
+  "label": "PEBBLES",
+  "cap": "#7",
+  "txt": "Número siete. Pebbles iba a ser niño."
+ },
+ {
+  "src": "CM",
+  "label": "PEBBLES · 1963",
+  "cap": "FRED JUNIOR",
+  "txt": "En 1963, Hanna-Barbera decidió que Pedro y Vilma tendrían un bebé. Y su primera idea era un niño, llamado Fred Junior. Pero cuando la empresa de juguetes Ideal Toy se enteró, sus ejecutivos le propusieron al estudio cambiar el bebé por una niña, para poder fabricar una muñeca. Hanna-Barbera aceptó. Así nació Pebbles. Según la revista TV Guide, nació el veintidós de febrero del año diez mil antes de Cristo, en el hospital de Piedradura."
+ },
+ {
+  "src": "RQ",
+  "label": "BAMM-BAMM · 1963",
+  "cap": "#6",
+  "txt": "Número seis. Un tema que nadie tocaba."
+ },
+ {
+  "src": "RQ",
+  "label": "PABLO Y BETTY",
+  "cap": "ADOPCIÓN",
+  "txt": "Ese mismo año, la serie hizo algo muy adelantado para su época. Pablo y Betty, que no podían tener hijos, encontraron una mañana a un bebé muy fuerte en la puerta de su casa: Bamm-Bamm. Y lo adoptaron. En una caricatura de 1963, la adopción se presentaba con ternura, como un camino igual de válido para formar una familia. Para muchos espectadores de esa época, fue uno de los episodios más emotivos de la serie."
+ },
+ {
+  "src": "RQ",
+  "label": "PEDRO Y VILMA",
+  "cap": "#5",
+  "txt": "Número cinco. Rompió un tabú de la televisión."
+ },
+ {
+  "src": "RQ",
+  "label": "PEDRO Y VILMA",
+  "cap": "UNA SOLA CAMA",
+  "txt": "En esa época, las parejas casadas en la televisión estadounidense casi siempre aparecían durmiendo en camas separadas, por las reglas morales de la industria. Pero Pedro y Vilma dormían en la misma cama. Se convirtieron en una de las primeras parejas de la televisión, y en la primera de una caricatura, en aparecer compartiendo cama. Una caricatura de cavernícolas ayudó a que la televisión mostrara a los matrimonios con más naturalidad."
+ },
+ {
+  "src": "RQ",
+  "label": "BEA BENADERET",
+  "cap": "#4",
+  "txt": "Número cuatro. Betty cambió de voz."
+ },
+ {
+  "src": "RR",
+  "label": "BETTY MÁRMOL",
+  "cap": "1964",
+  "txt": "Durante las primeras cuatro temporadas, la voz de Betty Mármol fue de Bea Benaderet, una actriz muy conocida que también trabajaba en The Beverly Hillbillies. En 1963 consiguió el papel principal en otra serie, Petticoat Junction, y dejó Los Picapiedra. A partir de 1964, la voz de Betty fue de Gerry Johnson. Bea Benaderet murió de cáncer de pulmón en octubre de 1968, a los sesenta y dos años."
+ },
+ {
+  "src": "RQ",
+  "label": "JEAN VANDER PYL",
+  "cap": "#3",
+  "txt": "Número tres. El peor negocio de la televisión."
+ },
+ {
+  "src": "RQ",
+  "label": "VILMA PICAPIEDRA",
+  "cap": "$250 POR EPISODIO",
+  "txt": "Jean Vander Pyl le dio voz a Vilma durante toda la serie. En una entrevista de 1995 contó que le pagaban doscientos cincuenta dólares por episodio. Y cuando la serie terminó en 1966, le ofrecieron elegir: recibir pagos cada vez que la serie se repitiera, o cobrar quince mil dólares de una sola vez. Eligió los quince mil.",
+  "fx": {
+   "type": "compare",
+   "title": "EL TRATO DE JEAN VANDER PYL",
+   "left": [
+    "$250",
+    "POR EPISODIO"
+   ],
+   "right": [
+    "$15,000",
+    "EN LUGAR DE REGALÍAS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "RQ",
+  "label": "SAN CLEMENTE",
+  "cap": "",
+  "txt": "Los Picapiedra se han repetido en todo el mundo durante más de sesenta años. Y ella nunca recibió nada más. Vivía en San Clemente, California, y lo resumió con una frase genial.",
+  "fx": {
+   "type": "quote",
+   "text": "Si recibiera regalías, no viviría en San Clemente. Sería dueña de San Clemente.",
+   "by": "Jean Vander Pyl, la voz de Vilma (1995)",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "RR",
+  "label": "EL GRAN GAZOO",
+  "cap": "#2",
+  "txt": "Número dos. Un extraterrestre en la Edad de Piedra."
+ },
+ {
+  "src": "RR",
+  "label": "29 DE OCTUBRE, 1965",
+  "cap": "HARVEY KORMAN",
+  "txt": "En la última temporada, el veintinueve de octubre de 1965, la serie presentó a un personaje muy raro: el Gran Gazoo, un pequeño extraterrestre verde del futuro, exiliado en la prehistoria. Podía hacer magia y solo Pedro, Pablo y los niños podían verlo. Le daba voz el comediante Harvey Korman. Muchos fans sintieron que no tenía nada que ver con la Edad de Piedra, y hoy se le recuerda como uno de los cambios más extraños de la serie. Unos meses después, en 1966, Los Picapiedra terminaron."
+ },
+ {
+  "src": "CM",
+  "label": "FRUITY PEBBLES",
+  "cap": "BONUS",
+  "txt": "Y antes del número uno, algunos datos extra que muestran hasta dónde llegó esta familia. Los Picapiedra no se quedaron en la televisión. En 1968 salieron al mercado las famosas vitaminas masticables con forma de los personajes, que generaciones de niños comieron cada mañana. Y en 1971, la empresa Post lanzó los cereales Fruity Pebbles y Cocoa Pebbles, que todavía se venden hoy. En sus comerciales, Pablo siempre intentaba robarle el cereal a Pedro, con todo tipo de disfraces, y Pedro siempre terminaba gritando su nombre."
+ },
+ {
+  "src": "CM",
+  "label": "PIEDRADURA",
+  "cap": "PELÍCULAS Y PARQUES",
+  "txt": "La familia también tuvo parques temáticos. En 1966, el mismo año en que terminó la serie, abrió en Dakota del Sur un parque llamado Bedrock City, una réplica del pueblo de Piedradura donde los visitantes podían caminar entre las casas de piedra. Y la historia siguió: en 1987 se cruzaron con Los Supersónicos en una película para televisión, y en 1994 llegó una película con actores, donde John Goodman interpretó a Pedro Picapiedra. Sesenta años después, la familia sigue apareciendo en cereales, juguetes y nuevas series.",
+  "fx": {
+   "type": "timeline",
+   "title": "DESPUÉS DE LA SERIE",
+   "items": [
+    [
+     "1966",
+     "Parque Bedrock City"
+    ],
+    [
+     "1968",
+     "Vitaminas Picapiedra"
+    ],
+    [
+     "1971",
+     "Cereal Fruity Pebbles"
+    ],
+    [
+     "1994",
+     "Película con John Goodman"
+    ]
+   ],
+   "dur": 5.5
+  }
+ },
+ {
+  "src": "IN",
+  "label": "166 EPISODIOS",
+  "cap": "#1",
+  "txt": "Número uno. Cambió la televisión para siempre."
+ },
+ {
+  "src": "IN",
+  "label": "LOS PICAPIEDRA · 1960–1966",
+  "cap": "",
+  "txt": "En total se hicieron ciento sesenta y seis episodios en seis temporadas. Durante décadas, fue la serie animada de horario estelar con más tiempo al aire, hasta que llegaron Los Simpson. Y no es casualidad: sin Pedro Picapiedra, probablemente no existiría Homero Simpson. En 2013, la revista TV Guide la eligió como la segunda mejor caricatura de televisión de todos los tiempos, solo detrás de Los Simpson.",
+  "fx": {
+   "type": "counter",
+   "value": 166,
+   "suffix": " EPISODIOS",
+   "label": "LOS PICAPIEDRA · 1960–1966",
+   "sub": "#2 mejor caricatura de la TV según TV Guide",
+   "dur": 4.5
+  }
+ },
+ {
+  "src": "MIX",
+  "label": "PIEDRADURA",
+  "cap": "UNA FAMILIA MODERNA",
+  "txt": "Así que ahí lo tienes. Una idea que nadie quería comprar, inspirada en otra comedia, patrocinada por cigarrillos, grabada en parte desde un hospital, y sostenida por actores que nunca vieron las ganancias que generó. Y aun así, más de sesenta años después, sigue siendo la familia moderna de la Edad de Piedra."
+ },
+ {
+  "src": "MIX",
+  "label": "",
+  "cap": "¿CUÁL TE SORPRENDIÓ?",
+  "txt": "¿Cuál de estos datos te sorprendió más? ¿Y qué caricatura clásica quieres que investiguemos después? Déjalo en los comentarios. Suscríbete y activa la campanita para no perderte el próximo video."
+ }
+]
