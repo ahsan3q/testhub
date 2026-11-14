@@ -1,53 +1,551 @@
 [
- {"src": "TKO", "label": "MIKE TYSON", "cap": "", "txt": "Hubo un tiempo en que Mike Tyson era el hombre más temido del planeta. Sus rivales perdían la pelea en el pasillo, antes de subir al ring. Y décadas después, el propio Tyson contó en una entrevista que extrañaba a ese hombre, y que lloraba porque ya no existía. El campeón de peso pesado más joven de la historia. Cincuenta victorias. Cuarenta y cuatro nocauts."},
- {"src": ["TKO", "TH"], "label": "MIKE TYSON", "cap": "¿QUÉ TAN BUENO ERA?", "txt": "Pero las personas que estuvieron frente a él cuentan la historia mejor que nadie. Un compañero de entrenamiento que nunca olvidó el miedo de ese día. El entrenador que disparó un arma junto a su cabeza. Y el hombre al que más lastimó, y que terminó perdonándolo. Quédate hasta el final, porque no todos están de acuerdo en que Tyson fue tan grande como dicen."},
-
- {"src": "TH", "label": "TYSON VS HOLMES · 1988", "cap": "LOS CRÍTICOS", "txt": "Empecemos por los que no están convencidos. Teddy Atlas, que lo entrenó desde los trece años, ha dicho que Tyson era un gran rematador, como Joe Louis. Pero que no era un gran peleador. Porque los grandes peleadores, cuando la pelea se ponía difícil, encontraban la forma de resolverla. Y según Atlas, Tyson encontraba la forma de desaparecer."},
- {"src": "TH", "label": "LARRY HOLMES", "cap": "", "txt": "Larry Holmes fue campeón durante siete años. Tyson lo noqueó en cuatro asaltos. Y Holmes tampoco está de acuerdo con la leyenda. Ha dicho que llevaba casi dos años sin pelear, que no estaba en forma, y que Tyson no era tan grande como la gente cree. Que si él hubiera tenido más tiempo para entrenar, la historia habría sido otra."},
- {"src": ["TL", "TKO"], "label": "LENNOX LEWIS", "cap": "", "txt": "Lennox Lewis, el hombre que finalmente lo venció, tiene otra teoría. Dice que el problema nunca fue el talento, sino lo que su viejo entrenador le metió en la cabeza. Le enseñó a destruir. Y Tyson no veía la hora de salir al ring, porque ahí era donde recibía cariño y atención. Pero según Lewis, nadie le enseñó cómo apagar eso. Su entrenador ya estaba enfermo cuando lo conoció, y solo alcanzó a enseñarle a destruir. Nunca a sobrellevar la vida.", "fx": {"type": "quote", "text": "Solo le enseñó a destruir. Nunca le enseñó a sobrellevarlo.", "by": "Lennox Lewis, sobre Cus D'Amato", "dur": 5}},
- {"src": "TBR", "label": "TYSON VS BRUNO", "cap": "FRANK BRUNO", "txt": "Frank Bruno, que se subió al ring con él dos veces, lo ve distinto. Dice que si vuelves en el tiempo y ves a Tyson en su mejor momento, la gente que noqueaba y lo joven que era, tienes que tomarlo en cuenta. Que no cree que vuelva a nacer un peso pesado tan bajo de estatura y tan peligroso como él. Y que hay que darle respeto."},
- {"src": "TKO", "label": "MIKE TYSON", "cap": "¿GENIO O MONSTRUO?", "txt": "Un genio. Un monstruo. O un muchacho al que nadie le enseñó a detenerse. Entonces, ¿qué tan bueno era Mike Tyson en realidad? Para entenderlo, hay que empezar por el principio."},
-
- {"src": "TFC", "label": "BROWNSVILLE, BROOKLYN", "cap": "", "txt": "Tyson creció en Brownsville, uno de los barrios más duros de Brooklyn, en Nueva York. Según él mismo ha contado, a los trece años ya lo habían arrestado treinta y ocho veces. Lo mandaron a un reformatorio al norte del estado. Y ahí, un consejero que había sido boxeador lo llevó a las montañas Catskill a conocer a un entrenador de setenta y dos años llamado Cus D'Amato.", "fx": {"type": "map", "title": "DE BROOKLYN A LAS CATSKILL", "countries": ["United States of America"], "states": ["New York"], "pins": [{"name": "BROWNSVILLE · BROOKLYN", "lon": -73.91, "lat": 40.66}, {"name": "CATSKILL · CUS D'AMATO", "lon": -73.86, "lat": 42.22}], "route": [0, 1], "view": [-78, 39.8, -71.5, 43.6], "dur": 5.2}},
- {"src": "TFC", "label": "CUS D'AMATO", "cap": "", "txt": "Cus le dio algo que Tyson nunca había tenido: disciplina. Y Tyson la resumió con una frase que todavía repite. La disciplina es hacer lo que odias, pero hacerlo como si lo amaras.", "fx": {"type": "quote", "text": "La disciplina es hacer lo que odias hacer, pero hacerlo como si lo amaras.", "by": "Mike Tyson, sobre Cus D'Amato", "dur": 5}},
- {"src": "TFC", "label": "CUS D'AMATO", "cap": "AMOR Y MIEDO", "txt": "Una vez le preguntaron si amaba a ese viejo o si le tenía miedo. Tyson respondió: las dos cosas. Y cuando le preguntaron cómo podía sentir ambas al mismo tiempo, dijo que él era como un esclavo de Cus. Que si Cus le pedía algo, lo hacía sin pensar."},
- {"src": "NY", "label": "LAS MONTAÑAS CATSKILL", "cap": "", "txt": "A esa casa en las montañas llegaban hombres adultos a entrenar con un adolescente. La mayoría se iba antes de tiempo. Joe Egan era un peso pesado irlandés, duro y experimentado, y creía que tenía al muchacho bien medido."},
- {"src": ["TFC", "TMG"], "label": "JOE EGAN", "cap": "", "txt": "Egan contó que vio a otros hombres grandes caminando en silencio hacia el gimnasio, como si fueran a la horca. Él estaba tranquilo. Era más grande, más viejo y tenía más experiencia. Hasta que Tyson se quitó la camisa. Egan dijo que su físico era increíble, y que pensó: ese no es el mismo muchacho de diecisiete años que conocí ayer, ni el que corrió conmigo esta mañana."},
- {"src": "TMG", "label": "TYSON · 1986", "cap": "PÁNICO", "txt": "Luego Cus señaló a uno de esos hombres grandes. Subió al ring, y salió noqueado. Egan lo ha contado muchas veces, entre risas: dice que en ese momento arruinó un buen par de calzoncillos. Que ningún muchacho de diecisiete años debería tener ese poder."},
- {"src": ["TL", "TKO"], "label": "LENNOX LEWIS", "cap": "", "txt": "Lennox Lewis tenía dieciocho años y también escuchó las historias. Le dijeron que en las montañas había un animal que noqueaba a todos. Así que él y su entrenador manejaron hasta las Catskill. Cuando llegaron, Lewis le preguntó a otro boxeador, Razor Ruddock, si había entrenado con Tyson. Ruddock le dijo que no. Se había ido precisamente para no tener que hacerlo."},
- {"src": ["TL", "TFC"], "label": "LENNOX LEWIS", "cap": "4 DÍAS", "txt": "Lewis y Tyson entrenaron juntos durante cuatro días. Y al final, Cus D'Amato le dijo a Tyson algo que Lewis nunca olvidó: no hagas eso, Mike, algún día vas a pelear con él. Esa frase se le quedó en la cabeza a Lewis durante años. ¿De verdad iba a pasar? Guarda eso en la memoria, porque volveremos a ella.", "fx": {"type": "quote", "text": "Mike, no hagas eso. Algún día vas a pelear con él.", "by": "Cus D'Amato, según Lennox Lewis", "dur": 4.8}},
-
- {"src": "TFC", "label": "TEDDY ATLAS", "cap": "EL ARMA", "txt": "En esa misma casa vivía otro entrenador: Teddy Atlas. Según Atlas, en 1982 Tyson amenazó a una niña de once años de su familia. Y lo que Atlas hizo después nunca lo ha negado. Consiguió un arma, encontró a Tyson afuera del gimnasio y le dijo que si volvía a acercarse a su familia, lo mataría. Y para asegurarse de que le creyera, disparó una bala cerca de su oreja."},
- {"src": ["TFC", "TMG"], "label": "CUS D'AMATO", "cap": "", "txt": "Cus tomó partido por Tyson. Atlas se fue de la casa. Y el muchacho al que nadie le decía que no siguió ganando. En 1985 se hizo profesional y peleó quince veces en un solo año. En noviembre de ese año, Cus D'Amato murió. Nunca llegó a ver lo que vino después.", "fx": {"type": "counter", "value": 15, "suffix": " PELEAS", "label": "SU PRIMER AÑO COMO PROFESIONAL", "sub": "1985 · Cus muere en noviembre", "dur": 4.3}},
- {"src": "TBE", "label": "TYSON VS BERBICK · 1986", "cap": "EL MÁS JOVEN", "txt": "En noviembre de 1986, Tyson noqueó a Trevor Berbick en dos asaltos. Tenía veinte años. Se convirtió en el campeón de peso pesado más joven de la historia, un récord que sigue en pie.", "fx": {"type": "counter", "value": 20, "suffix": " AÑOS", "label": "EL CAMPEÓN MÁS JOVEN", "sub": "Tyson vs. Berbick · Las Vegas · 1986", "dur": 4.3}},
- {"src": "TBS", "label": "TYSON VS SMITH · 1987", "cap": "", "txt": "Durante los meses siguientes unificó los títulos, y cada pelea parecía una ejecución. Los rivales salían con la mirada en el piso. Muchos ya habían perdido antes de que sonara la campana. Ese era el arma más grande de Tyson: el miedo."},
- {"src": "TH", "label": "TYSON VS HOLMES · 1988", "cap": "HOLMES", "txt": "Larry Holmes nunca había sido detenido en su carrera. Contó que su estilo era moverse, pegar y no dejarse pegar. Pero Tyson lo tumbó. Holmes se levantó pensando que se había resbalado. Tyson lo volvió a tumbar. Se levantó otra vez. Y la tercera vez, ya no hubo más. Fue la única vez en su carrera que Holmes no terminó una pelea.", "fx": {"type": "compare", "title": "TYSON VS HOLMES · 1988", "left": ["7 AÑOS", "HOLMES FUE CAMPEÓN"], "right": ["4 ASALTOS", "LO QUE DURÓ LA PELEA"], "dur": 4.8}},
- {"src": "TH", "label": "LARRY HOLMES", "cap": "", "txt": "Años después, Holmes se lo preguntó a Tyson en persona: ¿por qué tenías que pegarme así? Tyson le pidió perdón, entre risas. Holmes le respondió que no tenía por qué haberle pegado así a una leyenda. Y Tyson le dio la razón."},
- {"src": "TS", "label": "TYSON VS SPINKS · 1988", "cap": "91 SEGUNDOS", "txt": "Michael Spinks llegó invicto, con treinta y una victorias y ninguna derrota. La pelea duró noventa y un segundos. Spinks contó después que, si pudiera repetirla, correría alrededor del ring un buen rato en lugar de intentar pegarle como lo hizo.", "fx": {"type": "counter", "value": 91, "suffix": " SEGUNDOS", "label": "TYSON VS SPINKS", "sub": "Spinks llegó invicto: 31-0", "dur": 4.3}},
-
- {"src": ["TDG", "TB"], "label": "TOKIO · 1990", "cap": "TOKIO", "txt": "Y entonces llegó Tokio. Febrero de 1990. Buster Douglas era tan poco favorito que las apuestas estaban cuarenta y dos a uno en su contra. Su madre había muerto tres semanas antes de la pelea.", "fx": {"type": "map", "title": "LA NOCHE DE TOKIO", "countries": ["Japan"], "pins": [{"name": "TOKYO DOME · 11 FEB 1990", "lon": 139.75, "lat": 35.7}], "view": [128, 30, 146, 44], "dur": 4.6}},
- {"src": "TB", "label": "TYSON VS DOUGLAS · 1990", "cap": "42 A 1", "txt": "En Los Ángeles, el rapero Ice Cube estaba grabando en un estudio. Alguien gritó que ya empezaba la pelea de Tyson, y todos corrieron a verla. Pensaban que sería rápida, que en unos minutos volverían a trabajar. Cuando terminó, todos estaban tan tristes que cancelaron la sesión y se fueron a su casa. Ice Cube dijo que sintieron que el mundo había cambiado.", "fx": {"type": "compare", "title": "LAS APUESTAS", "left": ["42", "A 1 CONTRA DOUGLAS"], "right": ["0", "DERROTAS DE TYSON"], "dur": 4.6}},
- {"src": "TB", "label": "BUSTER DOUGLAS", "cap": "", "txt": "Dentro del ring, Douglas tampoco lo podía creer. Contó que, después de los primeros asaltos, pensó: esto va a ser una pelea de verdad. Le estaba pegando, y su plan estaba funcionando. En el décimo asalto, el hombre más malo del planeta estaba en la lona, buscando a tientas su protector bucal."},
- {"src": ["TB", "TDG"], "label": "TYSON VS DOUGLAS · 1990", "cap": "EL MIEDO", "txt": "El escritor de boxeo Mark Kriegel lo explicó así: Tyson tenía un talento enorme, y no recibe suficiente crédito por lo que hizo en su ascenso. Pero una vez que alguien perdía el miedo, Tyson se volvía fácil de vencer. Douglas fue el primero que no le tuvo miedo.", "fx": {"type": "quote", "text": "Una vez que se rompe el miedo, se vuelve fácil.", "by": "Mark Kriegel, escritor de boxeo", "dur": 4.6}},
-
- {"src": "TFC", "label": "MIKE TYSON", "cap": "PRISIÓN", "txt": "Dos años después, en 1992, Tyson fue condenado por violación y enviado a prisión. Cumplió tres años. Cuando salió, en 1995, el mundo del boxeo lo estaba esperando, y el dinero también."},
- {"src": "THO", "label": "TYSON VS HOLYFIELD", "cap": "HOLYFIELD", "txt": "En 1996, Evander Holyfield lo detuvo en once asaltos. Siete meses después, en la revancha, Tyson hizo algo que el boxeo nunca había visto. Le mordió la oreja. Holyfield contó que en ese momento estuvo a punto de morderlo de vuelta. Pero alguien en su esquina le gritó que mantuviera la mente en Dios, y se contuvo."},
- {"src": "THO", "label": "TYSON VS HOLYFIELD II · 1997", "cap": "DESCALIFICADO", "txt": "Y entonces Tyson le mordió la otra oreja. Holyfield dio un salto hacia atrás y estuvo a punto de patearlo. Tyson fue descalificado, multado, y le quitaron la licencia para pelear en Nevada.", "fx": {"type": "timeline", "title": "TYSON VS HOLYFIELD", "items": [["NOV 1996", "Holyfield gana en 11 asaltos"], ["JUN 1997", "La mordida"], ["1997", "Le quitan la licencia"]], "dur": 5}},
- {"src": ["TPC", "TBO"], "label": "CONFERENCIA DE PRENSA · 2002", "cap": "LA PIERNA", "txt": "Cinco años después, en la conferencia de prensa para anunciar su pelea contra Lennox Lewis, se armó una pelea campal en el escenario. En medio del caos, Tyson le mordió la pierna a Lewis. Lewis contó que a partir de ahí, todo su entrenamiento se trató de eso. Estaba furioso. Años después, Tyson le pidió perdón, y Lewis le dijo que lo había perdonado hace mucho tiempo."},
- {"src": "TL", "label": "TYSON VS LEWIS · 2002", "cap": "LA PROFECÍA", "txt": "Junio de 2002. Memphis, Tennessee. Dieciocho años después de aquel gimnasio en las montañas, las palabras de Cus D'Amato se cumplieron. Lennox Lewis noqueó a Mike Tyson en el octavo asalto.", "fx": {"type": "map", "title": "LA PROFECÍA DE CUS", "countries": ["United States of America"], "states": ["Tennessee", "New York"], "pins": [{"name": "CATSKILL · 1984", "lon": -73.86, "lat": 42.22}, {"name": "MEMPHIS · 2002", "lon": -90.05, "lat": 35.15}], "route": [0, 1], "view": [-98, 30, -68, 46], "dur": 5.2}},
-
- {"src": "TFC", "label": "MIKE TYSON", "cap": "BANCARROTA", "txt": "Durante su carrera, Tyson ganó más de trescientos millones de dólares. En 2003 se declaró en bancarrota. En 2009, su hija Exodus, de cuatro años, murió en un accidente en su casa. Y en algún punto de todo eso, Mike Tyson cambió.", "fx": {"type": "compare", "title": "EL DINERO DE TYSON", "left": ["+$300 M", "GANADOS EN SU CARRERA"], "right": ["2003", "SE DECLARA EN BANCARROTA"], "dur": 4.8}},
- {"src": ["TPSA", "TFC"], "label": "MIKE TYSON", "cap": "", "txt": "El actor Jamie Foxx fue a visitarlo a su casa y le preguntó por qué se veía tan feliz. Tyson le respondió: porque ya no tengo dinero. Nadie puede quitarme nada. Ya no tengo buitres a mi alrededor. Foxx dijo que en ese momento entendió que esa era la verdadera historia de Tyson: el hombre que lo perdió todo y por fin encontró paz.", "fx": {"type": "quote", "text": "Soy feliz porque ya no tengo dinero. Nadie puede quitarme nada.", "by": "Mike Tyson, según Jamie Foxx", "dur": 5}},
- {"src": "TFC", "label": "MIKE TYSON", "cap": "", "txt": "Foxx también contó que cuando la hija menor de Tyson jugaba afuera, él le decía: quédate donde pueda verte. No quiero tener que salir a buscarte y no encontrarte. Porque ya había perdido a una hija."},
- {"src": ["TKO", "TFC"], "label": "JIM GRAY", "cap": "RESPONSABILIDAD", "txt": "El periodista Jim Gray lo entrevistó cientos de veces a lo largo de más de treinta años. Y dice que Tyson es el atleta más honesto que ha conocido. No porque sea perfecto. Ha hecho cosas despreciables, cosas de las que no está orgulloso. Pero siempre ha dado la cara y ha dicho: fue mi culpa, yo lo hice."},
- {"src": "NY", "label": "LAS MONTAÑAS CATSKILL", "cap": "LA SEÑORA EGAN", "txt": "¿Recuerdas a Joe Egan, el compañero de entrenamiento que tuvo tanto miedo? Durante veintidós años, Tyson habló por teléfono con la madre de Egan, en Irlanda. Nunca se habían visto. Cuando por fin se conocieron, Tyson la abrazó. Egan dijo que ver a un hombre capaz de romper huesos con un golpe abrazando a una señora tan frágil fue algo hermoso."},
- {"src": ["TFC", "NY"], "label": "MIKE TYSON", "cap": "", "txt": "Hablaron de cumpleaños. Y Tyson le recordó algo que ella había hecho veintidós años antes. Para su cumpleaños número dieciocho, el primero después de conocerse, la señora Egan le mandó una caja de zapatos con papas fritas irlandesas, un poco de dinero en un sobre y unas sudaderas usadas. Ella le preguntó si se acordaba. Y Tyson le dijo: sí, señora Egan. Muy poca gente me ha dado algo en mi vida.", "fx": {"type": "quote", "text": "Muy poca gente me ha dado algo en mi vida.", "by": "Mike Tyson a la madre de Joe Egan", "dur": 4.8}},
-
- {"src": "TRJ", "label": "TYSON VS ROY JONES JR. · 2020", "cap": "54 AÑOS", "txt": "En 2020, a los cincuenta y cuatro años, Tyson volvió al ring para una exhibición contra Roy Jones Junior. Jones contó que le lanzaba golpes y Tyson los esquivaba todos. A los cincuenta y cuatro años. Dijo que tuvo que estar alerta todo el tiempo, por si las cosas se ponían serias."},
- {"src": "TJP", "label": "TYSON VS JAKE PAUL · 2024", "cap": "58 AÑOS", "txt": "Y en noviembre de 2024, a los cincuenta y ocho años, peleó contra Jake Paul, con unos sesenta y cinco millones de transmisiones simultáneas en Netflix. Perdió por decisión. El excampeón Andre Ward lo resumió así: a Mike lo noqueó el propio Mike. Su cerebro le decía qué hacer, pero su cuerpo ya no respondía. La distancia entre él y Jake Paul parecía de kilómetros.", "fx": {"type": "counter", "value": 65, "suffix": " MILLONES", "label": "TRANSMISIONES EN VIVO", "sub": "Tyson vs. Jake Paul · Netflix · 2024", "dur": 4.4}},
-
- {"src": "TFC", "label": "TEDDY ATLAS", "cap": "EL PERDÓN", "txt": "¿Recuerdas al hombre que disparó un arma junto a su oreja? Décadas después, Teddy Atlas estaba comentando una pelea para la televisión cuando su productor le habló por el audífono: Mike Tyson viene hacia ti, quiere pedirte perdón. Atlas habría preferido que fuera en privado, no frente a millones de personas. Pero se levantó, aceptó la mano, y creyó que era sincero. Tyson lo abrazó, le pidió perdón y le dijo que lo quería."},
- {"src": "THO", "label": "EVANDER HOLYFIELD", "cap": "", "txt": "Y el hombre al que le mordió la oreja también lo perdonó. Cuando le preguntaron cómo pudo hacerlo, Holyfield dijo que si no perdonas a nadie, terminas siendo una persona amargada, o encerrado. Que perdonar le quitó un peso de encima. Hoy, los dos hasta bromean juntos sobre aquella noche.", "fx": {"type": "quote", "text": "Si no perdonas a nadie, terminas siendo una persona amargada.", "by": "Evander Holyfield", "dur": 4.8}},
- {"src": ["TKO", "TBE", "TS"], "label": "MIKE TYSON", "cap": "50-6 · 44 KO", "txt": "Cincuenta victorias, cuarenta y cuatro nocauts. Prisión, bancarrota, y una hija que perdió. El hombre que daba más miedo en el planeta terminó llorando porque extrañaba al monstruo que fue. Tal vez esa es la respuesta. Era así de bueno, y eso casi lo destruye.", "fx": {"type": "compare", "title": "LA CARRERA DE TYSON", "left": ["50", "VICTORIAS"], "right": ["44", "NOCAUTS"], "dur": 4.6}},
- {"src": ["TKO", "TH", "TB"], "label": "¿QUÉ OPINAS?", "cap": "¿QUÉ OPINAS?", "txt": "Ahora dime tú en los comentarios: ¿Mike Tyson fue el peso pesado más peligroso de la historia, o tiene razón Teddy Atlas? Si te gustó esta historia, suscríbete, porque la próxima leyenda ya está en camino."}
+ {
+  "src": "TKO@10-600",
+  "label": "MIKE TYSON",
+  "cap": "",
+  "txt": "Hubo un tiempo en que Mike Tyson era el hombre más temido del planeta. Sus rivales perdían la pelea en el pasillo, antes de subir al ring. Y décadas después, el propio Tyson contó en una entrevista que extrañaba a ese hombre, y que lloraba porque ya no existía. El campeón de peso pesado más joven de la historia. Cincuenta victorias. Cuarenta y cuatro nocauts."
+ },
+ {
+  "src": [
+   "TKO@10-600",
+   "TH@5000-5250",
+   "TH@5440-5600"
+  ],
+  "label": "MIKE TYSON",
+  "cap": "¿QUÉ TAN BUENO ERA?",
+  "txt": "Pero las personas que estuvieron frente a él cuentan la historia mejor que nadie. Un compañero de entrenamiento que nunca olvidó el miedo de ese día. El entrenador que disparó un arma junto a su cabeza. Y el hombre al que más lastimó, y que terminó perdonándolo. Quédate hasta el final, porque no todos están de acuerdo en que Tyson fue tan grande como dicen."
+ },
+ {
+  "src": [
+   "TH@5000-5250",
+   "TH@5440-5600"
+  ],
+  "label": "TYSON VS HOLMES · 1988",
+  "cap": "LOS CRÍTICOS",
+  "txt": "Empecemos por los que no están convencidos. Teddy Atlas, que lo entrenó desde los trece años, ha dicho que Tyson era un gran rematador, como Joe Louis. Pero que no era un gran peleador. Porque los grandes peleadores, cuando la pelea se ponía difícil, encontraban la forma de resolverla. Y según Atlas, Tyson encontraba la forma de desaparecer."
+ },
+ {
+  "src": [
+   "TH@5000-5250",
+   "TH@5440-5600"
+  ],
+  "label": "LARRY HOLMES",
+  "cap": "",
+  "txt": "Larry Holmes fue campeón durante siete años. Tyson lo noqueó en cuatro asaltos. Y Holmes tampoco está de acuerdo con la leyenda. Ha dicho que llevaba casi dos años sin pelear, que no estaba en forma, y que Tyson no era tan grande como la gente cree. Que si él hubiera tenido más tiempo para entrenar, la historia habría sido otra."
+ },
+ {
+  "src": [
+   "TL@100-2500",
+   "TKO@10-600"
+  ],
+  "label": "LENNOX LEWIS",
+  "cap": "",
+  "txt": "Lennox Lewis, el hombre que finalmente lo venció, tiene otra teoría. Dice que el problema nunca fue el talento, sino lo que su viejo entrenador le metió en la cabeza. Le enseñó a destruir. Y Tyson no veía la hora de salir al ring, porque ahí era donde recibía cariño y atención. Pero según Lewis, nadie le enseñó cómo apagar eso. Su entrenador ya estaba enfermo cuando lo conoció, y solo alcanzó a enseñarle a destruir. Nunca a sobrellevar la vida.",
+  "fx": {
+   "type": "quote",
+   "text": "Solo le enseñó a destruir. Nunca le enseñó a sobrellevarlo.",
+   "by": "Lennox Lewis, sobre Cus D'Amato",
+   "dur": 5
+  }
+ },
+ {
+  "src": "TBR@0-30",
+  "label": "TYSON VS BRUNO",
+  "cap": "FRANK BRUNO",
+  "txt": "Frank Bruno, que se subió al ring con él dos veces, lo ve distinto. Dice que si vuelves en el tiempo y ves a Tyson en su mejor momento, la gente que noqueaba y lo joven que era, tienes que tomarlo en cuenta. Que no cree que vuelva a nacer un peso pesado tan bajo de estatura y tan peligroso como él. Y que hay que darle respeto."
+ },
+ {
+  "src": "TKO@10-600",
+  "label": "MIKE TYSON",
+  "cap": "¿GENIO O MONSTRUO?",
+  "txt": "Un genio. Un monstruo. O un muchacho al que nadie le enseñó a detenerse. Entonces, ¿qué tan bueno era Mike Tyson en realidad? Para entenderlo, hay que empezar por el principio."
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "",
+  "txt": "Tyson creció en Brownsville, uno de los barrios más duros de Brooklyn, en Nueva York. Según él mismo ha contado, a los trece años ya lo habían arrestado treinta y ocho veces. Lo mandaron a un reformatorio al norte del estado. Y ahí, un consejero que había sido boxeador lo llevó a las montañas Catskill a conocer a un entrenador de setenta y dos años llamado Cus D'Amato.",
+  "fx": {
+   "type": "map",
+   "title": "DE BROOKLYN A LAS CATSKILL",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York"
+   ],
+   "pins": [
+    {
+     "name": "BROWNSVILLE · BROOKLYN",
+     "lon": -73.91,
+     "lat": 40.66
+    },
+    {
+     "name": "CATSKILL · CUS D'AMATO",
+     "lon": -73.86,
+     "lat": 42.22
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -78,
+    39.8,
+    -71.5,
+    43.6
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "",
+  "txt": "Cus le dio algo que Tyson nunca había tenido: disciplina. Y Tyson la resumió con una frase que todavía repite. La disciplina es hacer lo que odias, pero hacerlo como si lo amaras.",
+  "fx": {
+   "type": "quote",
+   "text": "La disciplina es hacer lo que odias hacer, pero hacerlo como si lo amaras.",
+   "by": "Mike Tyson, sobre Cus D'Amato",
+   "dur": 5
+  }
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "AMOR Y MIEDO",
+  "txt": "Una vez le preguntaron si amaba a ese viejo o si le tenía miedo. Tyson respondió: las dos cosas. Y cuando le preguntaron cómo podía sentir ambas al mismo tiempo, dijo que él era como un esclavo de Cus. Que si Cus le pedía algo, lo hacía sin pensar."
+ },
+ {
+  "src": "NY@400-900",
+  "label": "LAS MONTAÑAS CATSKILL",
+  "cap": "",
+  "txt": "A esa casa en las montañas llegaban hombres adultos a entrenar con un adolescente. La mayoría se iba antes de tiempo. Joe Egan era un peso pesado irlandés, duro y experimentado, y creía que tenía al muchacho bien medido."
+ },
+ {
+  "src": [
+   "TFC@200-5400",
+   "TMG@1400-2600"
+  ],
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "",
+  "txt": "Egan contó que vio a otros hombres grandes caminando en silencio hacia el gimnasio, como si fueran a la horca. Él estaba tranquilo. Era más grande, más viejo y tenía más experiencia. Hasta que Tyson se quitó la camisa. Egan dijo que su físico era increíble, y que pensó: ese no es el mismo muchacho de diecisiete años que conocí ayer, ni el que corrió conmigo esta mañana."
+ },
+ {
+  "src": "TMG@1400-2600",
+  "label": "TYSON · 1986",
+  "cap": "PÁNICO",
+  "txt": "Luego Cus señaló a uno de esos hombres grandes. Subió al ring, y salió noqueado. Egan lo ha contado muchas veces, entre risas: dice que en ese momento arruinó un buen par de calzoncillos. Que ningún muchacho de diecisiete años debería tener ese poder."
+ },
+ {
+  "src": [
+   "TL@100-2500",
+   "TKO@10-600"
+  ],
+  "label": "LENNOX LEWIS",
+  "cap": "",
+  "txt": "Lennox Lewis tenía dieciocho años y también escuchó las historias. Le dijeron que en las montañas había un animal que noqueaba a todos. Así que él y su entrenador manejaron hasta las Catskill. Cuando llegaron, Lewis le preguntó a otro boxeador, Razor Ruddock, si había entrenado con Tyson. Ruddock le dijo que no. Se había ido precisamente para no tener que hacerlo."
+ },
+ {
+  "src": [
+   "TL@100-2500",
+   "TFC@200-5400"
+  ],
+  "label": "LENNOX LEWIS",
+  "cap": "4 DÍAS",
+  "txt": "Lewis y Tyson entrenaron juntos durante cuatro días. Y al final, Cus D'Amato le dijo a Tyson algo que Lewis nunca olvidó: no hagas eso, Mike, algún día vas a pelear con él. Esa frase se le quedó en la cabeza a Lewis durante años. ¿De verdad iba a pasar? Guarda eso en la memoria, porque volveremos a ella.",
+  "fx": {
+   "type": "quote",
+   "text": "Mike, no hagas eso. Algún día vas a pelear con él.",
+   "by": "Cus D'Amato, según Lennox Lewis",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "EL ARMA",
+  "txt": "En esa misma casa vivía otro entrenador: Teddy Atlas. Según Atlas, en 1982 Tyson amenazó a una niña de once años de su familia. Y lo que Atlas hizo después nunca lo ha negado. Consiguió un arma, encontró a Tyson afuera del gimnasio y le dijo que si volvía a acercarse a su familia, lo mataría. Y para asegurarse de que le creyera, disparó una bala cerca de su oreja."
+ },
+ {
+  "src": [
+   "TFC@200-5400",
+   "TMG@1400-2600"
+  ],
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "",
+  "txt": "Cus tomó partido por Tyson. Atlas se fue de la casa. Y el muchacho al que nadie le decía que no siguió ganando. En 1985 se hizo profesional y peleó quince veces en un solo año. En noviembre de ese año, Cus D'Amato murió. Nunca llegó a ver lo que vino después.",
+  "fx": {
+   "type": "counter",
+   "value": 15,
+   "suffix": " PELEAS",
+   "label": "SU PRIMER AÑO COMO PROFESIONAL",
+   "sub": "1985 · Cus muere en noviembre",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": "TBE@100-740",
+  "label": "TYSON VS BERBICK · 1986",
+  "cap": "EL MÁS JOVEN",
+  "txt": "En noviembre de 1986, Tyson noqueó a Trevor Berbick en dos asaltos. Tenía veinte años. Se convirtió en el campeón de peso pesado más joven de la historia, un récord que sigue en pie.",
+  "fx": {
+   "type": "counter",
+   "value": 20,
+   "suffix": " AÑOS",
+   "label": "EL CAMPEÓN MÁS JOVEN",
+   "sub": "Tyson vs. Berbick · Las Vegas · 1986",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": [
+   "TBS@3240-3400",
+   "TBS@3460-3600"
+  ],
+  "label": "TYSON VS SMITH · 1987",
+  "cap": "",
+  "txt": "Durante los meses siguientes unificó los títulos, y cada pelea parecía una ejecución. Los rivales salían con la mirada en el piso. Muchos ya habían perdido antes de que sonara la campana. Ese era el arma más grande de Tyson: el miedo."
+ },
+ {
+  "src": [
+   "TH@5000-5250",
+   "TH@5440-5600"
+  ],
+  "label": "TYSON VS HOLMES · 1988",
+  "cap": "HOLMES",
+  "txt": "Larry Holmes nunca había sido detenido en su carrera. Contó que su estilo era moverse, pegar y no dejarse pegar. Pero Tyson lo tumbó. Holmes se levantó pensando que se había resbalado. Tyson lo volvió a tumbar. Se levantó otra vez. Y la tercera vez, ya no hubo más. Fue la única vez en su carrera que Holmes no terminó una pelea.",
+  "fx": {
+   "type": "compare",
+   "title": "TYSON VS HOLMES · 1988",
+   "left": [
+    "7 AÑOS",
+    "HOLMES FUE CAMPEÓN"
+   ],
+   "right": [
+    "4 ASALTOS",
+    "LO QUE DURÓ LA PELEA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "TH@5000-5250",
+   "TH@5440-5600"
+  ],
+  "label": "LARRY HOLMES",
+  "cap": "",
+  "txt": "Años después, Holmes se lo preguntó a Tyson en persona: ¿por qué tenías que pegarme así? Tyson le pidió perdón, entre risas. Holmes le respondió que no tenía por qué haberle pegado así a una leyenda. Y Tyson le dio la razón."
+ },
+ {
+  "src": "TS@20-120",
+  "label": "TYSON VS SPINKS · 1988",
+  "cap": "91 SEGUNDOS",
+  "txt": "Michael Spinks llegó invicto, con treinta y una victorias y ninguna derrota. La pelea duró noventa y un segundos. Spinks contó después que, si pudiera repetirla, correría alrededor del ring un buen rato en lugar de intentar pegarle como lo hizo.",
+  "fx": {
+   "type": "counter",
+   "value": 91,
+   "suffix": " SEGUNDOS",
+   "label": "TYSON VS SPINKS",
+   "sub": "Spinks llegó invicto: 31-0",
+   "dur": 4.3
+  }
+ },
+ {
+  "src": [
+   "TDG@0-1500",
+   "TB@100-3000"
+  ],
+  "label": "TOKIO · 1990",
+  "cap": "TOKIO",
+  "txt": "Y entonces llegó Tokio. Febrero de 1990. Buster Douglas era tan poco favorito que las apuestas estaban cuarenta y dos a uno en su contra. Su madre había muerto tres semanas antes de la pelea.",
+  "fx": {
+   "type": "map",
+   "title": "LA NOCHE DE TOKIO",
+   "countries": [
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "TOKYO DOME · 11 FEB 1990",
+     "lon": 139.75,
+     "lat": 35.7
+    }
+   ],
+   "view": [
+    128,
+    30,
+    146,
+    44
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "TB@100-3000",
+  "label": "TYSON VS DOUGLAS · 1990",
+  "cap": "42 A 1",
+  "txt": "En Los Ángeles, el rapero Ice Cube estaba grabando en un estudio. Alguien gritó que ya empezaba la pelea de Tyson, y todos corrieron a verla. Pensaban que sería rápida, que en unos minutos volverían a trabajar. Cuando terminó, todos estaban tan tristes que cancelaron la sesión y se fueron a su casa. Ice Cube dijo que sintieron que el mundo había cambiado.",
+  "fx": {
+   "type": "compare",
+   "title": "LAS APUESTAS",
+   "left": [
+    "42",
+    "A 1 CONTRA DOUGLAS"
+   ],
+   "right": [
+    "0",
+    "DERROTAS DE TYSON"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "TB@100-3000",
+  "label": "BUSTER DOUGLAS",
+  "cap": "",
+  "txt": "Dentro del ring, Douglas tampoco lo podía creer. Contó que, después de los primeros asaltos, pensó: esto va a ser una pelea de verdad. Le estaba pegando, y su plan estaba funcionando. En el décimo asalto, el hombre más malo del planeta estaba en la lona, buscando a tientas su protector bucal."
+ },
+ {
+  "src": [
+   "TB@100-3000",
+   "TDG@0-1500"
+  ],
+  "label": "TYSON VS DOUGLAS · 1990",
+  "cap": "EL MIEDO",
+  "txt": "El escritor de boxeo Mark Kriegel lo explicó así: Tyson tenía un talento enorme, y no recibe suficiente crédito por lo que hizo en su ascenso. Pero una vez que alguien perdía el miedo, Tyson se volvía fácil de vencer. Douglas fue el primero que no le tuvo miedo.",
+  "fx": {
+   "type": "quote",
+   "text": "Una vez que se rompe el miedo, se vuelve fácil.",
+   "by": "Mark Kriegel, escritor de boxeo",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "PRISIÓN",
+  "txt": "Dos años después, en 1992, Tyson fue condenado por violación y enviado a prisión. Cumplió tres años. Cuando salió, en 1995, el mundo del boxeo lo estaba esperando, y el dinero también."
+ },
+ {
+  "src": "THO@500-2600",
+  "label": "TYSON VS HOLYFIELD",
+  "cap": "HOLYFIELD",
+  "txt": "En 1996, Evander Holyfield lo detuvo en once asaltos. Siete meses después, en la revancha, Tyson hizo algo que el boxeo nunca había visto. Le mordió la oreja. Holyfield contó que en ese momento estuvo a punto de morderlo de vuelta. Pero alguien en su esquina le gritó que mantuviera la mente en Dios, y se contuvo."
+ },
+ {
+  "src": "THO@500-2600",
+  "label": "TYSON VS HOLYFIELD II · 1997",
+  "cap": "DESCALIFICADO",
+  "txt": "Y entonces Tyson le mordió la otra oreja. Holyfield dio un salto hacia atrás y estuvo a punto de patearlo. Tyson fue descalificado, multado, y le quitaron la licencia para pelear en Nevada.",
+  "fx": {
+   "type": "timeline",
+   "title": "TYSON VS HOLYFIELD",
+   "items": [
+    [
+     "NOV 1996",
+     "Holyfield gana en 11 asaltos"
+    ],
+    [
+     "JUN 1997",
+     "La mordida"
+    ],
+    [
+     "1997",
+     "Le quitan la licencia"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "TL@100-2500",
+  "label": "TYSON VS LEWIS · 2002",
+  "cap": "LA PIERNA",
+  "txt": "Cinco años después, en la conferencia de prensa para anunciar su pelea contra Lennox Lewis, se armó una pelea campal en el escenario. En medio del caos, Tyson le mordió la pierna a Lewis. Lewis contó que a partir de ahí, todo su entrenamiento se trató de eso. Estaba furioso. Años después, Tyson le pidió perdón, y Lewis le dijo que lo había perdonado hace mucho tiempo."
+ },
+ {
+  "src": "TL@100-2500",
+  "label": "TYSON VS LEWIS · 2002",
+  "cap": "LA PROFECÍA",
+  "txt": "Junio de 2002. Memphis, Tennessee. Dieciocho años después de aquel gimnasio en las montañas, las palabras de Cus D'Amato se cumplieron. Lennox Lewis noqueó a Mike Tyson en el octavo asalto.",
+  "fx": {
+   "type": "map",
+   "title": "LA PROFECÍA DE CUS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Tennessee",
+    "New York"
+   ],
+   "pins": [
+    {
+     "name": "CATSKILL · 1984",
+     "lon": -73.86,
+     "lat": 42.22
+    },
+    {
+     "name": "MEMPHIS · 2002",
+     "lon": -90.05,
+     "lat": 35.15
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -98,
+    30,
+    -68,
+    46
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "BANCARROTA",
+  "txt": "Durante su carrera, Tyson ganó más de trescientos millones de dólares. En 2003 se declaró en bancarrota. En 2009, su hija Exodus, de cuatro años, murió en un accidente en su casa. Y en algún punto de todo eso, Mike Tyson cambió.",
+  "fx": {
+   "type": "compare",
+   "title": "EL DINERO DE TYSON",
+   "left": [
+    "+$300 M",
+    "GANADOS EN SU CARRERA"
+   ],
+   "right": [
+    "2003",
+    "SE DECLARA EN BANCARROTA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "TPSA",
+   "TFC@200-5400"
+  ],
+  "label": "MIKE TYSON",
+  "cap": "",
+  "txt": "El actor Jamie Foxx fue a visitarlo a su casa y le preguntó por qué se veía tan feliz. Tyson le respondió: porque ya no tengo dinero. Nadie puede quitarme nada. Ya no tengo buitres a mi alrededor. Foxx dijo que en ese momento entendió que esa era la verdadera historia de Tyson: el hombre que lo perdió todo y por fin encontró paz.",
+  "fx": {
+   "type": "quote",
+   "text": "Soy feliz porque ya no tengo dinero. Nadie puede quitarme nada.",
+   "by": "Mike Tyson, según Jamie Foxx",
+   "dur": 5
+  }
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "",
+  "txt": "Foxx también contó que cuando la hija menor de Tyson jugaba afuera, él le decía: quédate donde pueda verte. No quiero tener que salir a buscarte y no encontrarte. Porque ya había perdido a una hija."
+ },
+ {
+  "src": [
+   "TKO@10-600",
+   "TFC@200-5400"
+  ],
+  "label": "MIKE TYSON",
+  "cap": "RESPONSABILIDAD",
+  "txt": "El periodista Jim Gray lo entrevistó cientos de veces a lo largo de más de treinta años. Y dice que Tyson es el atleta más honesto que ha conocido. No porque sea perfecto. Ha hecho cosas despreciables, cosas de las que no está orgulloso. Pero siempre ha dado la cara y ha dicho: fue mi culpa, yo lo hice."
+ },
+ {
+  "src": "NY@400-900",
+  "label": "LAS MONTAÑAS CATSKILL",
+  "cap": "LA SEÑORA EGAN",
+  "txt": "¿Recuerdas a Joe Egan, el compañero de entrenamiento que tuvo tanto miedo? Durante veintidós años, Tyson habló por teléfono con la madre de Egan, en Irlanda. Nunca se habían visto. Cuando por fin se conocieron, Tyson la abrazó. Egan dijo que ver a un hombre capaz de romper huesos con un golpe abrazando a una señora tan frágil fue algo hermoso."
+ },
+ {
+  "src": [
+   "TFC@200-5400",
+   "NY@400-900"
+  ],
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "",
+  "txt": "Hablaron de cumpleaños. Y Tyson le recordó algo que ella había hecho veintidós años antes. Para su cumpleaños número dieciocho, el primero después de conocerse, la señora Egan le mandó una caja de zapatos con papas fritas irlandesas, un poco de dinero en un sobre y unas sudaderas usadas. Ella le preguntó si se acordaba. Y Tyson le dijo: sí, señora Egan. Muy poca gente me ha dado algo en mi vida.",
+  "fx": {
+   "type": "quote",
+   "text": "Muy poca gente me ha dado algo en mi vida.",
+   "by": "Mike Tyson a la madre de Joe Egan",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "TJP",
+  "label": "TYSON ENTRENANDO",
+  "cap": "54 AÑOS",
+  "txt": "En 2020, a los cincuenta y cuatro años, Tyson volvió al ring para una exhibición contra Roy Jones Junior. Jones contó que le lanzaba golpes y Tyson los esquivaba todos. A los cincuenta y cuatro años. Dijo que tuvo que estar alerta todo el tiempo, por si las cosas se ponían serias."
+ },
+ {
+  "src": "TJP",
+  "label": "TYSON ENTRENANDO",
+  "cap": "58 AÑOS",
+  "txt": "Y en noviembre de 2024, a los cincuenta y ocho años, peleó contra Jake Paul, con unos sesenta y cinco millones de transmisiones simultáneas en Netflix. Perdió por decisión. El excampeón Andre Ward lo resumió así: a Mike lo noqueó el propio Mike. Su cerebro le decía qué hacer, pero su cuerpo ya no respondía. La distancia entre él y Jake Paul parecía de kilómetros.",
+  "fx": {
+   "type": "counter",
+   "value": 65,
+   "suffix": " MILLONES",
+   "label": "TRANSMISIONES EN VIVO",
+   "sub": "Tyson vs. Jake Paul · Netflix · 2024",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": "TFC@200-5400",
+  "label": "THE FALLEN CHAMP · 1993",
+  "cap": "EL PERDÓN",
+  "txt": "¿Recuerdas al hombre que disparó un arma junto a su oreja? Décadas después, Teddy Atlas estaba comentando una pelea para la televisión cuando su productor le habló por el audífono: Mike Tyson viene hacia ti, quiere pedirte perdón. Atlas habría preferido que fuera en privado, no frente a millones de personas. Pero se levantó, aceptó la mano, y creyó que era sincero. Tyson lo abrazó, le pidió perdón y le dijo que lo quería."
+ },
+ {
+  "src": "THO@500-2600",
+  "label": "EVANDER HOLYFIELD",
+  "cap": "",
+  "txt": "Y el hombre al que le mordió la oreja también lo perdonó. Cuando le preguntaron cómo pudo hacerlo, Holyfield dijo que si no perdonas a nadie, terminas siendo una persona amargada, o encerrado. Que perdonar le quitó un peso de encima. Hoy, los dos hasta bromean juntos sobre aquella noche.",
+  "fx": {
+   "type": "quote",
+   "text": "Si no perdonas a nadie, terminas siendo una persona amargada.",
+   "by": "Evander Holyfield",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "TKO@10-600",
+   "TBE@100-740",
+   "TS@20-120"
+  ],
+  "label": "MIKE TYSON",
+  "cap": "50-6 · 44 KO",
+  "txt": "Cincuenta victorias, cuarenta y cuatro nocauts. Prisión, bancarrota, y una hija que perdió. El hombre que daba más miedo en el planeta terminó llorando porque extrañaba al monstruo que fue. Tal vez esa es la respuesta. Era así de bueno, y eso casi lo destruye.",
+  "fx": {
+   "type": "compare",
+   "title": "LA CARRERA DE TYSON",
+   "left": [
+    "50",
+    "VICTORIAS"
+   ],
+   "right": [
+    "44",
+    "NOCAUTS"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "TKO@10-600",
+   "TH@5000-5250",
+   "TH@5440-5600",
+   "TB@100-3000"
+  ],
+  "label": "¿QUÉ OPINAS?",
+  "cap": "¿QUÉ OPINAS?",
+  "txt": "Ahora dime tú en los comentarios: ¿Mike Tyson fue el peso pesado más peligroso de la historia, o tiene razón Teddy Atlas? Si te gustó esta historia, suscríbete, porque la próxima leyenda ya está en camino."
+ }
 ]

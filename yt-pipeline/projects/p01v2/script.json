@@ -1,8 +1,8 @@
 [
  {
   "src": [
-   "KBT",
-   "KEN"
+   "KBT@100-5500",
+   "KEN@30-100"
   ],
   "label": "KURT RUSSELL",
   "cap": "",
@@ -10,10 +10,10 @@
  },
  {
   "src": [
-   "KAH",
-   "KBB"
+   "KAH@1000-2050",
+   "KBB@0-220"
   ],
-  "label": "KURT RUSSELL",
+  "label": "KURT RUSSELL · TV",
   "cap": "SESENTA AÑOS",
   "txt": "Él mismo ha dicho que su carrera parece manejada por un conductor borracho. Y que no lo puede negar, porque el conductor era él. Estas son las historias que Kurt Russell cuenta sobre sesenta años en Hollywood, y las que su propia familia cuenta sobre él. Quédate hasta el final, porque la historia del ovni es real, y la de la guitarra de museo todavía duele. Y como dice el propio Kurt: nunca arruines una buena historia con la verdad.",
   "fx": {
@@ -24,25 +24,25 @@
   }
  },
  {
-  "src": "KDB",
+  "src": "KDB@400-3000",
   "label": "KURT RUSSELL · 1967",
   "cap": "ELVIS",
   "txt": "Empecemos por el principio. Su primera película fue una de Elvis Presley, It Happened at the World's Fair, de 1963. En una escena, Elvis le paga a un niño cincuenta centavos para que lo patee en la espinilla. Ese niño era Kurt Russell, con diez u once años."
  },
  {
-  "src": "KDB",
+  "src": "KDB@400-3000",
   "label": "KURT RUSSELL · 1967",
   "cap": "",
   "txt": "Le pusieron una protección a Elvis debajo del pantalón, y todos le pidieron al niño que fuera suave. Pero Kurt llevaba zapatos, no tenis. Y tuvo que repetir la patada unas diez veces. Al final, Elvis dijo con una sonrisa: creo que ya lo tiene."
  },
  {
-  "src": "KDB",
+  "src": "KDB@400-3000",
   "label": "KURT RUSSELL · 1967",
   "cap": "BRONSON",
   "txt": "Un año después ya tenía su propia serie del oeste en televisión, The Travels of Jaimie McPheeters. Y su compañero de reparto tenía fama de ser durísimo: Charles Bronson. Kurt se enteró de que era el cumpleaños de Bronson, y le compró un avión de control remoto. Bronson lo miró, miró al suelo, y se fue sin decir nada."
  },
  {
-  "src": "KDB",
+  "src": "KDB@400-3000",
   "label": "KURT RUSSELL · 1967",
   "cap": "",
   "txt": "El equipo le dijo que no se preocupara, que así era Charlie. Pero unos minutos después, el asistente de dirección le dijo que Bronson quería verlo en su camerino. Bronson le dijo: nadie me había dado nunca un regalo de cumpleaños. Gracias. Y cerró la puerta. Cuando llegó el cumpleaños del niño, Bronson le regaló dos patinetas. Una para cada uno.",
@@ -54,13 +54,16 @@
   }
  },
  {
-  "src": "KNY",
+  "src": "KNY@100-5200",
   "label": "DISNEY · 1972",
   "cap": "DISNEY",
   "txt": "A los trece años firmó con Disney, y en los siguientes diez años hizo alrededor de diez películas con el estudio. Y Walt Disney todavía iba a trabajar todos los días. Kurt cuenta que a la hora del almuerzo jugaba ping pong con él. No era precisamente una infancia normal."
  },
  {
-  "src": "KEP",
+  "src": [
+   "KEP@0-100",
+   "KEP@200-325"
+  ],
   "label": "EPCOT · CONSTRUCCIÓN",
   "cap": "LA CÚPULA",
   "txt": "Una mañana, en el estudio, Kurt se quedó mirando una maqueta dentro de una vitrina. Y escuchó una voz detrás de él: ¿qué te parece? Era Walt Disney. Le dijo: voy a poner una ciudad entera debajo de una cúpula. Kurt le preguntó dónde. Y Disney le respondió: en Florida. Esa maqueta, según Kurt, era el proyecto que terminaría convirtiéndose en Epcot.",
@@ -101,10 +104,11 @@
  },
  {
   "src": [
-   "KNY",
-   "KEP"
+   "KNY@100-5200",
+   "KEP@0-100",
+   "KEP@200-325"
   ],
-  "label": "WALT DISNEY",
+  "label": "DISNEY · EPCOT",
   "cap": "LA NOTA",
   "txt": "Y hay un detalle que todavía no tiene explicación. Walt Disney murió en diciembre de 1966. Y entre sus últimas notas escritas, encontraron el nombre de Kurt Russell. Solo eso, el nombre. Nadie sabe por qué lo escribió. Y Kurt ha dicho que él tampoco lo sabe.",
   "fx": {
@@ -115,14 +119,14 @@
   }
  },
  {
-  "src": "KNY",
+  "src": "KNY@100-5200",
   "label": "DISNEY · 1972",
   "cap": "GOLDIE",
   "txt": "En 1968, con dieciséis años, Kurt filmó un musical para Disney. Su madre fue a ver la audición de las bailarinas, sentada en una banca. Y le dijo a Kurt: ¿ves a la rubia con el corte de pelo raro? Ella se va a quedar con el trabajo. Y así fue. La rubia era Goldie Hawn. Ella tenía veintiún años, él dieciséis. Y por los siguientes quince años, no pasó nada más."
  },
  {
-  "src": "KNY",
-  "label": "KURT RUSSELL",
+  "src": "KNY@100-5200",
+  "label": "KURT RUSSELL · DISNEY",
   "cap": "BÉISBOL",
   "txt": "Porque el plan de Kurt no era la actuación. Era el béisbol. Su padre, Bing Russell, era actor, famoso por hacer de alguacil en la serie Bonanza, pero también había jugado béisbol y era dueño de un equipo de ligas menores en Portland, Oregón. Kurt jugaba de segunda base, y llegó hasta Doble A.",
   "fx": {
@@ -151,8 +155,8 @@
   }
  },
  {
-  "src": "KNY",
-  "label": "KURT RUSSELL",
+  "src": "KNY@100-5200",
+  "label": "KURT RUSSELL · DISNEY",
   "cap": "LA LESIÓN",
   "txt": "Pero en 1973 se rompió el manguito rotador del hombro. Llevaba tres años jugando como profesional y le iba bien. Él mismo contó que lloró durante tres días, y después se preguntó: ¿y ahora qué voy a hacer? Tenía veintidós años. Y volvió al cine.",
   "fx": {
@@ -176,13 +180,13 @@
   }
  },
  {
-  "src": "KEL",
+  "src": "KEL@200-9900",
   "label": "ELVIS · 1979",
   "cap": "ELVIS",
   "txt": "Año y medio después de la muerte de Elvis Presley, la cadena ABC puso su vida en televisión. Kurt Russell sería Elvis, y el director era un joven llamado John Carpenter. Y para completar la historia, el padre de Elvis lo interpretó Bing Russell, el padre de Kurt."
  },
  {
-  "src": "KEL",
+  "src": "KEL@200-9900",
   "label": "ELVIS · 1979",
   "cap": "",
   "txt": "Kurt cuenta que la primera vez que se puso el traje completo, blanco, con el cinturón enorme, salió a la calle. Una mujer que pasaba manejando se le quedó mirando, y chocó contra el auto de enfrente. Kurt pensó: creo que me veo bastante bien. Ese papel le dio una nominación al Emmy. Y en ese mismo rodaje conoció a la actriz Season Hubley, con quien se casó ese año.",
@@ -201,31 +205,31 @@
   }
  },
  {
-  "src": "KUC",
+  "src": "KUC@3-110",
   "label": "USED CARS · 1980",
   "cap": "",
   "txt": "Después vino Used Cars, una comedia dirigida por Robert Zemeckis, años antes de Volver al futuro. Ahí Kurt interpretó a un vendedor de autos usados sin ningún escrúpulo. No fue un gran éxito, pero hoy es una película de culto."
  },
  {
-  "src": "KEN",
+  "src": "KEN@30-100",
   "label": "ESCAPE FROM NEW YORK · 1981",
   "cap": "SNAKE PLISSKEN",
   "txt": "Y en 1981 volvió con John Carpenter para Escape from New York. Ahí nació Snake Plissken, con el parche en el ojo. Kurt dice que es el personaje más cool que ha hecho en su vida. El estudio no estaba seguro de que el niño de Disney pudiera hacer de antihéroe. Kurt les demostró que sí."
  },
  {
-  "src": "KEN",
+  "src": "KEN@30-100",
   "label": "ESCAPE FROM NEW YORK · 1981",
   "cap": "LA VOZ",
   "txt": "Y la voz de Snake tiene su propia historia. Kurt ha contado que para el personaje se inspiró en Clint Eastwood: hablar poco, en voz baja y con los dientes apretados. Años después, Snake Plissken se volvió tan famoso que inspiró a uno de los personajes de videojuegos más conocidos del mundo. Y Kurt volvió a interpretarlo en 1996, en Escape from L.A."
  },
  {
-  "src": "KTH",
+  "src": "KTH@20-95",
   "label": "THE THING · 1982",
   "cap": "EL SOMBRERO",
   "txt": "Al año siguiente llegó The Thing. Y todo empezó en el vestuario. Kurt vio una silla con un sombrero enorme, tipo sombrero mexicano, y preguntó qué hacía eso ahí. Le respondieron: ese es tu sombrero. Kurt dijo que era una locura. Pero Carpenter ya había filmado algunas escenas con él puesto. Así que lo usó."
  },
  {
-  "src": "KTH",
+  "src": "KTH@20-95",
   "label": "THE THING · 1982",
   "cap": "",
   "txt": "The Thing fue un fracaso en taquilla cuando se estrenó. Salió dos semanas después de E.T., y el público no quería monstruos que dieran miedo. Hoy es considerada una de las mejores películas de terror de la historia.",
@@ -245,8 +249,8 @@
  },
  {
   "src": [
-   "KGH",
-   "KOV"
+   "KGH@80-300",
+   "KOV@100-6500"
   ],
   "label": "GOLDIE HAWN",
   "cap": "SWING SHIFT",
@@ -254,15 +258,15 @@
  },
  {
   "src": [
-   "KGH",
-   "KOV"
+   "KGH@80-300",
+   "KOV@100-6500"
   ],
   "label": "GOLDIE HAWN",
   "cap": "",
   "txt": "Se abrió la puerta, y lo primero que le salió fue: tienes una gran figura. Ella respondió: gracias. Kurt dice que lo ha intentado muchas veces en su vida, y que normalmente le tiran gas pimienta. Esa es su versión. La de Goldie es otra: cuando Kurt se iba del restaurante, se dio vuelta y le dijo frente a todos: no importa si no me dan el papel, pero me gustaría volver a verte."
  },
  {
-  "src": "KOV",
+  "src": "KOV@100-6500",
   "label": "OVERBOARD · 1987",
   "cap": "DESDE 1983",
   "txt": "Le dieron el papel. Y desde entonces están juntos. Más de cuarenta años, y nunca se casaron. Han dicho que no lo necesitan, que lo que tienen funciona así.",
@@ -277,34 +281,34 @@
   }
  },
  {
-  "src": "KBT",
+  "src": "KBT@100-5500",
   "label": "BIG TROUBLE IN LITTLE CHINA · 1986",
   "cap": "LAS RATAS",
   "txt": "En 1986 hizo su cuarta película con Carpenter: Big Trouble in Little China, como el camionero Jack Burton. Esa semana, David Letterman le preguntó por los efectos especiales. Kurt contó que en una escena tenía que deslizarse por un tubo y caer en una pila de pescados. Y Carpenter decidió poner seis o siete ratas encima."
  },
  {
-  "src": "KBT",
+  "src": "KBT@100-5500",
   "label": "BIG TROUBLE IN LITTLE CHINA · 1986",
   "cap": "",
   "txt": "Ratas de verdad. Kurt dijo que la primera toma no estuvo tan mal. Pero las ratas aprendieron rápido, y empezaron a querer abrirse paso a mordidas por debajo de él. La tercera toma ya no fue nada divertida. Y Letterman le preguntó por otra cosa: Goldie había estado en el programa embarazada. El bebé era su hijo Wyatt."
  },
  {
   "src": [
-   "KOV",
-   "KGH"
+   "KOV@100-6500",
+   "KGH@80-300"
   ],
   "label": "OVERBOARD · 1987",
   "cap": "OVERBOARD",
   "txt": "Un año después filmaron juntos Overboard. Una millonaria pierde la memoria, y el carpintero al que ella trató mal le hace creer que es su esposa. Kurt cuenta que en una escena él la torturaba para que recordara el nombre de él. Ella miró una chaqueta con un nombre bordado y dijo: ¿Roy? Él dice que es una de las mejores tomas de la historia. Y que hoy tienen un perro que se llama Roy."
  },
  {
-  "src": "KTC",
+  "src": "KTC@1-57",
   "label": "TANGO & CASH · 1989",
   "cap": "",
   "txt": "Después vino un personaje distinto cada año. Tango and Cash, con Sylvester Stallone. Luego Backdraft, como bombero. Kurt bromea que el efecto especial de esa película era sencillo: prendían fuego a un cuarto de verdad, y ellos entraban a apagarlo. Dice que no está bromeando."
  },
  {
-  "src": "KTB",
+  "src": "KTB@200-7400",
   "label": "TOMBSTONE · 1993",
   "cap": "TOMBSTONE",
   "txt": "Y en 1993 llegó Tombstone. Kurt interpretó a Wyatt Earp, con Val Kilmer como Doc Holliday. La producción fue un caos: el director original fue despedido semanas después de empezar. Y según el propio Kurt, él terminó dirigiendo buena parte de la película en secreto, sin crédito, para salvarla.",
@@ -334,40 +338,40 @@
   }
  },
  {
-  "src": "KTB",
+  "src": "KTB@200-7400",
   "label": "TOMBSTONE · 1993",
   "cap": "EL REGALO",
   "txt": "Casi treinta años después del avión de Bronson, Kurt tenía otro regalo que dar. Le regaló a Val Kilmer una parcela en Boot Hill, el famoso cementerio de Tombstone. Val lo miró, se volteó hacia su chofer y le pidió que le pasara algo. Era el regalo de Val para Kurt: un acre de terreno con vista a Boot Hill."
  },
  {
-  "src": "KTB",
+  "src": "KTB@200-7400",
   "label": "TOMBSTONE · 1993",
   "cap": "",
   "txt": "Años después, una revista le mostró una foto del elenco. Kurt habló con cariño de Bill Paxton, de lo gran tipo que era. Y de Sam Elliott, a quien llamaba con cariño Igor, como el burro triste de Winnie the Pooh. Y de su gran relación con Val Kilmer."
  },
  {
-  "src": "KBD",
+  "src": "KBD@100-5300",
   "label": "BREAKDOWN · 1997",
   "cap": "",
   "txt": "Siguieron Stargate, Breakdown y Soldier. Y en esos años había cuatro hijos en casa: Boston, de su primer matrimonio; Kate y Oliver Hudson, los hijos de Goldie, a quienes crió como propios; y Wyatt. Y los hijos también tienen historias."
  },
  {
-  "src": "KBD",
-  "label": "KURT RUSSELL",
+  "src": "KBD@100-5300",
+  "label": "BREAKDOWN · 1997",
   "cap": "OLIVER",
   "txt": "La de Oliver Hudson empieza a los dieciséis años, en una estación de policía, por culpa de una pistola de paintball. Los policías le pidieron el nombre de su papá. Él dijo: Kurt Russell. Le dijeron: muchacho, habla en serio. Y él insistió. Al final, los policías estaban peleándose por quién iba a hacer la llamada."
  },
  {
   "src": [
-   "KBD",
-   "KAH"
+   "KBD@100-5300",
+   "KAH@1000-2050"
   ],
-  "label": "KURT RUSSELL",
+  "label": "BREAKDOWN · 1997",
   "cap": "EL CASTIGO",
   "txt": "Según Oliver, el castigo fue este: tuvo que dispararle con la pistola de paintball a su propio auto, un Honda Prelude con interiores de cuero azul, y abollarlo. Y después manejarlo así todo el tiempo que lo tuviera. Semanas después, Jimmy Kimmel le preguntó a Kurt. Y él dijo que no recordaba haberle disparado al auto, ni que Oliver tuviera auto en esa época. Pero que no iba a arruinar la historia de su hijo. Le gustaba."
  },
  {
-  "src": "KPL",
+  "src": "KPL@250-1800",
   "label": "LAS LUCES DE PHOENIX · 1997",
   "cap": "EL OVNI",
   "txt": "Y ahora, la historia del ovni. Kurt es piloto. Una noche de marzo de 1997 iba volando con Oliver hacia Phoenix, Arizona. Y vieron unas luces: seis, en forma de triángulo, pasando sobre el aeropuerto. Oliver le preguntó: papá, ¿qué son esas luces?",
@@ -397,13 +401,13 @@
   }
  },
  {
-  "src": "KPL",
+  "src": "KPL@250-1800",
   "label": "LAS LUCES DE PHOENIX · 1997",
   "cap": "",
   "txt": "Kurt llamó a la torre de control. Le preguntaron si quería reportarlo. Él dijo que no podía identificar lo que era, pero que eran seis objetos volando. Aterrizó, dejó a Oliver y regresó a casa. Y no volvió a pensar en eso."
  },
  {
-  "src": "KPL",
+  "src": "KPL@250-1800",
   "label": "LAS LUCES DE PHOENIX · 1997",
   "cap": "¡ERA ÉL!",
   "txt": "Años después llegó a su casa y Goldie estaba viendo un programa sobre ovnis. Hablaban de las luces de Phoenix: miles de personas las habían reportado, y solo un piloto de aviación general. Kurt dijo: ese soy yo. Las luces de Phoenix son uno de los avistamientos más famosos de la historia de Estados Unidos. Y uno de los testigos era Snake Plissken.",
@@ -416,19 +420,19 @@
  },
  {
   "src": [
-   "KG",
-   "KPI"
+   "KG@0-130",
+   "KPI@50-330"
   ],
-  "label": "KURT RUSSELL",
+  "label": "KURT RUSSELL · ENTREVISTA",
   "cap": "TARANTINO",
   "txt": "Para Quentin Tarantino hizo sus propias escenas de manejo en Death Proof. Y en The Hateful Eight, rompió una guitarra. Pero no era cualquier guitarra. Era una guitarra Martin de más de ciento cuarenta años, prestada por el museo de la marca."
  },
  {
   "src": [
-   "KPI",
-   "KG"
+   "KPI@50-330",
+   "KG@0-130"
   ],
-  "label": "KURT RUSSELL",
+  "label": "KURT RUSSELL · ENTREVISTA",
   "cap": "LA GUITARRA",
   "txt": "El plan era cambiarla por una réplica justo antes de la toma, pero a Kurt nadie se lo dijo. La destrozó contra un poste. El museo anunció que nunca más prestaría guitarras para una película. Y Kurt ha visto cómo la historia crece cada vez que se cuenta: primero valía veinticinco mil dólares, luego cuarenta y cinco mil. Él bromea que ya va en setecientos millones.",
   "fx": {
@@ -442,19 +446,19 @@
  },
  {
   "src": [
-   "KG",
-   "KPI"
+   "KG@0-130",
+   "KPI@50-330"
   ],
-  "label": "KURT RUSSELL",
+  "label": "KURT RUSSELL · ENTREVISTA",
   "cap": "MR. NOBODY",
   "txt": "Tarantino lo volvió a llamar para Once Upon a Time in Hollywood, donde además de actuar es el narrador. Y una nueva generación lo conoció como el misterioso señor Nadie en la saga Rápidos y Furiosos. Pocos actores pueden decir que trabajaron con Walt Disney, con Elvis y con Vin Diesel. Y fuera de las cámaras, Kurt también tiene su propia marca de vino."
  },
  {
   "src": [
-   "KG",
-   "KPI"
+   "KG@0-130",
+   "KPI@50-330"
   ],
-  "label": "KURT RUSSELL",
+  "label": "KURT RUSSELL · ENTREVISTA",
   "cap": "",
   "txt": "Después vinieron papeles para nuevas generaciones. El entrenador de hockey Herb Brooks en Miracle. Ego, el padre de Star-Lord, en Guardianes de la Galaxia. Santa Claus en The Christmas Chronicles. Y en la serie Monarch comparte personaje con su hijo Wyatt: los dos interpretan al mismo hombre en distintas épocas.",
   "fx": {
@@ -487,19 +491,19 @@
  },
  {
   "src": [
-   "KAH",
-   "KBB"
+   "KAH@1000-2050",
+   "KBB@0-220"
   ],
-  "label": "KURT RUSSELL",
+  "label": "KURT RUSSELL · TV",
   "cap": "",
   "txt": "Hace algunos años, una presentadora le dijo: todo el mundo te quiere, eso debe sentirse bien. Y Kurt respondió: ha tomado un tiempo. Sesenta años, y las historias siguen llegando."
  },
  {
   "src": [
-   "KEN",
-   "KTB",
-   "KBT",
-   "KTH"
+   "KEN@30-100",
+   "KTB@200-7400",
+   "KBT@100-5500",
+   "KTH@20-95"
   ],
   "label": "¿CUÁL ES LA MEJOR?",
   "cap": "¿CUÁL ES LA MEJOR?",
