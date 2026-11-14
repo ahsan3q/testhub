@@ -26,7 +26,7 @@ for k, f in SRC.items():
 
 # ---- fonts / overlays ----
 F_CAP = ImageFont.truetype(f"{FONT}/ArchivoBlack-Regular.ttf", 66)
-F_LAB = ImageFont.truetype(f"{FONT}/ArchivoBlack-Regular.ttf", 26)
+F_LAB = ImageFont.truetype(f"{FONT}/ArchivoBlack-Regular.ttf", 34)
 F_NUM = ImageFont.truetype(f"{FONT}/AlfaSlabOne-Regular.ttf", 230)
 F_NAME = ImageFont.truetype(f"{FONT}/AlfaSlabOne-Regular.ttf", 70)
 GOLD = (242, 182, 50, 255); CREAM = (245, 230, 200, 255)
@@ -58,8 +58,8 @@ def overlay(i, s, L, with_caption):
     if s.get("label"):
         lb = s["label"]; tw = d.textlength(lb, font=F_LAB)
         x0, y0 = L["x"] + 22, L["y"] + 20
-        d.rounded_rectangle([x0, y0, x0 + tw + 34, y0 + 46], 10, fill=GOLD)
-        d.text((x0 + 17, y0 + 7), lb, font=F_LAB, fill=(25, 20, 12, 255))
+        d.rounded_rectangle([x0, y0, x0 + tw + 40, y0 + 58], 12, fill=GOLD)
+        d.text((x0 + 20, y0 + 9), lb, font=F_LAB, fill=(25, 20, 12, 255))
     if cap and with_caption:
         lines = wrap(cap, F_CAP, L["w"] - 120, d)
         y = L["y"] + L["h"] - 60 - len(lines) * 80
@@ -91,7 +91,7 @@ for i, s in enumerate(seg):
     used = 0.0
     if s.get("fx"):
         fxd = sd if s["fx"].get("full") or sd < 6.5 else min(sd - 2.5, s["fx"].get("dur", 4.8))
-        plan.append(dict(seg=i, j=-1, fx=s["fx"], d=fxd, first=True, cap=False, layout=layout, src=None))
+        plan.append(dict(seg=i, j=-1, fx=s["fx"], d=fxd, first=True, cap=False, layout=layout, src=None, keys=keys))
         rest = sd - fxd; used = fxd
         n = 0 if rest < 0.5 else max(1, round(rest / 3.2)); shots = [rest / n] * n if n else []
         while shots and max(shots) > MAXSHOT: n += 1; shots = [rest / n] * n
@@ -103,7 +103,7 @@ for i, s in enumerate(seg):
         else:
             lo, hi = min(25, I["d"] * 0.1), max(I["d"] - 30, I["d"] * 0.6)
             start = random.uniform(lo, max(lo, min(hi - sh, I["d"] - sh - 0.4)))
-        plan.append(dict(seg=i, j=j, src=k, start=start, d=sh, layout=layout, cap=(used < 5.0), first=(j == 0 and not s.get("fx")), zoomin=random.random() < 0.7))
+        plan.append(dict(seg=i, j=j, src=k, start=start, d=sh, layout=layout, cap=(used < 5.0), first=(j == 0 and not s.get("fx")), zoomin=random.random() < 0.7, pan=random.choice([-1, 0, 1]), segstart=(j == 0)))
         used += sh
     seg[i]["_t0"], seg[i]["_vo"], seg[i]["_extra"] = t0, vo, extra
     t0 += sd
@@ -116,7 +116,23 @@ def render(k):
     p = plan[k]
     if p.get("fx"):
         out = f"{P}/build/shots/{k:04d}.mp4"
-        if not os.path.exists(out): FX.render_fx(p["fx"], p["d"], out)
+        if os.path.exists(out): return
+        spec = dict(p["fx"])
+        bgp = f"{P}/build/ovl/fxbg_{k:04d}.jpg"
+        try:
+            kk, rng = p["keys"][0]; I = info[kk]
+            tt = random.uniform(*(rng if rng else (I["d"] * 0.2, I["d"] * 0.8)))
+            tt = min(tt, I["d"] - 1)
+            if not os.path.exists(bgp):
+                subprocess.run(["ffmpeg", "-y", "-v", "error", "-ss", f"{tt:.2f}", "-i", I["f"], "-frames:v", "1", "-vf", (f"crop={I['crop']}," if I["crop"] else "") + "scale=1280:-2", bgp])
+        except Exception:
+            bgp = None
+        if spec.get("type") == "photo" and spec.get("src"):
+            kk, tt = spec["src"].split("@"); I = info[kk]; ph = f"{P}/build/ovl/photo_{k:04d}.png"
+            if not os.path.exists(ph):
+                subprocess.run(["ffmpeg", "-y", "-v", "error", "-ss", tt, "-i", I["f"], "-frames:v", "1", "-vf", (f"crop={I['crop']}," if I["crop"] else "") + "scale=1920:-2", ph])
+            spec["_img"] = ph
+        FX.render_fx(spec, p["d"], out, bgimg=bgp)
         return
     s = seg[p["seg"]]; L = LAYOUTS[p["layout"]]; I = info[p["src"]]
     key = (p["seg"], p["cap"])
@@ -125,14 +141,18 @@ def render(k):
     if os.path.exists(out): return
     crop = f"crop={I['crop']}," if I["crop"] else ""
     NF = D * FPS
-    z = f"1+0.07*on/{NF:.1f}" if p["zoomin"] else f"1.07-0.07*on/{NF:.1f}"
+    z = f"1+0.08*on/{NF:.1f}" if p["zoomin"] else f"1.08-0.08*on/{NF:.1f}"
+    if p.get("segstart"):
+        z = f"({z})+0.12*pow(max(0,1-on/{0.45*FPS:.1f}),2)"
+    pan = p.get("pan", 0)
+    xe = f"(iw-iw/zoom)*(0.5+{0.5*pan}*on/{NF:.1f})" if pan else "iw/2-(iw/zoom/2)"
     w, h = L["w"], L["h"]
     inputs = ["-ss", f"{p['start']:.2f}", "-t", f"{D:.3f}", "-i", I["f"], "-loop", "1", "-t", f"{D:.3f}", "-i", f"{A}/bg_texture.png", "-loop", "1", "-t", f"{D:.3f}", "-i", ov]
     fc = (f"[0:v]{crop}fps={FPS},setsar=1,split[a][b];"
           f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=28:4,eq=brightness=-0.12:saturation=0.55[bg0];"
           f"[bg0][1:v]overlay=0:0[bg];"
           f"[b]scale={int(w*1.5)}:{int(h*1.5)}:force_original_aspect_ratio=increase,crop={int(w*1.5)}:{int(h*1.5)},"
-          f"zoompan=z='{z}':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps={FPS},eq=contrast=1.06:saturation=1.1[fg0];")
+          f"zoompan=z='{z}':d=1:x='{xe}':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps={FPS},eq=contrast=1.06:saturation=1.1[fg0];")
     nin = 3
     if "mask" in L:
         inputs += ["-loop", "1", "-t", f"{D:.3f}", "-i", f"{A}/{L['mask']}_mask.png", "-loop", "1", "-t", f"{D:.3f}", "-i", f"{A}/{L['mask']}_shadow.png"]
@@ -143,7 +163,11 @@ def render(k):
         inputs += ["-loop", "1", "-t", f"{D:.3f}", "-i", f"{A}/tv_shadow.png", "-loop", "1", "-t", f"{D:.3f}", "-i", f"{A}/tv_frame.png"]
         fc += (f"[bg][{nin}:v]overlay={tx-60}:{ty-60}[bs];[bs][fg0]overlay={L['x']}:{L['y']}[bf];[bf][{nin+1}:v]overlay={tx}:{ty}[c];")
     fade = f",fade=in:st=0:d=0.3" if p["first"] else ""
-    fc += f"[c][2:v]overlay=0:0,noise=alls=7:allf=t,format=yuv420p{fade}[v]"
+    if p.get("segstart"):
+        fc += (f"[2:v]format=rgba,fade=in:st=0.1:d=0.35:alpha=1[ov];"
+               f"[c][ov]overlay=x='-260*pow(max(0,1-(t-0.1)/0.45),3)':y=0:eval=frame,noise=alls=7:allf=t,format=yuv420p{fade}[v]")
+    else:
+        fc += f"[c][2:v]overlay=0:0,noise=alls=7:allf=t,format=yuv420p{fade}[v]"
     cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error"] + inputs + ["-filter_complex", fc, "-map", "[v]", "-r", str(FPS), "-t", f"{D:.3f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-an", out]
     r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode: raise RuntimeError(r.stderr[-1500:])
@@ -171,6 +195,9 @@ for i, s in enumerate(seg):
     flt.append(f"[{n}:a]aresample=44100,adelay={dl}|{dl}[v{i}]"); mix.append(f"[v{i}]"); n += 1
     ins += ["-i", f"{A}/whoosh.wav"]; dl = int(max(0, s["_t0"] - 0.25) * 1000)
     flt.append(f"[{n}:a]aresample=44100,volume=0.55,adelay={dl}|{dl}[w{i}]"); mix.append(f"[w{i}]"); n += 1
+    if s.get("fx") and not s["_extra"]:
+        ins += ["-i", f"{A}/hit.wav"]; dl = int((s["_t0"] + 0.05) * 1000)
+        flt.append(f"[{n}:a]aresample=44100,volume=0.32,adelay={dl}|{dl}[g{i}]"); mix.append(f"[g{i}]"); n += 1
     if s["_extra"]:
         ins += ["-i", f"{A}/hit.wav"]; dl = int((s["_t0"] + 0.1) * 1000)
         flt.append(f"[{n}:a]aresample=44100,volume=0.8,adelay={dl}|{dl}[h{i}]"); mix.append(f"[h{i}]"); n += 1
