@@ -7,3 +7,6 @@ ffmpeg -y -hide_banner -loglevel error -i "$P/final.mp4" -c:v libx264 -preset fa
 "$T/drive_upload.sh" "$P/thumb/v01_thumbnail.jpg" "$FID" "${V}_thumbnail.jpg" image/jpeg
 for f in titulo descripcion tags guion; do "$T/drive_upload.sh" "$P/upload/$f.txt" "$FID" "${V}_$f.txt" text/plain; done
 echo "FINISHED $V $(du -h "$P/upload/$V.mp4" | cut -f1)"
+# free disk after successful upload
+rm -f "${P:?}/final.mp4" "${P:?}/build/video.mp4" "${P:?}/build/audio.m4a" "${P:?}/upload/${V:?}.mp4"
+rm -rf "${P:?}/build/shots"
