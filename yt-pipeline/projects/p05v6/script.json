@@ -1,0 +1,676 @@
+[
+ {
+  "src": [
+   "VS@40-260",
+   "FW@0-78"
+  ],
+  "label": "COMERCIALES DE CIGARROS",
+  "cap": "",
+  "txt": "Es casi medianoche del primero de enero de 1971. En el programa de Johnny Carson aparece un comercial de Virginia Slims con su famosa frase: has recorrido un largo camino, nena. Minutos después, los comerciales de cigarros quedan prohibidos en la radio y la televisión de Estados Unidos. Y se termina una era que duró más de veinte años.",
+  "fx": {
+   "type": "headline",
+   "paper": "ESTADOS UNIDOS",
+   "date": "1 DE ENERO DE 1971 · 11:59 PM",
+   "headline": "EL ÚLTIMO COMERCIAL DE CIGARROS EN LA TELEVISIÓN",
+   "sub": "Al día siguiente entra en vigor la prohibición",
+   "stamp": "FIN",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "LS@0-60",
+   "MB@0-38"
+  ],
+  "label": "COMERCIALES DE CIGARROS",
+  "cap": "13 COMERCIALES",
+  "txt": "Hoy vamos a recordar trece comerciales de cigarros que se transmitían en la televisión antes de esa prohibición, y el mundo del que venían: cuando las tabacaleras patrocinaban las caricaturas, los noticieros y las comedias más populares. Y también vamos a ver lo que esos comerciales no decían.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL FIN DE UNA ERA",
+   "items": [
+    [
+     "1964",
+     "Informe del Cirujano General"
+    ],
+    [
+     "1966",
+     "Advertencia en las cajetillas"
+    ],
+    [
+     "1970",
+     "Nixon firma la ley"
+    ],
+    [
+     "1971",
+     "Fin de los comerciales"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "CH@0-98",
+   "KT@0-28"
+  ],
+  "label": "TELEVISIÓN · AÑOS 50",
+  "cap": "EL CONTEXTO",
+  "txt": "Primero, el contexto. A principios de los cincuenta, empezaron a aparecer estudios que relacionaban el cigarro con el cáncer de pulmón. En 1952, la revista Reader's Digest, una de las más leídas del país, publicó un artículo titulado Cáncer por cajetilla. La respuesta de la industria fue la publicidad: filtros, promesas de suavidad, médicos y vaqueros. La televisión se volvió su mejor aliada.",
+  "fx": {
+   "type": "headline",
+   "paper": "READER'S DIGEST",
+   "date": "DICIEMBRE DE 1952",
+   "headline": "CÁNCER POR CAJETILLA",
+   "sub": "Uno de los primeros avisos masivos",
+   "stamp": "AVISO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "FW@0-78",
+   "FW2@30-235"
+  ],
+  "label": "WINSTON · LOS PICAPIEDRA",
+  "cap": "#13",
+  "txt": "Número trece. Los Picapiedra y los cigarros Winston."
+ },
+ {
+  "src": [
+   "FW2@30-235",
+   "FW@0-78"
+  ],
+  "label": "WINSTON · LOS PICAPIEDRA",
+  "cap": "EN HORARIO ESTELAR",
+  "txt": "Hoy cuesta creerlo: Pedro Picapiedra y Pablo Mármol escondiéndose de sus esposas para fumarse un Winston. Pero en 1960, Winston era uno de los patrocinadores principales de Los Picapiedra. Y hay que entender algo: la serie no nació como caricatura infantil. ABC la estrenó en horario estelar, como una comedia para adultos, al estilo de The Honeymooners.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS PICAPIEDRA EN 1960",
+   "left": [
+    "HOY LA RECORDAMOS",
+    "COMO CARICATURA INFANTIL"
+   ],
+   "right": [
+    "EN 1960",
+    "COMEDIA PARA ADULTOS"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FW@0-78",
+   "FW2@30-235"
+  ],
+  "label": "WINSTON · LOS PICAPIEDRA",
+  "cap": "DOS PEDROS",
+  "txt": "En los comerciales, los personajes nunca salían de su papel: pasaban directo de la historia al anuncio sin cortes. Por eso hoy existen dos Pedro Picapiedra en la cultura popular: el que después vendió vitaminas y cereal a los niños, y el que se tomaba un descanso con un cigarro en el patio. Los dos fueron televisión real."
+ },
+ {
+  "src": [
+   "FW@0-78",
+   "FW2@30-235"
+  ],
+  "label": "WINSTON · 1960",
+  "cap": "LA GRAMÁTICA",
+  "txt": "Y Winston tenía otra polémica, esta vez de gramática. Su lema en inglés era Winston tastes good like a cigarette should, Winston sabe bien como debe saber un cigarro. Los profesores de inglés protestaron porque, según las reglas, debía decir as y no like. La marca aprovechó la discusión, y el lema se volvió todavía más famoso."
+ },
+ {
+  "src": [
+   "BH@0-60",
+   "BH2@0-38"
+  ],
+  "label": "WINSTON · BEVERLY HILLBILLIES",
+  "cap": "#12",
+  "txt": "Número doce. Los Beverly Ricos."
+ },
+ {
+  "src": [
+   "BH2@0-38",
+   "BH@0-60"
+  ],
+  "label": "WINSTON · BEVERLY HILLBILLIES",
+  "cap": "EN EL PORCHE",
+  "txt": "Cuando la serie se estrenó en CBS en 1962, Winston también era su patrocinador. Y en los comerciales, la familia Clampett se quedaba en personaje: en el porche de su mansión, con el banjo, cantando el jingle de Winston con su acento campesino. Para muchas familias parecía una escena extra del episodio, hasta que te dabas cuenta de que todo era para vender cigarros.",
+  "fx": {
+   "type": "quote",
+   "text": "Winston sabe bien, como debe saber un cigarro.",
+   "by": "El jingle de Winston (traducción del inglés)",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BH@0-60",
+   "BH2@0-38"
+  ],
+  "label": "WINSTON · BEVERLY HILLBILLIES",
+  "cap": "45%",
+  "txt": "Pero en 1967 apareció un dato incómodo: según un informe de audiencia publicado en la revista Broadcasting, más del cuarenta y cinco por ciento de los espectadores de la serie tenía menos de veintiún años. Bajo el código voluntario de la industria tabacalera, Winston se retiró del programa. Era el comienzo del fin.",
+  "fx": {
+   "type": "counter",
+   "value": 45,
+   "prefix": "+",
+   "suffix": "%",
+   "label": "DEL PÚBLICO ERA MENOR DE 21 AÑOS",
+   "sub": "Los Beverly Ricos, 1967",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "LU@0-430",
+   "LU2@0-75"
+  ],
+  "label": "PHILIP MORRIS · YO AMO A LUCY",
+  "cap": "#11",
+  "txt": "Número once. Yo amo a Lucy y Philip Morris."
+ },
+ {
+  "src": [
+   "LU2@0-75",
+   "LU@0-430"
+  ],
+  "label": "PHILIP MORRIS · YO AMO A LUCY",
+  "cap": "CALL FOR PHILIP MORRIS",
+  "txt": "Hoy recordamos la presentación de Yo amo a Lucy con el corazón de satén. Pero quienes la veían en CBS a principios de los cincuenta veían algo distinto: figuras animadas de Lucy y Ricky bailando alrededor de una cajetilla gigante de Philip Morris, y el grito del botones Johnny Roventini, la mascota de la marca, llamando a Philip Morris.",
+  "fx": {
+   "type": "compare",
+   "title": "LA PRESENTACIÓN DE LUCY",
+   "left": [
+    "HOY",
+    "EL CORAZÓN DE SATÉN"
+   ],
+   "right": [
+    "AÑOS 50",
+    "LA CAJETILLA DE PHILIP MORRIS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "LU@0-430",
+   "LU2@0-75"
+  ],
+  "label": "PHILIP MORRIS · YO AMO A LUCY",
+  "cap": "UN SOLO PATROCINADOR",
+  "txt": "Era la época del patrocinador único: una sola empresa pagaba un programa completo, y su nombre quedaba pegado a él. Y las tabacaleras estaban en todas partes: Chesterfield, Camel, Lucky Strike y Philip Morris financiaban algunos de los programas más grandes de la televisión. La comedia de Lucy se volvió eterna. El comercial se volvió historia.",
+  "fx": {
+   "type": "list",
+   "title": "LAS MARCAS DE LA TV DE LOS 50",
+   "items": [
+    "Philip Morris",
+    "Chesterfield",
+    "Camel",
+    "Lucky Strike"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "MB@0-38",
+   "MB2@100-1500"
+  ],
+  "label": "MARLBORO · 1966",
+  "cap": "#10",
+  "txt": "Número diez. El país de Marlboro."
+ },
+ {
+  "src": [
+   "MB2@100-1500",
+   "MB@0-38"
+  ],
+  "label": "MARLBORO · 1966",
+  "cap": "SUAVE COMO MAYO",
+  "txt": "Esta es una de las transformaciones más famosas de la publicidad. En los años veinte, Marlboro nació como un cigarro para mujeres, con el lema suave como mayo, y una boquilla roja para disimular las manchas de lápiz labial. Pero a mediados de los cincuenta, la agencia de Leo Burnett lo cambió todo, y lo convirtió en el cigarro del vaquero.",
+  "fx": {
+   "type": "compare",
+   "title": "LA TRANSFORMACIÓN DE MARLBORO",
+   "left": [
+    "AÑOS 20",
+    "CIGARRO PARA MUJERES"
+   ],
+   "right": [
+    "AÑOS 50",
+    "EL VAQUERO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "MB@0-38",
+   "MB2@100-1500"
+  ],
+  "label": "MARLBORO · 1966",
+  "cap": "LOS 7 MAGNÍFICOS",
+  "txt": "En la televisión, los comerciales usaban la música de la película Los siete magníficos, montañas nevadas, corrales y caballos salvajes. Vendían una fantasía de libertad para hombres que pasaban el día en una oficina. Lo que no decían es que varios de los hombres que aparecieron en los anuncios de Marlboro murieron después de enfermedades relacionadas con el tabaco.",
+  "fx": {
+   "type": "map",
+   "title": "EL PAÍS DE MARLBORO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Wyoming",
+    "Montana",
+    "Colorado",
+    "Utah"
+   ],
+   "view": [
+    -118,
+    34,
+    -98,
+    50
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CH@0-98",
+   "CH2@0-58"
+  ],
+  "label": "CHESTERFIELD · 1952",
+  "cap": "#9",
+  "txt": "Número nueve. Chesterfield y las estrellas."
+ },
+ {
+  "src": [
+   "CH2@0-58",
+   "CH@0-98"
+  ],
+  "label": "CHESTERFIELD · 1958",
+  "cap": "ARTHUR GODFREY",
+  "txt": "Chesterfield usaba la confianza de las estrellas. Patrocinaba programas enormes, y su vendedor más poderoso era el presentador Arthur Godfrey, que hablaba de cigarros detrás de su escritorio como si diera un consejo de amigo. Hasta que en 1959 le diagnosticaron cáncer de pulmón. Sobrevivió a la cirugía, y con los años terminó alejándose de los cigarros.",
+  "fx": {
+   "type": "timeline",
+   "title": "ARTHUR GODFREY",
+   "items": [
+    [
+     "AÑOS 50",
+     "La voz de Chesterfield"
+    ],
+    [
+     "1959",
+     "Cáncer de pulmón"
+    ],
+    [
+     "DESPUÉS",
+     "Deja de anunciar cigarros"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CH2@0-58",
+   "CH@0-98"
+  ],
+  "label": "CHESTERFIELD · 1958",
+  "cap": "RONALD REAGAN",
+  "txt": "Y Chesterfield también usó a estrellas de cine en sus anuncios de revistas. Una de ellas fue un actor de Hollywood llamado Ronald Reagan, que a finales de los cuarenta aparecía recomendando cajetillas de Chesterfield como regalo de Navidad. Treinta años después sería presidente de Estados Unidos.",
+  "fx": {
+   "type": "compare",
+   "title": "RONALD REAGAN",
+   "left": [
+    "AÑOS 40",
+    "ANUNCIOS DE CHESTERFIELD"
+   ],
+   "right": [
+    "1981",
+    "PRESIDENTE DE EE. UU."
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "CM@40-1700",
+  "label": "CAMEL · AÑOS 40",
+  "cap": "#8",
+  "txt": "Número ocho. Camel y los doctores."
+ },
+ {
+  "src": "CM@40-1700",
+  "label": "CAMEL · AÑOS 40",
+  "cap": "LOS DOCTORES",
+  "txt": "Ninguna autoridad era más poderosa que la de un médico, y Camel lo usó. Su famosa campaña decía: más doctores fuman Camel que cualquier otro cigarro. Con batas blancas, estetoscopios y escritorios elegantes, presentaba el cigarro como la elección tranquila de los profesionales de la salud. La encuesta la había hecho la propia agencia de publicidad, entre médicos que asistían a congresos.",
+  "fx": {
+   "type": "headline",
+   "paper": "PUBLICIDAD · AÑOS 40",
+   "date": "1946",
+   "headline": "MÁS DOCTORES FUMAN CAMEL QUE CUALQUIER OTRO CIGARRO",
+   "sub": "La encuesta la hizo la agencia de publicidad",
+   "stamp": "PUBLICIDAD",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "LS@0-60",
+   "LS2@0-33"
+  ],
+  "label": "LUCKY STRIKE · 1948",
+  "cap": "#7",
+  "txt": "Número siete. Los cigarros que marchaban."
+ },
+ {
+  "src": [
+   "LS@0-60",
+   "LS2@0-33"
+  ],
+  "label": "LUCKY STRIKE · 1948",
+  "cap": "LS/MFT",
+  "txt": "En 1948, Lucky Strike presentó uno de los primeros comerciales animados de la televisión: cigarros que marchaban y bailaban como soldados. Su lema eran unas siglas, LS/MFT, Lucky Strike significa tabaco fino. Y durante la Segunda Guerra Mundial, la marca cambió su cajetilla verde por una blanca, con el lema: el verde de Lucky Strike se fue a la guerra.",
+  "fx": {
+   "type": "compare",
+   "title": "LA CAJETILLA DE LUCKY STRIKE",
+   "left": [
+    "ANTES DE 1942",
+    "VERDE"
+   ],
+   "right": [
+    "DESDE 1942",
+    "BLANCA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "LS2@0-33",
+   "LS@0-60"
+  ],
+  "label": "LUCKY STRIKE · 1953",
+  "cap": "YOUR HIT PARADE",
+  "txt": "Lucky Strike también patrocinó durante años uno de los programas musicales más populares de Estados Unidos: Your Hit Parade, que presentaba cada semana las canciones más escuchadas del país, primero en la radio y después en la televisión. Para toda una generación, las canciones de moda y la marca de cigarros llegaban juntas a la sala de su casa.",
+  "fx": {
+   "type": "compare",
+   "title": "YOUR HIT PARADE",
+   "left": [
+    "LAS CANCIONES",
+    "MÁS ESCUCHADAS"
+   ],
+   "right": [
+    "EL PATROCINADOR",
+    "LUCKY STRIKE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "KT@0-28",
+   "KT2@280-1700"
+  ],
+  "label": "KENT · 1961",
+  "cap": "#6",
+  "txt": "Número seis. El filtro Micronite de Kent."
+ },
+ {
+  "src": [
+   "KT2@280-1700",
+   "KT@0-28"
+  ],
+  "label": "KENT · 1961",
+  "cap": "ASBESTO",
+  "txt": "Kent vendía su filtro Micronite como la máxima protección para la salud. Lo que no decía es que, entre 1952 y 1956, ese filtro contenía asbesto, un mineral que hoy se sabe que provoca cáncer. Décadas después, trabajadores de la fábrica de filtros y algunos fumadores llevaron el caso a los tribunales.",
+  "fx": {
+   "type": "compare",
+   "title": "EL FILTRO MICRONITE",
+   "left": [
+    "LA PUBLICIDAD",
+    "MÁXIMA PROTECCIÓN"
+   ],
+   "right": [
+    "LA REALIDAD",
+    "ASBESTO, 1952-1956"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SA@0-60",
+   "NP@0-60"
+  ],
+  "label": "SALEM · 1962",
+  "cap": "#5",
+  "txt": "Número cinco. Salem y Newport, los mentolados."
+ },
+ {
+  "src": [
+   "SA@0-60",
+   "NP@0-60"
+  ],
+  "label": "SALEM · 1962",
+  "cap": "LA PRIMAVERA",
+  "txt": "Los mentolados se vendían como aire fresco. Salem, lanzado en 1956 como uno de los primeros mentolados con filtro, llenaba sus comerciales de cascadas, praderas y parejas en el campo, con una frase que se volvió famosa: puedes sacar a Salem del campo, pero no puedes sacar el campo de Salem. Newport, por su parte, prometía el toque de menta que refresca mientras fumas."
+ },
+ {
+  "src": [
+   "TY@0-60",
+   "TY2@0-31"
+  ],
+  "label": "TAREYTON · AÑOS 60",
+  "cap": "#4",
+  "txt": "Número cuatro. Prefiero pelear que cambiar."
+ },
+ {
+  "src": [
+   "TY@0-60",
+   "TY2@0-31"
+  ],
+  "label": "TAREYTON · AÑOS 60",
+  "cap": "EL OJO MORADO",
+  "txt": "En 1963, Tareyton lanzó una de las campañas más extrañas: hombres y mujeres con un ojo morado, como si acabaran de pelear, y el lema: nosotros, los fumadores de Tareyton, preferimos pelear que cambiar. La idea era vender la lealtad a la marca. Se volvió tan famosa que la frase se usó durante años en chistes y caricaturas.",
+  "fx": {
+   "type": "quote",
+   "text": "Preferimos pelear que cambiar.",
+   "by": "Tareyton, 1963",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "BN@0-57",
+  "label": "BENSON & HEDGES · 1967",
+  "cap": "#3",
+  "txt": "Número tres. Las desventajas de Benson and Hedges."
+ },
+ {
+  "src": [
+   "BN@0-57",
+   "VS@40-260"
+  ],
+  "label": "BENSON & HEDGES · 1967",
+  "cap": "LAS DESVENTAJAS",
+  "txt": "Cuando lanzó sus cigarros extra largos, los Benson and Hedges cien, la marca hizo algo inusual: comerciales cómicos sobre las desventajas de un cigarro tan largo. El cigarro se atoraba en las puertas del elevador, se quemaba con la vela del pastel o golpeaba a la persona de al lado. Era humor visual, y fue un éxito enorme a finales de los sesenta.",
+  "fx": {
+   "type": "list",
+   "title": "LAS DESVENTAJAS (SEGÚN EL COMERCIAL)",
+   "items": [
+    "Se atora en el elevador",
+    "Choca con la gente",
+    "Se quema con las velas"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "AC",
+   "AC2@0-55"
+  ],
+  "label": "AMERICAN CANCER SOCIETY",
+  "cap": "#2",
+  "txt": "Número dos. Los comerciales contra el cigarro."
+ },
+ {
+  "src": [
+   "AC2@0-55",
+   "AC"
+  ],
+  "label": "AMERICAN CANCER SOCIETY",
+  "cap": "1964",
+  "txt": "Mientras tanto, la ciencia avanzaba. En enero de 1964, el Cirujano General de Estados Unidos, Luther Terry, publicó un informe oficial que relacionaba el cigarro con el cáncer de pulmón. Lo dieron a conocer un sábado, para evitar un desplome en la bolsa de valores. Y desde 1966, las cajetillas tuvieron que llevar una advertencia.",
+  "fx": {
+   "type": "headline",
+   "paper": "ESTADOS UNIDOS · 1964",
+   "date": "11 DE ENERO DE 1964",
+   "headline": "INFORME OFICIAL: EL CIGARRO CAUSA CÁNCER DE PULMÓN",
+   "sub": "El Cirujano General Luther Terry",
+   "stamp": "OFICIAL",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "AC",
+   "AC2@0-55"
+  ],
+  "label": "AMERICAN CANCER SOCIETY",
+  "cap": "LA REGLA DE 1967",
+  "txt": "Y en 1967, gracias a la queja de un joven abogado, John Banzhaf, la comisión de comunicaciones decidió que las televisoras que pasaban anuncios de cigarros también tenían que darle tiempo a los mensajes en contra. De repente, la televisión se llenó de comerciales antitabaco, muchos de ellos muy impactantes. Y las ventas de cigarros empezaron a sentirlo.",
+  "fx": {
+   "type": "compare",
+   "title": "LA TELEVISIÓN A FINALES DE LOS 60",
+   "left": [
+    "COMERCIALES",
+    "A FAVOR DEL CIGARRO"
+   ],
+   "right": [
+    "DESDE 1967",
+    "MENSAJES EN CONTRA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "MB2@100-1500",
+   "LS2@0-33"
+  ],
+  "label": "TELEVISIÓN · 1970",
+  "cap": "200 MILLONES",
+  "txt": "Para entender lo que se perdió la televisión, hay que ver los números. A finales de los sesenta, el tabaco era uno de los productos que más gastaban en publicidad en la televisión de Estados Unidos: más de doscientos millones de dólares al año. Cuando llegó la prohibición, las cadenas perdieron una de sus mayores fuentes de dinero.",
+  "fx": {
+   "type": "counter",
+   "value": 200,
+   "prefix": "+$",
+   "suffix": " MILLONES",
+   "label": "AL AÑO EN PUBLICIDAD DE CIGARROS EN TV",
+   "sub": "A finales de los años 60",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "VS@40-260",
+   "VS2@5-61"
+  ],
+  "label": "VIRGINIA SLIMS · 1969",
+  "cap": "#1",
+  "txt": "Y número uno. Virginia Slims, el último comercial."
+ },
+ {
+  "src": [
+   "VS2@5-61",
+   "VS@40-260"
+  ],
+  "label": "VIRGINIA SLIMS · 1969",
+  "cap": "UN LARGO CAMINO",
+  "txt": "Virginia Slims nació en 1968, dirigido específicamente a las mujeres, en plena época del movimiento feminista. Sus comerciales mostraban escenas en blanco y negro de mujeres de principios de siglo, castigadas por fumar a escondidas, y luego a una mujer moderna con su cigarro, mientras cantaban: has recorrido un largo camino, nena.",
+  "fx": {
+   "type": "compare",
+   "title": "EL COMERCIAL DE VIRGINIA SLIMS",
+   "left": [
+    "EL PASADO",
+    "BLANCO Y NEGRO"
+   ],
+   "right": [
+    "LA MUJER MODERNA",
+    "A COLOR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "VS@40-260",
+   "VS2@5-61"
+  ],
+  "label": "VIRGINIA SLIMS · 1969",
+  "cap": "1 DE ENERO DE 1971",
+  "txt": "El presidente Richard Nixon firmó la ley de salud pública sobre el tabaco el primero de abril de 1970, y la prohibición entró en vigor el dos de enero de 1971. La fecha no era casual: las tabacaleras pudieron anunciarse un último día, el primero de enero, durante los partidos de fútbol americano de Año Nuevo. Y el último comercial de cigarros de la televisión fue de Virginia Slims, a las once y cincuenta y nueve de la noche.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS ÚLTIMOS DÍAS",
+   "items": [
+    [
+     "1 ABR 1970",
+     "Nixon firma la ley"
+    ],
+    [
+     "1 ENE 1971",
+     "Último día de anuncios"
+    ],
+    [
+     "11:59 PM",
+     "El último comercial"
+    ],
+    [
+     "2 ENE 1971",
+     "Entra la prohibición"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "MB@0-38",
+   "MB2@100-1500"
+  ],
+  "label": "MARLBORO · 1966",
+  "cap": "DESPUÉS",
+  "txt": "¿Y qué pasó después? Las tabacaleras movieron su dinero a revistas, espectaculares y patrocinios deportivos. Y aunque ya no podía aparecer en televisión, el vaquero de Marlboro siguió en las vallas publicitarias, y en pocos años Marlboro se convirtió en la marca de cigarros más vendida de Estados Unidos. Los comerciales se acabaron; el negocio no. Hicieron falta décadas de leyes y advertencias más para cambiar eso.",
+  "fx": {
+   "type": "timeline",
+   "title": "DESPUÉS DE 1971",
+   "items": [
+    [
+     "1971",
+     "Fin de la TV"
+    ],
+    [
+     "AÑOS 70",
+     "Revistas y espectaculares"
+    ],
+    [
+     "1972",
+     "Marlboro, el más vendido"
+    ],
+    [
+     "DÉCADAS DESPUÉS",
+     "Más leyes"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "FW@0-78",
+   "LU@0-430",
+   "MB@0-38",
+   "VS@40-260"
+  ],
+  "label": "¿CUÁL RECUERDAS?",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Pedro Picapiedra con un Winston, los Clampett cantando en el porche, Lucy y la cajetilla de Philip Morris, el vaquero de Marlboro y los doctores de Camel. Hoy esos comerciales parecen de otro planeta, pero durante veinte años fueron parte de la sala de cada casa. ¿Cuál de estos recuerdas, o cuál te sorprendió más? Déjamelo en los comentarios, y suscríbete para más historias de la televisión antigua."
+ }
+]

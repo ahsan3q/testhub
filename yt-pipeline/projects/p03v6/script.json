@@ -1,0 +1,704 @@
+[
+ {
+  "src": [
+   "JQ@60-1530",
+   "HH@50-1170"
+  ],
+  "label": "CARICATURAS DE 1964",
+  "cap": "",
+  "txt": "En 1964 llegaron a la televisión diez caricaturas, y casi todas desaparecieron en menos de dos años. Una era demasiado cara para seguir. Otra murió el día que el hombre llegó a la Luna. Y otra tuvo que salir del aire por culpa de una regla del gobierno."
+ },
+ {
+  "src": [
+   "PO@10-400",
+   "RR@10-405"
+  ],
+  "label": "CARICATURAS DE 1964",
+  "cap": "10 CARICATURAS OLVIDADAS",
+  "txt": "Hoy viajamos a 1964 para recordar diez caricaturas de corta vida. Déjame en los comentarios cuáles recuerdas, cuál merecía más tiempo, y cuál está mejor en el olvido.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA TELEVISIÓN EN 1964",
+   "items": [
+    [
+     "ENERO",
+     "Ricochet Rabbit"
+    ],
+    [
+     "SEPTIEMBRE",
+     "Llega la nueva temporada"
+    ],
+    [
+     "18 SEP",
+     "Jonny Quest"
+    ],
+    [
+     "26 SEP",
+     "Linus the Lionhearted"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "YY@10-405",
+   "BS@10-400"
+  ],
+  "label": "TELEVISIÓN · 1964",
+  "cap": "EL SÁBADO EN LA MAÑANA",
+  "txt": "Primero, el contexto. A mediados de los sesenta, las cadenas descubrieron algo: los niños veían televisión el sábado en la mañana, y los fabricantes de cereales y juguetes pagaban muy bien por llegar a ellos. Así que los estudios empezaron a producir caricaturas en masa, rápido y barato. Y Hanna-Barbera era la reina de ese negocio.",
+  "fx": {
+   "type": "bars",
+   "title": "PATROCINADORES DE 1964",
+   "items": [
+    [
+     "CEREALES",
+     3
+    ],
+    [
+     "JUGUETES",
+     2
+    ]
+   ],
+   "suffix": " SHOWS",
+   "note": "General Mills, Post e Ideal Toy pagaban las caricaturas de esta lista",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HH@50-1170",
+   "HH2@50-1110"
+  ],
+  "label": "HOPPITY HOOPER · 1964",
+  "cap": "#10",
+  "txt": "Número diez. Hoppity Hooper."
+ },
+ {
+  "src": [
+   "HH@50-1170",
+   "HH2@50-1110"
+  ],
+  "label": "HOPPITY HOOPER · 1964",
+  "cap": "JAY WARD",
+  "txt": "Hoppity Hooper venía de Jay Ward, el creador de Rocky y Bullwinkle, y se estrenó en ABC el doce de septiembre de 1964, patrocinado por General Mills. Seguía a tres personajes de un pueblo ficticio de Wisconsin: Hoppity, una rana joven y soñadora; Waldo, un zorro que vendía medicinas falsas y fingía ser su tío perdido; y Fillmore, un oso con uniforme de la guerra civil que tocaba muy mal la corneta.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PERSONAJES",
+   "items": [
+    "Hoppity: la rana soñadora",
+    "Waldo: el zorro estafador",
+    "Fillmore: el oso de la corneta"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HH2@50-1110",
+   "HH@50-1170"
+  ],
+  "label": "HOPPITY HOOPER · 1964",
+  "cap": "HECHA EN MÉXICO",
+  "txt": "Y aquí viene un dato que nos toca de cerca: la animación se hacía en la Ciudad de México, en el estudio Gamma Productions, mientras que los guiones y las voces se grababan en Hollywood. Cada historia se dividía en cuatro partes, con juegos de palabras en todos los títulos, igual que Rocky y Bullwinkle. Hizo cincuenta y dos episodios, y terminó en 1967.",
+  "fx": {
+   "type": "map",
+   "title": "DE HOLLYWOOD A MÉXICO",
+   "countries": [
+    "United States of America",
+    "Mexico"
+   ],
+   "pins": [
+    {
+     "name": "HOLLYWOOD · GUIONES",
+     "lon": -118.33,
+     "lat": 34.1
+    },
+    {
+     "name": "CIUDAD DE MÉXICO · ANIMACIÓN",
+     "lon": -99.13,
+     "lat": 19.43
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -125,
+    14,
+    -90,
+    38
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "HH@50-1170",
+   "HH2@50-1110"
+  ],
+  "label": "HOPPITY HOOPER · 1964",
+  "cap": "PEDRO PICAPIEDRA",
+  "txt": "Y un detalle curioso: el piloto de Hoppity Hooper se hizo en 1960, y la voz del oso Fillmore era de Alan Reed. Pero cuando la serie por fin se produjo en 1964, Alan Reed ya estaba ocupado con otro papel: era la voz de Pedro Picapiedra. Así que Bill Scott, la voz de Bullwinkle, tomó su lugar.",
+  "fx": {
+   "type": "compare",
+   "title": "LA VOZ DE FILLMORE",
+   "left": [
+    "PILOTO 1960",
+    "ALAN REED"
+   ],
+   "right": [
+    "SERIE 1964",
+    "BILL SCOTT"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "LI@15-130",
+   "CR@0-26"
+  ],
+  "label": "LINUS THE LIONHEARTED · 1964",
+  "cap": "#9",
+  "txt": "Número nueve. Linus the Lionhearted, Linus el león."
+ },
+ {
+  "src": [
+   "CR@0-26",
+   "LI@15-130"
+  ],
+  "label": "CRISPY CRITTERS · POST",
+  "cap": "UN LEÓN DE CEREAL",
+  "txt": "Esta caricatura empezó como un comercial. Linus era la mascota de los cereales Post, en las cajas de Crispy Critters, y sus anuncios fueron tan populares que la empresa le dio su propio programa. Se estrenó en CBS el veintiséis de septiembre de 1964. Y cada segmento tenía como estrella a otra mascota de Post, como el oso Sugar Bear.",
+  "fx": {
+   "type": "compare",
+   "title": "DEL CEREAL A LA TV",
+   "left": [
+    "1963",
+    "MASCOTA EN LA CAJA"
+   ],
+   "right": [
+    "1964",
+    "SU PROPIA SERIE EN CBS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "LI@15-130",
+   "CR@0-26"
+  ],
+  "label": "LINUS THE LIONHEARTED · 1964",
+  "cap": "LA REGLA",
+  "txt": "Las voces eran de lujo: Sheldon Leonard como Linus, y el comediante Carl Reiner en varios papeles. Pero su final no vino por falta de público. Hacia 1969, las autoridades de televisión de Estados Unidos empezaron a considerar que un programa protagonizado por las mascotas de un producto era, en el fondo, un comercial de media hora. Y la serie tuvo que salir del aire.",
+  "fx": {
+   "type": "headline",
+   "paper": "TELEVISIÓN · 1969",
+   "date": "1969",
+   "headline": "¿UNA CARICATURA O UN COMERCIAL DE MEDIA HORA?",
+   "sub": "Linus the Lionhearted sale del aire",
+   "stamp": "CANCELADA",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "LI@15-130",
+   "CR@0-26"
+  ],
+  "label": "LINUS THE LIONHEARTED · 1964",
+  "cap": "LA DESPEDIDA",
+  "txt": "Y muchos niños de esa época recuerdan algo en especial: el final de cada episodio. La música de cierre era lenta y triste, y Linus y sus amigos guardaban sus cosas en un baúl, se paraban bajo un solo reflector, y se despedían con la mano antes de desaparecer en la oscuridad. Para muchos, cada episodio se sentía como el fin del mundo."
+ },
+ {
+  "src": [
+   "MG@60-430",
+   "MG2@100-1440"
+  ],
+  "label": "THE FAMOUS ADVENTURES OF MR. MAGOO · 1964",
+  "cap": "#8",
+  "txt": "Número ocho. Las famosas aventuras de Mister Magoo."
+ },
+ {
+  "src": [
+   "MG@60-430",
+   "MG2@100-1440"
+  ],
+  "label": "THE FAMOUS ADVENTURES OF MR. MAGOO · 1964",
+  "cap": "MAGOO, ACTOR",
+  "txt": "Mister Magoo ya era famoso como el viejito miope que chocaba con todo. Pero esta serie, estrenada en NBC el diecinueve de septiembre de 1964, hizo algo muy distinto: convirtió a Magoo en actor. Cada semana interpretaba en serio un clásico de la literatura: Robin Hood, Los tres mosqueteros, Moby Dick, Sherlock Holmes, y hasta Frankenstein.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PAPELES DE MAGOO",
+   "items": [
+    "Robin Hood",
+    "Los tres mosqueteros",
+    "Moby Dick",
+    "Sherlock Holmes",
+    "Frankenstein"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "MG2@100-1440",
+   "MG@60-430"
+  ],
+  "label": "MR. MAGOO'S DOCTOR FRANKENSTEIN",
+  "cap": "HORARIO ESTELAR",
+  "txt": "La idea salió del éxito del especial navideño de 1962, donde Magoo interpretó a Ebenezer Scrooge. Como la serie iba en horario estelar y no en la barra infantil, tenía historias sorprendentemente oscuras para una caricatura. Jim Backus volvió a ser la voz de Magoo. Duró una sola temporada de veintiséis episodios.",
+  "fx": {
+   "type": "counter",
+   "value": 26,
+   "suffix": " EPISODIOS",
+   "label": "UNA SOLA TEMPORADA",
+   "sub": "De septiembre de 1964 a abril de 1965",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "MG2@100-1440",
+   "MG@60-430"
+  ],
+  "label": "THE FAMOUS ADVENTURES OF MR. MAGOO · 1964",
+  "cap": "LOS SIETE ENANOS",
+  "txt": "Algunas elecciones eran muy atrevidas. En La isla del tesoro, Magoo interpretó al villano, el pirata Long John Silver. Y en su versión de Blancanieves, interpretó él solo a los siete enanos. Al principio de cada episodio había una pequeña escena detrás del escenario, donde Magoo chocaba con la escenografía, para recordarle al público quién era.",
+  "fx": {
+   "type": "counter",
+   "value": 7,
+   "suffix": " ENANOS",
+   "label": "TODOS INTERPRETADOS POR MAGOO",
+   "sub": "En su versión de Blancanieves",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "PP2@10-405",
+  "label": "PUNKIN' PUSS & MUSHMOUSE · 1964",
+  "cap": "#7",
+  "txt": "Número siete. Punkin' Puss y Mushmouse."
+ },
+ {
+  "src": "PP2@10-405",
+  "label": "PUNKIN' PUSS & MUSHMOUSE · 1964",
+  "cap": "EL GATO Y EL RATÓN",
+  "txt": "Si alguna vez quisiste ver a Tom y Jerry en el campo, esta es tu caricatura. Era un segmento de Hanna-Barbera dentro del show de Magilla Gorilla: un gato campesino que pasaba cada episodio tratando de dispararle con su escopeta a un ratón campesino, que siempre encontraba la forma de escapar, muchas veces llamando a alguno de sus primos para que le ayudara.",
+  "fx": {
+   "type": "compare",
+   "title": "LA PERSECUCIÓN DE SIEMPRE",
+   "left": [
+    "PUNKIN' PUSS",
+    "EL GATO CON ESCOPETA"
+   ],
+   "right": [
+    "MUSHMOUSE",
+    "EL RATÓN QUE SIEMPRE ESCAPA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "PP2@10-405",
+   "BS@10-400"
+  ],
+  "label": "PUNKIN' PUSS & MUSHMOUSE · 1964",
+  "cap": "23 EPISODIOS",
+  "txt": "Hizo veintitrés episodios cortos entre 1964 y 1966, con ideas cada vez más locas: invisibilidad, un perro guardián robot, un canguro boxeador y hasta una herencia de media tonelada de queso. Nunca tuvo un programa propio, y hoy es casi desconocida."
+ },
+ {
+  "src": "RR@10-405",
+  "label": "RICOCHET RABBIT · 1964",
+  "cap": "#6",
+  "txt": "Número seis. El conejo Ricochet y el coyote Droopalong."
+ },
+ {
+  "src": "RR@10-405",
+  "label": "RICOCHET RABBIT · 1964",
+  "cap": "EL SHERIFF MÁS RÁPIDO",
+  "txt": "Otro segmento de Hanna-Barbera, que empezó en enero de 1964. Ricochet era un conejo sheriff en un pueblo del viejo oeste, y su talento era la velocidad: podía correr más rápido que las balas, y se movía rebotando en cualquier objeto, de ahí su nombre. En América Latina se conoció como el Conejo Ricochet.",
+  "fx": {
+   "type": "compare",
+   "title": "EL SHERIFF Y SU AYUDANTE",
+   "left": [
+    "RICOCHET",
+    "RÁPIDO COMO BALA"
+   ],
+   "right": [
+    "DROOPALONG",
+    "LENTO Y TORPE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "RR@10-405",
+   "YY@10-405"
+  ],
+  "label": "RICOCHET RABBIT · 1964",
+  "cap": "MEL BLANC",
+  "txt": "Su ayudante era el coyote Droopalong, lento y torpe, con la voz de Mel Blanc, el mismo de Bugs Bunny. Y Ricochet tenía balas mágicas: una se detenía en el aire y golpeaba al enemigo con un mazo gigante. Hizo veintitrés episodios, y años después el personaje reapareció en otras series, como Harvey Birdman, donde lo interpretó Mark Hamill.",
+  "fx": {
+   "type": "counter",
+   "value": 23,
+   "suffix": " EPISODIOS",
+   "label": "RICOCHET RABBIT",
+   "sub": "De 1964 a 1965",
+   "dur": 4
+  }
+ },
+ {
+  "src": "YY@10-405",
+  "label": "YIPPEE, YAPPEE & YAHOOEY · 1964",
+  "cap": "#5",
+  "txt": "Número cinco. Yippee, Yappee y Yahooey."
+ },
+ {
+  "src": "YY@10-405",
+  "label": "YIPPEE, YAPPEE & YAHOOEY · 1964",
+  "cap": "LOS TRES GUARDIAS",
+  "txt": "Toda época tiene su trío de héroes torpes, y en 1964 fueron tres perros guardias reales, vestidos como los tres mosqueteros. Debutaron el dieciséis de septiembre de 1964 en el show de Peter Potamus. Su trabajo era proteger a un rey bajito y gruñón. El problema es que eran tan torpes que casi siempre terminaban lastimándolo ellos mismos.",
+  "fx": {
+   "type": "list",
+   "title": "LOS GUARDIAS DEL REY",
+   "items": [
+    "Yippee",
+    "Yappee",
+    "Yahooey"
+   ],
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "YY@10-405",
+   "PO@10-400"
+  ],
+  "label": "YIPPEE, YAPPEE & YAHOOEY · 1964",
+  "cap": "DAWS BUTLER",
+  "txt": "Las voces eran parte de la diversión: Daws Butler, la voz del oso Yogui, hacía a Yahooey con un tono parecido al del comediante Jerry Lewis. Y los capítulos eran puro caos de cuento de hadas: dragones falsos y reales, brujas, hechizos y un caballero mecánico gigante. Hizo veintitrés episodios."
+ },
+ {
+  "src": "BS@10-400",
+  "label": "BREEZLY & SNEEZLY · 1964",
+  "cap": "#4",
+  "txt": "Número cuatro. Breezly y Sneezly."
+ },
+ {
+  "src": "BS@10-400",
+  "label": "BREEZLY & SNEEZLY · 1964",
+  "cap": "EN EL ÁRTICO",
+  "txt": "En América Latina los conocimos como Casioso y Achú. Un oso polar tramposo y una foca verde con un resfriado permanente, que vivían en un iglú en el Ártico. Cada vez que la foca estornudaba, la explosión era tan fuerte que cambiaba toda la situación. La voz de la foca era, otra vez, de Mel Blanc.",
+  "fx": {
+   "type": "map",
+   "title": "EN EL ÁRTICO",
+   "countries": [
+    "Canada",
+    "Greenland"
+   ],
+   "pins": [
+    {
+     "name": "EL IGLÚ DE CASIOSO Y ACHÚ",
+     "lon": -95,
+     "lat": 72
+    }
+   ],
+   "view": [
+    -140,
+    55,
+    -20,
+    84
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "BS@10-400",
+   "YY@10-405"
+  ],
+  "label": "BREEZLY & SNEEZLY · 1964",
+  "cap": "EL CORONEL",
+  "txt": "La idea central era que el oso quería meterse a un campamento del ejército cercano, para conseguir comida o calor, y siempre se lo impedía el coronel Fuzzby. Si suena familiar, es porque era la misma fórmula del oso Yogui y el guardabosques, pero en la nieve. Hizo veintitrés episodios entre 1964 y 1966."
+ },
+ {
+  "src": [
+   "PO@10-400",
+   "BS@10-400"
+  ],
+  "label": "MAGILLA GORILLA · 1964",
+  "cap": "MAGILLA GORILLA",
+  "txt": "Antes de llegar al número tres, un poco de contexto. Muchas de estas caricaturas vivían dentro de dos programas de Hanna-Barbera: el show de Magilla Gorilla y el de Peter Potamus. Los dos los pagaba la empresa de juguetes Ideal, y al principio no se vendieron a una gran cadena, sino directamente a canales locales de todo el país.",
+  "fx": {
+   "type": "compare",
+   "title": "DOS PROGRAMAS, MUCHAS CARICATURAS",
+   "left": [
+    "MAGILLA GORILLA",
+    "PUNKIN' PUSS · RICOCHET"
+   ],
+   "right": [
+    "PETER POTAMUS",
+    "YIPPEE · BREEZLY"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "PO@10-400",
+  "label": "PETER POTAMUS · 1964",
+  "cap": "#3",
+  "txt": "Número tres. El show de Peter Potamus."
+ },
+ {
+  "src": "PO@10-400",
+  "label": "PETER POTAMUS · 1964",
+  "cap": "EL GLOBO",
+  "txt": "Y aquí llega la estrella del programa que contenía varias de estas caricaturas. Peter Potamus era un hipopótamo morado con ropa de safari, con la voz de Daws Butler, que viajaba por el mundo con su amigo, el mono So-So, en un globo aerostático con canasta en forma de barco. Con solo girar una perilla, el globo también podía viajar en el tiempo.",
+  "fx": {
+   "type": "list",
+   "title": "SUS VIAJES",
+   "items": [
+    "El viejo oeste",
+    "El espacio",
+    "La prehistoria",
+    "La época de los peregrinos"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "PO@10-400",
+  "label": "PETER POTAMUS · 1964",
+  "cap": "IDEAL TOYS",
+  "txt": "Cuando se metía en problemas, Peter usaba su arma secreta: un rugido tan fuerte que soplaba a los enemigos como un huracán. El programa lo patrocinaba la empresa de juguetes Ideal, y primero se vendió a canales locales, hasta que ABC lo compró en 1966. Hizo apenas veintisiete episodios.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL SHOW DE PETER POTAMUS",
+   "items": [
+    [
+     "16 SEP 1964",
+     "Estreno en canales locales"
+    ],
+    [
+     "ENERO 1966",
+     "Lo compra ABC"
+    ],
+    [
+     "1966",
+     "Termina su producción"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "PO@10-400",
+  "label": "PETER POTAMUS · 1964",
+  "cap": "JOE E. BROWN",
+  "txt": "Daws Butler le dio a Peter Potamus una voz inspirada en el comediante Joe E. Brown, la misma que había usado para el león Lippy. Y aunque la serie duró poco, Peter siguió apareciendo durante décadas en otras producciones de Hanna-Barbera, desde las carreras de Yogui hasta Harvey Birdman, donde fue un abogado flojo."
+ },
+ {
+  "src": [
+   "F7@100-1780",
+   "F7b@60-3400"
+  ],
+  "label": "FRIENDSHIP 7 · 1962",
+  "cap": "#2",
+  "txt": "Número dos. El gran mundo del pequeño Adam."
+ },
+ {
+  "src": [
+   "F7b@60-3400",
+   "F7@100-1780"
+  ],
+  "label": "FRIENDSHIP 7 · 1962",
+  "cap": "LA NASA",
+  "txt": "Esta es la más rara de la lista, porque casi no era una caricatura. A principios de los sesenta, el productor Fred Ladd consiguió una gran colección de películas documentales de la NASA. Y en lugar de dejarlas como imágenes técnicas del espacio, las convirtió en ciento diez episodios de cinco minutos, con un pequeño marco animado: un niño curioso llamado Adam y su hermano mayor Wilbur, que hacían preguntas antes y después de cada video real.",
+  "fx": {
+   "type": "counter",
+   "value": 110,
+   "suffix": " EPISODIOS",
+   "label": "DE 5 MINUTOS CADA UNO",
+   "sub": "Hechos con películas reales de la NASA",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "F7@100-1780",
+   "F7b@60-3400"
+  ],
+  "label": "FRIENDSHIP 7 · 1962",
+  "cap": "1969",
+  "txt": "Los niños veían cohetes y astronautas reales, en plena carrera espacial. Pero el programa tenía fecha de caducidad. Todo el material era de los primeros vuelos de los sesenta, y cuando el Apolo 11 llegó a la Luna en julio de 1969, casi todo ese contenido se volvió viejo de golpe. Pocas caricaturas desaparecieron porque la humanidad tuvo éxito. Esta es una de ellas.",
+  "fx": {
+   "type": "map",
+   "title": "DE CABO CAÑAVERAL A LA LUNA",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Florida"
+   ],
+   "pins": [
+    {
+     "name": "CABO CAÑAVERAL",
+     "lon": -80.6,
+     "lat": 28.4
+    }
+   ],
+   "view": [
+    -90,
+    23,
+    -74,
+    34
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "F7@100-1780",
+   "F7b@60-3400"
+  ],
+  "label": "FRIENDSHIP 7 · 1962",
+  "cap": "JOHN GLENN",
+  "txt": "Las imágenes que veían esos niños eran historia en vivo. Como el vuelo de John Glenn en la cápsula Friendship 7, en febrero de 1962, cuando se convirtió en el primer estadounidense en dar la vuelta a la Tierra en órbita. Para un niño de 1964, ver eso entre caricatura y caricatura era como ver el futuro.",
+  "fx": {
+   "type": "headline",
+   "paper": "NASA · 1962",
+   "date": "20 DE FEBRERO DE 1962",
+   "headline": "JOHN GLENN DA LA VUELTA A LA TIERRA",
+   "sub": "La cápsula Friendship 7",
+   "stamp": "HISTORIA",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "JQ@60-1530",
+   "JQ2@60-1530"
+  ],
+  "label": "JONNY QUEST · 1964",
+  "cap": "#1",
+  "txt": "Y número uno. Jonny Quest."
+ },
+ {
+  "src": [
+   "JQ2@60-1530",
+   "JQ@60-1530"
+  ],
+  "label": "JONNY QUEST · 1964",
+  "cap": "HORARIO ESTELAR",
+  "txt": "Si hay una serie de esta lista que debió durar más, es esta. Jonny Quest se estrenó en ABC el viernes dieciocho de septiembre de 1964, en horario estelar, a las siete y media de la noche. Y no se parecía a nada: Hanna-Barbera era famosa por animales graciosos, pero esta era una serie de aventuras seria, con personajes humanos realistas y un estilo de cómic.",
+  "fx": {
+   "type": "headline",
+   "paper": "ABC · TELEVISIÓN",
+   "date": "18 DE SEPTIEMBRE DE 1964",
+   "headline": "JONNY QUEST LLEGA AL HORARIO ESTELAR",
+   "sub": "Una caricatura de aventuras, a las 7:30 de la noche",
+   "stamp": "ESTRENO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "JQ@60-1530",
+   "JQ2@60-1530"
+  ],
+  "label": "JONNY QUEST · 1964",
+  "cap": "DOUG WILDEY",
+  "txt": "La diseñó el dibujante de cómics Doug Wildey, inspirado en las películas de aventuras y hasta en James Bond. Jonny viajaba por el mundo con su padre científico, el doctor Benton Quest, su guardaespaldas Race Bannon, su perro Bandit, y Hadji, un niño huérfano de Calcuta que se volvió su hermano adoptivo. Enfrentaban momias, robots espía, monstruos y al villano doctor Zin.",
+  "fx": {
+   "type": "map",
+   "title": "HADJI, DE CALCUTA",
+   "countries": [
+    "India"
+   ],
+   "pins": [
+    {
+     "name": "CALCUTA",
+     "lon": 88.36,
+     "lat": 22.57
+    }
+   ],
+   "view": [
+    66,
+    5,
+    98,
+    36
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JQ2@60-1530",
+   "JQ@60-1530"
+  ],
+  "label": "JONNY QUEST · 1964",
+  "cap": "DEMASIADO CARA",
+  "txt": "Fue un éxito de crítica, pero era carísima de producir. Después de una sola temporada de veintiséis episodios, ABC no quiso pagar más. Y entonces pasó algo increíble: en repeticiones, Jonny Quest siguió volviendo, y llegó a transmitirse en las tres grandes cadenas de Estados Unidos, ABC, CBS y NBC. Hubo episodios nuevos en los ochenta y otra serie en los noventa. La cancelaron por cara, y terminó influyendo en la animación de acción durante décadas.",
+  "fx": {
+   "type": "bars",
+   "title": "JONNY QUEST EN LA TV",
+   "items": [
+    [
+     "ABC",
+     1
+    ],
+    [
+     "CBS",
+     1
+    ],
+    [
+     "NBC",
+     1
+    ]
+   ],
+   "suffix": "",
+   "note": "Una de las pocas series en las tres grandes cadenas",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JQ2@60-1530",
+   "JQ@60-1530"
+  ],
+  "label": "JONNY QUEST · 1964",
+  "cap": "BANDIT",
+  "txt": "Según contaba Doug Wildey, escribió la idea de Jonny Quest en una sola noche, después de que el estudio no consiguió los derechos de otro héroe de la radio. Él quería que la mascota de Jonny fuera un mono, pero el estudio prefirió un perro: Bandit, un bulldog con una mancha negra en los ojos, como un antifaz. Y décadas después, la serie para adultos Los hermanos Venture nació como una parodia de Jonny Quest.",
+  "fx": {
+   "type": "compare",
+   "title": "LA MASCOTA DE JONNY",
+   "left": [
+    "LA IDEA DE WILDEY",
+    "UN MONO"
+   ],
+   "right": [
+    "LA DECISIÓN DEL ESTUDIO",
+    "BANDIT, UN BULLDOG"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "JQ@60-1530",
+   "PO@10-400",
+   "HH@50-1170",
+   "MG@60-430"
+  ],
+  "label": "¿CUÁL RECUERDAS?",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Una rana soñadora animada en México, un león de cereal, un Magoo actor, un conejo sheriff, tres guardias torpes, un oso en el Ártico, un hipopótamo viajero, un niño que veía cohetes reales, y Jonny Quest. ¿Cuál de estas caricaturas de 1964 era tu favorita, y cuál merecía durar más? Déjamelo en los comentarios, y suscríbete para más caricaturas olvidadas."
+ }
+]

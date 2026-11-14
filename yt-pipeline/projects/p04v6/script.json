@@ -1,0 +1,729 @@
+[
+ {
+  "src": [
+   "PB@25-450",
+   "SB@40-960"
+  ],
+  "label": "POPEYE EL MARINO",
+  "cap": "",
+  "txt": "Se suponía que iba a desaparecer después de una sola historia. Su cara probablemente era la de un peleador de bar real, que regalaba dulces a los niños. Y el hombre que lo creó murió antes de ver lo enorme que se volvería su marinero."
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE EL MARINO",
+  "cap": "10 SECRETOS",
+  "txt": "Esta no es la lista de siempre. Hoy te cuento la historia secreta de Popeye el Marino: el accidente que se convirtió en ícono, la voz que cambió por un pleito de dinero, la verdad detrás de la espinaca, y por qué, desde 2025, el Popeye original ya no tiene dueño.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DE POPEYE",
+   "items": [
+    [
+     "1919",
+     "Nace la tira de Olivia"
+    ],
+    [
+     "1929",
+     "Aparece Popeye"
+    ],
+    [
+     "1933",
+     "Llega al cine"
+    ],
+    [
+     "2025",
+     "Dominio público"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "EP@30-380",
+   "PB@25-450"
+  ],
+  "label": "POPEYE · 1933",
+  "cap": "#10",
+  "txt": "Número diez. Popeye era un personaje de relleno."
+ },
+ {
+  "src": [
+   "EP@30-380",
+   "PB@25-450"
+  ],
+  "label": "POPEYE · 1933",
+  "cap": "THIMBLE THEATRE",
+  "txt": "Antes de Popeye no había ningún hueco esperando a un marinero. Había una tira cómica llamada Thimble Theatre, que se publicaba desde diciembre de 1919, sobre tres personajes: Olivia, su hermano Castor, y el novio de Olivia, Ham Gravy. Durante diez años, eso fue todo. La dibujaba Elzie Crisler Segar, y funcionaba bien, pero no era ningún fenómeno.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PROTAGONISTAS ORIGINALES",
+   "items": [
+    "Olivia",
+    "Castor, su hermano",
+    "Ham Gravy, su novio",
+    "(Popeye todavía no existía)"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "EP@30-380",
+   "SB@40-960"
+  ],
+  "label": "POPEYE · 1933",
+  "cap": "17 DE ENERO DE 1929",
+  "txt": "Hasta que el diecisiete de enero de 1929, Castor necesitaba un marinero para un viaje a una isla de apuestas. En el muelle encontró a un tipo tuerto y gruñón, y le preguntó si era marinero. El tipo le respondió, más o menos: ¿y tú crees que soy un vaquero? Así entró Popeye: como un ayudante contratado para un solo viaje, que el autor pensaba sacar al terminar la historia.",
+  "fx": {
+   "type": "headline",
+   "paper": "THIMBLE THEATRE",
+   "date": "17 DE ENERO DE 1929",
+   "headline": "UN MARINERO TUERTO APARECE EN LA TIRA",
+   "sub": "Iba a ser un personaje de una sola historia",
+   "stamp": "DEBUT",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE · 1936",
+  "cap": "SE COMIÓ LA TIRA",
+  "txt": "Pero empezaron a llegar cartas. Los lectores querían más del marinero de mala gramática y peor carácter. Segar lo trajo de vuelta, esta vez para siempre. Y en pocos años, Popeye se comió la tira entera: Castor pasó a segundo plano, Ham Gravy casi desapareció, y Olivia se quedó con el marinero. Para 1931, la tira ya se llamaba Thimble Theatre, protagonizada por Popeye el Marino.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ACCIDENTE QUE SE VOLVIÓ ESTRELLA",
+   "left": [
+    "1929",
+    "UN EXTRA"
+   ],
+   "right": [
+    "1931",
+    "EL PROTAGONISTA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "AB@50-1010",
+   "EP@30-380"
+  ],
+  "label": "POPEYE · 1937",
+  "cap": "#9",
+  "txt": "Número nueve. Popeye tenía la cara de un hombre real."
+ },
+ {
+  "src": [
+   "EP@30-380",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE · 1933",
+  "cap": "ROCKY FIEGEL",
+  "txt": "Segar creció en Chester, un pueblo de Illinois a la orilla del río Misisipi. Y según los historiadores del pueblo, nunca olvidó a un vecino llamado Frank Rocky Fiegel: un peleador de bar, de mandíbula salida y ojos entrecerrados, que se metía en pleitos con frecuencia, pero que también repartía dulces a los niños del barrio.",
+  "fx": {
+   "type": "map",
+   "title": "EL PUEBLO DE POPEYE",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Illinois"
+   ],
+   "pins": [
+    {
+     "name": "CHESTER, ILLINOIS",
+     "lon": -89.82,
+     "lat": 37.91
+    }
+   ],
+   "view": [
+    -95,
+    34,
+    -84,
+    43
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "AB@50-1010",
+   "SB@40-960"
+  ],
+  "label": "POPEYE · 1937",
+  "cap": "LAS ESTATUAS",
+  "txt": "Segar nunca lo confirmó con sus propias palabras, pero el parecido convenció a casi todos los que conocieron a los dos. Hoy, Chester tiene un recorrido de estatuas de bronce de los personajes de Popeye, y la tumba de Fiegel se volvió un sitio de visita para los fanáticos. Un hombre común de un pueblo pequeño terminó con una de las caras más reconocidas del planeta.",
+  "fx": {
+   "type": "quote",
+   "text": "Un peleador de bar que regalaba dulces a los niños.",
+   "by": "Así recuerdan en Chester a Frank Rocky Fiegel",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "PB@25-450",
+   "EP@30-380"
+  ],
+  "label": "POPEYE THE SAILOR · 1933",
+  "cap": "#8",
+  "txt": "Número ocho. Popeye llegó al cine como invitado de Betty Boop."
+ },
+ {
+  "src": "PB@25-450",
+  "label": "POPEYE THE SAILOR · 1933",
+  "cap": "FLEISCHER",
+  "txt": "A principios de los treinta, Popeye ya era un éxito en los periódicos, pero no era caricatura. Los hermanos Max y Dave Fleischer, que tenían el estudio de Betty Boop, consiguieron los derechos. Según contaban quienes trabajaron con Max, la idea le vino al ver cómo un elevadorista del hotel donde vivía esperaba cada noche el periódico solo para leer la tira de Popeye.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS HERMANOS FLEISCHER",
+   "left": [
+    "MAX FLEISCHER",
+    "PRODUCTOR"
+   ],
+   "right": [
+    "DAVE FLEISCHER",
+    "DIRECTOR"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "PB@25-450",
+   "EP@30-380"
+  ],
+  "label": "POPEYE THE SAILOR · 1933",
+  "cap": "14 DE JULIO DE 1933",
+  "txt": "Popeye debutó en el cine el catorce de julio de 1933, en una caricatura llamada Popeye the Sailor, con Betty Boop como invitada, para aprovechar su público. Era una apuesta segura, por si el marinero no funcionaba. No hacía falta: en pocos años, Popeye era una de las estrellas animadas más populares de Estados Unidos, al nivel de Mickey Mouse.",
+  "fx": {
+   "type": "headline",
+   "paper": "FLEISCHER STUDIOS",
+   "date": "14 DE JULIO DE 1933",
+   "headline": "POPEYE LLEGA AL CINE",
+   "sub": "Con Betty Boop como invitada especial",
+   "stamp": "ESTRENO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PB@25-450",
+   "EP@30-380"
+  ],
+  "label": "POPEYE · 1933",
+  "cap": "BLUTO",
+  "txt": "Y en el cine pasó algo parecido con el villano. Bluto, el grandulón barbudo, apareció en la tira de Segar en una sola historia de 1932. Pero los Fleischer lo convirtieron en el rival permanente de Popeye, y así nació la fórmula de casi todas las caricaturas: Bluto intenta llevarse a Olivia, le da una paliza a Popeye, Popeye come espinaca, y gana.",
+  "fx": {
+   "type": "list",
+   "title": "LA FÓRMULA DE POPEYE",
+   "items": [
+    "Bluto quiere a Olivia",
+    "Popeye recibe una paliza",
+    "Popeye come espinaca",
+    "Popeye gana"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "PB@25-450",
+   "EP@30-380"
+  ],
+  "label": "POPEYE THE SAILOR · 1933",
+  "cap": "LA CANCIÓN",
+  "txt": "Esa primera caricatura de 1933 también estrenó algo que todavía recordamos: la canción Soy Popeye el marino, escrita por Sammy Lerner, con su silbido de pipa al final. Y con ella llegó la frase que resume al personaje: yo soy lo que soy, y eso es todo lo que soy. Un marinero que nunca intentó ser otra cosa.",
+  "fx": {
+   "type": "quote",
+   "text": "Yo soy lo que soy, y eso es todo lo que soy.",
+   "by": "Popeye el Marino",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "EP@30-380",
+   "SB@40-960"
+  ],
+  "label": "POPEYE · 1935",
+  "cap": "#7",
+  "txt": "Número siete. Popeye tuvo dos voces."
+ },
+ {
+  "src": "EP@30-380",
+  "label": "POPEYE · 1935",
+  "cap": "BILLY COSTELLO",
+  "txt": "Todo el mundo conoce la voz gruñona de Popeye. Casi nadie sabe que no era la original. La primera voz en el cine fue de William Billy Costello, un artista de vodevil. Según los relatos de la época, cuando el personaje se volvió una mina de oro, Costello empezó a pedir más dinero y más días libres, y los Fleischer lo despidieron.",
+  "fx": {
+   "type": "compare",
+   "title": "LAS VOCES DE POPEYE",
+   "left": [
+    "BILLY COSTELLO",
+    "1933-1935"
+   ],
+   "right": [
+    "JACK MERCER",
+    "DESDE 1935"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE · 1936",
+  "cap": "JACK MERCER",
+  "txt": "El reemplazo salió del mismo estudio. Jack Mercer era un intercalador, el que dibujaba los cuadros intermedios de la animación, y practicaba por su cuenta la voz de Popeye. Cuando el estudio necesitó a alguien con urgencia, le tocó a él, a partir de 1935. Mercer fue la voz de Popeye durante décadas, tanto que casi todos creían que siempre hubo una sola.",
+  "fx": {
+   "type": "counter",
+   "value": 40,
+   "prefix": "+",
+   "suffix": " AÑOS",
+   "label": "JACK MERCER, LA VOZ DE POPEYE",
+   "sub": "Del cine a la televisión",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "AB@50-1010",
+   "AL@50-1300"
+  ],
+  "label": "POPEYE · 1937",
+  "cap": "#6",
+  "txt": "Número seis. La gran mentira de la espinaca."
+ },
+ {
+  "src": [
+   "AL@50-1300",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE · 1939",
+  "cap": "EL PUNTO DECIMAL",
+  "txt": "Seguro has oído esta historia: un científico del siglo diecinueve se equivocó con un punto decimal al medir el hierro de la espinaca, la hizo parecer diez veces más nutritiva, y los creadores de Popeye se basaron en ese error. Es uno de los datos curiosos más repetidos sobre Popeye. Y según los investigadores que rastrearon su origen, es prácticamente inventado.",
+  "fx": {
+   "type": "compare",
+   "title": "¿POR QUÉ COMÍA ESPINACA?",
+   "left": [
+    "EL MITO",
+    "UN ERROR CON EL HIERRO"
+   ],
+   "right": [
+    "LA TIRA DE SEGAR",
+    "POR LAS VITAMINAS"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "AB@50-1010",
+   "SB@40-960"
+  ],
+  "label": "POPEYE · 1937",
+  "cap": "LA GALLINA",
+  "txt": "En las tiras de Segar, Popeye come espinaca por sus vitaminas, no por el hierro. Y hay un detalle que hasta los fanáticos olvidan: la espinaca ni siquiera fue su primera fuente de poder. Al principio, Popeye ganaba su fuerza y su suerte acariciando las plumas de una gallina mágica, llamada Bernice. La espinaca llegó después.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL PODER DE POPEYE",
+   "items": [
+    [
+     "1929",
+     "La gallina mágica Bernice"
+    ],
+    [
+     "DESPUÉS",
+     "Llega la espinaca"
+    ],
+    [
+     "AÑOS 30",
+     "Sube la venta de espinaca"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CG@25-390",
+   "FP@25-365"
+  ],
+  "label": "POPEYE · AÑOS 50",
+  "cap": "EUGENE THE JEEP",
+  "txt": "La tira de Segar también tenía personajes muy raros. Uno de ellos, de 1936, era Eugene the Jeep, un animal mágico de otra dimensión que solo decía jeep, jeep. Una de las teorías sobre el nombre del famoso vehículo militar de la Segunda Guerra Mundial, el jeep, es que los soldados lo bautizaron así por este personaje de Popeye.",
+  "fx": {
+   "type": "compare",
+   "title": "¿DE DÓNDE VIENE LA PALABRA JEEP?",
+   "left": [
+    "1936",
+    "EUGENE THE JEEP"
+   ],
+   "right": [
+    "AÑOS 40",
+    "EL JEEP MILITAR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "FP@25-365"
+  ],
+  "label": "POPEYE · 1936",
+  "cap": "#5",
+  "txt": "Número cinco. Un pueblo le hizo una estatua."
+ },
+ {
+  "src": [
+   "FP@25-365",
+   "SB@40-960"
+  ],
+  "label": "POPEYE FOR PRESIDENT · 1956",
+  "cap": "CRYSTAL CITY",
+  "txt": "Lo que sí es verdad es que la venta de espinaca subió mucho en los años treinta, y la propia industria le dio crédito a Popeye. En 1937, Crystal City, en Texas, que se hacía llamar la capital mundial de la espinaca, levantó una estatua en honor a Popeye. Todavía sigue ahí. Un marinero de caricatura cambió lo que las familias reales ponían en la mesa.",
+  "fx": {
+   "type": "map",
+   "title": "LA CAPITAL DE LA ESPINACA",
+   "countries": [
+    "United States of America",
+    "Mexico"
+   ],
+   "states": [
+    "Texas"
+   ],
+   "pins": [
+    {
+     "name": "CRYSTAL CITY · 1937",
+     "lon": -99.83,
+     "lat": 28.68
+    }
+   ],
+   "view": [
+    -108,
+    24,
+    -92,
+    35
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FP@25-365",
+   "SB@40-960"
+  ],
+  "label": "POPEYE · 1956",
+  "cap": "OLIVIA",
+  "txt": "Y un detalle sobre Olivia: en inglés se llama Olive Oyl, aceite de oliva, y su hermano Castor Oyl, aceite de ricino. Toda la familia tenía nombres de aceites. Olivia fue la protagonista de la tira durante diez años antes de que Popeye apareciera, y terminó siendo, para siempre, la novia del marinero."
+ },
+ {
+  "src": "SB@40-960",
+  "label": "POPEYE MEETS SINDBAD · 1936",
+  "cap": "#4",
+  "txt": "Número cuatro. Popeye contra Simbad."
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "AL@50-1300"
+  ],
+  "label": "POPEYE MEETS SINDBAD · 1936",
+  "cap": "TECHNICOLOR",
+  "txt": "En 1936, los Fleischer hicieron algo ambicioso: un especial de dos rollos, en Technicolor, donde Popeye se enfrenta a Simbad el marino. Usaron un invento propio, una mesa giratoria con escenografías de maqueta en tres dimensiones detrás de los dibujos, que daba una profundidad nunca vista. Fue nominada al Óscar al mejor cortometraje animado.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS DE LA ACADEMIA",
+   "date": "1937",
+   "headline": "POPEYE CONTRA SIMBAD, NOMINADA AL ÓSCAR",
+   "sub": "Mejor cortometraje animado",
+   "stamp": "NOMINADA",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "AB@50-1010",
+   "AL@50-1300"
+  ],
+  "label": "POPEYE · 1937 Y 1939",
+  "cap": "ALÍ BABÁ Y ALADINO",
+  "txt": "Le siguieron dos especiales más: Popeye contra Alí Babá y los cuarenta ladrones, en 1937, y Popeye y Aladino, en 1939. Hoy los tres son de dominio público, y se consideran de lo mejor de la animación de los años treinta, a la altura de lo que hacía Disney en esa época.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS ESPECIALES EN COLOR",
+   "items": [
+    [
+     "1936",
+     "Popeye contra Simbad"
+    ],
+    [
+     "1937",
+     "Popeye contra Alí Babá"
+    ],
+    [
+     "1939",
+     "Popeye y Aladino"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "AL@50-1300",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE · 1939",
+  "cap": "PILÓN",
+  "txt": "Otro personaje dejó huella fuera de las caricaturas: Wimpy, el glotón de las hamburguesas, al que en América Latina conocimos como Pilón. Su frase más famosa era: con gusto te pago el martes una hamburguesa que me des hoy. Y una cadena de hamburguesas fundada en Estados Unidos en los años treinta tomó su nombre: Wimpy, que después se volvió muy famosa en el Reino Unido.",
+  "fx": {
+   "type": "quote",
+   "text": "Con gusto te pago el martes la hamburguesa que me des hoy.",
+   "by": "Pilón (Wimpy), el amigo de Popeye",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "AL@50-1300",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE · 1939",
+  "cap": "#3",
+  "txt": "Número tres. Su creador casi no disfrutó el éxito."
+ },
+ {
+  "src": [
+   "AL@50-1300",
+   "SB@40-960"
+  ],
+  "label": "POPEYE · 1939",
+  "cap": "SEGAR",
+  "txt": "Para 1938, la tira se publicaba en unos quinientos periódicos, y había cientos de productos de Popeye en las tiendas. Pero Segar llevaba años enfermo, y el trece de octubre de 1938 murió, con apenas cuarenta y tres años. Su última tira se había publicado menos de dos semanas antes.",
+  "fx": {
+   "type": "counter",
+   "value": 43,
+   "suffix": " AÑOS",
+   "label": "E. C. SEGAR MURIÓ A LOS",
+   "sub": "13 de octubre de 1938",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "FP@25-365"
+  ],
+  "label": "POPEYE · 1936",
+  "cap": "KING FEATURES",
+  "txt": "Segar ganaba muy bien para un caricaturista de su época, pero los derechos del personaje eran de la agencia que distribuía la tira, King Features. Y fue esa empresa la que siguió cobrando por Popeye durante generaciones. La tira no murió con él: su asistente, Bud Sagendorf, dibujó a Popeye durante décadas, y la tira sigue publicándose hoy."
+ },
+ {
+  "src": [
+   "FP@25-365",
+   "NW@25-370"
+  ],
+  "label": "POPEYE · AÑOS 40",
+  "cap": "LA MARINA",
+  "txt": "Durante la Segunda Guerra Mundial, Popeye se enlistó en la Marina de Estados Unidos, y desde entonces apareció muchas veces con su uniforme blanco de marinero en lugar de su ropa de siempre. Sus caricaturas de guerra eran propaganda de la época, y algunas hoy se consideran ofensivas por cómo retrataban a los enemigos de Estados Unidos.",
+  "fx": {
+   "type": "compare",
+   "title": "EL UNIFORME DE POPEYE",
+   "left": [
+    "ANTES",
+    "CAMISA NEGRA Y GORRA"
+   ],
+   "right": [
+    "DESDE LOS 40",
+    "UNIFORME BLANCO"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FP@25-365",
+   "NW@25-370"
+  ],
+  "label": "POPEYE · AÑOS 50",
+  "cap": "#2",
+  "txt": "Número dos. Popeye en América Latina, y en Malta."
+ },
+ {
+  "src": [
+   "NW@25-370",
+   "CG@25-390"
+  ],
+  "label": "POPEYE · AÑOS 50",
+  "cap": "PILÓN Y COCOLISO",
+  "txt": "En 1942 el estudio se convirtió en Famous Studios, y Popeye siguió haciendo caricaturas durante años, que después llegaron a la televisión de todo el mundo. En América Latina crecimos con nombres propios: Wimpy, el de las hamburguesas, era Pilón. El bebé Swee'Pea era Cocoliso. Y el villano Bluto, en muchas caricaturas, se llamaba Brutus.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS NOMBRES EN ESPAÑOL",
+   "left": [
+    "WIMPY · SWEE'PEA",
+    "EN INGLÉS"
+   ],
+   "right": [
+    "PILÓN · COCOLISO",
+    "EN AMÉRICA LATINA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "MV@8-75",
+  "label": "POPEYE · 1980",
+  "cap": "MALTA",
+  "txt": "Y en 1980 llegó la película con actores: Popeye, dirigida por Robert Altman, con Robin Williams como el marinero y Shelley Duvall como Olivia. Para filmarla construyeron un pueblo entero de madera en la isla de Malta, en el mar Mediterráneo. La película no fue el éxito que esperaban, pero el pueblo sigue en pie: hoy es un parque temático llamado Popeye Village.",
+  "fx": {
+   "type": "map",
+   "title": "EL PUEBLO DE POPEYE EN MALTA",
+   "countries": [
+    "Malta",
+    "Italy"
+   ],
+   "pins": [
+    {
+     "name": "POPEYE VILLAGE · MALTA",
+     "lon": 14.34,
+     "lat": 35.96
+    }
+   ],
+   "view": [
+    10,
+    34,
+    18,
+    40
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "NW@25-370",
+   "CG@25-390"
+  ],
+  "label": "POPEYE · AÑOS 60",
+  "cap": "220 CARICATURAS",
+  "txt": "Y cuando las viejas caricaturas llegaron a la televisión en los años cincuenta, fueron un éxito tan grande que King Features encargó caricaturas nuevas a toda prisa: unas doscientas veinte, hechas por varios estudios entre 1960 y 1962. En ellas, el villano se llamaba Brutus, porque había dudas sobre quién tenía los derechos de Bluto. Por eso muchos crecimos con los dos nombres.",
+  "fx": {
+   "type": "counter",
+   "value": 220,
+   "suffix": " CARICATURAS",
+   "label": "HECHAS PARA LA TV",
+   "sub": "Entre 1960 y 1962",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "EP@30-380",
+   "PB@25-450"
+  ],
+  "label": "POPEYE · 1933",
+  "cap": "#1",
+  "txt": "Y número uno. Desde 2025, el Popeye original es de todos."
+ },
+ {
+  "src": [
+   "EP@30-380",
+   "SB@40-960"
+  ],
+  "label": "POPEYE · 1933",
+  "cap": "DOMINIO PÚBLICO",
+  "txt": "El primero de enero de 2025, el Popeye original pasó al dominio público en Estados Unidos. Según la ley, las obras de 1929 pierden su protección noventa y cinco años después de publicadas. Así que el Popeye de las tiras de 1929, con su pipa, su traje de marinero y sus anclas tatuadas, ahora le pertenece a todo el mundo.",
+  "fx": {
+   "type": "headline",
+   "paper": "ESTADOS UNIDOS",
+   "date": "1 DE ENERO DE 2025",
+   "headline": "EL POPEYE ORIGINAL PASA AL DOMINIO PÚBLICO",
+   "sub": "95 años después de su primera aparición",
+   "stamp": "LIBRE",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "AB@50-1010"
+  ],
+  "label": "POPEYE · 1936",
+  "cap": "LA LETRA PEQUEÑA",
+  "txt": "Pero hay letra pequeña. Solo es libre la versión de 1929. Otros personajes y rasgos que aparecieron después tienen sus propias fechas, y King Features sigue siendo dueña de la marca Popeye, así que nadie puede hacer pasar su obra por un producto oficial. Aun así, igual que pasó con Mickey Mouse y Winnie Pooh, cualquiera puede ya contar nuevas historias del marinero original.",
+  "fx": {
+   "type": "compare",
+   "title": "¿QUÉ ES LIBRE?",
+   "left": [
+    "EL POPEYE DE 1929",
+    "DOMINIO PÚBLICO"
+   ],
+   "right": [
+    "LA MARCA POPEYE",
+    "SIGUE PROTEGIDA"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FP@25-365",
+   "AL@50-1300"
+  ],
+  "label": "POPEYE · 1956",
+  "cap": "28 MILLONES",
+  "txt": "Y el marinero que nadie planeaba conservar terminó convertido en arte de lujo: en 2014, una escultura de Popeye del artista Jeff Koons se vendió en una subasta por unos veintiocho millones de dólares. Mucho más de lo que su creador ganó en toda su vida.",
+  "fx": {
+   "type": "counter",
+   "value": 28,
+   "prefix": "$",
+   "suffix": " MILLONES",
+   "label": "LA ESCULTURA DE POPEYE DE JEFF KOONS",
+   "sub": "Vendida en subasta en 2014",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "CG@25-390",
+   "FP@25-365"
+  ],
+  "label": "POPEYE · 1954",
+  "cap": "POPEYES",
+  "txt": "Y un último dato que confunde a mucha gente: la cadena de pollo frito Popeyes, fundada en Nueva Orleans en 1972, no se llama así por el marinero. Según la propia historia de la empresa, el nombre viene de Popeye Doyle, el detective de la película Contacto en Francia. Aunque durante años usó a Popeye el Marino en su publicidad.",
+  "fx": {
+   "type": "compare",
+   "title": "¿QUÉ POPEYE?",
+   "left": [
+    "EL POLLO POPEYES",
+    "POPEYE DOYLE, EL DETECTIVE"
+   ],
+   "right": [
+    "NO ES",
+    "POPEYE EL MARINO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SB@40-960",
+   "PB@25-450",
+   "AL@50-1300",
+   "FP@25-365"
+  ],
+  "label": "¿CUÁL NO SABÍAS?",
+  "cap": "¿CUÁL NO SABÍAS?",
+  "txt": "Un extra contratado para un solo viaje, con la cara de un peleador de pueblo, una voz que cambió por un pleito de dinero, una gallina mágica antes de la espinaca, y un creador que murió a los cuarenta y tres años. Esa es la verdadera historia de Popeye el Marino. ¿Cuál de estos secretos no sabías? Déjamelo en los comentarios, y suscríbete para más historias de las caricaturas clásicas."
+ }
+]

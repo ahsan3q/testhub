@@ -1,0 +1,683 @@
+[
+ {
+  "src": [
+   "BS",
+   "JM"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "",
+  "txt": "Una vez, una señora le reclamó a Billy Bob Thornton por arruinar el nombre de Santa Claus, de Jesús y de la Biblia con su película Santa Claus es un pillo. Él le respondió: señora, primero que nada, yo he leído la Biblia, y Santa Claus no sale ahí."
+ },
+ {
+  "src": [
+   "JM",
+   "SF"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "LA HONESTIDAD SALVAJE",
+  "txt": "Pregúntale a Billy Bob Thornton por Angelina Jolie, por su Óscar o por Santa Claus, y nunca vas a recibir la respuesta que esperabas. Hoy recorremos su vida, de un pueblo de Arkansas al Óscar y a Landman, a través de las veces que dijo exactamente lo que pensaba.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA CARRERA DE BILLY BOB",
+   "items": [
+    [
+     "1996",
+     "Sling Blade y el Óscar"
+    ],
+    [
+     "2003",
+     "Santa Claus es un pillo"
+    ],
+    [
+     "2014",
+     "Fargo"
+    ],
+    [
+     "2024",
+     "Landman"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "ML",
+   "SF"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "HOT SPRINGS",
+  "txt": "Nació en 1955 en Hot Springs, Arkansas, y creció en el sur rural de Estados Unidos. Su primera pasión no fue la actuación, sino la música: tocaba la batería en bandas de rock. Y con esa idea se fue a Los Ángeles, a intentar suerte como músico y como actor, sin dinero y sin contactos.",
+  "fx": {
+   "type": "map",
+   "title": "DE ARKANSAS A HOLLYWOOD",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Arkansas",
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "HOT SPRINGS · 1955",
+     "lon": -93.06,
+     "lat": 34.5
+    },
+    {
+     "name": "LOS ÁNGELES",
+     "lon": -118.24,
+     "lat": 34.05
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -125,
+    25,
+    -85,
+    45
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "ML",
+   "SF"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "SIN LUZ",
+  "txt": "Su infancia fue dura. Creció en una casa de campo sin electricidad ni agua corriente, en el sur de Arkansas. Su padre era maestro y entrenador de baloncesto, muy estricto, y su madre decía tener poderes psíquicos. De ahí viene parte de su humor seco y de esa forma de hablar sin adornos.",
+  "fx": {
+   "type": "list",
+   "title": "SU INFANCIA EN ARKANSAS",
+   "items": [
+    "Sin electricidad",
+    "Sin agua corriente",
+    "Un padre muy estricto",
+    "Una madre vidente"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JM",
+   "FA"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "TRES HOMBRES",
+  "txt": "Antes de Hollywood, la música: fue baterista y cantante en varias bandas, entre ellas una que tocaba canciones de ZZ Top, llamada Tres Hombres, como el disco del grupo. Su sueño era ser una estrella de rock, y nunca lo dejó del todo. Hasta hoy dice que es, antes que nada, un músico que también actúa."
+ },
+ {
+  "src": [
+   "JM",
+   "FA"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "BILLY WILDER",
+  "txt": "Mientras tanto, trabajaba de mesero. Y según su propia historia, una Navidad, sirviendo en una fiesta, un señor bajito con acento europeo le preguntó si quería ser actor. Le dijo que se olvidara de eso: que era demasiado feo para ser galán y demasiado guapo para ser actor de carácter. Que escribiera sus propios papeles. Ese señor era Billy Wilder, el director de Una Eva y dos Adanes.",
+  "fx": {
+   "type": "quote",
+   "text": "Eres muy feo para galán y muy guapo para actor de carácter. Escribe tus propios papeles.",
+   "by": "Billy Wilder, según Billy Bob Thornton",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "ML",
+   "ML"
+  ],
+  "label": "MATLOCK · 1986",
+  "cap": "MATLOCK",
+  "txt": "Uno de sus primeros trabajos en televisión fue una sola escena en la serie Matlock, cuyo protagonista era su héroe de la infancia, Andy Griffith. Según contaba, se acercó a decirle que él era la razón por la que se había hecho actor, y Griffith lo miró raro y se fue. Años después, ya amigos, le contó que había salido en un episodio. Griffith le preguntó cuál, y cuando se lo dijo, respondió: ah, odié ese episodio.",
+  "fx": {
+   "type": "compare",
+   "title": "NUNCA CONOZCAS A TUS ÍDOLOS",
+   "left": [
+    "AÑOS 80",
+    "UNA ESCENA EN MATLOCK"
+   ],
+   "right": [
+    "AÑOS DESPUÉS",
+    "AMIGOS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SF",
+   "SF"
+  ],
+  "label": "SOME FOLKS CALL IT A SLING BLADE · 1994",
+  "cap": "KARL CHILDERS",
+  "txt": "Hacía papeles pequeños que pagaban unos cientos de dólares al día. Y en uno de ellos, sudando dentro de un disfraz de lana, se vio en el espejo y pensó que nunca iba a lograrlo. Hizo una mueca de desprecio a sí mismo y empezó a hablar con una voz extraña. Esa cara y esa voz se convirtieron en Karl Childers, el personaje de su vida.",
+  "fx": {
+   "type": "photo",
+   "src": "SF@300",
+   "focus": [
+    0.5,
+    0.42
+   ],
+   "zoom": 1.6,
+   "label": "KARL CHILDERS",
+   "title": "NACIÓ FRENTE A UN ESPEJO",
+   "circle": false,
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SF",
+   "SB"
+  ],
+  "label": "SOME FOLKS CALL IT A SLING BLADE · 1994",
+  "cap": "EL CORTOMETRAJE",
+  "txt": "Karl apareció primero en 1994, en un cortometraje llamado Some Folks Call It a Sling Blade: un hombre con discapacidad intelectual que sale de un hospital psiquiátrico, donde estuvo desde niño por un crimen. Dos años después, Billy Bob escribió y dirigió la película completa, Sling Blade, con él mismo como Karl.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL NACIMIENTO DE KARL",
+   "items": [
+    [
+     "1994",
+     "El cortometraje"
+    ],
+    [
+     "1996",
+     "Sling Blade, la película"
+    ],
+    [
+     "1997",
+     "El Óscar"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SB",
+   "SF"
+  ],
+  "label": "SLING BLADE · 1996",
+  "cap": "EL ÓSCAR",
+  "txt": "Él contaba que la escribió a mano, porque no sabía escribir a máquina. En el reparto puso a Robert Duvall, al cantante de country Dwight Yoakam, y a John Ritter, el de Three's Company, con un corte de pelo ridículo. Y Sling Blade le dio el Óscar al mejor guion adaptado, y una nominación como mejor actor. Él decía que un día despertó y ya era millonario y famoso, y que eso lo asustó.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS DE LA ACADEMIA",
+   "date": "MARZO DE 1997",
+   "headline": "BILLY BOB THORNTON GANA EL ÓSCAR POR SLING BLADE",
+   "sub": "Mejor guion adaptado y nominado como mejor actor",
+   "stamp": "ÓSCAR",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "SB",
+   "SF"
+  ],
+  "label": "SLING BLADE · 1996",
+  "cap": "1 MILLÓN",
+  "txt": "Y los números de Sling Blade explican por qué cambió su vida. La película costó alrededor de un millón de dólares, una cantidad mínima para Hollywood, y recaudó más de veinte millones solo en Estados Unidos. Un guion escrito a mano, un personaje nacido frente a un espejo, y una película pequeña que terminó en los premios Óscar.",
+  "fx": {
+   "type": "bars",
+   "title": "SLING BLADE (1996)",
+   "items": [
+    [
+     "COSTÓ",
+     1
+    ],
+    [
+     "RECAUDÓ EN EE. UU.",
+     24
+    ]
+   ],
+   "prefix": "$",
+   "suffix": " MILLONES",
+   "note": "Cifras aproximadas",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SB",
+   "SF"
+  ],
+  "label": "SLING BLADE · 1996",
+  "cap": "LOS DIENTES",
+  "txt": "Y después vinieron las imitaciones. Todo el mundo le hacía la voz de Karl. Y a él no le hacía gracia: contó que había creado algo que significaba mucho para él, y de pronto vio que en las tiendas de regalos vendían dientes de plástico de Sling Blade. Le preguntaron si iba a irse a Hollywood a hacer películas de asteroides y volcanes. Respondió con sarcasmo que sí, que eso era lo siguiente."
+ },
+ {
+  "src": [
+   "SB",
+   "OF"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "MÉXICO",
+  "txt": "Y como director, Billy Bob también hizo una película muy ligada a México: Espíritu salvaje, del año 2000, basada en la novela de Cormac McCarthy, con Matt Damon y Penélope Cruz, sobre dos vaqueros texanos que cruzan la frontera en 1949. Fue una producción difícil, y el estudio recortó mucho su versión, algo que a él le dolió durante años.",
+  "fx": {
+   "type": "map",
+   "title": "ESPÍRITU SALVAJE (2000)",
+   "countries": [
+    "United States of America",
+    "Mexico"
+   ],
+   "states": [
+    "Texas"
+   ],
+   "pins": [
+    {
+     "name": "TEXAS",
+     "lon": -99.5,
+     "lat": 31
+    },
+    {
+     "name": "MÉXICO",
+     "lon": -104.5,
+     "lat": 26.5
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -112,
+    20,
+    -92,
+    36
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "AR",
+   "AR"
+  ],
+  "label": "ARMAGEDDON · 1998",
+  "cap": "ARMAGEDDON",
+  "txt": "Y un año después, efectivamente, estaba en Armagedón, una película sobre un asteroide. Su compañero Ben Affleck acababa de ganar el Óscar al mejor guion original por Good Will Hunting, junto con Matt Damon. Según contó Affleck, en el estreno Billy Bob lo felicitó así: ganaste el Óscar, ¿verdad? Bueno, te dan como medio Óscar, ¿no? Escribiste la mitad de la película.",
+  "fx": {
+   "type": "compare",
+   "title": "DOS GUIONISTAS CON ÓSCAR",
+   "left": [
+    "BILLY BOB",
+    "UN ÓSCAR ENTERO"
+   ],
+   "right": [
+    "BEN AFFLECK",
+    "MEDIO ÓSCAR (SEGÚN BILLY BOB)"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SP",
+   "OF"
+  ],
+  "label": "A SIMPLE PLAN · 1998",
+  "cap": "UN PLAN SIMPLE",
+  "txt": "Ese mismo año llegó otra nominación al Óscar, como actor de reparto, por Un plan simple, y después vinieron El hombre que nunca estuvo, Monster's Ball y muchas más. Su regla en el set era una sola: no ensayar hasta matar la escena. Quería que fuera natural, desordenada, real. Y no todos los actores podían seguirle el ritmo.",
+  "fx": {
+   "type": "timeline",
+   "title": "SUS NOMINACIONES AL ÓSCAR",
+   "items": [
+    [
+     "1997",
+     "Sling Blade: actor y guion (gana)"
+    ],
+    [
+     "1999",
+     "Un plan simple: actor de reparto"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "OF",
+   "OF2"
+  ],
+  "label": "ONE FALSE MOVE · 1992",
+  "cap": "ONE FALSE MOVE",
+  "txt": "Y no olvidemos de dónde venía todo: siguiendo el consejo de Billy Wilder, ya había coescrito One False Move, de 1992, un thriller criminal donde también actuaba. Esa película, pequeña y oscura, fue la que llamó la atención de la crítica y le abrió las puertas para hacer Sling Blade a su manera."
+ },
+ {
+  "src": [
+   "SP",
+   "OF"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "MONSTER'S BALL",
+  "txt": "En 2001 protagonizó Monster's Ball junto a Halle Berry, que ganó el Óscar a mejor actriz por esa película, la primera mujer negra en lograrlo. Y en 2003 tuvo un papel que muchos olvidan: fue el presidente de Estados Unidos en Realmente amor, la comedia romántica navideña, el que termina enfrentado con el primer ministro británico interpretado por Hugh Grant.",
+  "fx": {
+   "type": "timeline",
+   "title": "2001 A 2004",
+   "items": [
+    [
+     "2001",
+     "Monster's Ball"
+    ],
+    [
+     "2003",
+     "Realmente amor"
+    ],
+    [
+     "2003",
+     "Santa Claus es un pillo"
+    ],
+    [
+     "2004",
+     "El Álamo"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "JM",
+   "FA"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "ANGELINA JOLIE",
+  "txt": "En 1999, en la película Pushing Tin, conoció a Angelina Jolie. Se casaron en el año 2000, usaban collares con una gota de sangre del otro, y se divorciaron en 2003. Era su quinto matrimonio. Pero cuando le preguntan por ella hoy, no hay drama: dice que la quiere, que es una gran persona y una gran artista, y que su tiempo juntos fue fantástico.",
+  "fx": {
+   "type": "counter",
+   "value": 5,
+   "suffix": "ª ESPOSA",
+   "label": "ANGELINA JOLIE",
+   "sub": "Casados de 2000 a 2003",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "FA",
+   "JM"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "EL HOTEL",
+  "txt": "Y sobre sus divorcios tiene un chiste que, según él, no es del todo chiste: cada vez que se divorciaba, se iba a vivir al hotel Sunset Marquis de Los Ángeles. Le preguntaron cuántas veces había vivido ahí. Tres o cuatro, respondió. También es famoso por sus fobias: ha contado que le dan miedo los muebles antiguos.",
+  "fx": {
+   "type": "quote",
+   "text": "Cada vez que me divorciaba, me iba a vivir al Sunset Marquis.",
+   "by": "Billy Bob Thornton",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "BS",
+   "BS2"
+  ],
+  "label": "BAD SANTA · 2003",
+  "cap": "SANTA CLAUS ES UN PILLO",
+  "txt": "En 2003 hizo Santa Claus es un pillo: un ladrón borracho y grosero disfrazado de Santa. Algunos dijeron que era una elección muy valiente para un actor con Óscar. A él no le gustó la palabra: dijo que valiente es ver que atacan a alguien en un parque y meterse a defenderlo, no hacer algo raro en medio de una escena.",
+  "fx": {
+   "type": "quote",
+   "text": "Valiente es defender a alguien en un parque. No hacer algo raro en una escena.",
+   "by": "Billy Bob Thornton, sobre Santa Claus es un pillo",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "BS2",
+   "B2"
+  ],
+  "label": "BAD SANTA · 2003",
+  "cap": "MI TRAJE",
+  "txt": "La película se volvió un clásico navideño para adultos, y tuvo secuela en 2016. Y desde entonces, cada diciembre, siente que el traje de Santa es un poco suyo. Ha bromeado con que, cuando ve a otros Santas en la calle, piensa: oigan, un momento, ese es mi uniforme."
+ },
+ {
+  "src": [
+   "BS2",
+   "BS"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "EL ÁLAMO",
+  "txt": "Y en 2004 interpretó a otro personaje histórico: Davy Crockett, en la película El Álamo, sobre la batalla de 1836 entre los colonos texanos y el ejército mexicano del general Santa Anna. La película fue un fracaso de taquilla, pero los críticos coincidieron en algo: el mejor de la película era su Davy Crockett, más humano y menos legendario.",
+  "fx": {
+   "type": "map",
+   "title": "EL ÁLAMO · 1836",
+   "countries": [
+    "United States of America",
+    "Mexico"
+   ],
+   "states": [
+    "Texas"
+   ],
+   "pins": [
+    {
+     "name": "SAN ANTONIO · EL ÁLAMO",
+     "lon": -98.49,
+     "lat": 29.43
+    }
+   ],
+   "view": [
+    -108,
+    22,
+    -90,
+    36
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JM",
+   "FA"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "THE BOXMASTERS",
+  "txt": "Nunca dejó la música. Con su banda, The Boxmasters, ha grabado muchos discos. Y en 2009, en una entrevista en una radio de Canadá, el conductor lo presentó hablando de su carrera de actor, cuando él había pedido que solo hablaran de la banda. Billy Bob empezó a responder con monosílabos y frases sin sentido. La entrevista se volvió famosa como una de las más incómodas de la radio.",
+  "fx": {
+   "type": "headline",
+   "paper": "RADIO · CANADÁ",
+   "date": "ABRIL DE 2009",
+   "headline": "LA ENTREVISTA MÁS INCÓMODA DE BILLY BOB THORNTON",
+   "sub": "Pidió hablar de su banda, no de sus películas",
+   "stamp": "INCÓMODO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "FA",
+   "JM"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "FARGO",
+  "txt": "Y entonces llegó la televisión. En 2014 interpretó a Lorne Malvo, un asesino tranquilo y aterrador, en la serie Fargo. Ganó el Globo de Oro y tuvo su primera nominación al Emmy. Cuentan sus compañeros que, en la primera rueda de prensa, cuando vio el orden de las sillas, fingió estar ofendido por no ir primero, y cuando el ejecutivo de la cadena ya iba a cambiar todo, le dijo: es broma.",
+  "fx": {
+   "type": "bars",
+   "title": "SUS GLOBOS DE ORO EN TV",
+   "items": [
+    [
+     "FARGO (2015)",
+     1
+    ],
+    [
+     "GOLIATH (2017)",
+     1
+    ]
+   ],
+   "suffix": "",
+   "note": "Además del Óscar por Sling Blade",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FA",
+   "JM"
+  ],
+  "label": "FARGO · 2014",
+  "cap": "LORNE MALVO",
+  "txt": "Lorne Malvo era un asesino a sueldo que llegaba a un pueblo helado de Minnesota y destruía la vida de todos con preguntas inocentes y una calma perturbadora. Muchos críticos lo consideran uno de los mejores villanos de la televisión moderna. Y Billy Bob lo hizo con lo que mejor sabe hacer: decir cosas terribles con la voz más tranquila del mundo, sin levantar nunca el tono.",
+  "fx": {
+   "type": "map",
+   "title": "EL MUNDO DE FARGO",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Minnesota"
+   ],
+   "pins": [
+    {
+     "name": "BEMIDJI, MINNESOTA",
+     "lon": -94.88,
+     "lat": 47.47
+    }
+   ],
+   "view": [
+    -100,
+    42,
+    -86,
+    50
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JM",
+   "FA"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "GOLIATH",
+  "txt": "Después vino Goliath, en Amazon, como un abogado caído en desgracia, que duró cuatro temporadas y le dio otro Globo de Oro. Y también sabe qué papeles no son para él: le ofrecieron interpretar a Richard Nixon y dijo que no, porque sería una imitación. Y para el entrenador Vince Lombardi, dijo que necesitaban a alguien más bajo, ancho e italiano, no a un campesino flaco como él.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS PAPELES QUE RECHAZÓ",
+   "left": [
+    "RICHARD NIXON",
+    "SERÍA UNA IMITACIÓN"
+   ],
+   "right": [
+    "VINCE LOMBARDI",
+    "NO SOY EL TIPO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "FA",
+   "JM"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "RINGO STARR",
+  "txt": "Y la lección de nunca conocer a tus ídolos la aplicó con Ringo Starr. Su banda quería saber cómo se había logrado un sonido de un viejo disco de los Beatles, y solo Ringo lo sabía. En lugar de llamarlo, Billy Bob le pidió a su amigo Joe Walsh, cuñado de Ringo, que le preguntara. Cuando Walsh por fin le trajo la respuesta, Billy Bob lo interrumpió con una sola pregunta: ¿y por qué no me llamó Ringo?",
+  "fx": {
+   "type": "compare",
+   "title": "EL MENSAJERO",
+   "left": [
+    "JOE WALSH",
+    "CUÑADO DE RINGO"
+   ],
+   "right": [
+    "RINGO STARR",
+    "EL QUE SABÍA LA RESPUESTA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SB",
+   "SF"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "ROBERT DUVALL",
+  "txt": "Robert Duvall fue su mentor. Interpretó a su padre en Sling Blade y trabajaron juntos en varias películas. Duvall murió en febrero de 2026, a los noventa y cinco años. Y Billy Bob cuenta que el mejor consejo que le dio no tenía nada que ver con actuar: en cada película, al menos una vez, tienes que dejarle claro al director con quién está hablando.",
+  "fx": {
+   "type": "quote",
+   "text": "En cada película, al menos una vez, déjale claro al director con quién está hablando.",
+   "by": "Robert Duvall a Billy Bob Thornton",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "B2",
+   "JM"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "LANDMAN",
+  "txt": "Y entonces apareció Taylor Sheridan, el creador de Yellowstone. Primero le dio un papel pequeño en el western 1883. Y después, según contó Sheridan, le propuso una serie en una sola frase: voy a tomar a Santa Claus es un pillo, ponerlo en el oeste de Texas, y darle una empresa petrolera. Billy Bob dijo que sí. Así nació Landman, que se volvió un éxito mundial.",
+  "fx": {
+   "type": "map",
+   "title": "EL MUNDO DE LANDMAN",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Texas"
+   ],
+   "pins": [
+    {
+     "name": "OESTE DE TEXAS",
+     "lon": -102.08,
+     "lat": 31.99
+    },
+    {
+     "name": "FORT WORTH",
+     "lon": -97.33,
+     "lat": 32.75
+    }
+   ],
+   "view": [
+    -108,
+    25,
+    -92,
+    37
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "JM",
+   "B2"
+  ],
+  "label": "BILLY BOB THORNTON",
+  "cap": "SAM ELLIOTT",
+  "txt": "Para la segunda temporada, Sheridan eligió al actor que haría del padre de su personaje: Sam Elliott, su ídolo desde los años ochenta. Billy Bob contó que cuando se enteró, se lo dijo a su esposa y se puso a llorar de emoción. Y bromeó: por lo menos se lo dije a mi esposa, y no a una señora cualquiera en la tienda.",
+  "fx": {
+   "type": "compare",
+   "title": "LANDMAN, TEMPORADA 2",
+   "left": [
+    "BILLY BOB THORNTON",
+    "TOMMY NORRIS"
+   ],
+   "right": [
+    "SAM ELLIOTT",
+    "SU PADRE"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SF",
+   "BS",
+   "JM",
+   "SB"
+  ],
+  "label": "¿CUÁL FUE LA MEJOR?",
+  "cap": "¿CUÁL FUE LA MEJOR?",
+  "txt": "De mesero en Los Ángeles a un Óscar, de Karl Childers al Santa más grosero del cine, y de Fargo a Landman. Cuarenta años de preguntas, inteligentes o no, y todavía responde cada una a su manera. ¿Cuál es la respuesta más salvaje de Billy Bob Thornton que conoces? Déjamela en los comentarios, y suscríbete para más leyendas que nunca aprendieron a quedarse calladas."
+ }
+]

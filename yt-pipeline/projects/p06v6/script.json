@@ -1,0 +1,781 @@
+[
+ {
+  "src": [
+   "CN@150-1320",
+   "TH@75-480"
+  ],
+  "label": "COMIDA ASIÁTICA",
+  "cap": "",
+  "txt": "Decir comida asiática es como decir comida americana y meter en el mismo plato tacos, asado argentino y hamburguesas. Asia tiene decenas de cocinas completamente distintas, y cada una tiene su propia lógica: una se basa en el fuego, otra en un caldo invisible, otra en fermentar durante meses."
+ },
+ {
+  "src": [
+   "JP@540-790",
+   "KR2@10-490"
+  ],
+  "label": "COMIDA ASIÁTICA",
+  "cap": "9 COCINAS EXPLICADAS",
+  "txt": "Hoy te explico nueve cocinas de Asia: qué las hace únicas, sus platos más famosos, y algunas historias que te van a sorprender. Como el ingrediente picante que hoy define a media Asia, y que en realidad llegó desde América.",
+  "fx": {
+   "type": "map",
+   "title": "9 COCINAS DE ASIA",
+   "countries": [
+    "China",
+    "Japan",
+    "South Korea",
+    "Taiwan",
+    "Vietnam",
+    "Thailand",
+    "Philippines",
+    "Indonesia",
+    "Malaysia"
+   ],
+   "view": [
+    88,
+    -12,
+    146,
+    46
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "MY@50-1990",
+   "MY3@190-360"
+  ],
+  "label": "MALASIA Y SINGAPUR",
+  "cap": "#9",
+  "txt": "Número nueve. Malasia y Singapur."
+ },
+ {
+  "src": [
+   "MY3@190-360",
+   "MY2@0-90"
+  ],
+  "label": "MALASIA Y SINGAPUR",
+  "cap": "LA PELEA ETERNA",
+  "txt": "Dos países que comparten casi los mismos platos, en la misma península, y que te van a decir, mirándote a los ojos, que el otro los hace mal. Los dos son una mezcla de tres tradiciones: la malaya, la china y la india, que chocaron y se fusionaron durante siglos de comercio en el estrecho de Malaca.",
+  "fx": {
+   "type": "map",
+   "title": "EL ESTRECHO DE MALACA",
+   "countries": [
+    "Malaysia",
+    "Singapore",
+    "Indonesia"
+   ],
+   "pins": [
+    {
+     "name": "KUALA LUMPUR",
+     "lon": 101.69,
+     "lat": 3.14
+    },
+    {
+     "name": "SINGAPUR",
+     "lon": 103.82,
+     "lat": 1.35
+    }
+   ],
+   "view": [
+    94,
+    -6,
+    112,
+    9
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "MY2@0-90",
+   "MY@50-1990"
+  ],
+  "label": "MALASIA Y SINGAPUR",
+  "cap": "LAKSA",
+  "txt": "El laksa es una sopa de fideos con curry y leche de coco que existe en los dos países: en Malasia suele ser más espesa y especiada, en Singapur, más ligera. El arroz con pollo de Hainan, pollo hervido con arroz cocinado en su grasa, lo reclaman los dos. Y en 2020, la UNESCO reconoció la cultura de los puestos de comida callejera de Singapur como patrimonio cultural inmaterial de la humanidad.",
+  "fx": {
+   "type": "headline",
+   "paper": "UNESCO · 2020",
+   "date": "DICIEMBRE DE 2020",
+   "headline": "LOS PUESTOS CALLEJEROS DE SINGAPUR, PATRIMONIO DE LA HUMANIDAD",
+   "sub": "La cultura hawker",
+   "stamp": "UNESCO",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "MY@50-1990",
+   "MY3@190-360"
+  ],
+  "label": "MALASIA Y SINGAPUR",
+  "cap": "FISH HEAD CURRY",
+  "txt": "Y hay un plato que resume perfectamente esa mezcla: el curry de cabeza de pescado. Sí, cabeza de pescado, normalmente de pargo rojo, cocinada en un curry con tamarindo, leche de coco y especias de la India, hasta que la carne se desprende del hueso. Se volvió popular a mediados del siglo veinte, y hoy es un emblema de los dos países. No pertenece a una sola tradición: pertenece a todas, que es exactamente lo que son Malasia y Singapur.",
+  "fx": {
+   "type": "list",
+   "title": "TRES COCINAS EN UN PLATO",
+   "items": [
+    "Curry de la India",
+    "Tamarindo y coco malayos",
+    "Técnica china"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "ID2@10-300",
+  "label": "INDONESIA",
+  "cap": "#8",
+  "txt": "Número ocho. Indonesia."
+ },
+ {
+  "src": [
+   "ID3@30-1050",
+   "ID2@10-300"
+  ],
+  "label": "BALI · 1955",
+  "cap": "LAS ISLAS DE LAS ESPECIAS",
+  "txt": "Hace quinientos años, los imperios europeos fueron a la guerra por ingredientes que una cocinera indonesia hoy muele en su cocina cualquier martes. La nuez moscada y el clavo solo crecían en las islas Molucas, en Indonesia, y valían una fortuna en Europa. Portugueses, españoles, holandeses e ingleses pelearon por ellas durante siglos.",
+  "fx": {
+   "type": "map",
+   "title": "LAS ISLAS DE LAS ESPECIAS",
+   "countries": [
+    "Indonesia"
+   ],
+   "pins": [
+    {
+     "name": "ISLAS MOLUCAS",
+     "lon": 128.0,
+     "lat": -3.2
+    },
+    {
+     "name": "YAKARTA",
+     "lon": 106.85,
+     "lat": -6.2
+    }
+   ],
+   "route": [
+    1,
+    0
+   ],
+   "view": [
+    94,
+    -12,
+    142,
+    8
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "ID2@10-300",
+  "label": "INDONESIA",
+  "cap": "MANHATTAN",
+  "txt": "Y hay un dato increíble. La pequeña isla de Run, en las Molucas, era tan valiosa por su nuez moscada que, en 1667, los holandeses aceptaron quedársela a cambio de dejarle a Inglaterra otra colonia en Norteamérica: Nueva Ámsterdam, la isla que hoy conocemos como Manhattan.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CAMBIO DE 1667",
+   "left": [
+    "HOLANDA SE QUEDA",
+    "LA ISLA DE RUN"
+   ],
+   "right": [
+    "INGLATERRA SE QUEDA",
+    "MANHATTAN"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "ID2@10-300",
+  "label": "INDONESIA",
+  "cap": "BUMBU",
+  "txt": "La cocina indonesia se basa en el bumbu, pastas de especias hechas moliendo chalotas, ajo, cúrcuma, cilantro y nueces. Se fríen primero en aceite, y todo lo demás viene después. Su plato nacional es el nasi goreng, arroz frito con salsa de soya dulce y sambal, una pasta de chile. Y el rendang, carne cocinada en leche de coco y especias durante horas, hasta que la salsa se absorbe por completo. Y el satay, brochetas a la parrilla con salsa de cacahuate. Un detalle: el cacahuate, igual que el chile, es una planta originaria de América.",
+  "fx": {
+   "type": "list",
+   "title": "LOS CLÁSICOS DE INDONESIA",
+   "items": [
+    "Nasi goreng",
+    "Rendang",
+    "Satay",
+    "Sambal"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "PH3@130-700",
+  "label": "FILIPINAS",
+  "cap": "#7",
+  "txt": "Número siete. Filipinas, la cocina asiática con nombres en español."
+ },
+ {
+  "src": [
+   "PH2@100-740",
+   "PH3@130-700"
+  ],
+  "label": "MANILA · AÑOS 60",
+  "cap": "333 AÑOS",
+  "txt": "Filipinas fue colonia española durante más de trescientos años, y se nota en la mesa: adobo, lechón, menudo, empanada, leche flan. Y durante dos siglos y medio, los galeones de Manila cruzaron el Pacífico entre Manila y Acapulco, en México, intercambiando productos entre Asia y América. Así llegaron a Filipinas ingredientes americanos, y a México, productos de Asia.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL GALEÓN DE MANILA",
+   "items": [
+    [
+     "1565",
+     "Primer viaje Manila–Acapulco"
+    ],
+    [
+     "1565-1815",
+     "250 años de comercio"
+    ],
+    [
+     "1898",
+     "Termina la colonia española"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "PH3@130-700",
+  "label": "FILIPINAS",
+  "cap": "ADOBO",
+  "txt": "Mientras sus vecinos cocinan con chile y leche de coco, Filipinas tomó otro camino: el vinagre. Su cocina es ácida y salada, con vinagre, calamansi, un cítrico pequeño, salsa de soya y pasta de camarón. El plato nacional es el adobo: carne cocinada a fuego lento en vinagre y soya. Los filipinos ya cocinaban así antes de que llegaran los españoles; fueron ellos quienes le pusieron ese nombre, por su parecido con el adobo de España.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ADOBO",
+   "left": [
+    "LA TÉCNICA",
+    "FILIPINA, PRECOLONIAL"
+   ],
+   "right": [
+    "EL NOMBRE",
+    "ESPAÑOL"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "PH3@130-700",
+  "label": "FILIPINAS",
+  "cap": "BALUT",
+  "txt": "El lechón, un cerdo entero asado con la piel crujiente, es el centro de cualquier fiesta. Y luego está el balut: un huevo de pato fertilizado que se hierve cuando el embrión ya se está desarrollando. Se rompe, se toma el caldo de adentro, y se come todo. Para muchos extranjeros es un reto; para los filipinos, una botana de la calle de toda la vida."
+ },
+ {
+  "src": [
+   "TH@75-480",
+   "TH2@170-1060"
+  ],
+  "label": "TAILANDIA",
+  "cap": "#6",
+  "txt": "Número seis. Tailandia."
+ },
+ {
+  "src": [
+   "TH2@170-1060",
+   "TH3@15-600"
+  ],
+  "label": "TAILANDIA",
+  "cap": "LOS 4 SABORES",
+  "txt": "La mayoría de las cocinas eligen un camino: salado, dulce, ácido o picante. La tailandesa los mete los cuatro en el mismo plato, y de alguna forma todos ganan. Todo empieza con pastas de curry machacadas a mano: hierba limón, galanga, hojas de lima kaffir y chiles frescos. La leche de coco suaviza el picante y le da cuerpo.",
+  "fx": {
+   "type": "bars",
+   "title": "EL EQUILIBRIO TAILANDÉS",
+   "items": [
+    [
+     "SALADO",
+     4
+    ],
+    [
+     "DULCE",
+     4
+    ],
+    [
+     "ÁCIDO",
+     4
+    ],
+    [
+     "PICANTE",
+     4
+    ]
+   ],
+   "suffix": "",
+   "note": "Los cuatro sabores en el mismo plato",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "TH3@15-600",
+   "TH@75-480"
+  ],
+  "label": "TAILANDIA",
+  "cap": "PAD THAI",
+  "txt": "El pad thai, fideos de arroz salteados con huevo, brotes de soya y salsa de tamarindo, parece un plato antiquísimo. Pero su fama tiene una historia política: en los años treinta y cuarenta, el gobierno tailandés lo promovió como plato nacional, para unir al país y reducir el consumo de arroz. También son famosos el curry verde y la ensalada de papaya verde, el som tam.",
+  "fx": {
+   "type": "headline",
+   "paper": "TAILANDIA · AÑOS 40",
+   "date": "AÑOS 30 Y 40",
+   "headline": "EL GOBIERNO CONVIERTE AL PAD THAI EN PLATO NACIONAL",
+   "sub": "Una campaña para unir al país",
+   "stamp": "OFICIAL",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "TH2@170-1060",
+   "TH@75-480"
+  ],
+  "label": "TAILANDIA",
+  "cap": "INSECTOS",
+  "txt": "Y Tailandia tiene una de las industrias de insectos comestibles más grandes del mundo. Grillos fritos, gusanos de seda y escorpiones se venden en la calle como aquí se venden cacahuates. Son baratos, tienen mucha proteína, y su sabor, dicen, es crujiente y parecido al de las nueces. Para los mexicanos que comen chapulines, no es tan extraño."
+ },
+ {
+  "src": [
+   "VN@100-670",
+   "VN2@0-262"
+  ],
+  "label": "VIETNAM",
+  "cap": "#5",
+  "txt": "Número cinco. Vietnam."
+ },
+ {
+  "src": [
+   "VN2@0-262",
+   "VN@100-670"
+  ],
+  "label": "VIETNAM",
+  "cap": "PHO",
+  "txt": "Como Japón, Vietnam prefiere lo limpio y ligero: nada de aceites pesados ni curris espesos. Su base son caldos claros de hueso, cocinados durante horas, y un plato lleno de hierbas frescas que cada quien agrega en la mesa. El pho es el ejemplo perfecto: caldo de res o pollo con cebolla y jengibre tostados, fideos de arroz, y la salsa de pescado dándole profundidad.",
+  "fx": {
+   "type": "map",
+   "title": "EL ORIGEN DEL PHO",
+   "countries": [
+    "Vietnam"
+   ],
+   "pins": [
+    {
+     "name": "HANÓI",
+     "lon": 105.85,
+     "lat": 21.03
+    },
+    {
+     "name": "CIUDAD HO CHI MINH",
+     "lon": 106.63,
+     "lat": 10.82
+    }
+   ],
+   "view": [
+    98,
+    7,
+    114,
+    24
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "VN@100-670",
+   "VN2@0-262"
+  ],
+  "label": "VIETNAM",
+  "cap": "BANH MI",
+  "txt": "Y luego está el banh mi: una baguette francesa, herencia de la época colonial, rellena de verduras encurtidas vietnamitas, paté, cilantro y la proteína que quieras. En teoría no debería funcionar. En la práctica, es uno de los mejores sándwiches del mundo. Los cocineros vietnamitas tomaron algo que les dejó la colonia y lo hicieron suyo.",
+  "fx": {
+   "type": "compare",
+   "title": "EL BANH MI",
+   "left": [
+    "DE FRANCIA",
+    "LA BAGUETTE, EL PATÉ"
+   ],
+   "right": [
+    "DE VIETNAM",
+    "ENCURTIDOS, HIERBAS, CHILE"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "VN@100-670",
+   "VN2@0-262"
+  ],
+  "label": "VIETNAM",
+  "cap": "BÚN CHẢ",
+  "txt": "Y otro clásico de Hanói es el bún chả: carne de cerdo a la parrilla, servida con fideos de arroz, hierbas y un caldo ligeramente dulce para mojar. En 2016 se hizo famoso en todo el mundo cuando el presidente Barack Obama y el chef Anthony Bourdain lo comieron juntos en un pequeño local de Hanói, sentados en banquitos de plástico, por unos pocos dólares.",
+  "fx": {
+   "type": "headline",
+   "paper": "HANÓI · 2016",
+   "date": "MAYO DE 2016",
+   "headline": "OBAMA Y BOURDAIN COMEN BÚN CHẢ EN HANÓI",
+   "sub": "En banquitos de plástico, por unos pocos dólares",
+   "stamp": "HANÓI",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "TW@100-1330",
+   "TW2@100-1190"
+  ],
+  "label": "TAIWÁN",
+  "cap": "#4",
+  "txt": "Número cuatro. Taiwán."
+ },
+ {
+  "src": [
+   "TW@100-1330",
+   "TW2@100-1190"
+  ],
+  "label": "TAIWÁN",
+  "cap": "LOS PUESTOS",
+  "txt": "En Taiwán la comida callejera no es un complemento: es la identidad. No vas a un restaurante, vas a un puesto del mercado nocturno, comes de pie, y le compras a alguien que lleva veinte años haciendo el mismo plato. La cocina taiwanesa se basa en estofar: soya, vino de arroz, aceite de ajonjolí y cinco especias, hasta que la carne se deshace.",
+  "fx": {
+   "type": "map",
+   "title": "LOS MERCADOS NOCTURNOS",
+   "countries": [
+    "Taiwan"
+   ],
+   "pins": [
+    {
+     "name": "TAIPÉI",
+     "lon": 121.56,
+     "lat": 25.03
+    }
+   ],
+   "view": [
+    116,
+    20,
+    126,
+    27.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "TW2@100-1190",
+   "TW@100-1330"
+  ],
+  "label": "TAIWÁN",
+  "cap": "SOPA DE RES",
+  "txt": "Su plato nacional no oficial es la sopa de fideos con res: caldo estofado con cinco especias y chile, fideos y carne que se deshace en la boca. Muchos la relacionan con los soldados y familias que llegaron de China continental después de 1949. Y Taiwán le dio al mundo otro invento de los años ochenta: el té de burbujas, con perlas de tapioca.",
+  "fx": {
+   "type": "timeline",
+   "title": "TAIWÁN EN LA MESA",
+   "items": [
+    [
+     "1949",
+     "Llegan cocinas de toda China"
+    ],
+    [
+     "AÑOS 80",
+     "Nace el té de burbujas"
+    ],
+    [
+     "HOY",
+     "Mercados nocturnos famosos"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "KR@180-6300",
+   "KR2@10-490"
+  ],
+  "label": "COREA",
+  "cap": "#3",
+  "txt": "Número tres. Corea."
+ },
+ {
+  "src": "KR@180-6300",
+  "label": "COREA",
+  "cap": "JANG",
+  "txt": "La cocina coreana no depende de un wok ardiente ni de un caldo delicado. Depende del jang, pastas fermentadas que son la columna de casi todo. El gochujang es una pasta picante de chile. El doenjang es una pasta de soya fermentada. Están en guisos, marinados y guarniciones, y si los quitas, la cocina entera se cae.",
+  "fx": {
+   "type": "compare",
+   "title": "LAS DOS PASTAS DE COREA",
+   "left": [
+    "GOCHUJANG",
+    "CHILE FERMENTADO"
+   ],
+   "right": [
+    "DOENJANG",
+    "SOYA FERMENTADA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "KR@180-6300",
+   "KR2@10-490"
+  ],
+  "label": "COREA",
+  "cap": "KIMCHI",
+  "txt": "Y el kimchi no es solo una guarnición: es el sabor base de Corea. Hay más de doscientas variedades, y en 2013 la UNESCO reconoció el kimjang, la tradición de preparar kimchi en familia para el invierno, como patrimonio de la humanidad. Pero aquí viene lo sorprendente: durante siglos, el kimchi no era picante.",
+  "fx": {
+   "type": "counter",
+   "value": 200,
+   "prefix": "+",
+   "suffix": " TIPOS",
+   "label": "DE KIMCHI",
+   "sub": "El kimjang, patrimonio de la UNESCO desde 2013",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": "KR@180-6300",
+  "label": "COREA",
+  "cap": "EL CHILE AMERICANO",
+  "txt": "El chile es una planta de América. Llegó a Asia en el siglo dieciséis, con los comerciantes portugueses y españoles, y a Corea alrededor de finales de ese siglo. Solo después el kimchi se volvió rojo y picante. Lo mismo pasó con la comida de Sichuan, la tailandesa y la de media Asia: su picante, en el fondo, viene del mismo continente que el chile jalapeño.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL VIAJE DEL CHILE",
+   "items": [
+    [
+     "ANTES DE 1492",
+     "Solo existe en América"
+    ],
+    [
+     "SIGLO XVI",
+     "Llega a Asia en barcos europeos"
+    ],
+    [
+     "FINALES DEL XVI",
+     "Llega a Corea"
+    ],
+    [
+     "DESPUÉS",
+     "El kimchi se vuelve rojo"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "KR@180-6300",
+   "KR2@10-490"
+  ],
+  "label": "COREA",
+  "cap": "BULGOGI",
+  "txt": "Entre sus platos más famosos están el bulgogi, carne de res marinada en soya, pera y ajonjolí y asada al carbón; el kimchi jjigae, un guiso donde el kimchi es el ingrediente principal; y el tteokbokki, pastelitos de arroz chiclosos en salsa de gochujang, la comida callejera que hizo que medio mundo probara la cocina coreana."
+ },
+ {
+  "src": [
+   "JP@540-790",
+   "JP3@0-880"
+  ],
+  "label": "JAPÓN",
+  "cap": "#2",
+  "txt": "Número dos. Japón."
+ },
+ {
+  "src": [
+   "JP2@30-1390",
+   "JP@540-790"
+  ],
+  "label": "JAPÓN",
+  "cap": "DASHI",
+  "txt": "Toda la cocina japonesa se apoya en un caldo hecho con solo dos ingredientes: alga kombu y hojuelas de bonito seco. Se llama dashi, y es la base invisible debajo de casi todo. La filosofía es la contraria a la china: los buenos ingredientes no necesitan transformarse, necesitan respeto. En 2013, la UNESCO también reconoció la cocina tradicional japonesa, el washoku, como patrimonio de la humanidad.",
+  "fx": {
+   "type": "compare",
+   "title": "EL DASHI",
+   "left": [
+    "KOMBU",
+    "ALGA"
+   ],
+   "right": [
+    "KATSUOBUSHI",
+    "BONITO SECO"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "JP@540-790",
+   "JP4@10-610"
+  ],
+  "label": "JAPÓN",
+  "cap": "SUSHI",
+  "txt": "El sushi empezó como una forma de conservar pescado, fermentándolo con arroz durante meses. El sushi que conocemos hoy, el nigiri, nació en el siglo diecinueve en Edo, la actual Tokio, como comida rápida que se vendía en puestos callejeros. Y en el sushi, la calidad del arroz importa tanto como la del pescado.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA HISTORIA DEL SUSHI",
+   "items": [
+    [
+     "ANTES",
+     "Pescado fermentado con arroz"
+    ],
+    [
+     "SIGLO XIX",
+     "Nigiri en los puestos de Edo"
+    ],
+    [
+     "HOY",
+     "Una de las comidas más famosas"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "JP4@10-610",
+   "JP2@30-1390"
+  ],
+  "label": "JAPÓN",
+  "cap": "TEMPURA",
+  "txt": "Y la tempura, ese rebozado tan ligero que casi no existe, tiene un origen que pocos imaginan: la habrían llevado a Japón los misioneros y comerciantes portugueses en el siglo dieciséis, que freían verduras y pescado en los días de ayuno religioso. Los japoneses la refinaron hasta convertirla en una técnica de precisión.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ORIGEN DE LA TEMPURA",
+   "left": [
+    "PORTUGAL",
+    "SIGLO XVI"
+   ],
+   "right": [
+    "JAPÓN",
+    "LA PERFECCIONA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "JP3@0-880",
+   "JP2@30-1390"
+  ],
+  "label": "JAPÓN",
+  "cap": "RAMEN",
+  "txt": "El ramen invierte la jerarquía: primero el caldo. El tonkotsu, de hueso de cerdo cocinado por horas; el shoyu, de soya; y el miso, con su profundidad fermentada. En 1958, Momofuku Ando inventó el ramen instantáneo, y cambió la forma de comer de todo el planeta. Y para el desayuno, Japón tiene el natto: soya fermentada, babosa y de olor muy fuerte, que millones comen cada mañana.",
+  "fx": {
+   "type": "headline",
+   "paper": "JAPÓN · 1958",
+   "date": "1958",
+   "headline": "MOMOFUKU ANDO INVENTA EL RAMEN INSTANTÁNEO",
+   "sub": "Cambió la forma de comer del mundo",
+   "stamp": "INVENTO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "CN@150-1320",
+  "label": "CHINA",
+  "cap": "#1",
+  "txt": "Y número uno. China."
+ },
+ {
+  "src": [
+   "CN@150-1320",
+   "JP3@0-880"
+  ],
+  "label": "CHINA",
+  "cap": "WOK HEI",
+  "txt": "Hay un sabor de la comida china de restaurante que nunca vas a lograr en casa, y no es tu receta: es tu estufa. Se llama wok hei, el aliento del wok. Aparece cuando el wok está tan caliente que el aceite llega a encenderse, algo que una estufa normal de casa no logra. Ese sabor ahumado y ligeramente quemado es el corazón de la cocina china.",
+  "fx": {
+   "type": "quote",
+   "text": "El sabor no está en la receta. Está en el fuego.",
+   "by": "La idea del wok hei",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "CN@150-1320",
+   "TW@100-1330"
+  ],
+  "label": "CHINA",
+  "cap": "LAS REGIONES",
+  "txt": "Casi todo empieza con tres aromáticos: ajo, jengibre y cebollín. Pero hablar de cocina china es como hablar de cocina europea: cada región es un mundo. La cantonesa prefiere salsas ligeras, pescado al vapor y carnes asadas con miel. La de Sichuan usa chiles secos y pimienta de Sichuan, que hace hormiguear la boca. Y la de Hunan es todavía más picante.",
+  "fx": {
+   "type": "map",
+   "title": "LAS COCINAS DE CHINA",
+   "countries": [
+    "China"
+   ],
+   "pins": [
+    {
+     "name": "SICHUAN",
+     "lon": 104.07,
+     "lat": 30.67
+    },
+    {
+     "name": "HUNAN",
+     "lon": 112.98,
+     "lat": 28.2
+    },
+    {
+     "name": "CANTÓN",
+     "lon": 113.26,
+     "lat": 23.13
+    }
+   ],
+   "view": [
+    90,
+    15,
+    125,
+    42
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "CN@150-1320",
+   "KR2@10-490"
+  ],
+  "label": "CHINA",
+  "cap": "EL HUEVO DE CIEN AÑOS",
+  "txt": "Entre sus platos más famosos están el pollo kung pao, de Sichuan, con chiles secos y cacahuates; el char siu, cerdo asado cantonés con glaseado de miel; y el mapo tofu, tofu suave con pasta de frijol fermentado y aceite de chile. Y luego está el huevo de cien años: un huevo de pato cubierto con arcilla, ceniza, sal y cal durante semanas, hasta que la yema se vuelve verde oscuro y la clara, una gelatina transparente.",
+  "fx": {
+   "type": "list",
+   "title": "LOS CLÁSICOS DE CHINA",
+   "items": [
+    "Pollo kung pao",
+    "Char siu",
+    "Mapo tofu",
+    "Huevo de cien años"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CN@150-1320",
+   "JP3@0-880"
+  ],
+  "label": "CHINA EN AMÉRICA LATINA",
+  "cap": "CHIFA",
+  "txt": "Y la cocina china viajó hasta nosotros. En el siglo diecinueve llegaron a Perú miles de trabajadores chinos, y de la mezcla de su cocina con los ingredientes peruanos nació el chifa: el arroz chaufa, el tallarín saltado, y hasta el lomo saltado, uno de los platos más famosos de Perú, cocinado al wok. La cocina asiática no está tan lejos de América Latina como parece.",
+  "fx": {
+   "type": "list",
+   "title": "EL CHIFA PERUANO",
+   "items": [
+    "Arroz chaufa",
+    "Tallarín saltado",
+    "Lomo saltado",
+    "Wantán frito"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CN@150-1320",
+   "JP@540-790",
+   "TH@75-480",
+   "PH3@130-700"
+  ],
+  "label": "¿CUÁL ES TU FAVORITA?",
+  "cap": "¿CUÁL ES TU FAVORITA?",
+  "txt": "Del fuego del wok chino al caldo invisible de Japón, del kimchi de Corea al vinagre de Filipinas, y de unas islas que valían más que Manhattan. Ahora ya sabes que comida asiática no es una sola cosa. ¿Cuál de estas cocinas es tu favorita, y cuál quieres probar? Déjamelo en los comentarios, y suscríbete para más historias de la comida."
+ }
+]

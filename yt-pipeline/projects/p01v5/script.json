@@ -1,8 +1,8 @@
 [
  {
   "src": [
-   "CF",
-   "NH"
+   "CF@45-115",
+   "NH@150-5500"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "",
@@ -10,8 +10,8 @@
  },
  {
   "src": [
-   "OP",
-   "TR"
+   "OP@170-5000",
+   "TR@30-100"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "EL FORAJIDO",
@@ -46,7 +46,7 @@
  },
  {
   "src": [
-   "HB",
+   "HB@15-100",
    "CG"
   ],
   "label": "LA GRAN DEPRESIÓN",
@@ -79,7 +79,7 @@
  },
  {
   "src": [
-   "HB",
+   "HB@15-100",
    "CG"
   ],
   "label": "LA GRAN DEPRESIÓN",
@@ -95,7 +95,7 @@
  {
   "src": [
    "CG",
-   "HB"
+   "HB@15-100"
   ],
   "label": "CUADRILLA DE PRESOS",
   "cap": "SAVANNAH · 1933",
@@ -138,7 +138,7 @@
  {
   "src": [
    "CG",
-   "CF2"
+   "CF2@150-4500"
   ],
   "label": "CUADRILLA DE PRESOS",
   "cap": "DOS VERSIONES",
@@ -159,8 +159,8 @@
  },
  {
   "src": [
-   "HB",
-   "RS"
+   "HB@15-100",
+   "RS@0-60"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "DOROTHY",
@@ -168,8 +168,8 @@
  },
  {
   "src": [
-   "HB",
-   "LK"
+   "HB@15-100",
+   "LK@120-400"
   ],
   "label": "LOS ÁNGELES · AÑOS 30",
   "cap": "CALIFORNIA",
@@ -211,8 +211,8 @@
  },
  {
   "src": [
-   "RS",
-   "NS"
+   "RS@0-60",
+   "NS@200-7600"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "57 AÑOS",
@@ -227,19 +227,13 @@
   }
  },
  {
-  "src": [
-   "LK",
-   "LK"
-  ],
+  "src": "LK@120-400",
   "label": "LOCKHEED · 1940",
   "cap": "LOCKHEED",
   "txt": "De vuelta en California, el trabajo estable fue el turno de noche en Lockheed, la fábrica de aviones, en plena guerra. Y su pasado lo siguió hasta ahí: contaba que el FBI tuvo que revisar su historial, y apareció lo de Georgia. Después de un año de turnos nocturnos y casi sin dormir, perdió la vista durante unos días. Un médico le dijo que no tenía nada; simplemente odiaba ese trabajo."
  },
  {
-  "src": [
-   "B20",
-   "B20"
-  ],
+  "src": "B20@90-2640",
   "label": "HOPALONG CASSIDY · 1943",
   "cap": "HOPALONG CASSIDY",
   "txt": "Así que renunció, y en 1942 consiguió papeles pequeños en los westerns de Hopalong Cassidy, casi siempre como villano o como uno más de la banda. Hizo decenas de películas baratas en muy poco tiempo, y en 1944 el estudio RKO lo contrató.",
@@ -265,8 +259,8 @@
  },
  {
   "src": [
-   "OP",
-   "PU"
+   "OP@170-5000",
+   "PU@150-5900"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "ROBERT MARSHALL",
@@ -286,15 +280,15 @@
   }
  },
  {
-  "src": "GI",
+  "src": "GI@100-6400",
   "label": "THE STORY OF G.I. JOE · 1945",
   "cap": "G.I. JOE",
   "txt": "En 1945 llegó la película que lo hizo estrella: The Story of G.I. Joe, sobre el corresponsal de guerra Ernie Pyle. Mitchum interpretó a un capitán de infantería agotado por la guerra, y justo entonces el ejército lo reclutó de verdad: pasó varios meses como soldado, trabajando como asistente médico, mientras la película se estrenaba. Ese papel le dio la única nominación al Óscar de toda su carrera."
  },
  {
   "src": [
-   "GI",
-   "OP"
+   "GI@100-6400",
+   "OP@170-5000"
   ],
   "label": "THE STORY OF G.I. JOE · 1945",
   "cap": "EL ÓSCAR",
@@ -311,8 +305,8 @@
  },
  {
   "src": [
-   "OP",
-   "BS"
+   "OP@170-5000",
+   "BS@45-115"
   ],
   "label": "OUT OF THE PAST · 1947",
   "cap": "CINE NEGRO",
@@ -320,8 +314,8 @@
  },
  {
   "src": [
-   "PU",
-   "OP"
+   "PU@150-5900",
+   "OP@170-5000"
   ],
   "label": "PURSUED · 1947",
   "cap": "CON Y SIN CABALLO",
@@ -342,8 +336,8 @@
  },
  {
   "src": [
-   "BS",
-   "HK"
+   "BS@45-115",
+   "HK@200-7000"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "31 DE AGOSTO DE 1948",
@@ -360,8 +354,8 @@
  },
  {
   "src": [
-   "HK",
-   "BS"
+   "HK@200-7000",
+   "BS@45-115"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "PALM SPRINGS",
@@ -375,8 +369,8 @@
  },
  {
   "src": [
-   "BS",
-   "HK"
+   "BS@45-115",
+   "HK@200-7000"
   ],
   "label": "THE BIG STEAL · 1949",
   "cap": "MÁS FANS",
@@ -391,16 +385,13 @@
   }
  },
  {
-  "src": "NH",
+  "src": "NH@150-5500",
   "label": "THE NIGHT OF THE HUNTER · 1955",
   "cap": "EL PREDICADOR",
   "txt": "En 1955, el actor Charles Laughton dirigió su única película: La noche del cazador. Y eligió a Mitchum para el papel de Harry Powell, un falso predicador asesino con las palabras amor y odio tatuadas en los dedos. Mitchum contaba que Laughton le dijo que el personaje era un ser totalmente despreciable, y que él contestó: presente."
  },
  {
-  "src": [
-   "NH",
-   "NH"
-  ],
+  "src": "NH@150-5500",
   "label": "THE NIGHT OF THE HUNTER · 1955",
   "cap": "AMOR Y ODIO",
   "txt": "En su estreno fue un fracaso, y Laughton nunca volvió a dirigir. Pero hoy La noche del cazador está considerada una de las mejores películas estadounidenses de todos los tiempos, y el Harry Powell de Mitchum, uno de los grandes villanos del cine.",
@@ -420,8 +411,8 @@
  },
  {
   "src": [
-   "BA",
-   "HM"
+   "BA@4-140",
+   "HM@25-80"
   ],
   "label": "BLOOD ALLEY · 1955",
   "cap": "DESPEDIDO",
@@ -429,8 +420,8 @@
  },
  {
   "src": [
-   "HM",
-   "TR"
+   "HM@25-80",
+   "TR@30-100"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "CALYPSO",
@@ -458,10 +449,7 @@
   }
  },
  {
-  "src": [
-   "TR",
-   "TR2"
-  ],
+  "src": "TR@30-100",
   "label": "THUNDER ROAD · 1958",
   "cap": "THUNDER ROAD",
   "txt": "En 1958 hizo su propia película: Thunder Road, sobre un contrabandista de whisky ilegal que maneja de noche por las montañas. La produjo, escribió la historia, ayudó a escribir la canción, que se volvió un éxito en la radio, y su hijo James interpretó a su hermano menor. Se volvió una película de culto en el sur de Estados Unidos.",
@@ -479,8 +467,8 @@
  },
  {
   "src": [
-   "CF",
-   "CF2"
+   "CF@45-115",
+   "CF2@150-4500"
   ],
   "label": "CAPE FEAR · 1962",
   "cap": "MAX CADY",
@@ -512,8 +500,8 @@
  },
  {
   "src": [
-   "CF2",
-   "CF"
+   "CF2@150-4500",
+   "CF@45-115"
   ],
   "label": "CAPE FEAR · 1962",
   "cap": "1991",
@@ -534,8 +522,8 @@
  },
  {
   "src": [
-   "PU",
-   "RS"
+   "PU@150-5900",
+   "RS@0-60"
   ],
   "label": "EL DORADO · 1966",
   "cap": "JOHN WAYNE",
@@ -556,8 +544,8 @@
  },
  {
   "src": [
-   "PU",
-   "RS"
+   "PU@150-5900",
+   "RS@0-60"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "PATTON",
@@ -577,7 +565,7 @@
   }
  },
  {
-  "src": "RD",
+  "src": "RD@20-160",
   "label": "RYAN'S DAUGHTER · 1970",
   "cap": "IRLANDA",
   "txt": "El director David Lean lo quería para La hija de Ryan, como un maestro de escuela irlandés, tranquilo y callado. Según Mitchum, Lean le preguntó qué otros planes tenía, y él respondió que estaba pensando en suicidarse. Lean le dijo que si hacía primero la película, él con gusto pagaría su funeral. Mitchum aceptó.",
@@ -605,19 +593,16 @@
  },
  {
   "src": [
-   "RD",
-   "HM"
+   "RD@20-160",
+   "HM@25-80"
   ],
   "label": "RYAN'S DAUGHTER · 1970",
   "cap": "EL BAR",
   "txt": "Y durante el rodaje en Irlanda nació otra de sus historias. En un bar, un irlandés agresivo lo confundió con Kirk Douglas y le dio un golpe. Mitchum contaba que solo le preguntó: ¿ya terminaste? Porque no le convenía seguir con esa costumbre, podía toparse con un actor que no supiera ni romper un huevo. Él decía que unas trescientas personas lo vieron."
  },
  {
-  "src": [
-   "FL",
-   "WW"
-  ],
-  "label": "FAREWELL, MY LOVELY · 1975",
+  "src": "WW@250-8600",
+  "label": "ROBERT MITCHUM",
   "cap": "PHILIP MARLOWE",
   "txt": "Ya mayor, siguió haciendo papeles memorables: el detective Philip Marlowe dos veces, en Adiós, muñeca y El sueño eterno, y un criminal cansado en Los amigos de Eddie Coyle. En 1983 protagonizó la miniserie Vientos de guerra, de más de catorce horas. Y sus hijos, James y Christopher, también se hicieron actores.",
   "fx": {
@@ -645,10 +630,7 @@
   }
  },
  {
-  "src": [
-   "WW",
-   "FL"
-  ],
+  "src": "WW@250-8600",
   "label": "THE WINDS OF WAR · 1983",
   "cap": "EL CONSEJO",
   "txt": "¿Qué consejo les dio a sus hijos? Según él, solo dos: apréndanse sus líneas y no escriban a casa pidiendo dinero. Y una vez dijo que podían haber sido ladrones, siempre que no los atraparan, porque a él nadie lo había atrapado nunca actuando. Esa era su fama: hacía que todo pareciera sin esfuerzo.",
@@ -660,10 +642,7 @@
   }
  },
  {
-  "src": [
-   "FL",
-   "WW"
-  ],
+  "src": "WW@250-8600",
   "label": "ROBERT MITCHUM",
   "cap": "SATURDAY NIGHT LIVE",
   "txt": "En 1987, a los sesenta y nueve años, fue el anfitrión de Saturday Night Live. En su monólogo bromeó con que no había mucho en el mundo que no hubiera visto, y todavía menos que no hubiera hecho, y que después de ese programa ya no le quedaría nada por hacer. Para un hombre que había sido vagabundo, preso, obrero de fábrica y estrella de cine, no era del todo una broma.",
@@ -678,8 +657,8 @@
  },
  {
   "src": [
-   "FL",
-   "NS"
+   "WW@250-8600",
+   "NS@200-7600"
   ],
   "label": "ROBERT MITCHUM",
   "cap": "1997",
@@ -702,10 +681,10 @@
  },
  {
   "src": [
-   "NH",
-   "CF",
-   "OP",
-   "GI"
+   "NH@150-5500",
+   "CF@45-115",
+   "OP@170-5000",
+   "GI@100-6400"
   ],
   "label": "¿CUÁL CREES?",
   "cap": "¿CUÁL CREES?",

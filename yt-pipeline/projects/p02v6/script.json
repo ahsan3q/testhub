@@ -1,0 +1,641 @@
+[
+ {
+  "src": [
+   "IV@20-130",
+   "TR@0-85"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "",
+  "txt": "Más de cuarenta películas, miles de millones de dólares en taquilla, y Jason Statham insiste en algo: que él no es actor. Dice que vendía joyas en la calle, que fue deportista durante años, y que no es uno de esos actores que se transforman en cualquier papel. Los críticos muchas veces le dan la razón. Pero quienes han trabajado con él cuentan otra historia."
+ },
+ {
+  "src": [
+   "LS@10-88",
+   "EX@20-150"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "EL ÚLTIMO HÉROE DE ACCIÓN",
+  "txt": "Hoy vamos a conocer a Jason Statham a través de lo que dicen de él directores, actores, dobles de riesgo y leyendas como Sylvester Stallone: el puesto callejero frente a Harrods que le consiguió su primera película, el camión que lo hundió en el mar Negro, y lo que Stallone dijo de él cuando nadie le preguntaba por la acción.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA CARRERA DE STATHAM",
+   "items": [
+    [
+     "1990",
+     "Clavadista en los Juegos"
+    ],
+    [
+     "1998",
+     "Lock, Stock"
+    ],
+    [
+     "2002",
+     "El transportador"
+    ],
+    [
+     "2024",
+     "The Beekeeper"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "IV2@30-200",
+   "EX@20-150"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "EL ÚNICO DURO DE VERDAD",
+  "txt": "Un actor que hizo dos películas con él lo resumió así: Jason es el único tipo rudo del set que de verdad es rudo; los demás solo somos actores. Y el comediante Joe Rogan, que ha estado rodeado de peleadores toda su vida, contó que la gente que ha entrenado artes marciales con Statham dice lo mismo: que es de verdad, que sabe pelear.",
+  "fx": {
+   "type": "quote",
+   "text": "Es el único tipo rudo del set que de verdad es rudo. Los demás solo somos actores.",
+   "by": "Un compañero de reparto de Jason Statham",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HR@0-65",
+   "IV@20-130"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "GREAT YARMOUTH",
+  "txt": "Jason Statham nació en 1967 en Inglaterra, y creció en Great Yarmouth, un pueblo costero del este del país. Su padre vendía cosas en la calle de día y cantaba en los bares de noche. Y de él aprendió algo que después le cambiaría la vida: cómo hablarle a una multitud para venderle lo que fuera.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE CRECIÓ STATHAM",
+   "countries": [
+    "United Kingdom"
+   ],
+   "pins": [
+    {
+     "name": "GREAT YARMOUTH",
+     "lon": 1.73,
+     "lat": 52.6
+    },
+    {
+     "name": "LONDRES",
+     "lon": -0.13,
+     "lat": 51.51
+    }
+   ],
+   "view": [
+    -6,
+    49.5,
+    4,
+    56
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CW@0-1700",
+  "label": "JUEGOS DE LA COMMONWEALTH · 1990",
+  "cap": "EL CLAVADISTA",
+  "txt": "Pero lo que él encontró primero fue el agua. En unas vacaciones familiares en Miami vio a alguien saltar desde una plataforma alta en el hotel, y pensó: eso se ve divertido. Se unió a un club de clavados, y como era un deporte tan pequeño, en un año ya estaba en el equipo británico, con su pants oficial, creyendo que tenía las llaves del reino, según sus propias palabras.",
+  "fx": {
+   "type": "compare",
+   "title": "ANTES DEL CINE",
+   "left": [
+    "DOCE AÑOS",
+    "EQUIPO BRITÁNICO DE CLAVADOS"
+   ],
+   "right": [
+    "1990",
+    "JUEGOS DE LA COMMONWEALTH"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "CW@0-1700",
+   "HR@0-65"
+  ],
+  "label": "JUEGOS DE LA COMMONWEALTH · 1990",
+  "cap": "NUEVA ZELANDA",
+  "txt": "Estuvo cerca de doce años en el equipo nacional, y compitió por Inglaterra en los Juegos de la Commonwealth de 1990, en Auckland, Nueva Zelanda. Intentó tres veces llegar a los Juegos Olímpicos, y nunca lo logró: él mismo cuenta que quedaba tercero, y solo mandaban a dos por plataforma. Pero esos años de aguantar la respiración bajo el agua le salvarían la vida décadas después.",
+  "fx": {
+   "type": "map",
+   "title": "AUCKLAND · 1990",
+   "countries": [
+    "New Zealand",
+    "Australia"
+   ],
+   "pins": [
+    {
+     "name": "AUCKLAND",
+     "lon": 174.76,
+     "lat": -36.85
+    }
+   ],
+   "view": [
+    140,
+    -48,
+    180,
+    -25
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HR@0-65",
+   "SN@15-110"
+  ],
+  "label": "LONDRES",
+  "cap": "HARRODS",
+  "txt": "Los clavados no daban dinero. Así que, entre competencias, hizo lo único que su padre le había enseñado: vender en la calle. Afuera de la famosa tienda Harrods, en Londres, con una maleta, una caja de leche como mesa y un ojo siempre pendiente de la policía, vendía perfumes y joyas sin permiso. Era lo que en Inglaterra llaman un fly pitcher.",
+  "fx": {
+   "type": "list",
+   "title": "SU PUESTO EN LA CALLE",
+   "items": [
+    "Una maleta",
+    "Una caja de leche",
+    "Perfumes y joyas",
+    "Sin permiso"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "IV@20-130",
+   "HR@0-65"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "EL DISCURSO",
+  "txt": "Treinta años después, todavía puede recitar su discurso de vendedor palabra por palabra, rapidísimo: lo que valía libras ahora vale centavos, olvídense de lo que cuesta, si están conmigo aquí y ahora se llevan una ganga. Era una estafa callejera, y también fue la mejor escuela de actuación que tuvo. Porque alguien estaba a punto de hacer una película sobre gente exactamente como él."
+ },
+ {
+  "src": [
+   "HR@0-65",
+   "IV@20-130"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "MODELO",
+  "txt": "Y antes del cine hubo otro trabajo inesperado: modelo. Su físico de atleta llamó la atención de marcas de ropa como French Connection, y apareció en videos musicales de los noventa, de grupos como Erasure y The Shamen. Fue justamente la marca French Connection la que, según se cuenta, ayudó a que su nombre llegara a los productores de Guy Ritchie.",
+  "fx": {
+   "type": "list",
+   "title": "ANTES DEL CINE",
+   "items": [
+    "Clavadista",
+    "Vendedor callejero",
+    "Modelo",
+    "Videos musicales"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "LS@10-88",
+   "SN@15-110"
+  ],
+  "label": "LOCK, STOCK AND TWO SMOKING BARRELS · 1998",
+  "cap": "GUY RITCHIE",
+  "txt": "El director era un desconocido de veintiocho años llamado Guy Ritchie. Statham también había hecho algo de modelaje, y así llegó a la audición. Cuenta el actor Nick Moran, protagonista de la película, que Jason no sabía qué hacer, así que le pidieron que leyera algo. Y él hizo su discurso de vendedor. Ritchie lo filmó, y les gustó tanto que lo pusieron al principio de la película.",
+  "fx": {
+   "type": "headline",
+   "paper": "REINO UNIDO · 1998",
+   "date": "1998",
+   "headline": "UN VENDEDOR CALLEJERO DEBUTA EN EL CINE",
+   "sub": "Lock, Stock and Two Smoking Barrels, de Guy Ritchie",
+   "stamp": "DEBUT",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "SN@15-110",
+   "LS@10-88"
+  ],
+  "label": "LOCK, STOCK AND TWO SMOKING BARRELS · 1998",
+  "cap": "NO ERES ACTOR",
+  "txt": "Statham le dijo a Ritchie que nunca había actuado. Y según cuenta él mismo, Ritchie le respondió: no necesito que seas actor, solo apréndete las líneas y yo pongo la cámara frente a ti. A los encargados del reparto no les convencía un no actor. Ritchie les dijo que era su película, y que lo quería ahí. Y el actor Jason Flemyng recuerda que, en una escena, Statham le preguntó, nervioso: ¿y tú qué vas a hacer con las manos?",
+  "fx": {
+   "type": "quote",
+   "text": "No necesito que seas actor. Apréndete las líneas y yo pongo la cámara.",
+   "by": "Guy Ritchie a Jason Statham",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "SN@15-110",
+   "SN2@15-100"
+  ],
+  "label": "SNATCH · 2000",
+  "cap": "SNATCH",
+  "txt": "Dos años después, Ritchie lo volvió a llamar para Snatch: Cerdos y diamantes, con Brad Pitt y Benicio del Toro. Y Ritchie todavía lo recuerda igual: dice que el trabajo de Jason en los mercados se estaba acabando, que su forma de hablar era increíble, y que lo que lo define es una ética de trabajo tremenda. Trabaja duro, es constante y le gusta trabajar. Años después volverían a filmar juntos, en Justicia implacable y otras.",
+  "fx": {
+   "type": "compare",
+   "title": "STATHAM Y GUY RITCHIE",
+   "left": [
+    "1998",
+    "LOCK, STOCK"
+   ],
+   "right": [
+    "2000",
+    "SNATCH"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "TR@0-85",
+   "TR2@0-80"
+  ],
+  "label": "THE TRANSPORTER · 2002",
+  "cap": "LUC BESSON",
+  "txt": "Ritchie lo hizo conocido. Pero fue el francés Luc Besson quien lo convirtió en héroe de acción, con El transportador, en 2002: un conductor que entrega paquetes sin hacer preguntas. Ahí, Statham descubrió que podía hacer él mismo las escenas de acción, gracias a su pasado de deportista y a su entrenamiento en artes marciales. Y desde entonces, casi nunca quiso un doble.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL HÉROE DE ACCIÓN",
+   "items": [
+    [
+     "2002",
+     "El transportador"
+    ],
+    [
+     "2006",
+     "Crank"
+    ],
+    [
+     "2010",
+     "Los Indestructibles"
+    ],
+    [
+     "2013",
+     "Rápidos y furiosos"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "TR2@0-80",
+   "TR@0-85"
+  ],
+  "label": "THE TRANSPORTER · 2002",
+  "cap": "LA RIVIERA",
+  "txt": "El transportador se filmó en la Riviera francesa, con persecuciones por las calles de Niza y Marsella, y las peleas las coordinó Corey Yuen, un maestro de las artes marciales de Hong Kong. La película tuvo dos secuelas con Statham, y lo convirtió en la nueva cara del cine de acción europeo.",
+  "fx": {
+   "type": "map",
+   "title": "EL TRANSPORTADOR",
+   "countries": [
+    "France",
+    "Italy",
+    "Monaco"
+   ],
+   "pins": [
+    {
+     "name": "NIZA",
+     "lon": 7.26,
+     "lat": 43.7
+    },
+    {
+     "name": "MARSELLA",
+     "lon": 5.37,
+     "lat": 43.3
+    }
+   ],
+   "route": [
+    1,
+    0
+   ],
+   "view": [
+    0,
+    40,
+    12,
+    47
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CR@15-110",
+   "CR2@10-360"
+  ],
+  "label": "CRANK · 2006",
+  "cap": "SIN DOBLE",
+  "txt": "En Crank, de 2006, interpretó a un asesino que debe mantener su adrenalina alta para no morir, y la película se volvió de culto por lo extremo de sus escenas. El director David Ayer, que trabajó con él después, lo explicó así: Statham hace dos papeles, el suyo y el del doble, y el pobre doble se queda esperando una llamada que nunca llega. Eso permite filmar la acción de frente, viéndole los ojos.",
+  "fx": {
+   "type": "compare",
+   "title": "UNA ESCENA DE ACCIÓN",
+   "left": [
+    "NORMALMENTE",
+    "ACTOR + DOBLE"
+   ],
+   "right": [
+    "CON STATHAM",
+    "SOLO ÉL"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "CR2@10-360",
+   "CR@15-110"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "ARTES MARCIALES",
+  "txt": "Y su entrenamiento no es de película. A lo largo de los años ha practicado kickboxing, karate, jiu-jitsu brasileño y wing chun, además de su disciplina de clavadista. Por eso los coordinadores de peleas dicen que trabajar con él es distinto: no tienen que esconderlo con cortes rápidos de cámara. Pueden dejarlo pelear de frente.",
+  "fx": {
+   "type": "bars",
+   "title": "SU ENTRENAMIENTO",
+   "items": [
+    [
+     "CLAVADOS",
+     12
+    ],
+    [
+     "ARTES MARCIALES",
+     20
+    ]
+   ],
+   "prefix": "+",
+   "suffix": " AÑOS",
+   "note": "Aproximado: deportista desde joven",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SN2@15-100",
+   "TR@0-85"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "THE BANK JOB",
+  "txt": "Entre tanta acción, también hizo películas basadas en hechos reales. En El gran golpe, de 2008, interpretó a un ladrón en el robo de Baker Street, un asalto real de 1971 en Londres, en el que los ladrones cavaron un túnel hasta la bóveda de un banco. Fue una de sus películas mejor recibidas por la crítica, y demostró que podía cargar una historia más seria.",
+  "fx": {
+   "type": "headline",
+   "paper": "LONDRES · 1971",
+   "date": "SEPTIEMBRE DE 1971",
+   "headline": "ROBAN LA BÓVEDA DE UN BANCO EN BAKER STREET",
+   "sub": "La historia real detrás de El gran golpe (2008)",
+   "stamp": "ROBO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "EX@20-150",
+   "EX2@25-170"
+  ],
+  "label": "THE EXPENDABLES",
+  "cap": "LOS INDESTRUCTIBLES",
+  "txt": "En 2010, Stallone reunió a las leyendas del cine de acción en Los Indestructibles: Sylvester Stallone, Jet Li, Dolph Lundgren, Bruce Willis y Arnold Schwarzenegger, y en la segunda, hasta Chuck Norris y Jean-Claude Van Damme. Y entre todos ellos, Statham era el más joven, el heredero. Stallone lo puso como su mano derecha en la historia, Lee Christmas.",
+  "fx": {
+   "type": "list",
+   "title": "LOS INDESTRUCTIBLES",
+   "items": [
+    "Sylvester Stallone",
+    "Jet Li · Dolph Lundgren",
+    "Bruce Willis · Arnold",
+    "Chuck Norris · Van Damme",
+    "Jason Statham"
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "EX@20-150",
+   "EX2@25-170"
+  ],
+  "label": "THE EXPENDABLES",
+  "cap": "EL MAR NEGRO",
+  "txt": "Y eso lo llevó, en 2013, a uno de los momentos más peligrosos de su vida. En el rodaje de Los Indestructibles 3, en Bulgaria, Statham pidió probar un camión de tres toneladas antes de que el resto del reparto se subiera. Frenó, y los frenos no respondieron. El camión se fue por el borde, y cayó unos veinte metros hasta el fondo del mar Negro.",
+  "fx": {
+   "type": "map",
+   "title": "EL ACCIDENTE DE 2013",
+   "countries": [
+    "Bulgaria",
+    "Romania",
+    "Turkey"
+   ],
+   "pins": [
+    {
+     "name": "MAR NEGRO · BULGARIA",
+     "lon": 27.9,
+     "lat": 43.2
+    }
+   ],
+   "view": [
+    20,
+    39,
+    34,
+    47
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "EX2@25-170",
+   "EX@20-150"
+  ],
+  "label": "THE EXPENDABLES",
+  "cap": "STALLONE",
+  "txt": "Sylvester Stallone lo vio todo. Contó que escuchó el sonido del camión estrellándose y pensó: este tipo se va a morir, esto no es un truco. Abajo estaba oscuro, el agua llenaba la cabina, y según Stallone, gracias a sus habilidades acuáticas, él era el único del reparto que podía salir de ahí. Ninguno de los demás, con sus botas y sus armas, habría podido nadar así. Doce años de clavados le salvaron la vida.",
+  "fx": {
+   "type": "counter",
+   "value": 20,
+   "prefix": "~",
+   "suffix": " METROS",
+   "label": "DE CAÍDA HASTA EL MAR NEGRO",
+   "sub": "Los Indestructibles 3, 2013",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "EX@20-150",
+   "IV2@30-200"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "HOMEFRONT",
+  "txt": "Stallone ya había visto suficiente. Tenía un guion que estaba guardando para él mismo, sobre un padre tranquilo que intenta proteger a su hija. Jason le pidió hacerlo una y otra vez, hasta que, según Stallone, a la quinta vez le dijo que sí. Así nació Homefront, en 2013, escrita por Stallone y protagonizada por Statham. Y mientras la hacían, Stallone dijo algo sobre él que dejamos para el final.",
+  "fx": {
+   "type": "compare",
+   "title": "HOMEFRONT (2013)",
+   "left": [
+    "SYLVESTER STALLONE",
+    "EL GUION"
+   ],
+   "right": [
+    "JASON STATHAM",
+    "EL PROTAGONISTA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "IV@20-130",
+   "IV2@30-200"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "SPY",
+  "txt": "Y luego llegó el papel que nadie esperaba. Paul Feig, el director de Damas en guerra, escribió para él una comedia: Spy, de 2015, con Melissa McCarthy. McCarthy contó que en la primera lectura del guion, Statham leyó tres páginas y todos se reían tanto que Feig dijo que no quería cambiar nada. Rose Byrne dijo que se moría de risa viéndolo, y que iba a robarse la película. La película recaudó más de doscientos millones de dólares.",
+  "fx": {
+   "type": "counter",
+   "value": 235,
+   "prefix": "+$",
+   "suffix": " MILLONES",
+   "label": "RECAUDÓ SPY EN EL MUNDO",
+   "sub": "La comedia de 2015",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "HS@4-100",
+   "BK@25-170"
+  ],
+  "label": "HOBBS & SHAW · 2019",
+  "cap": "RÁPIDOS Y FURIOSOS",
+  "txt": "Y Hollywood le dio la franquicia más grande del planeta: Rápidos y furiosos, como el villano Deckard Shaw, que después se volvió héroe y tuvo su propia película con Dwayne Johnson, Hobbs y Shaw, en 2019. Un doble de riesgo que peleó contra él en un pasillo junto con otros siete contó que sus colegas le advirtieron que Statham era muy rudo, y que aprendía las coreografías tan rápido como los mejores dobles.",
+  "fx": {
+   "type": "bars",
+   "title": "SUS GRANDES ÉXITOS EN TAQUILLA",
+   "items": [
+    [
+     "THE MEG (2018)",
+     530
+    ],
+    [
+     "HOBBS Y SHAW (2019)",
+     760
+    ]
+   ],
+   "prefix": "$",
+   "suffix": " M",
+   "note": "Recaudación mundial aproximada, en millones de dólares",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "BK@25-170",
+  "label": "JASON STATHAM",
+  "cap": "THE MEG",
+  "txt": "En 2018 se enfrentó a un tiburón prehistórico gigante en Megalodón, otro éxito mundial, con muchas escenas filmadas en el agua, donde se movía como en casa. Y en 2024 llegó The Beekeeper, como un apicultor que en realidad es un exagente secreto. El actor David Witts contó que la primera vez que lo vio, Statham estaba reacomodando una pelea entera, después de que la producción pagó a un coreógrafo de Hollywood. Y todas sus ideas eran correctas."
+ },
+ {
+  "src": [
+   "BK@25-170",
+   "IV@20-130"
+  ],
+  "label": "THE BEEKEEPER · 2024",
+  "cap": "LA VOZ",
+  "txt": "Y en algún momento, el hombre se volvió también una imitación. Los comediantes imitan su voz grave y baja en el escenario. Uno bromeó en un programa de radio que cuando ve películas de Statham a veces no le oye la voz, de tan baja. Otro le dijo en la cara que las mejores películas de acción son las de Jason Statham, y que no le importa si es Crank ocho, todas iguales.",
+  "fx": {
+   "type": "quote",
+   "text": "Las mejores películas de acción son las de Jason Statham.",
+   "by": "Un comediante, frente a Statham",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "SN@15-110",
+   "LS@10-88"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "EL REGRESO CON RITCHIE",
+  "txt": "Y nunca se olvidó de quien le dio la primera oportunidad. Veinte años después de Snatch, volvió a trabajar con Guy Ritchie en Justicia implacable, de 2021, un thriller oscuro sobre un guardia de camiones blindados, y después en Operación Fortune. El vendedor callejero y el director desconocido de 1998 se habían convertido en dos de los nombres más fuertes del cine británico.",
+  "fx": {
+   "type": "timeline",
+   "title": "STATHAM Y RITCHIE",
+   "items": [
+    [
+     "1998",
+     "Lock, Stock"
+    ],
+    [
+     "2000",
+     "Snatch"
+    ],
+    [
+     "2021",
+     "Justicia implacable"
+    ],
+    [
+     "2023",
+     "Operación Fortune"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "BK@25-170",
+   "HS@4-100"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "A WORKING MAN",
+  "txt": "Y la relación con Stallone siguió. En 2025, Statham protagonizó A Working Man, dirigida por David Ayer, con un guion escrito por Ayer y por el propio Stallone. Un trabajador de la construcción, exmilitar, que tiene que rescatar a una joven secuestrada. Otra vez, el tipo tranquilo y trabajador que se convierte en una fuerza imparable. El papel que mejor le queda.",
+  "fx": {
+   "type": "compare",
+   "title": "A WORKING MAN (2025)",
+   "left": [
+    "STALLONE Y AYER",
+    "EL GUION"
+   ],
+   "right": [
+    "JASON STATHAM",
+    "EL PROTAGONISTA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "IV2@30-200",
+   "BK@25-170"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "LA FAMILIA",
+  "txt": "Fuera de cámaras, su vida es más tranquila de lo que muchos imaginan. Está con la modelo Rosie Huntington-Whiteley, con quien tiene dos hijos. Y sus padres, el vendedor callejero y su esposa, lo visitan seguido en los sets. El director Rick Roman Waugh, que fue doble de riesgo durante años, lo llamó su Steve McQueen moderno: auténtico, sin nada falso, un hombre de familia que vive con su propio código.",
+  "fx": {
+   "type": "quote",
+   "text": "Es mi Steve McQueen moderno. No hay nada falso en Jason.",
+   "by": "Rick Roman Waugh, director",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "EX@20-150",
+   "IV@20-130"
+  ],
+  "label": "JASON STATHAM",
+  "cap": "LO QUE DIJO STALLONE",
+  "txt": "Y ahora sí, lo que dijo Stallone. Sobre el hombre que insiste en que no es actor, el creador de Rocky dijo esto: que Jason tiene mucho más talento del que él mismo se reconoce. Que cuando haces una serie de películas de acción te piden ser el tipo fuerte y callado, y que en Homefront por fin tuvo que dejar salir sus emociones. Y Statham lo sigue contando igual: dice que solo estuvo en el lugar correcto en el momento correcto.",
+  "fx": {
+   "type": "quote",
+   "text": "Tiene mucho más talento del que él mismo se reconoce.",
+   "by": "Sylvester Stallone, sobre Jason Statham",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "LS@10-88",
+   "TR@0-85",
+   "EX@20-150",
+   "BK@25-170"
+  ],
+  "label": "¿CUÁL ES TU FAVORITA?",
+  "cap": "¿CUÁL ES TU FAVORITA?",
+  "txt": "Un clavadista que nunca llegó a los Juegos Olímpicos, un vendedor sin permiso frente a Harrods, un hombre en el fondo del mar Negro. Él dice que tuvo suerte. Los que se pararon junto a él dicen que nunca hizo nada a medias. ¿Cuál es tu película favorita de Jason Statham? Déjamelo en los comentarios, y suscríbete para más historias de leyendas."
+ }
+]

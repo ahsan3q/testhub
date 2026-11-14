@@ -1,17 +1,14 @@
 [
  {
-  "src": [
-   "WD2",
-   "WD"
-  ],
+  "src": "WD2@15-600",
   "label": "CHUCK NORRIS",
   "cap": "",
   "txt": "Durante veinte años, internet convirtió a Chuck Norris en un chiste. Decían que podía dividir entre cero, que las lágrimas de Chuck Norris curaban el cáncer, lástima que nunca llora. Pero los hombres que de verdad se pararon frente a él cuentan una historia muy distinta."
  },
  {
   "src": [
-   "WD",
-   "OC"
+   "WD2@15-600",
+   "OC@15-110"
   ],
   "label": "CHUCK NORRIS",
   "cap": "1940 - 2026",
@@ -28,8 +25,8 @@
  },
  {
   "src": [
-   "KO",
-   "KD"
+   "KO@20-1040",
+   "KD@400-2500"
   ],
   "label": "CHUCK NORRIS",
   "cap": "CARLOS RAY",
@@ -61,8 +58,8 @@
  },
  {
   "src": [
-   "KD",
-   "KO"
+   "KD@400-2500",
+   "KO@20-1040"
   ],
   "label": "CHUCK NORRIS",
   "cap": "EL NIÑO TÍMIDO",
@@ -75,10 +72,7 @@
   }
  },
  {
-  "src": [
-   "KO",
-   "KO"
-  ],
+  "src": "KO@20-1040",
   "label": "COREA DEL SUR · AÑOS 50",
   "cap": "COREA",
   "txt": "En 1958 entró a la Fuerza Aérea de Estados Unidos, como policía militar, y lo mandaron a la base de Osan, en Corea del Sur. Ahí sus compañeros empezaron a llamarlo Chuck. Y ahí, en sus horas libres, entró a una escuela de Tang Soo Do, un arte marcial coreano. Volvió a casa con cinta negra.",
@@ -116,8 +110,8 @@
  },
  {
   "src": [
-   "KD",
-   "KO"
+   "KD@400-2500",
+   "KO@20-1040"
   ],
   "label": "CHUCK NORRIS",
   "cap": "NORTHROP",
@@ -149,8 +143,8 @@
  },
  {
   "src": [
-   "KD",
-   "KK"
+   "KD@400-2500",
+   "KK@5-55"
   ],
   "label": "CHUCK NORRIS",
   "cap": "CAMPEÓN",
@@ -181,8 +175,8 @@
  },
  {
   "src": [
-   "KK",
-   "KD"
+   "KK@5-55",
+   "KD@400-2500"
   ],
   "label": "CHUCK NORRIS",
   "cap": "SEIS AÑOS",
@@ -198,8 +192,8 @@
  },
  {
   "src": [
-   "KD",
-   "KK"
+   "KD@400-2500",
+   "KK@5-55"
   ],
   "label": "CHUCK NORRIS",
   "cap": "ALUMNOS FAMOSOS",
@@ -218,8 +212,8 @@
  },
  {
   "src": [
-   "KD",
-   "WD"
+   "KD@400-2500",
+   "WD2@15-600"
   ],
   "label": "CHUCK NORRIS",
   "cap": "DEAN MARTIN",
@@ -249,19 +243,13 @@
   }
  },
  {
-  "src": [
-   "WD2",
-   "WD"
-  ],
+  "src": "WD2@15-600",
   "label": "WAY OF THE DRAGON · 1972",
   "cap": "BRUCE LEE",
   "txt": "En 1967, en un campeonato de karate en Nueva York, Chuck conoció a un joven artista marcial llamado Bruce Lee. Empezaron a entrenar juntos y se hicieron amigos. Años después, Bruce lo llamó: estaba haciendo una película y quería la pelea más grande de todas, entre los dos. Según contaba la familia Norris, Chuck preguntó: ¿y quién gana? Y Bruce le respondió: yo, es mi película."
  },
  {
-  "src": [
-   "WD",
-   "WD2"
-  ],
+  "src": "WD2@15-600",
   "label": "WAY OF THE DRAGON · 1972",
   "cap": "EL COLISEO",
   "txt": "La película fue El regreso del dragón, de 1972, y la pelea final se filmó en parte en el Coliseo de Roma. El presupuesto era tan pequeño que la llegada de Chuck se grabó en el aeropuerto real, con pasajeros reales. Y Bruce le pidió algo más: que subiera unos diez kilos, para verse más grande y más amenazante en pantalla.",
@@ -288,19 +276,13 @@
   }
  },
  {
-  "src": [
-   "WD",
-   "WD2"
-  ],
+  "src": "WD2@15-600",
   "label": "WAY OF THE DRAGON · 1972",
   "cap": "EL PELO DEL PECHO",
   "txt": "Y esa pelea tiene uno de los momentos más recordados del cine de artes marciales: en medio del combate, Bruce Lee le arranca a Chuck un mechón de pelo del pecho, lo sopla, y sigue peleando. Es una escena de pocos segundos, pero se convirtió en un símbolo de la película, junto con el gatito que observa toda la pelea desde las ruinas del Coliseo."
  },
  {
-  "src": [
-   "WD2",
-   "WD"
-  ],
+  "src": "WD2@15-600",
   "label": "WAY OF THE DRAGON · 1972",
   "cap": "RÉCORD",
   "txt": "El regreso del dragón fue escrita, dirigida y protagonizada por Bruce Lee, y se convirtió en un éxito enorme: rompió récords de taquilla en Hong Kong ese año. Para Chuck fue su presentación al mundo. Durante décadas, millones de personas lo conocieron primero como el villano que pierde contra Bruce Lee en el Coliseo.",
@@ -315,10 +297,7 @@
   }
  },
  {
-  "src": [
-   "WD2",
-   "WD"
-  ],
+  "src": "WD2@15-600",
   "label": "WAY OF THE DRAGON · 1972",
   "cap": "¿QUIÉN ERA MEJOR?",
   "txt": "Esa pelea hizo famoso a Chuck en todo el mundo. Pero Bruce Lee nunca compitió en torneos, y Chuck sí. Así que la pregunta siempre fue: fuera de las cámaras, ¿quién era mejor? Chuck siempre contestó lo mismo: que nunca pelearon de verdad, y que Bruce no necesitaba competir para ser famoso. Él sí lo necesitó. Bruce Lee murió un año después de filmar esa pelea, a los treinta y dos años.",
@@ -338,8 +317,8 @@
  },
  {
   "src": [
-   "GG",
-   "OC"
+   "GG@10-88",
+   "OC@15-110"
   ],
   "label": "GOOD GUYS WEAR BLACK · 1978",
   "cap": "STEVE McQUEEN",
@@ -360,8 +339,8 @@
  },
  {
   "src": [
-   "GG",
-   "OC"
+   "GG@10-88",
+   "OC@15-110"
   ],
   "label": "A FORCE OF ONE · 1979",
   "cap": "SUPERFOOT",
@@ -375,8 +354,8 @@
  },
  {
   "src": [
-   "OC",
-   "MIA"
+   "OC@15-110",
+   "DF@15-110"
   ],
   "label": "THE OCTAGON · 1980",
   "cap": "PELEADORES REALES",
@@ -407,8 +386,8 @@
  },
  {
   "src": [
-   "OC",
-   "MIA"
+   "OC@15-110",
+   "DF@15-110"
   ],
   "label": "LONE WOLF McQUADE · 1983",
   "cap": "DAVID CARRADINE",
@@ -428,11 +407,8 @@
   }
  },
  {
-  "src": [
-   "MIA",
-   "DF"
-  ],
-  "label": "MISSING IN ACTION · 1984",
+  "src": "DF@15-110",
+  "label": "CHUCK NORRIS · AÑOS 80",
   "cap": "LOS AÑOS 80",
   "txt": "A mediados de los ochenta, Chuck Norris era la estrella de artes marciales más grande del mundo. Desaparecido en combate, en 1984. Invasión USA, en 1985. Y Delta Force, en 1986, junto a Lee Marvin. Eran películas de acción con bajo presupuesto y mucho éxito, y lo convirtieron en un héroe de los videoclubes.",
   "fx": {
@@ -460,11 +436,8 @@
   }
  },
  {
-  "src": [
-   "MIA",
-   "DF"
-  ],
-  "label": "MISSING IN ACTION · 1984",
+  "src": "DF@15-110",
+  "label": "CHUCK NORRIS · AÑOS 80",
   "cap": "WIELAND",
   "txt": "Pero detrás de Desaparecido en combate había una historia muy personal. Su hermano menor, Wieland Norris, murió en la guerra de Vietnam en 1970, durante una patrulla. Chuck dedicó la película a su memoria. Y su otro hermano, Aaron, trabajó con él durante décadas como doble, coordinador de acción, productor y director, incluida buena parte de la serie de Walker.",
   "fx": {
@@ -478,10 +451,7 @@
   }
  },
  {
-  "src": [
-   "DF",
-   "MIA"
-  ],
+  "src": "DF@15-110",
   "label": "THE DELTA FORCE · 1986",
   "cap": "CANNON FILMS",
   "txt": "Detrás de esas películas estaba Cannon Films, el estudio de los primos israelíes Menahem Golan y Yoram Globus, famoso por hacer cine de acción rápido y barato. Con Chuck Norris encontraron una mina de oro: varias de sus películas se filmaban casi una detrás de otra, y llenaban cines y videoclubes en todo el mundo, de Estados Unidos a América Latina.",
@@ -499,8 +469,8 @@
  },
  {
   "src": [
-   "DF",
-   "KK"
+   "DF@15-110",
+   "KK@5-55"
   ],
   "label": "THE DELTA FORCE · 1986",
   "cap": "KARATE KOMMANDOS",
@@ -521,8 +491,8 @@
  },
  {
   "src": [
-   "WD2",
-   "KD"
+   "WD2@15-600",
+   "KD@400-2500"
   ],
   "label": "CHUCK NORRIS",
   "cap": "HÉLIO GRACIE",
@@ -551,8 +521,8 @@
  },
  {
   "src": [
-   "WT",
-   "WT2"
+   "WT@0-22",
+   "WT@26-40"
   ],
   "label": "WALKER, TEXAS RANGER · 1993",
   "cap": "WALKER",
@@ -568,8 +538,8 @@
  },
  {
   "src": [
-   "WT2",
-   "WT"
+   "WT@0-22",
+   "WT@26-40"
   ],
   "label": "WALKER, TEXAS RANGER",
   "cap": "LOS DOBLES",
@@ -601,8 +571,8 @@
  },
  {
   "src": [
-   "KD",
-   "WT"
+   "KD@400-2500",
+   "WT@0-22"
   ],
   "label": "CHUCK NORRIS",
   "cap": "KICKSTART KIDS",
@@ -621,8 +591,8 @@
  },
  {
   "src": [
-   "KK",
-   "DF"
+   "KK@5-55",
+   "DF@15-110"
   ],
   "label": "CHUCK NORRIS",
   "cap": "LOS DATOS",
@@ -639,8 +609,8 @@
  },
  {
   "src": [
-   "DF",
-   "KK"
+   "DF@15-110",
+   "KK@5-55"
   ],
   "label": "CHUCK NORRIS",
   "cap": "THE EXPENDABLES 2",
@@ -661,8 +631,8 @@
  },
  {
   "src": [
-   "KK",
-   "DF"
+   "KK@5-55",
+   "DF@15-110"
   ],
   "label": "CHUCK NORRIS",
   "cap": "EL LIBRO",
@@ -676,8 +646,8 @@
  },
  {
   "src": [
-   "WT",
-   "KD"
+   "WT@0-22",
+   "KD@400-2500"
   ],
   "label": "CHUCK NORRIS",
   "cap": "FAMILIA",
@@ -708,8 +678,8 @@
  },
  {
   "src": [
-   "WD2",
-   "OC"
+   "WD2@15-600",
+   "OC@15-110"
   ],
   "label": "CHUCK NORRIS",
   "cap": "UN PELEADOR REAL",
@@ -738,10 +708,10 @@
  },
  {
   "src": [
-   "WD",
-   "WT",
-   "GG",
-   "KD"
+   "WD2@15-600",
+   "WT@0-22",
+   "GG@10-88",
+   "KD@400-2500"
   ],
   "label": "¿CUÁL ES TU FAVORITA?",
   "cap": "¿CUÁL ES TU FAVORITA?",
