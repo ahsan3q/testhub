@@ -1,0 +1,336 @@
+[
+ {
+  "src": "MB",
+  "label": "MARLBORO",
+  "cap": "",
+  "txt": "Si veías televisión en los años setenta, seguramente algunos de estos comerciales siguen pegados en tu cabeza. El vaquero de Marlboro, el búho que se comía las paletas, el pan que construía cuerpos fuertes de doce maneras. En esa época había muy pocos canales, así que millones de personas veían exactamente los mismos anuncios. Y cincuenta años después, muchos todavía pueden cantar los jingles de memoria."
+ },
+ {
+  "src": "MIX",
+  "label": "COMERCIALES DE LOS 70",
+  "cap": "¿QUÉ PASÓ?",
+  "txt": "Pero algunos de esos comerciales cruzaron una línea. Unos fueron prohibidos por ley. Otros fueron demandados por el gobierno. Otros cambiaron por presión del público. Y algunos simplemente se volvieron imposibles de transmitir de la misma forma. Hoy te traigo diez comerciales polémicos de los años setenta que desaparecieron de la televisión, y lo que realmente les pasó. Y cuéntame en los comentarios cuál recuerdas sin necesidad de escuchar el jingle."
+ },
+ {
+  "src": "WB",
+  "label": "WONDER BREAD",
+  "cap": "#10",
+  "txt": "Número diez. El pan que construía cuerpos fuertes."
+ },
+ {
+  "src": "WB",
+  "label": "WONDER BREAD · 1952",
+  "cap": "8 MANERAS",
+  "txt": "Para millones de niños, la frase sonaba más a dato científico que a publicidad. Wonder Bread, el pan blanco más famoso de Estados Unidos, decía que ayudaba a construir cuerpos fuertes de ocho maneras. Con los años, el número subió a doce. El pan sí tenía vitaminas y minerales añadidos. El problema era cómo lo mostraban: niños que crecían de forma casi mágica mientras comían pan blanco."
+ },
+ {
+  "src": "WB",
+  "label": "WONDER BREAD · 1930",
+  "cap": "PAN REBANADO",
+  "txt": "Y Wonder Bread tenía una historia importante. Fue una de las primeras marcas en vender pan ya rebanado a nivel nacional, a partir de 1930. De ahí viene la expresión en inglés, lo mejor desde el pan rebanado. Durante la Segunda Guerra Mundial, el pan enriquecido con vitaminas se promovió como parte del esfuerzo para mejorar la nutrición del país. Por eso la marca se sentía casi como un alimento oficial de la familia estadounidense, y sus anuncios tenían tanta credibilidad."
+ },
+ {
+  "src": "WB",
+  "label": "WONDER BREAD",
+  "cap": "LA FTC",
+  "txt": "La Comisión Federal de Comercio, la FTC, cuestionó la campaña. La pregunta era si los anuncios dejaban en los padres una impresión mucho más fuerte de lo que justificaban los datos nutricionales. El caso llegó a una corte federal de apelaciones en 1976. Y aunque el pan siguió en los supermercados, la idea de que un pan blanco hacía crecer a los niños de doce maneras distintas se volvió imposible de repetir en televisión.",
+  "fx": {
+   "type": "compare",
+   "title": "LA PROMESA DE WONDER BREAD",
+   "left": [
+    "8",
+    "MANERAS AL PRINCIPIO"
+   ],
+   "right": [
+    "12",
+    "MANERAS DESPUÉS"
+   ],
+   "dur": 4.5
+  }
+ },
+ {
+  "src": "SB",
+  "label": "SCHAEFER BEER",
+  "cap": "#9",
+  "txt": "Número nueve. La cerveza para cuando tomas más de una."
+ },
+ {
+  "src": "SB",
+  "label": "SCHAEFER · NUEVA YORK",
+  "cap": "",
+  "txt": "Schaefer era una de las cervecerías más antiguas de Estados Unidos, fundada en Nueva York en 1842. Y su jingle era imposible de olvidar: la única cerveza para tomar cuando estás tomando más de una. La idea era que, en una fiesta o en un partido, Schaefer seguía sabiendo bien después de la tercera o la cuarta.",
+  "fx": {
+   "type": "map",
+   "title": "LA CERVECERÍA DE NUEVA YORK",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York"
+   ],
+   "pins": [
+    {
+     "name": "SCHAEFER · NUEVA YORK · 1842",
+     "lon": -73.95,
+     "lat": 40.71
+    }
+   ],
+   "view": [
+    -82,
+    37,
+    -68,
+    45.5
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "SB",
+  "label": "SCHAEFER MUSIC FESTIVAL",
+  "cap": "CENTRAL PARK",
+  "txt": "Schaefer también era famosa por algo más que su jingle. Durante varios veranos, entre finales de los sesenta y mediados de los setenta, la marca patrocinó el Schaefer Music Festival en el Central Park de Nueva York, con conciertos de grandes artistas de rock, soul y jazz a precios muy bajos. Para muchos neoyorquinos, la cerveza estaba unida a esos veranos de música. Por eso su eslogan se escuchaba en todas partes."
+ },
+ {
+  "src": "SB",
+  "label": "SCHAEFER",
+  "cap": "",
+  "txt": "El eslogan convertía beber mucho en una ventaja. Y cuando la sociedad empezó a preocuparse más por el abuso del alcohol y por manejar ebrio, ese mensaje se volvió difícil de defender. No hubo una prohibición del gobierno. La frase simplemente se fue apagando a medida que cambiaba la cultura. Pero el jingle ya estaba grabado en la memoria de toda una generación.",
+  "fx": {
+   "type": "quote",
+   "text": "La única cerveza para tomar cuando estás tomando más de una.",
+   "by": "Jingle de Schaefer",
+   "dur": 4.5
+  }
+ },
+ {
+  "src": "TP",
+  "label": "TOOTSIE POP",
+  "cap": "#8",
+  "txt": "Número ocho. ¿Cuántas lamidas?"
+ },
+ {
+  "src": "TP",
+  "label": "TOOTSIE POP · 1970",
+  "cap": "EL SEÑOR BÚHO",
+  "txt": "Este es uno de los comerciales más queridos de la historia. Un niño le pregunta a varios animales cuántas lamidas se necesitan para llegar al centro de una paleta Tootsie Pop. Al final llega con el Señor Búho, que empieza a contar: una, dos, tres. Y a la tercera, le da una mordida. Nunca sabremos la respuesta, dice el narrador."
+ },
+ {
+  "src": "TP",
+  "label": "TOOTSIE POP · 1931",
+  "cap": "DESDE 1931",
+  "txt": "La paleta Tootsie Pop existía desde 1931: una paleta dura con un centro de caramelo masticable Tootsie Roll, un dulce que a su vez existía desde finales del siglo diecinueve. Pero fue el comercial del búho el que la convirtió en leyenda. La frase, ¿cuántas lamidas se necesitan para llegar al centro?, se volvió una de las preguntas más famosas de la publicidad, y el comercial se siguió transmitiendo durante décadas con muy pocos cambios."
+ },
+ {
+  "src": "TP",
+  "label": "TOOTSIE POP",
+  "cap": "364 LAMIDAS",
+  "txt": "Y la pregunta se volvió tan famosa que hasta universidades intentaron responderla. Según se ha reportado, estudiantes de ingeniería de la Universidad Purdue construyeron una máquina para lamer, que necesitó en promedio trescientas sesenta y cuatro lamidas. El comercial nunca fue prohibido. Tootsie todavía lo celebra. Lo que cambió fue todo lo que lo rodeaba: las reglas sobre cuántos anuncios se podían poner en programas infantiles y cómo separarlos de las caricaturas.",
+  "fx": {
+   "type": "counter",
+   "value": 364,
+   "suffix": " LAMIDAS",
+   "label": "LA MÁQUINA DE PURDUE",
+   "sub": "Según se ha reportado",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "MB",
+  "label": "MARLBORO",
+  "cap": "#7",
+  "txt": "Número siete. El vaquero de Marlboro."
+ },
+ {
+  "src": "MB",
+  "label": "MARLBORO · AÑOS 60",
+  "cap": "EL VAQUERO",
+  "txt": "El vaquero de Marlboro fue una de las imágenes publicitarias más poderosas del siglo veinte. Un hombre rudo, a caballo, en el oeste, con un cigarrillo en la boca. La campaña transformó a Marlboro en un símbolo de masculinidad, y la televisión la repetía todos los días en millones de hogares."
+ },
+ {
+  "src": "MB",
+  "label": "2 DE ENERO, 1971",
+  "cap": "",
+  "txt": "Este sí terminó por una ley. La ley de salud pública sobre el cigarrillo prohibió la publicidad de tabaco en la radio y la televisión de Estados Unidos, a partir del dos de enero de 1971. Marlboro siguió usando al vaquero en revistas, carteles y patrocinios. Pero lo que desapareció fue la repetición en televisión que lo había convertido en un ícono nacional.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL FIN DE LOS ANUNCIOS DE TABACO",
+   "items": [
+    [
+     "1950s",
+     "Nace el vaquero de Marlboro"
+    ],
+    [
+     "1970",
+     "Se firma la ley"
+    ],
+    [
+     "1971",
+     "Prohibidos en TV y radio"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "WI",
+  "label": "WINSTON · LOS PICAPIEDRA",
+  "cap": "#6",
+  "txt": "Número seis. Pedro y Pablo vendiendo cigarrillos."
+ },
+ {
+  "src": "WI",
+  "label": "WINSTON · 1960–1962",
+  "cap": "",
+  "txt": "Para quien creció viendo Los Picapiedra en las mañanas del sábado, ver a Pedro y Pablo prendiendo un cigarrillo parece imposible. Pero estos comerciales de Winston son reales. Empezaron a principios de los sesenta, cuando la serie todavía era una comedia animada para adultos en horario estelar, y Winston era uno de sus patrocinadores. Años después, con las repeticiones, la serie se volvió infantil, y por eso tanta gente recuerda estos anuncios como parte de su niñez. Con la misma ley de 1971, Pedro y Pablo nunca más pudieron vender cigarrillos en televisión."
+ },
+ {
+  "src": "AJ",
+  "label": "AUNT JEMIMA",
+  "cap": "#5",
+  "txt": "Número cinco. La tía Jemima."
+ },
+ {
+  "src": "AJ",
+  "label": "AUNT JEMIMA · 1967",
+  "cap": "",
+  "txt": "La marca de harina para hot cakes Aunt Jemima existía desde finales del siglo diecinueve. Y su imagen estaba basada en un estereotipo racial: una cocinera negra, siempre servicial, que evocaba la idea idealizada del viejo sur de Estados Unidos. Con los movimientos por los derechos civiles de los sesenta, esa historia se volvió imposible de ignorar."
+ },
+ {
+  "src": "AJ",
+  "label": "AUNT JEMIMA",
+  "cap": "2020",
+  "txt": "En 1968, la marca rediseñó el personaje para que se viera más joven y moderno, y le quitó el pañuelo de la cabeza. Durante las siguientes décadas lo siguió actualizando, pero mantuvo el nombre, porque era muy conocido. No hubo una orden del gobierno. El cambio fue lento, por presión cultural. Y el final llegó mucho después: en 2020, la empresa Quaker reconoció que la marca se basaba en un estereotipo racial, retiró el nombre, y lo cambió por Pearl Milling Company.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA LARGA RETIRADA DE AUNT JEMIMA",
+   "items": [
+    [
+     "1968",
+     "Primer rediseño"
+    ],
+    [
+     "1989",
+     "Otro cambio de imagen"
+    ],
+    [
+     "2020",
+     "Quaker retira el nombre"
+    ],
+    [
+     "2021",
+     "Pearl Milling Company"
+    ]
+   ],
+   "dur": 5.5
+  }
+ },
+ {
+  "src": "GE",
+  "label": "GERITOL",
+  "cap": "#4",
+  "txt": "Número cuatro. La sangre cansada."
+ },
+ {
+  "src": "GE2",
+  "label": "GERITOL · 1954",
+  "cap": "SANGRE CANSADA",
+  "txt": "Geritol era un tónico con hierro y vitaminas. Y sus comerciales tenían una idea muy efectiva: si te sentías cansado, tal vez tenías la sangre cansada. Es decir, falta de hierro. El problema era que la mayoría de las personas cansadas no tenían falta de hierro. Estaban cansadas por cualquier otra razón."
+ },
+ {
+  "src": "GE2",
+  "label": "TWENTY-ONE · 1958",
+  "cap": "EL ESCÁNDALO",
+  "txt": "Y Geritol ya tenía historia con la polémica. En los años cincuenta patrocinaba Twenty-One, uno de los concursos de preguntas más vistos de la televisión. En 1958 se descubrió que el programa estaba arreglado: a algunos concursantes les daban las respuestas antes de salir al aire. El escándalo de los concursos llegó hasta el Congreso de Estados Unidos, y cambió para siempre la relación entre los patrocinadores y los programas. Antes, una marca podía ser dueña de un programa entero. Después, los canales tomaron el control, y las marcas empezaron a comprar solo los espacios de comerciales."
+ },
+ {
+  "src": "GE",
+  "label": "GERITOL · LA FTC",
+  "cap": "",
+  "txt": "La FTC demandó a la empresa, y un tribunal federal de apelaciones le dio la razón: la publicidad podía ser falsa y engañosa, porque daba a entender que Geritol era la solución para el cansancio de casi todo el mundo. La empresa tuvo que aclarar sus anuncios. Y el caso dejó una lección muy importante: un comercial puede decir cosas verdaderas, y aun así engañar por la impresión general que deja. En los setenta, Geritol ya era un chiste habitual de los comediantes."
+ },
+ {
+  "src": "AN",
+  "label": "ANACIN",
+  "cap": "#3",
+  "txt": "Número tres. Tensión, presión, dolor."
+ },
+ {
+  "src": "AN2",
+  "label": "ANACIN · 1960",
+  "cap": "TENSIÓN NERVIOSA",
+  "txt": "Los comerciales de Anacin mostraban situaciones que todos conocemos: estrés en casa, presión en el trabajo, una cabeza a punto de explotar. Y presentaban la pastilla como la respuesta. El problema era que los anuncios hacían parecer que el medicamento curaba el estrés y la tensión nerviosa, no solo el dolor de cabeza. La FTC concluyó que esa publicidad hacía afirmaciones sin pruebas sobre aliviar la ansiedad, la tensión o la depresión, y le prohibió a la empresa seguir diciéndolo. Los reguladores no leían solo las palabras. Analizaban la impresión completa: imágenes, sonido y contexto."
+ },
+ {
+  "src": "CE",
+  "label": "CEREALES · AÑOS 70",
+  "cap": "#2",
+  "txt": "Número dos. Los cereales azucarados de los sábados."
+ },
+ {
+  "src": "CE",
+  "label": "KELLOGG'S · 1976",
+  "cap": "",
+  "txt": "Si eras niño en los setenta, el desayuno llegaba a través de las caricaturas: mascotas, premios, canciones y cajas de colores, justo en medio de los programas que más veías. Y a finales de la década, la FTC empezó a considerar una regla muy drástica. Una opción era limitar la publicidad dirigida a niños muy pequeños. Otra era restringir los anuncios de alimentos con mucha azúcar, por la salud dental."
+ },
+ {
+  "src": "CC",
+  "label": "KID-VID · 1978",
+  "cap": "KID-VID",
+  "txt": "El proceso se conoció como Kid-Vid, y provocó una enorme oposición de la industria y de los políticos. La gran pregunta era si un niño de seis años entendía que un comercial intentaba venderle algo, cuando en la misma pantalla aparecían el héroe de la caricatura, la mascota del cereal y el juguete de moda. En 1980, el Congreso limitó el poder de la FTC para hacer ese tipo de reglas. La gran prohibición nunca llegó. Pero la pregunta cambió la televisión infantil para siempre.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA BATALLA KID-VID",
+   "items": [
+    [
+     "1978",
+     "La FTC propone limitar anuncios"
+    ],
+    [
+     "1979",
+     "Presión de la industria"
+    ],
+    [
+     "1980",
+     "El Congreso frena a la FTC"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "GJ",
+  "label": "G.I. JOE",
+  "cap": "#1",
+  "txt": "Número uno. Vender la guerra a los niños."
+ },
+ {
+  "src": "GJ",
+  "label": "G.I. JOE · AÑOS 70",
+  "cap": "KUNG FU GRIP",
+  "txt": "Los fabricantes de juguetes usaban la televisión para convertir la guerra en un juego: figuras de soldados, armas de juguete, vehículos militares y explosiones. G.I. Joe era el rey. En los setenta, Hasbro lo convirtió en un aventurero con su famoso agarre de kung fu, y los comerciales lo mostraban en misiones de acción que hacían que cualquier niño quisiera uno."
+ },
+ {
+  "src": "GJ",
+  "label": "G.I. JOE · 1964",
+  "cap": "FIGURA DE ACCIÓN",
+  "txt": "Y G.I. Joe tiene un dato curioso. Cuando Hasbro lo lanzó en 1964, no quería llamarlo muñeco, porque pensaba que los niños no comprarían muñecos. Así que lo vendió como una figura de acción. Ese término, que hoy usamos para todos los juguetes de superhéroes, nació justamente para vender un soldado de juguete a los niños. Durante la guerra de Vietnam, el soldado se volvió un tema delicado, y Hasbro lo transformó en un aventurero que exploraba selvas y tumbas antiguas."
+ },
+ {
+  "src": "GJ2",
+  "label": "G.I. JOE · ADVENTURE TEAM",
+  "cap": "",
+  "txt": "Al mismo tiempo, padres, maestros y defensores de los niños discutían una pregunta más grande: ¿dónde termina el entretenimiento y dónde empieza la publicidad? ¿Y qué puede distinguir realmente un niño pequeño? El debate sobre los juguetes de guerra era parte de la misma batalla de Kid-Vid. Hasta hoy, la gente está dividida: unos recuerdan a G.I. Joe como diversión inocente, y otros piensan que esos comerciales hacían ver la guerra demasiado emocionante. Los anuncios no solo vendían plástico. Vendían un papel que jugar."
+ },
+ {
+  "src": "MIX",
+  "label": "COMERCIALES DE LOS 70",
+  "cap": "LA LECCIÓN",
+  "txt": "Ese es el patrón detrás de estos diez comerciales. Algunos los detuvo una ley. Otros los cuestionó la FTC. Otros cambiaron por presión del público. Y otros nunca fueron prohibidos: simplemente se volvió imposible presentarlos de la misma forma. Tal vez por eso los recordamos tan bien. Con tan pocos canales, un solo jingle llegaba a todo el país al mismo tiempo. Hoy las quejas son otras: anuncios de medicamentos, de apuestas, y publicidad en todas partes. Los productos cambiaron. La discusión sobre hasta dónde puede llegar la publicidad, no."
+ },
+ {
+  "src": "MIX",
+  "label": "",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "¿Cuál de estos comerciales recuerdas sin escuchar el jingle? Déjamelo en los comentarios. Y suscríbete y activa la campanita para el próximo viaje al pasado de la televisión."
+ }
+]
