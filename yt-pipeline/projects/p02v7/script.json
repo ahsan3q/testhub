@@ -1,0 +1,586 @@
+[
+ {
+  "src": [
+   "FD",
+   "FR"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "",
+  "txt": "Lo mejor de mí, dijo Matthew Perry en un escenario de Toronto en 2022, es que cuando alguien se me acerca y me dice: no puedo dejar de beber, ¿me ayudas?, yo puedo decir que sí, y cumplir. No quiero que Friends sea lo primero que mencionen de mí. Quiero que sea eso. Once meses después, ya no estaba."
+ },
+ {
+  "src": [
+   "FR",
+   "FD"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "1969 - 2023",
+  "txt": "Hoy recorremos la vida de Matthew Perry a través de lo que contaron quienes estuvieron a su lado: sus compañeros de Friends, sus amigos, su familia. La oración que hizo tres semanas antes de conseguir el papel de Chandler, el secreto que sus compañeros podían oler en el set, y las personas que dicen que él les salvó la vida.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DE MATTHEW PERRY",
+   "items": [
+    [
+     "1969",
+     "Nace"
+    ],
+    [
+     "1994",
+     "Friends"
+    ],
+    [
+     "2022",
+     "Sus memorias"
+    ],
+    [
+     "2023",
+     "Muere a los 54"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "BB",
+   "HF"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "OTTAWA",
+  "txt": "Nació en 1969 en Massachusetts, pero creció en Ottawa, Canadá, con su madre, que trabajó como secretaria de prensa del primer ministro Pierre Trudeau. Su padrastro fue Keith Morrison, el periodista de televisión, que recuerda que desde niño se notaba que no era como los demás: tenía una chispa que nadie podía contener. De adolescente fue un tenista juvenil muy competitivo.",
+  "fx": {
+   "type": "map",
+   "title": "DE CANADÁ A LOS ÁNGELES",
+   "countries": [
+    "Canada",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "OTTAWA",
+     "lon": -75.7,
+     "lat": 45.42
+    },
+    {
+     "name": "LOS ÁNGELES",
+     "lon": -118.24,
+     "lat": 34.05
+    }
+   ],
+   "route": [
+    0,
+    1
+   ],
+   "view": [
+    -128,
+    25,
+    -65,
+    55
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "BB",
+   "HF"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "TRUDEAU",
+  "txt": "Y de su infancia en Ottawa contaba una anécdota que dio la vuelta al mundo: en una entrevista de 2017 dijo, entre risas, que de niño él y un amigo le habían pegado en la escuela a Justin Trudeau, años antes de que se convirtiera en primer ministro de Canadá, porque estaban celosos de su papá, que era el primer ministro. Después aclaró que fue una travesura de niños, y bromeó que Trudeau podría vengarse.",
+  "fx": {
+   "type": "compare",
+   "title": "COMPAÑEROS DE ESCUELA EN OTTAWA",
+   "left": [
+    "MATTHEW PERRY",
+    "CHANDLER"
+   ],
+   "right": [
+    "JUSTIN TRUDEAU",
+    "PRIMER MINISTRO"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BB",
+   "BB"
+  ],
+  "label": "BOYS WILL BE BOYS · 1987",
+  "cap": "EL PRIMER AMIGO",
+  "txt": "A los quince años se mudó a Los Ángeles con su padre, el actor John Bennett Perry. El actor Hank Azaria cuenta que Matthew fue el primer amigo que hizo cuando llegó a la ciudad: Hank tenía veintiuno, Matthew dieciséis. Hicieron juntos un piloto que nunca salió al aire, y durante años fueron más como hermanos que como amigos.",
+  "fx": {
+   "type": "quote",
+   "text": "Fue el primer amigo que hice en Los Ángeles. Éramos como hermanos.",
+   "by": "Hank Azaria, sobre Matthew Perry",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "BB",
+   "BB"
+  ],
+  "label": "BOYS WILL BE BOYS · 1987",
+  "cap": "10 AÑOS",
+  "txt": "Su primera aparición en televisión fue a los diez años, en un pequeño papel en una serie policiaca. Y en los ochenta, ya en Los Ángeles, consiguió papeles en comedias como Boys Will Be Boys, donde era uno de los protagonistas adolescentes. Las series duraban poco, pero cada una le enseñaba algo sobre el ritmo de la comedia frente al público en vivo."
+ },
+ {
+  "src": [
+   "HF",
+   "BB"
+  ],
+  "label": "HOME FREE · 1993",
+  "cap": "LA ORACIÓN",
+  "txt": "Antes de Friends, a los veinticuatro, nadie lo quería. Una serie de pilotos fracasados, casi sin dinero. Y en su libro de memorias contó que una noche, solo en su departamento, se arrodilló por primera vez en su vida y rezó: Dios, hazme famoso, puedes hacerme lo que quieras, pero hazme famoso. Tres semanas después consiguió Friends. Y escribió que Dios no se olvidó de la segunda parte del trato.",
+  "fx": {
+   "type": "quote",
+   "text": "Dios, hazme famoso. Puedes hacerme lo que quieras.",
+   "by": "Matthew Perry, en sus memorias",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "HF",
+   "FR"
+  ],
+  "label": "HOME FREE · 1993",
+  "cap": "LAX 2194",
+  "txt": "Pero Friends casi lo pierde. Ya había firmado para otra comedia, sobre maleteros de un aeropuerto en el año 2194. Alguien del estudio vio la grabación y supo que no iba a durar, así que el papel de Chandler le quedó libre. Otros actores, como Jon Cryer, también lo habían buscado. Y el director James Burrows, el de Cheers, que había visto a mucha gente graciosa, nunca había escuchado a nadie decir los chistes así.",
+  "fx": {
+   "type": "compare",
+   "title": "CASI NO FUE CHANDLER",
+   "left": [
+    "LAX 2194",
+    "UNA SERIE EN UN AEROPUERTO"
+   ],
+   "right": [
+    "FRIENDS",
+    "CHANDLER BING"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "FR",
+   "FR"
+  ],
+  "label": "FRIENDS · 1994",
+  "cap": "CHANDLER",
+  "txt": "Su secreto era poner el énfasis en la palabra equivocada, y hacer que una línea buena se volviera extraordinaria: ¿podría ser esto más emocionante?. Maggie Wheeler, que interpretaba a Janice, la novia de la que Chandler nunca se libraba, contó que era muy difícil no reírse frente a él, y que era de las personas más graciosas del mundo. Lisa Kudrow lo dijo así: era el más gracioso, perdón a todos los demás.",
+  "fx": {
+   "type": "quote",
+   "text": "Era el más gracioso. Perdón a todos los demás.",
+   "by": "Lisa Kudrow, sobre Matthew Perry",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "FR",
+   "FD"
+  ],
+  "label": "FRIENDS · 1994",
+  "cap": "MONICA Y CHANDLER",
+  "txt": "Y Chandler se volvió mucho más que el amigo sarcástico. Su relación con Monica, que empezó en secreto al final de la cuarta temporada, se convirtió en una de las parejas más queridas de la televisión, y su boda, en la séptima temporada, fue uno de los episodios más vistos. Para muchos, Chandler era el amigo que hacía chistes para esconder lo que sentía. Y Perry decía que, en eso, el personaje se parecía mucho a él.",
+  "fx": {
+   "type": "timeline",
+   "title": "MONICA Y CHANDLER",
+   "items": [
+    [
+     "T4",
+     "Empiezan en secreto"
+    ],
+    [
+     "T5",
+     "Todos se enteran"
+    ],
+    [
+     "T7",
+     "La boda"
+    ],
+    [
+     "T10",
+     "Los gemelos"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "W95",
+   "FR"
+  ],
+  "label": "WINDOWS 95 · 1995",
+  "cap": "WINDOWS 95",
+  "txt": "Friends fue un fenómeno tan grande que en 1995 Microsoft contrató a Matthew Perry y a Jennifer Aniston para un video promocional de una hora sobre Windows 95, donde los dos hacían bromas mientras le explicaban a Bill Gates cómo usar la computadora. Hoy es una curiosidad que circula por internet como pieza de museo de los noventa.",
+  "fx": {
+   "type": "headline",
+   "paper": "MICROSOFT · 1995",
+   "date": "1995",
+   "headline": "CHANDLER Y RACHEL EXPLICAN WINDOWS 95",
+   "sub": "Un video promocional de una hora",
+   "stamp": "CURIOSIDAD",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "FR",
+   "FD"
+  ],
+  "label": "FRIENDS · 1994",
+  "cap": "MORGAN FAIRCHILD",
+  "txt": "Y Morgan Fairchild, que interpretó a su mamá en la serie, recuerda su primer día: Matthew llegó corriendo como un cachorro grande y le dijo: no me vas a recordar, pero de niño yo andaba en el set de tus series con mi papá. Su padre había tenido un papel en esos programas. Fairchild pensó: bueno, supongo que sí soy lo bastante mayor para hacer de su mamá.",
+  "fx": {
+   "type": "compare",
+   "title": "SU MAMÁ EN FRIENDS",
+   "left": [
+    "AÑOS 80",
+    "EL NIÑO EN EL SET"
+   ],
+   "right": [
+    "AÑOS 90",
+    "SU HIJO EN LA SERIE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FRI",
+   "FRI"
+  ],
+  "label": "FOOLS RUSH IN · 1997",
+  "cap": "SALMA HAYEK",
+  "txt": "En 1997 protagonizó su primera gran comedia romántica en el cine, Fools Rush In, junto a la mexicana Salma Hayek: la historia de un arquitecto de Nueva York que se enamora en Las Vegas de una fotógrafa mexicoamericana, y que termina conociendo a su gran familia y sus tradiciones. Para muchos en América Latina, fue la primera vez que vieron a Chandler fuera de Friends.",
+  "fx": {
+   "type": "compare",
+   "title": "FOOLS RUSH IN (1997)",
+   "left": [
+    "MATTHEW PERRY",
+    "EL ARQUITECTO"
+   ],
+   "right": [
+    "SALMA HAYEK",
+    "LA FOTÓGRAFA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "FRI",
+   "FR"
+  ],
+  "label": "FOOLS RUSH IN · 1997",
+  "cap": "1997",
+  "txt": "Pero detrás de los chistes, algo estaba mal. En 1997, durante la filmación de la comedia romántica Fools Rush In, con Salma Hayek, tuvo un accidente en moto acuática. Un médico le recetó un analgésico opioide. Y empezó una adicción que, según escribió, llegó en su peor momento a cincuenta y cinco pastillas al día.",
+  "fx": {
+   "type": "counter",
+   "value": 55,
+   "suffix": " PASTILLAS",
+   "label": "AL DÍA, EN SU PEOR MOMENTO",
+   "sub": "Según sus memorias",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "FR",
+   "FD"
+  ],
+  "label": "FRIENDS · 1994",
+  "cap": "LA REGLA",
+  "txt": "Él tenía una regla: nunca beber ni drogarse mientras trabajaba, por respeto a sus cinco compañeros. Pero sí trabajaba con resaca, y contó que llegó a temblar tanto que, para cruzar del librero a la mesa en una escena, tenía que hacerlo rápido y apoyar la mano para que no se notara. Su familia lo veía cada vez que volvía a casa: más delgado, evitando el tema, hasta que una crisis de salud lo llevaba otra vez a rehabilitación.",
+  "fx": {
+   "type": "quote",
+   "text": "Nunca bebía mientras trabajaba, por respeto a mis cinco compañeros.",
+   "by": "Matthew Perry",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FD",
+   "FR"
+  ],
+  "label": "FRIENDS · 1994",
+  "cap": "PODEMOS OLERLO",
+  "txt": "Y sus compañeros se dieron cuenta. Una noche, después de una grabación, Jennifer Aniston entró a su camerino y le dijo: sabemos que estás bebiendo. Él le preguntó cómo lo sabían. Podemos olerlo, le respondió. Perry contó que esa noche llegó a casa y volvió a beber, porque no podía parar. Pero que Jennifer siempre intentó ayudarlo, a su manera.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ELENCO DE FRIENDS",
+   "left": [
+    "SEIS ACTORES",
+    "UNA FAMILIA"
+   ],
+   "right": [
+    "DIEZ TEMPORADAS",
+    "DE 1994 A 2004"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FD",
+   "FR"
+  ],
+  "label": "FRIENDS · 1994",
+  "cap": "UN MILLÓN",
+  "txt": "Y el éxito fue enorme. Los seis negociaron siempre juntos, como grupo, para que nadie ganara más que los demás. En las últimas temporadas, cada uno cobraba un millón de dólares por episodio, una de las cifras más altas de la historia de la televisión. Y en 2002, Matthew fue nominado al Emmy como mejor actor de comedia, y al año siguiente, por un papel invitado en The West Wing.",
+  "fx": {
+   "type": "counter",
+   "value": 1,
+   "prefix": "$",
+   "suffix": " MILLÓN",
+   "label": "POR EPISODIO, CADA UNO",
+   "sub": "En las últimas temporadas de Friends",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "FD",
+   "FD"
+  ],
+  "label": "A FAREWELL TO FRIENDS · 2004",
+  "cap": "LA FAMILIA",
+  "txt": "Kevin Bright, productor de las diez temporadas, cree que ese elenco lo mantuvo a flote. Contó que antes de cada episodio los seis se juntaban detrás del escenario en un círculo, y comían juntos entre ensayos. Era una familia. Y cree que, sin ese elenco perfecto a su alrededor, su historia pudo haber sido muy distinta.",
+  "fx": {
+   "type": "list",
+   "title": "LOS SEIS AMIGOS",
+   "items": [
+    "Jennifer Aniston",
+    "Courteney Cox",
+    "Lisa Kudrow",
+    "Matt LeBlanc",
+    "Matthew Perry",
+    "David Schwimmer"
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "WN",
+   "WN"
+  ],
+  "label": "THE WHOLE NINE YARDS · 2000",
+  "cap": "BRUCE WILLIS",
+  "txt": "En el año 2000 hizo la comedia Mi vecino el asesino con Bruce Willis, y en el set le hizo una apuesta: si la película se estrenaba en primer lugar, Willis tenía que salir gratis en Friends. Willis decía que Matthew era gracioso de forma natural, y que le agregó a la película mucha comedia física que no estaba en el guion. La película se estrenó en primer lugar. Willis salió en tres episodios de Friends, y donó su pago a la caridad.",
+  "fx": {
+   "type": "headline",
+   "paper": "TAQUILLA · 2000",
+   "date": "FEBRERO DE 2000",
+   "headline": "MI VECINO EL ASESINO DEBUTA EN PRIMER LUGAR",
+   "sub": "Bruce Willis pierde la apuesta y sale en Friends",
+   "stamp": "APUESTA",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "WN",
+   "SS"
+  ],
+  "label": "THE WHOLE NINE YARDS · 2000",
+  "cap": "GRIMACE",
+  "txt": "Hank Azaria cuenta que en persona era todavía más gracioso que en Friends, y que la vida para él era una especie de espectáculo. Cada vez que iban a la ventanilla de McDonald's, le preguntaba al empleado por el altavoz: ¿sabe usted qué es Grimace?, el personaje morado. Y cuando le decían que no, respondía muy serio: creo que es una malteada morada que se escapó de su vaso."
+ },
+ {
+  "src": [
+   "SS",
+   "WN"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "DESPUÉS DE FRIENDS",
+  "txt": "Cuando Friends terminó en 2004, siguió trabajando: protagonizó Studio 60 on the Sunset Strip, del creador de The West Wing, Aaron Sorkin; creó y protagonizó su propia comedia, Mr. Sunshine; hizo Go On, y una nueva versión de La extraña pareja. Ninguna repitió el éxito de Friends, pero en todas se notaba ese ritmo único para decir un chiste.",
+  "fx": {
+   "type": "timeline",
+   "title": "DESPUÉS DE FRIENDS",
+   "items": [
+    [
+     "2006",
+     "Studio 60"
+    ],
+    [
+     "2009",
+     "17 otra vez"
+    ],
+    [
+     "2011",
+     "Mr. Sunshine"
+    ],
+    [
+     "2015",
+     "La extraña pareja"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "RC",
+   "RC"
+  ],
+  "label": "THE RON CLARK STORY · 2006",
+  "cap": "RON CLARK",
+  "txt": "En 2006 hizo uno de sus papeles más serios: The Ron Clark Story, la historia real de un maestro que deja su pueblo para enseñar en una escuela difícil de Nueva York y logra sacar adelante a sus alumnos. Le dio nominaciones al Emmy y al Globo de Oro, y demostró que detrás del cómico había un actor dramático.",
+  "fx": {
+   "type": "compare",
+   "title": "THE RON CLARK STORY (2006)",
+   "left": [
+    "EL PERSONAJE",
+    "UN MAESTRO REAL"
+   ],
+   "right": [
+    "EL RESULTADO",
+    "EMMY Y GLOBO DE ORO (NOMINADO)"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "RC",
+   "SA"
+  ],
+  "label": "THE RON CLARK STORY · 2006",
+  "cap": "AA",
+  "txt": "Hacia 2006, Hank Azaria se dio cuenta de que tenía un problema con el alcohol, y tenía miedo de entrar a su primera reunión de Alcohólicos Anónimos. Así que su mejor amigo entró con él. Azaria contó que Matthew lo llevó, que durante todo su primer año sobrio fueron juntos a las reuniones, y que sobrio era una persona generosa y sabia que lo ayudó a dejar de beber.",
+  "fx": {
+   "type": "quote",
+   "text": "La noche que entré a Alcohólicos Anónimos, Matthew me llevó.",
+   "by": "Hank Azaria",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "SA",
+   "RC"
+  ],
+  "label": "17 AGAIN · 2009",
+  "cap": "PERRY HOUSE",
+  "txt": "Y no solo lo hizo por sus amigos. Convirtió su casa de Malibú en una casa de vida sobria para hombres, fue a Washington a defender los tribunales especiales para personas con adicciones, y en 2013 la Casa Blanca le dio un reconocimiento por su trabajo. Y a cualquiera que le preguntaba, le decía lo mismo: si no puedes parar, llámame. Después de su muerte, su hermana Caitlin escuchó a muchas personas decir lo mismo: que él les salvó la vida.",
+  "fx": {
+   "type": "list",
+   "title": "SU TRABAJO POR LA SOBRIEDAD",
+   "items": [
+    "Casa sobria en Malibú",
+    "Tribunales de drogas",
+    "Reconocimiento en 2013",
+    "Llamadas a las 3 de la mañana"
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "FD",
+   "FR"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "LA REUNIÓN",
+  "txt": "En 2021, los seis se volvieron a juntar en un especial de reunión de Friends, sentados otra vez en el sofá del Central Perk. Fue un evento visto en todo el mundo. Y meses después, Perry contó en su libro que durante la grabación de algunas temporadas había estado mucho más enfermo de lo que el público imaginaba, y que agradecía haber sobrevivido para poder contarlo.",
+  "fx": {
+   "type": "headline",
+   "paper": "TELEVISIÓN · 2021",
+   "date": "MAYO DE 2021",
+   "headline": "LOS SEIS DE FRIENDS SE REÚNEN DE NUEVO",
+   "sub": "Diecisiete años después del último episodio",
+   "stamp": "REUNIÓN",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "OC",
+   "MS"
+  ],
+  "label": "THE ODD COUPLE · 2015",
+  "cap": "LAS MEMORIAS",
+  "txt": "En 2022, por fin lo contó todo en sus memorias: sesenta y cinco desintoxicaciones, quince centros de rehabilitación, el colon perforado, dos semanas en coma, y unos nueve millones de dólares gastados en intentar mantenerse sobrio. Para 2023, parecía que por fin había ganado. Quienes hablaron con él esos meses lo describen animado, enfocado en ayudar a otros y con ganas de volver a hacer películas.",
+  "fx": {
+   "type": "bars",
+   "title": "LO QUE CONTÓ EN SUS MEMORIAS",
+   "items": [
+    [
+     "DESINTOXICACIONES",
+     65
+    ],
+    [
+     "REHABILITACIONES",
+     15
+    ],
+    [
+     "DÍAS EN COMA",
+     14
+    ]
+   ],
+   "suffix": "",
+   "note": "Friends, Lovers and the Big Terrible Thing (2022)",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "FD",
+   "FR"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "28 DE OCTUBRE",
+  "txt": "La mañana del veintiocho de octubre de 2023, Jennifer Aniston intercambió mensajes con él. Ella contó que estaba feliz, sano, había dejado de fumar y no sentía dolor. Esa tarde lo encontraron en el jacuzzi de su casa. Tenía cincuenta y cuatro años. La autopsia encontró ketamina, y cinco personas, entre ellas dos médicos, se declararon culpables por haberle suministrado la droga.",
+  "fx": {
+   "type": "headline",
+   "paper": "LOS ÁNGELES · 2023",
+   "date": "28 DE OCTUBRE DE 2023",
+   "headline": "MUERE MATTHEW PERRY A LOS 54 AÑOS",
+   "sub": "El Chandler de Friends",
+   "stamp": "1969-2023",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "FR",
+   "FD"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "SOLO MAMÁ",
+  "txt": "Morgan Fairchild estaba en el teatro cuando salió la noticia, y sus compañeros taparon su teléfono con pañuelos para que no la viera antes de la función. Ella intentaba protegerlos a ellos, y ellos a ella. Contó que le llegaron condolencias de todo el mundo, porque para millones de personas ella era la mamá de Chandler. Y Hank Azaria escribió que le dolía que Matthew, que ayudó a tanta gente, no hubiera podido salvarse a sí mismo."
+ },
+ {
+  "src": [
+   "FR",
+   "SA"
+  ],
+  "label": "MATTHEW PERRY",
+  "cap": "LA FUNDACIÓN",
+  "txt": "Pocos días después de su muerte, su familia y sus amigos crearon la Fundación Matthew Perry, dedicada a ayudar a personas que luchan contra la adicción, justo lo que él dijo que quería que fuera su legado. Hank Azaria lo resumió así: era el tipo más gracioso que conocí, y también uno de los más generosos con las personas que sufrían.",
+  "fx": {
+   "type": "quote",
+   "text": "Quiero ser recordado como alguien que ayudó a la gente.",
+   "by": "Matthew Perry, Toronto, 2022",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "FR",
+   "FD",
+   "WN",
+   "SA"
+  ],
+  "label": "¿CÓMO LO RECUERDAS?",
+  "cap": "¿CÓMO LO RECUERDAS?",
+  "txt": "Un año antes de morir, alguien le preguntó cómo quería ser recordado. Respondió: como alguien que vivió bien, amó bien, buscó, y que lo más importante para él era ayudar a la gente. No pidió que lo recordaran por Chandler, ni por la fama que tanto pidió. Si tú o alguien cercano lucha con una adicción, busca ayuda: no estás solo. ¿Cómo recuerdas a Matthew Perry? Déjamelo en los comentarios."
+ }
+]

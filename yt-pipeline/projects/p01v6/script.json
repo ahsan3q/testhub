@@ -1,8 +1,8 @@
 [
  {
   "src": [
-   "BS",
-   "JM"
+   "BS@15-105",
+   "JM@40-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "",
@@ -10,8 +10,8 @@
  },
  {
   "src": [
-   "JM",
-   "SF"
+   "JM@40-180",
+   "SF@280-1700"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "LA HONESTIDAD SALVAJE",
@@ -42,8 +42,8 @@
  },
  {
   "src": [
-   "ML",
-   "SF"
+   "ML@100-5400",
+   "SF@280-1700"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "HOT SPRINGS",
@@ -85,8 +85,8 @@
  },
  {
   "src": [
-   "ML",
-   "SF"
+   "ML@100-5400",
+   "SF@280-1700"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "SIN LUZ",
@@ -105,8 +105,8 @@
  },
  {
   "src": [
-   "JM",
-   "FA"
+   "JM@40-180",
+   "FA@20-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "TRES HOMBRES",
@@ -114,8 +114,8 @@
  },
  {
   "src": [
-   "JM",
-   "FA"
+   "JM@40-180",
+   "FA@20-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "BILLY WILDER",
@@ -128,10 +128,7 @@
   }
  },
  {
-  "src": [
-   "ML",
-   "ML"
-  ],
+  "src": "ML@100-5400",
   "label": "MATLOCK · 1986",
   "cap": "MATLOCK",
   "txt": "Uno de sus primeros trabajos en televisión fue una sola escena en la serie Matlock, cuyo protagonista era su héroe de la infancia, Andy Griffith. Según contaba, se acercó a decirle que él era la razón por la que se había hecho actor, y Griffith lo miró raro y se fue. Años después, ya amigos, le contó que había salido en un episodio. Griffith le preguntó cuál, y cuando se lo dijo, respondió: ah, odié ese episodio.",
@@ -150,10 +147,7 @@
   }
  },
  {
-  "src": [
-   "SF",
-   "SF"
-  ],
+  "src": "SF@280-1700",
   "label": "SOME FOLKS CALL IT A SLING BLADE · 1994",
   "cap": "KARL CHILDERS",
   "txt": "Hacía papeles pequeños que pagaban unos cientos de dólares al día. Y en uno de ellos, sudando dentro de un disfraz de lana, se vio en el espejo y pensó que nunca iba a lograrlo. Hizo una mueca de desprecio a sí mismo y empezó a hablar con una voz extraña. Esa cara y esa voz se convirtieron en Karl Childers, el personaje de su vida.",
@@ -173,8 +167,8 @@
  },
  {
   "src": [
-   "SF",
-   "SB"
+   "SF@280-1700",
+   "SB@0-215"
   ],
   "label": "SOME FOLKS CALL IT A SLING BLADE · 1994",
   "cap": "EL CORTOMETRAJE",
@@ -201,8 +195,8 @@
  },
  {
   "src": [
-   "SB",
-   "SF"
+   "SB@0-215",
+   "SF@280-1700"
   ],
   "label": "SLING BLADE · 1996",
   "cap": "EL ÓSCAR",
@@ -219,8 +213,8 @@
  },
  {
   "src": [
-   "SB",
-   "SF"
+   "SB@0-215",
+   "SF@280-1700"
   ],
   "label": "SLING BLADE · 1996",
   "cap": "1 MILLÓN",
@@ -246,8 +240,8 @@
  },
  {
   "src": [
-   "SB",
-   "SF"
+   "SB@0-215",
+   "SF@280-1700"
   ],
   "label": "SLING BLADE · 1996",
   "cap": "LOS DIENTES",
@@ -255,8 +249,8 @@
  },
  {
   "src": [
-   "SB",
-   "OF"
+   "SB@0-215",
+   "OF@10-80"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "MÉXICO",
@@ -298,10 +292,10 @@
  },
  {
   "src": [
-   "AR",
-   "AR"
+   "FA@20-180",
+   "SP@20-135"
   ],
-  "label": "ARMAGEDDON · 1998",
+  "label": "BILLY BOB THORNTON",
   "cap": "ARMAGEDDON",
   "txt": "Y un año después, efectivamente, estaba en Armagedón, una película sobre un asteroide. Su compañero Ben Affleck acababa de ganar el Óscar al mejor guion original por Good Will Hunting, junto con Matt Damon. Según contó Affleck, en el estreno Billy Bob lo felicitó así: ganaste el Óscar, ¿verdad? Bueno, te dan como medio Óscar, ¿no? Escribiste la mitad de la película.",
   "fx": {
@@ -320,8 +314,8 @@
  },
  {
   "src": [
-   "SP",
-   "OF"
+   "SP@20-135",
+   "OF@10-80"
   ],
   "label": "A SIMPLE PLAN · 1998",
   "cap": "UN PLAN SIMPLE",
@@ -344,8 +338,8 @@
  },
  {
   "src": [
-   "OF",
-   "OF2"
+   "OF@10-80",
+   "OF2@90-160"
   ],
   "label": "ONE FALSE MOVE · 1992",
   "cap": "ONE FALSE MOVE",
@@ -353,8 +347,8 @@
  },
  {
   "src": [
-   "SP",
-   "OF"
+   "SP@20-135",
+   "OF@10-80"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "MONSTER'S BALL",
@@ -385,8 +379,8 @@
  },
  {
   "src": [
-   "JM",
-   "FA"
+   "JM@40-180",
+   "FA@20-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "ANGELINA JOLIE",
@@ -402,8 +396,8 @@
  },
  {
   "src": [
-   "FA",
-   "JM"
+   "FA@20-180",
+   "JM@40-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "EL HOTEL",
@@ -417,8 +411,8 @@
  },
  {
   "src": [
-   "BS",
-   "BS2"
+   "BS@15-105",
+   "BS2@30-195"
   ],
   "label": "BAD SANTA · 2003",
   "cap": "SANTA CLAUS ES UN PILLO",
@@ -432,8 +426,8 @@
  },
  {
   "src": [
-   "BS2",
-   "B2"
+   "BS2@30-195",
+   "B2@0-160"
   ],
   "label": "BAD SANTA · 2003",
   "cap": "MI TRAJE",
@@ -441,8 +435,8 @@
  },
  {
   "src": [
-   "BS2",
-   "BS"
+   "BS2@30-195",
+   "BS@15-105"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "EL ÁLAMO",
@@ -475,8 +469,8 @@
  },
  {
   "src": [
-   "JM",
-   "FA"
+   "JM@40-180",
+   "FA@20-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "THE BOXMASTERS",
@@ -493,8 +487,8 @@
  },
  {
   "src": [
-   "FA",
-   "JM"
+   "FA@20-180",
+   "JM@40-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "FARGO",
@@ -519,8 +513,8 @@
  },
  {
   "src": [
-   "FA",
-   "JM"
+   "FA@20-180",
+   "JM@40-180"
   ],
   "label": "FARGO · 2014",
   "cap": "LORNE MALVO",
@@ -552,8 +546,8 @@
  },
  {
   "src": [
-   "JM",
-   "FA"
+   "JM@40-180",
+   "FA@20-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "GOLIATH",
@@ -574,8 +568,8 @@
  },
  {
   "src": [
-   "FA",
-   "JM"
+   "FA@20-180",
+   "JM@40-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "RINGO STARR",
@@ -596,8 +590,8 @@
  },
  {
   "src": [
-   "SB",
-   "SF"
+   "SB@0-215",
+   "SF@280-1700"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "ROBERT DUVALL",
@@ -611,8 +605,8 @@
  },
  {
   "src": [
-   "B2",
-   "JM"
+   "B2@0-160",
+   "JM@40-180"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "LANDMAN",
@@ -649,8 +643,8 @@
  },
  {
   "src": [
-   "JM",
-   "B2"
+   "JM@40-180",
+   "B2@0-160"
   ],
   "label": "BILLY BOB THORNTON",
   "cap": "SAM ELLIOTT",
@@ -671,10 +665,10 @@
  },
  {
   "src": [
-   "SF",
-   "BS",
-   "JM",
-   "SB"
+   "SF@280-1700",
+   "BS@15-105",
+   "JM@40-180",
+   "SB@0-215"
   ],
   "label": "¿CUÁL FUE LA MEJOR?",
   "cap": "¿CUÁL FUE LA MEJOR?",

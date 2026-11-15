@@ -1,0 +1,608 @@
+[
+ {
+  "src": [
+   "VC@0-260",
+   "SU@0-58"
+  ],
+  "label": "COMERCIALES DE LOS 70",
+  "cap": "",
+  "txt": "Los años setenta fueron la década de la música disco, los autos enormes y los pantalones acampanados. Y en la televisión, las agencias de publicidad no tenían efectos por computadora ni estudios de mercado sofisticados. Tenían algo mejor: imaginación, confianza, y cero miedo a hacer el ridículo."
+ },
+ {
+  "src": [
+   "RB@0-28",
+   "MR@0-100"
+  ],
+  "label": "COMERCIALES DE LOS 70",
+  "cap": "13 COMERCIALES",
+  "txt": "Hoy te traigo trece de los comerciales más raros y más recordados de los años setenta. Algunos te van a hacer preguntarte cómo alguien los aprobó. Otros se volvieron clásicos de la historia de la publicidad. Y todos dicen mucho sobre esa década.",
+  "fx": {
+   "type": "list",
+   "title": "LO QUE VENDÍA LA TELE DE LOS 70",
+   "items": [
+    "Lociones para conquistar",
+    "Anillos que leen emociones",
+    "Aparatos de cocina milagrosos",
+    "Refrescos con filosofía"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "VC@0-260",
+   "SU@0-58"
+  ],
+  "label": "TELEVISIÓN · 1971",
+  "cap": "EL ESPACIO LIBRE",
+  "txt": "Y hay un detalle que explica la explosión de comerciales raros. En enero de 1971, los anuncios de cigarros quedaron prohibidos en la televisión de Estados Unidos. De un día para otro, las televisoras tenían muchísimo espacio publicitario libre. Y ese espacio lo llenaron lociones, refrescos, discos recopilatorios y aparatos de cocina milagrosos, cada uno intentando llamar la atención más que el anterior.",
+  "fx": {
+   "type": "compare",
+   "title": "LA TELEVISIÓN EN 1971",
+   "left": [
+    "ANTES",
+    "CIGARROS EN CADA CORTE"
+   ],
+   "right": [
+    "DESPUÉS",
+    "LOCIONES, APARATOS Y REFRESCOS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "EL@0-28",
+   "EL2@0-26"
+  ],
+  "label": "ENGLISH LEATHER",
+  "cap": "#13",
+  "txt": "Número trece. English Leather, todos mis hombres."
+ },
+ {
+  "src": [
+   "EL2@0-26",
+   "EL@0-28"
+  ],
+  "label": "ENGLISH LEATHER",
+  "cap": "O NADA",
+  "txt": "En los setenta, todas las lociones para hombre vendían la misma fantasía: úsala y las mujeres no podrán resistirse. Pero English Leather tenía una frase que resumía toda una época. Una mujer, mirando a la cámara, decía: todos mis hombres usan English Leather, o no usan nada. Y el hombre del comercial miraba al horizonte con una seriedad como si estuviera pensando en el sentido de la vida, cuando solo se estaba poniendo loción.",
+  "fx": {
+   "type": "quote",
+   "text": "Todos mis hombres usan English Leather, o no usan nada.",
+   "by": "El famoso lema de English Leather",
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "BR@0-15",
+   "EL@0-28"
+  ],
+  "label": "BRUT",
+  "cap": "#12",
+  "txt": "Número doce. Brut y los atletas."
+ },
+ {
+  "src": "BR@0-15",
+  "label": "BRUT",
+  "cap": "LOS DEPORTISTAS",
+  "txt": "Brut, de la marca Fabergé, eligió otro camino: las estrellas del deporte. El mariscal de campo Joe Namath y hasta el boxeador Muhammad Ali aparecieron en sus anuncios. En el Reino Unido, el boxeador Henry Cooper popularizó la frase: échatela por todas partes. Y los comerciales mostraban a los atletas casi bañándose en loción, como si la sutileza estuviera prohibida.",
+  "fx": {
+   "type": "list",
+   "title": "LAS ESTRELLAS DE BRUT",
+   "items": [
+    "Joe Namath",
+    "Muhammad Ali",
+    "Henry Cooper"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "MR@0-100",
+  "label": "ANILLO DEL ESTADO DE ÁNIMO · AÑOS 70",
+  "cap": "#11",
+  "txt": "Número once. El anillo que leía tus emociones."
+ },
+ {
+  "src": [
+   "MR@0-100",
+   "VC@0-260"
+  ],
+  "label": "ANILLO DEL ESTADO DE ÁNIMO · AÑOS 70",
+  "cap": "CRISTAL LÍQUIDO",
+  "txt": "Mucho antes de los relojes inteligentes, bastaba un anillo barato para saber cómo te sentías. Los comerciales del anillo del estado de ánimo, creado en 1975, prometían que su piedra revelaba tus emociones más secretas: negro si estabas estresado, azul o morado si estabas enamorado. ¿La ciencia real? Cristales líquidos que cambiaban de color con la temperatura. Medía, básicamente, qué tan caliente tenías el dedo.",
+  "fx": {
+   "type": "compare",
+   "title": "EL ANILLO DEL ESTADO DE ÁNIMO",
+   "left": [
+    "LO QUE PROMETÍA",
+    "LEER TUS EMOCIONES"
+   ],
+   "right": [
+    "LO QUE MEDÍA",
+    "LA TEMPERATURA DEL DEDO"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "MR@0-100",
+   "VC@0-260"
+  ],
+  "label": "ANILLO DEL ESTADO DE ÁNIMO · AÑOS 70",
+  "cap": "LA MASCOTA ROCA",
+  "txt": "Y ese mismo año, 1975, nació otro invento todavía más absurdo: la mascota roca. Un publicista llamado Gary Dahl decidió vender piedras normales como mascotas que nunca comen, nunca ensucian y nunca se mueren, en una caja de cartón con agujeros para respirar y un manual de entrenamiento. En unos meses vendió más de un millón y medio, y se volvió millonario.",
+  "fx": {
+   "type": "compare",
+   "title": "LA MASCOTA ROCA (1975)",
+   "left": [
+    "EL PRODUCTO",
+    "UNA PIEDRA COMÚN"
+   ],
+   "right": [
+    "LAS VENTAS",
+    "MÁS DE 1.5 MILLONES"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "MR@0-100",
+  "label": "ANILLO DEL ESTADO DE ÁNIMO · AÑOS 70",
+  "cap": "UN TERMÓMETRO",
+  "txt": "Los anillos los inventaron dos neoyorquinos, Joshua Reynolds y Maris Ambats, y al principio se vendían hasta en joyerías de lujo. En la práctica, eran un termómetro elegante: si salías del frío, el anillo decía que estabas angustiado; si sostenías una taza de café caliente, de pronto estabas perdidamente enamorado. Aun así, millones de adolescentes los usaban para descubrir quién les gustaba a quién."
+ },
+ {
+  "src": "JE@0-74",
+  "label": "JELL-O",
+  "cap": "#10",
+  "txt": "Número diez. Las ensaladas de gelatina."
+ },
+ {
+  "src": [
+   "JE@0-74",
+   "VC@0-260"
+  ],
+  "label": "JELL-O",
+  "cap": "ATÚN EN GELATINA",
+  "txt": "Si una máquina del tiempo te deja en una cena familiar de Estados Unidos de esa época, hay una regla importante: no confíes en nada que parezca postre. Porque ese molde brillante en medio de la mesa podía tener atún, camarones, repollo o mayonesa adentro. Los comerciales y las revistas promovían recetas de gelatina salada como si fueran platos de lujo, y las familias sonreían como si fuera un banquete.",
+  "fx": {
+   "type": "list",
+   "title": "RECETAS REALES CON GELATINA",
+   "items": [
+    "Atún con gelatina de limón",
+    "Ensalada de camarón",
+    "Repollo en gelatina",
+    "Con mayonesa"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "JE@0-74",
+  "label": "JELL-O",
+  "cap": "1897",
+  "txt": "Jell-O nació en 1897, en un pueblo de Nueva York llamado Le Roy, que hoy tiene hasta un museo dedicado a la gelatina. Durante décadas, la marca convenció a las amas de casa de que la gelatina servía para todo, no solo para el postre. Y la gelatina salada se volvió símbolo de la cocina moderna de mediados de siglo, hasta que el gusto del público por fin cambió.",
+  "fx": {
+   "type": "map",
+   "title": "EL PUEBLO DE JELL-O",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "New York"
+   ],
+   "pins": [
+    {
+     "name": "LE ROY · 1897",
+     "lon": -77.99,
+     "lat": 42.98
+    }
+   ],
+   "view": [
+    -81,
+    40,
+    -72,
+    45.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "SU@0-58",
+   "SU2@0-28"
+  ],
+  "label": "7UP · 1975",
+  "cap": "#9",
+  "txt": "Número nueve. 7Up, el no cola."
+ },
+ {
+  "src": [
+   "SU2@0-28",
+   "SU@0-58"
+  ],
+  "label": "7UP · 1978",
+  "cap": "UNCOLA",
+  "txt": "¿Cómo compites en un mundo dominado por Coca-Cola y Pepsi? 7Up encontró la respuesta: no intentes ser otra cola, sé lo contrario. Así nació la campaña del Uncola, el no cola, que presentaba al refresco como algo más claro, más ligero, y orgullosamente fuera del mundo de las colas. Con imágenes psicodélicas, carteles de colores y hasta un comercial de discoteca.",
+  "fx": {
+   "type": "compare",
+   "title": "LA ESTRATEGIA DE 7UP",
+   "left": [
+    "COCA-COLA Y PEPSI",
+    "COLAS OSCURAS"
+   ],
+   "right": [
+    "7UP",
+    "EL NO COLA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "SU@0-58",
+   "SU2@0-28"
+  ],
+  "label": "7UP · 1975",
+  "cap": "GEOFFREY HOLDER",
+  "txt": "Y su cara más famosa fue Geoffrey Holder, un bailarín y actor nacido en Trinidad y Tobago, con una voz profunda y una risa inconfundible. Vestido de blanco, explicaba la diferencia entre las nueces de cola y las uncola nuts, los limones. Era raro, teatral y un poco psicodélico. Y funcionó. Holder también fue el villano Barón Samedi en la película de James Bond Vive y deja morir.",
+  "fx": {
+   "type": "map",
+   "title": "GEOFFREY HOLDER",
+   "countries": [
+    "Trinidad and Tobago",
+    "Venezuela"
+   ],
+   "pins": [
+    {
+     "name": "PUERTO ESPAÑA",
+     "lon": -61.51,
+     "lat": 10.65
+    }
+   ],
+   "view": [
+    -68,
+    7,
+    -56,
+    15
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "RB@0-28",
+   "RB2@0-27"
+  ],
+  "label": "RONCO",
+  "cap": "#8",
+  "txt": "Número ocho. ¡Rebana! ¡Corta en cubitos!"
+ },
+ {
+  "src": [
+   "RB2@0-27",
+   "RB@0-28"
+  ],
+  "label": "RONCO",
+  "cap": "RON POPEIL",
+  "txt": "Si te quedabas despierto hasta tarde viendo televisión en los setenta, entrabas a otro mundo: el de Ronco, la empresa de Ron Popeil. La fórmula siempre era la misma: toma un pequeño problema cotidiano, hazlo parecer insoportable, y presenta un aparatito de plástico como el mayor avance de la humanidad, a solo nueve noventa y cinco. El Veg-O-Matic, inventado por su padre, rebanaba y cortaba en cubitos, y presumía millones de unidades vendidas.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Rebana! ¡Corta en cubitos! ¡Y hay más!",
+   "by": "El estilo de los comerciales de Ronco",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "RB@0-28",
+   "RB2@0-27"
+  ],
+  "label": "RONCO",
+  "cap": "PERO ESPERE",
+  "txt": "Ron Popeil aprendió a vender en persona, haciendo demostraciones en tiendas y ferias de Chicago, antes de pasar a la televisión. Y de ese estilo nacieron frases que todavía usan los infomerciales de todo el mundo: llame ahora, no se vende en tiendas, y la más famosa de todas: pero espere, hay más. Popeil murió en 2021, y muchos lo consideran el padre del comercial de televisión de venta directa.",
+  "fx": {
+   "type": "quote",
+   "text": "¡Pero espere, hay más!",
+   "by": "La frase que definió los comerciales de venta directa",
+   "dur": 4
+  }
+ },
+ {
+  "src": "PF@3-24",
+  "label": "POCKET FISHERMAN · 1976",
+  "cap": "#7",
+  "txt": "Número siete. El pescador de bolsillo."
+ },
+ {
+  "src": [
+   "PF@3-24",
+   "RB@0-28"
+  ],
+  "label": "POCKET FISHERMAN · 1976",
+  "cap": "EN LA OFICINA",
+  "txt": "¿Te gustaba pescar pero odiabas cargar una caña? Ronco tenía la solución: el Pocket Fisherman, una caña de pescar de plástico plegable que cabía en la guantera o en el bolsillo del saco. Los comerciales te mostraban pescando en la hora del almuerzo, junto a un lago, con ropa de oficina. Lo inventó también Samuel Popeil, el padre de Ron, y se volvió uno de los productos más recordados de la televisión nocturna.",
+  "fx": {
+   "type": "compare",
+   "title": "EL PESCADOR DE BOLSILLO",
+   "left": [
+    "UNA CAÑA NORMAL",
+    "GRANDE Y PESADA"
+   ],
+   "right": [
+    "POCKET FISHERMAN",
+    "CABE EN LA GUANTERA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "EG@0-26",
+  "label": "EGG SCRAMBLER · 1978",
+  "cap": "#6",
+  "txt": "Número seis. Revolver el huevo dentro del cascarón."
+ },
+ {
+  "src": [
+   "EG@0-26",
+   "RB2@0-27"
+  ],
+  "label": "EGG SCRAMBLER · 1978",
+  "cap": "DENTRO DEL CASCARÓN",
+  "txt": "Y luego las cosas se pusieron más raras. En 1978, Ronco vendía un aparato para revolver el huevo sin romper el cascarón: se metía una pequeña aguja en el huevo crudo, se giraba a toda velocidad, y al hervirlo salía un huevo completamente amarillo. ¿Alguien estaba desesperado por resolver ese problema? Probablemente no. Pero el comercial lo trataba como un gran descubrimiento científico.",
+  "fx": {
+   "type": "list",
+   "title": "CÓMO FUNCIONABA",
+   "items": [
+    "Meter la aguja en el huevo",
+    "Girar a toda velocidad",
+    "Hervir",
+    "Huevo 100% amarillo"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "MM@3-26",
+  "label": "MR. MICROPHONE · RONCO",
+  "cap": "#5",
+  "txt": "Número cinco. Mister Micrófono."
+ },
+ {
+  "src": [
+   "MM@3-26",
+   "EG@0-26"
+  ],
+  "label": "MR. MICROPHONE · RONCO",
+  "cap": "OYE, GUAPA",
+  "txt": "Otro clásico de Ronco: Mister Microphone, un micrófono inalámbrico que transmitía tu voz por la radio de FM más cercana. En el comercial más famoso, unos jóvenes pasan en un auto junto a una chica y, a través de la radio, le dicen: oye, guapa, al rato pasamos por ti. Hoy sería impensable. Y Ron Popeil siguió vendiendo inventos durante décadas, hasta su famoso horno de los noventa: lo pones y te olvidas.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS INVENTOS DE RONCO",
+   "items": [
+    [
+     "AÑOS 60",
+     "Veg-O-Matic"
+    ],
+    [
+     "1972",
+     "Pocket Fisherman"
+    ],
+    [
+     "1978",
+     "Mr. Microphone"
+    ],
+    [
+     "1998",
+     "El horno Showtime"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "KT@0-24",
+  "label": "K-TEL · 1978",
+  "cap": "#4",
+  "txt": "Número cuatro. K-tel, veinte éxitos originales."
+ },
+ {
+  "src": [
+   "KT@0-24",
+   "VC@0-260"
+  ],
+  "label": "K-TEL · 1978",
+  "cap": "WINNIPEG",
+  "txt": "Y si Ronco vendía aparatos, K-tel vendía música. Era una empresa de Winnipeg, Canadá, fundada por Philip Kives, que juntaba canciones de moda en discos recopilatorios y los anunciaba sin parar en la televisión: veinte éxitos originales, de las estrellas originales. Su comercial de Let's Disco, de 1978, es puro retrato de la fiebre de la música disco.",
+  "fx": {
+   "type": "map",
+   "title": "K-TEL NACIÓ EN CANADÁ",
+   "countries": [
+    "Canada",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "WINNIPEG",
+     "lon": -97.14,
+     "lat": 49.9
+    }
+   ],
+   "view": [
+    -120,
+    38,
+    -75,
+    60
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CI@0-58",
+  "label": "KEEP AMERICA BEAUTIFUL · 1971",
+  "cap": "#3",
+  "txt": "Número tres. El indio que lloraba."
+ },
+ {
+  "src": "CI@0-58",
+  "label": "KEEP AMERICA BEAUTIFUL · 1971",
+  "cap": "LA LÁGRIMA",
+  "txt": "En 1971, la campaña Mantén bello a Estados Unidos lanzó uno de los anuncios de servicio público más famosos de la historia: un hombre vestido de indígena rema por un río contaminado, llega a una carretera, alguien le tira basura a los pies, y una lágrima le cae por la mejilla. El mensaje era: la gente empieza la contaminación, la gente puede detenerla.",
+  "fx": {
+   "type": "headline",
+   "paper": "TELEVISIÓN · 1971",
+   "date": "DÍA DE LA TIERRA, 1971",
+   "headline": "UNA LÁGRIMA CONTRA LA CONTAMINACIÓN",
+   "sub": "El anuncio de Keep America Beautiful",
+   "stamp": "CLÁSICO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "CI@0-58",
+   "VC@0-260"
+  ],
+  "label": "KEEP AMERICA BEAUTIFUL · 1971",
+  "cap": "IRON EYES CODY",
+  "txt": "Pero el anuncio tenía dos secretos. El actor, Iron Eyes Cody, que durante décadas se presentó como indígena, en realidad era hijo de inmigrantes italianos. Y la campaña la financiaban, en parte, empresas de envases y bebidas, que preferían poner la responsabilidad de la basura en las personas, y no en sus botellas desechables.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS SECRETOS DEL ANUNCIO",
+   "left": [
+    "EL ACTOR",
+    "HIJO DE ITALIANOS"
+   ],
+   "right": [
+    "LA CAMPAÑA",
+    "PAGADA POR LA INDUSTRIA DE ENVASES"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CC@1450-1700",
+  "label": "COCA-COLA · 1971",
+  "cap": "#2",
+  "txt": "Número dos. Me gustaría comprarle al mundo una Coca-Cola."
+ },
+ {
+  "src": "CC@1450-1700",
+  "label": "COCA-COLA · 1971",
+  "cap": "LA COLINA",
+  "txt": "En 1971, Coca-Cola filmó en una colina de Italia, cerca de Roma, a jóvenes de muchos países cantando juntos: me gustaría comprarle al mundo una Coca-Cola. Fue tan popular que la canción se regrabó sin la marca, como Quisiera enseñarle al mundo a cantar, y llegó a las listas de éxitos. Décadas después, fue la última imagen de la serie Mad Men.",
+  "fx": {
+   "type": "map",
+   "title": "FILMADO EN ITALIA",
+   "countries": [
+    "Italy"
+   ],
+   "pins": [
+    {
+     "name": "CERCA DE ROMA",
+     "lon": 12.5,
+     "lat": 41.9
+    }
+   ],
+   "view": [
+    6,
+    36.5,
+    19,
+    47.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CC@1450-1700",
+  "label": "COCA-COLA · 1971",
+  "cap": "EL AEROPUERTO",
+  "txt": "La idea nació por accidente. El publicista Bill Backer estaba varado en un aeropuerto de Irlanda por la niebla, junto con pasajeros molestos de muchos países. Al día siguiente, los vio platicando y riendo mientras tomaban Coca-Cola en la cafetería, y pensó que esa bebida era algo que todo el mundo compartía. De esa escena salió la canción.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE NACIÓ LA IDEA",
+   "countries": [
+    "Ireland",
+    "United Kingdom"
+   ],
+   "pins": [
+    {
+     "name": "AEROPUERTO DE SHANNON",
+     "lon": -8.92,
+     "lat": 52.7
+    }
+   ],
+   "view": [
+    -12,
+    49.5,
+    2,
+    56
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "MJ@0-120",
+  "label": "COCA-COLA · MEAN JOE GREENE",
+  "cap": "#1",
+  "txt": "Y número uno. El niño y el gigante."
+ },
+ {
+  "src": [
+   "MJ@0-120",
+   "CC@1450-1700"
+  ],
+  "label": "COCA-COLA · MEAN JOE GREENE",
+  "cap": "LA CAMISETA",
+  "txt": "Cerrando la década, en 1979, Coca-Cola filmó a Mean Joe Greene, el temible defensivo de los Steelers de Pittsburgh, cojeando por un túnel después de un partido. Un niño le ofrece su Coca-Cola. Él se la toma de un trago, y cuando el niño se va decepcionado, Greene le lanza su camiseta: oye, chico, atrápala. Se transmitió en el Super Bowl de enero de 1980, y se volvió uno de los comerciales más queridos de la historia.",
+  "fx": {
+   "type": "headline",
+   "paper": "SUPER BOWL · 1980",
+   "date": "ENERO DE 1980",
+   "headline": "OYE, CHICO, ATRÁPALA",
+   "sub": "Mean Joe Greene y el comercial más querido de Coca-Cola",
+   "stamp": "CLÁSICO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "MJ@0-120",
+  "label": "COCA-COLA · MEAN JOE GREENE",
+  "cap": "EL REMAKE",
+  "txt": "El comercial ganó premios, y Greene contó después que durante años la gente le gritaba en la calle: oye, chico, atrápala. Fue tan querido que Coca-Cola lo rehízo décadas después, en 2009, con otro jugador de los Steelers. Y el niño original, Tommy Okon, se volvió una pequeña celebridad. Un comercial de un minuto que se volvió parte de la cultura popular.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL NIÑO Y EL GIGANTE",
+   "items": [
+    [
+     "1979",
+     "Se filma"
+    ],
+    [
+     "ENE 1980",
+     "Super Bowl"
+    ],
+    [
+     "2009",
+     "El remake"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "EL@0-28",
+   "MR@0-100",
+   "RB@0-28",
+   "MJ@0-120"
+  ],
+  "label": "¿CUÁL RECUERDAS?",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Lociones para resistir mujeres, anillos que leían el dedo, piedras como mascotas, huevos revueltos dentro del cascarón y un micrófono para piropear por la radio. Los setenta no tenían efectos especiales, pero tenían personalidad. ¿Cuál de estos comerciales te sorprendió más, o cuál recuerdas? Déjamelo en los comentarios, y suscríbete para más historias de la televisión antigua."
+ }
+]

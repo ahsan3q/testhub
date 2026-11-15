@@ -1,0 +1,701 @@
+[
+ {
+  "src": [
+   "FP@200-1300",
+   "HB@30-1180"
+  ],
+  "label": "CARICATURAS DE 1971",
+  "cap": "",
+  "txt": "En 1971 aparecieron caricaturas que llamaron la atención, y luego desaparecieron después de una sola temporada. Un fantasma de la guerra de independencia, tres osos que vivían como solteros en un zoológico, los hermanos Jackson en caricatura, y en Japón, un documental animado de guerra patrocinado por una cervecería."
+ },
+ {
+  "src": [
+   "J5@40-480",
+   "SE@1-58"
+  ],
+  "label": "CARICATURAS DE 1971",
+  "cap": "8 CARICATURAS OLVIDADAS",
+  "txt": "Hoy viajamos a 1971 para recordar ocho caricaturas de corta vida, cuatro de Estados Unidos y cuatro de Japón. Algunas las vas a reconocer al instante. Otras, te lo prometo, nunca las habías escuchado. Déjame en los comentarios cuáles recuerdas.",
+  "fx": {
+   "type": "map",
+   "title": "1971: DOS PAÍSES, OCHO CARICATURAS",
+   "countries": [
+    "United States of America",
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "HOLLYWOOD",
+     "lon": -118.33,
+     "lat": 34.1
+    },
+    {
+     "name": "TOKIO",
+     "lon": 139.69,
+     "lat": 35.69
+    }
+   ],
+   "view": [
+    -170,
+    5,
+    175,
+    65
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PB@30-1130",
+   "HB@30-1180"
+  ],
+  "label": "TELEVISIÓN · 1971",
+  "cap": "11 DE SEPTIEMBRE",
+  "txt": "Primero, un dato curioso: tres de las caricaturas estadounidenses de esta lista se estrenaron el mismo día, el sábado once de septiembre de 1971. Era el arranque de la nueva temporada de televisión, y las cadenas lanzaban todas sus apuestas para los niños al mismo tiempo. Pocas sobrevivieron.",
+  "fx": {
+   "type": "timeline",
+   "title": "SÁBADO 11 DE SEPTIEMBRE DE 1971",
+   "items": [
+    [
+     "ABC",
+     "The Funky Phantom"
+    ],
+    [
+     "ABC",
+     "The Jackson 5ive"
+    ],
+    [
+     "CBS",
+     "Hair Bear Bunch"
+    ],
+    [
+     "CBS",
+     "Pebbles y Bamm-Bamm"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "HB@30-1180",
+   "PB@30-1130"
+  ],
+  "label": "TELEVISIÓN · 1971",
+  "cap": "MENOS VIOLENCIA",
+  "txt": "Y hay que entender el momento. A finales de los sesenta, grupos de padres en Estados Unidos, como Action for Children's Television, presionaron a las cadenas para reducir la violencia en las caricaturas. Los superhéroes y las aventuras peligrosas salieron del aire, y llegaron las comedias suaves, los misterios con monstruos falsos y las bandas musicales. Las caricaturas de 1971 nacieron en ese ambiente.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CAMBIO DE LOS SÁBADOS",
+   "left": [
+    "AÑOS 60",
+    "SUPERHÉROES Y ACCIÓN"
+   ],
+   "right": [
+    "1971",
+    "COMEDIA Y MISTERIO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "FP@200-1300",
+  "label": "THE FUNKY PHANTOM · 1971",
+  "cap": "#8",
+  "txt": "Número ocho. The Funky Phantom, el fantasma funky."
+ },
+ {
+  "src": [
+   "FP@200-1300",
+   "HB@30-1180"
+  ],
+  "label": "THE FUNKY PHANTOM · 1971",
+  "cap": "LA FÓRMULA",
+  "txt": "Para 1971, Hanna-Barbera ya había encontrado oro con Scooby-Doo, y volvió a la misma fórmula: tres adolescentes y su perro viajando por el país en un buggy, resolviendo misterios y desenmascarando criminales disfrazados de monstruos. Pero esta vez, la mascota del grupo no era un perro miedoso. Era un fantasma de verdad.",
+  "fx": {
+   "type": "compare",
+   "title": "LA MISMA FÓRMULA",
+   "left": [
+    "SCOOBY-DOO · 1969",
+    "UN PERRO MIEDOSO"
+   ],
+   "right": [
+    "FUNKY PHANTOM · 1971",
+    "UN FANTASMA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "FP@200-1300",
+  "label": "THE FUNKY PHANTOM · 1971",
+  "cap": "1776",
+  "txt": "Una noche de tormenta, los chicos se refugian en una mansión vieja y, sin querer, liberan a Mudsy, un soldado de la guerra de independencia de Estados Unidos, que llevaba atrapado dentro de un reloj de pie desde 1776, junto con su gato fantasma. La voz de Mudsy era de Daws Butler, con el mismo estilo que usaba para el león Melquiades.",
+  "fx": {
+   "type": "counter",
+   "value": 195,
+   "suffix": " AÑOS",
+   "label": "ATRAPADO EN UN RELOJ",
+   "sub": "De 1776 a 1971",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "FP@200-1300",
+  "label": "THE FUNKY PHANTOM · 1971",
+  "cap": "SÍDNEY",
+  "txt": "Y tiene un dato histórico: fue la primera coproducción internacional de Hanna-Barbera. Como el estudio tenía demasiado trabajo, la animación se hizo en Sídney, Australia, por eso tiene un estilo un poco más suelto y áspero. Se estrenó en ABC y duró apenas diecisiete episodios.",
+  "fx": {
+   "type": "map",
+   "title": "ANIMADA EN AUSTRALIA",
+   "countries": [
+    "Australia"
+   ],
+   "pins": [
+    {
+     "name": "SÍDNEY",
+     "lon": 151.21,
+     "lat": -33.87
+    }
+   ],
+   "view": [
+    112,
+    -44,
+    156,
+    -10
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "FP@200-1300",
+  "label": "THE FUNKY PHANTOM · 1971",
+  "cap": "SEGUNDA VIDA",
+  "txt": "Aunque solo duró una temporada, Funky Phantom tuvo una segunda vida en repeticiones durante décadas, incluido Cartoon Network en los noventa, y en 2010 se lanzó la serie completa en DVD. Y Mudsy, el fantasma miedoso, siguió apareciendo en otras producciones de Hanna-Barbera, como parte de su larga lista de personajes."
+ },
+ {
+  "src": "HB@30-1180",
+  "label": "HELP! IT'S THE HAIR BEAR BUNCH! · 1971",
+  "cap": "#7",
+  "txt": "Número siete. Help! It's the Hair Bear Bunch."
+ },
+ {
+  "src": "HB@30-1180",
+  "label": "HELP! IT'S THE HAIR BEAR BUNCH! · 1971",
+  "cap": "EL ZOOLÓGICO",
+  "txt": "Esta es rareza pura de Hanna-Barbera de principios de los setenta. Tres osos primos vivían en el zoológico Wonderland y pasaban cada episodio intentando escaparse, para algún plan de dinero fácil o una noche de fiesta en la ciudad. Por fuera, su jaula parecía una cueva vieja. Pero con botones escondidos, se transformaba en un departamento de soltero moderno, con refrigerador y televisión.",
+  "fx": {
+   "type": "compare",
+   "title": "LA JAULA DE LOS OSOS",
+   "left": [
+    "POR FUERA",
+    "UNA CUEVA VIEJA"
+   ],
+   "right": [
+    "POR DENTRO",
+    "DEPARTAMENTO DE SOLTERO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "HB@30-1180",
+  "label": "HELP! IT'S THE HAIR BEAR BUNCH! · 1971",
+  "cap": "EL AFRO",
+  "txt": "Los diseños seguían la moda de la época: el líder se llamaba Hair Bear, oso peludo, por su enorme peinado afro. Y siempre se enfrentaban al director del zoológico, el señor Peevly, y a su torpe asistente, Botch. Se estrenó en CBS y duró dieciséis episodios, hasta enero de 1972. Muchos críticos lo comparaban con Don Gato y el oso Yogui."
+ },
+ {
+  "src": "HB@30-1180",
+  "label": "HELP! IT'S THE HAIR BEAR BUNCH! · 1971",
+  "cap": "EL CÓMIC",
+  "txt": "Los osos también tuvieron su propio cómic, publicado por Gold Key desde noviembre de 1971, que duró trece números, casi tanto como la serie. Y aunque su temporada original fue corta, los canales de cable la rescataron durante años, primero USA Network y después Cartoon Network y Boomerang, donde una nueva generación conoció a los osos que nunca se quedaban en su jaula.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS OSOS DESPUÉS DE 1971",
+   "items": [
+    [
+     "NOV 1971",
+     "Cómic de Gold Key"
+    ],
+    [
+     "ENE 1972",
+     "Termina la serie"
+    ],
+    [
+     "AÑOS 90",
+     "Cartoon Network"
+    ],
+    [
+     "2000s",
+     "Boomerang"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "J5@600-1200",
+   "J5@40-480"
+  ],
+  "label": "THE JACKSON 5IVE · 1971",
+  "cap": "#6",
+  "txt": "Número seis. Los Jackson Five, en caricatura."
+ },
+ {
+  "src": [
+   "J5@600-1200",
+   "J5@40-480"
+  ],
+  "label": "THE JACKSON 5IVE · 1971",
+  "cap": "MOTOWN",
+  "txt": "Esta casi todos la reconocen de nombre, aunque pocos la vieron. La produjo el estudio Rankin-Bass junto con Motown, la disquera del grupo, que acababa de tener cuatro números uno seguidos. Cada episodio metía a Jackie, Tito, Jermaine, Marlon y a un muy joven Michael Jackson en aventuras exageradas: robots, bandidos, y hasta un científico loco que los encogía dentro de un radio de transistores.",
+  "fx": {
+   "type": "list",
+   "title": "LOS JACKSON 5",
+   "items": [
+    "Jackie",
+    "Tito",
+    "Jermaine",
+    "Marlon",
+    "Michael"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "J5@600-1200",
+   "J5@40-480"
+  ],
+  "label": "THE JACKSON 5IVE · 1971",
+  "cap": "OTRAS VOCES",
+  "txt": "Y un detalle que pocos fans saben: los hermanos Jackson no hacían las voces de sus personajes. Rankin-Bass contrató a otros actores para hablar, y el grupo real ponía la música, que aparecía en casi cada episodio. Michael tenía hasta un par de ratones mascota y una serpiente rosa. La serie duró dos temporadas y veintitrés episodios.",
+  "fx": {
+   "type": "compare",
+   "title": "¿QUIÉN HACÍA QUÉ?",
+   "left": [
+    "LAS VOCES",
+    "OTROS ACTORES"
+   ],
+   "right": [
+    "LAS CANCIONES",
+    "LOS JACKSON 5 REALES"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "J5@600-1200",
+   "PB@30-1130"
+  ],
+  "label": "THE JACKSON 5IVE · 1971",
+  "cap": "HISTORIA",
+  "txt": "Y tiene un lugar importante en la historia de la televisión: se menciona con frecuencia como una de las primeras series animadas protagonizadas por personajes afroamericanos. Una caricatura de corta vida que hoy es una pieza de colección de la historia de la música y la animación.",
+  "fx": {
+   "type": "headline",
+   "paper": "TELEVISIÓN · 1971",
+   "date": "SEPTIEMBRE DE 1971",
+   "headline": "LOS JACKSON 5 LLEGAN A LOS DIBUJOS ANIMADOS",
+   "sub": "Una de las primeras series animadas con protagonistas afroamericanos",
+   "stamp": "HISTORIA",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "J5@40-480",
+   "J5@600-1200"
+  ],
+  "label": "THE JACKSON 5IVE · 1971",
+  "cap": "13 AÑOS",
+  "txt": "Y piensa en esto: cuando se estrenó la caricatura, Michael Jackson tenía apenas trece años. Ya era una estrella, pero todavía faltaba más de una década para Thriller. Para muchos niños de 1971, su primer contacto con Michael no fue un concierto ni un disco, sino una caricatura de sábado por la mañana.",
+  "fx": {
+   "type": "timeline",
+   "title": "MICHAEL JACKSON",
+   "items": [
+    [
+     "1958",
+     "Nace"
+    ],
+    [
+     "1969",
+     "Primer éxito con los Jackson 5"
+    ],
+    [
+     "1971",
+     "Su caricatura"
+    ],
+    [
+     "1982",
+     "Thriller"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "PB@30-1130",
+  "label": "THE PEBBLES AND BAMM-BAMM SHOW · 1971",
+  "cap": "#5",
+  "txt": "Número cinco. El show de Pebbles y Bamm-Bamm."
+ },
+ {
+  "src": "PB@30-1130",
+  "label": "THE PEBBLES AND BAMM-BAMM SHOW · 1971",
+  "cap": "ADOLESCENTES",
+  "txt": "Los bebés de Los Picapiedra crecieron. En 1971, Hanna-Barbera convirtió a Pebbles y Bamm-Bamm en adolescentes de la preparatoria de Piedradura, con amigos, bandas de rock y problemas de adolescentes de la edad de piedra. Fue la primera vez que los personajes de Los Picapiedra tuvieron una serie sin Pedro y Pablo como protagonistas.",
+  "fx": {
+   "type": "compare",
+   "title": "PEBBLES Y BAMM-BAMM",
+   "left": [
+    "1963",
+    "BEBÉS EN LOS PICAPIEDRA"
+   ],
+   "right": [
+    "1971",
+    "ADOLESCENTES"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "PB@30-1130",
+   "FP@200-1300"
+  ],
+  "label": "THE PEBBLES AND BAMM-BAMM SHOW · 1971",
+  "cap": "16 EPISODIOS",
+  "txt": "La voz de Pebbles era de Sally Struthers, que en esa misma época se hizo famosa en la comedia All in the Family. Se estrenó en CBS y duró apenas dieciséis episodios. Pero los personajes siguieron apareciendo en otros especiales y series de Los Picapiedra durante años, y el cereal Fruity Pebbles, lanzado ese mismo año, los hizo inmortales.",
+  "fx": {
+   "type": "counter",
+   "value": 16,
+   "suffix": " EPISODIOS",
+   "label": "THE PEBBLES AND BAMM-BAMM SHOW",
+   "sub": "CBS, 1971 a 1972",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "WS@200-1450",
+   "SE@1-58"
+  ],
+  "label": "ANIME · 1971",
+  "cap": "LUPIN III",
+  "txt": "Y antes de seguir con Japón, un dato que conecta con esta lista: en octubre de 1971 también se estrenó la primera serie de Lupin Tercero. Tuvo tan poca audiencia que la cancelaron después de veintitrés episodios. Años después, gracias a las repeticiones, Lupin se volvió uno de los personajes más famosos del anime en todo el mundo, también en América Latina. A veces, el fracaso de 1971 era solo el principio.",
+  "fx": {
+   "type": "compare",
+   "title": "LUPIN III",
+   "left": [
+    "1971",
+    "CANCELADA POR BAJA AUDIENCIA"
+   ],
+   "right": [
+    "DESPUÉS",
+    "UN CLÁSICO MUNDIAL"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "CM@100-820",
+  "label": "CHINGO MUCHABEI · 1971",
+  "cap": "#4",
+  "txt": "Número cuatro. Chingo Muchabei, la caricatura que esperó cuatro años."
+ },
+ {
+  "src": "CM@100-820",
+  "label": "CHINGO MUCHABEI · 1971",
+  "cap": "EL PARAGUAS",
+  "txt": "Ahora vamos a Japón. Este anime, en blanco y negro, se basaba en un manga de samuráis ambientado en el periodo Edo. Su protagonista, Muchabei, era un ronin pobre que sobrevivía fabricando y vendiendo paraguas, y su paraguas era también su única arma, porque no llevaba espada. En secreto, protegía al heredero de un clan caído en desgracia.",
+  "fx": {
+   "type": "map",
+   "title": "UN SAMURÁI DEL PERIODO EDO",
+   "countries": [
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "TOKIO (EDO)",
+     "lon": 139.69,
+     "lat": 35.69
+    }
+   ],
+   "view": [
+    128,
+    30,
+    146,
+    44
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CM@100-820",
+   "WS@200-1450"
+  ],
+  "label": "CHINGO MUCHABEI · 1971",
+  "cap": "4 AÑOS GUARDADA",
+  "txt": "Lo increíble es que la serie se terminó de producir alrededor de 1967, pero nadie la quiso transmitir. La televisión japonesa estaba pasando al color, y los programas en blanco y negro se iban quedando sin espacio. Cuando por fin salió al aire, en 1971, fue en un horario de relleno, de lunes a viernes, durante apenas cinco semanas y media.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA CARICATURA QUE ESPERÓ",
+   "items": [
+    [
+     "1967",
+     "Se termina de producir"
+    ],
+    [
+     "1968-1970",
+     "Guardada"
+    ],
+    [
+     "FEB 1971",
+     "Por fin sale al aire"
+    ],
+    [
+     "MAR 1971",
+     "Termina"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "CM@100-820",
+  "label": "CHINGO MUCHABEI · 1971",
+  "cap": "TOKYO MOVIE",
+  "txt": "Y aquí hay una conexión curiosa. Chingo Muchabei la produjo Tokyo Movie, el estudio que hoy se conoce como TMS Entertainment. Ese mismo estudio, en ese mismo año de 1971, estrenó la primera serie de Lupin Tercero. Así que mientras una caricatura vieja salía por fin al aire en un horario de relleno, el mismo estudio ya estaba creando a uno de los ladrones más famosos de la animación."
+ },
+ {
+  "src": "WS@200-1450",
+  "label": "SASURAI NO TAIYŌ · 1971",
+  "cap": "#3",
+  "txt": "Número tres. Sasurai no Taiyō, el sol errante."
+ },
+ {
+  "src": "WS@200-1450",
+  "label": "SASURAI NO TAIYŌ · 1971",
+  "cap": "LAS CANTANTES",
+  "txt": "La produjo Mushi Production, el estudio de Osamu Tezuka, el creador de Astroboy. Es la historia de dos bebés cambiadas al nacer por una enfermera vengativa: la que debía crecer rica crece pobre, y al revés. Años después se reencuentran en la preparatoria, y descubren que las dos tienen el mismo sueño: ser cantantes famosas. Y se vuelven rivales.",
+  "fx": {
+   "type": "compare",
+   "title": "CAMBIADAS AL NACER",
+   "left": [
+    "NOZOMI",
+    "DEBÍA SER RICA"
+   ],
+   "right": [
+    "MIKI",
+    "DEBÍA SER POBRE"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "WS@200-1450",
+   "AK@40-1000"
+  ],
+  "label": "SASURAI NO TAIYŌ · 1971",
+  "cap": "GUNDAM",
+  "txt": "En Japón se considera el primer anime centrado en la industria de la música, el abuelo de todo el género de idols que explotaría décadas después. Y detrás de cámaras trabajaron dos jóvenes animadores, Yoshiyuki Tomino y Yoshikazu Yasuhiko, que pocos años después crearían juntos Mobile Suit Gundam. Fue además una de las últimas series de Mushi Production antes de su quiebra.",
+  "fx": {
+   "type": "headline",
+   "paper": "ANIME · 1971",
+   "date": "ABRIL A SEPTIEMBRE DE 1971",
+   "headline": "EL PRIMER ANIME SOBRE LA INDUSTRIA MUSICAL",
+   "sub": "Ahí trabajaron los futuros creadores de Gundam",
+   "stamp": "PIONERO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": "WS@200-1450",
+  "label": "SASURAI NO TAIYŌ · 1971",
+  "cap": "MUSHI PRODUCTION",
+  "txt": "Sasurai no Taiyō tuvo poca audiencia en su estreno, pero encontró más público después, en repeticiones y en DVD. Y el estudio que la hizo no tuvo tanta suerte: Mushi Production, la empresa que Osamu Tezuka fundó para hacer Astroboy, se declaró en quiebra en 1973. Varios de sus jóvenes animadores fundaron después el estudio Sunrise, el de Gundam.",
+  "fx": {
+   "type": "timeline",
+   "title": "MUSHI PRODUCTION",
+   "items": [
+    [
+     "1961",
+     "La funda Osamu Tezuka"
+    ],
+    [
+     "1963",
+     "Astroboy"
+    ],
+    [
+     "1971",
+     "Sasurai no Taiyō"
+    ],
+    [
+     "1973",
+     "Quiebra"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": "AK@40-1000",
+  "label": "ANIMENTARY KETSUDAN · 1971",
+  "cap": "#2",
+  "txt": "Número dos. Animentary Ketsudan, el documental animado de guerra."
+ },
+ {
+  "src": "AK@40-1000",
+  "label": "ANIMENTARY KETSUDAN · 1971",
+  "cap": "ANIMACIÓN + DOCUMENTAL",
+  "txt": "De toda la lista, esta es la idea más extraña. No era comedia ni aventura: era un documental animado sobre la guerra del Pacífico, desde Pearl Harbor hasta la rendición de Japón, contando las decisiones reales de comandantes y soldados de ambos lados. El título combina las palabras animación y documental. Y no estaba hecho para niños, sino para adultos trabajadores.",
+  "fx": {
+   "type": "map",
+   "title": "LA GUERRA DEL PACÍFICO",
+   "countries": [
+    "Japan",
+    "Philippines",
+    "Papua New Guinea"
+   ],
+   "pins": [
+    {
+     "name": "JAPÓN",
+     "lon": 139.69,
+     "lat": 35.69
+    },
+    {
+     "name": "FILIPINAS",
+     "lon": 120.98,
+     "lat": 14.6
+    }
+   ],
+   "view": [
+    110,
+    -12,
+    165,
+    45
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "AK@40-1000",
+   "SE@1-58"
+  ],
+  "label": "ANIMENTARY KETSUDAN · 1971",
+  "cap": "LA CERVECERÍA",
+  "txt": "Existió gracias a una cervecería: la patrocinó Sapporo, y según su productor, algunos ejecutivos de la empresa eran exmilitares que querían un programa de historia de la guerra para adultos. Lo produjo Tatsunoko, y las técnicas de dibujo que desarrollaron ahí fueron la base de su siguiente gran éxito, al año siguiente: Gatchaman, que en América Latina conocimos como La batalla de los planetas.",
+  "fx": {
+   "type": "compare",
+   "title": "DE ESTA SERIE A GATCHAMAN",
+   "left": [
+    "1971",
+    "ANIMENTARY KETSUDAN"
+   ],
+   "right": [
+    "1972",
+    "GATCHAMAN"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "SE@1-58",
+  "label": "SARUTOBI ECCHAN · 1971",
+  "cap": "#1",
+  "txt": "Y número uno. Sarutobi Ecchan."
+ },
+ {
+  "src": "SE@1-58",
+  "label": "SARUTOBI ECCHAN · 1971",
+  "cap": "NINJA",
+  "txt": "La creó Shotaro Ishinomori, el mismo de Cyborg 009 y Kamen Rider. Ecchan parece una niña normal, pero es descendiente del legendario ninja Sasuke Sarutobi, y heredó todos sus poderes: habla con los animales, lee mentes, hipnotiza con la mirada, y es más fuerte y más lista que cualquier niño. Fue una de las primeras series de chicas mágicas de Toei, el género que después daría Sailor Moon.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PODERES DE ECCHAN",
+   "items": [
+    "Habla con los animales",
+    "Lee mentes",
+    "Hipnotiza con la mirada",
+    "Fuerza de ninja"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "SE@1-58",
+  "label": "SARUTOBI ECCHAN · 1971",
+  "cap": "CHICAS MÁGICAS",
+  "txt": "Para entender su importancia: Toei había empezado en 1966 con Sally la brujita, considerada la primera serie de chicas mágicas del anime. Sarutobi Ecchan fue la cuarta de esa línea, y ayudó a definir las reglas del género: una niña con poderes secretos que intenta tener una vida normal, y que usa su magia para resolver los problemas de sus amigos.",
+  "fx": {
+   "type": "timeline",
+   "title": "LAS CHICAS MÁGICAS DE TOEI",
+   "items": [
+    [
+     "1966",
+     "Sally la brujita"
+    ],
+    [
+     "1969",
+     "Himitsu no Akko-chan"
+    ],
+    [
+     "1970",
+     "Mahō no Mako-chan"
+    ],
+    [
+     "1971",
+     "Sarutobi Ecchan"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "SE@1-58",
+   "WS@200-1450"
+  ],
+  "label": "SARUTOBI ECCHAN · 1971",
+  "cap": "SIN FINAL",
+  "txt": "Pero su final es uno de los más tristes de la lista. La cancelaron por baja audiencia, y la historia nunca tuvo un cierre. El último episodio se enfoca en un personaje completamente nuevo, y simplemente termina. Duró veintiséis episodios, y aunque nunca llegó oficialmente a nuestra región, en Italia se transmitió con otro nombre y tuvo seguidores de culto.",
+  "fx": {
+   "type": "map",
+   "title": "SU PÚBLICO FUERA DE JAPÓN",
+   "countries": [
+    "Italy",
+    "Poland"
+   ],
+   "pins": [
+    {
+     "name": "ITALIA",
+     "lon": 12.5,
+     "lat": 41.9
+    }
+   ],
+   "view": [
+    -5,
+    35,
+    30,
+    56
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "FP@200-1300",
+   "HB@30-1180",
+   "J5@40-480",
+   "SE@1-58"
+  ],
+  "label": "¿CUÁL RECUERDAS?",
+  "cap": "¿CUÁL RECUERDAS?",
+  "txt": "Un fantasma de 1776 animado en Australia, tres osos solteros en un zoológico, los Jackson 5 con voces prestadas, Pebbles adolescente, un samurái con paraguas, dos cantantes rivales, un documental de guerra y una niña ninja. 1971 fue un año muy extraño para la animación. ¿Cuál de estas recuerdas? Déjamelo en los comentarios, y suscríbete para más caricaturas olvidadas."
+ }
+]

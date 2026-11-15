@@ -1,0 +1,691 @@
+[
+ {
+  "src": [
+   "FU@40-260",
+   "HP@20-690"
+  ],
+  "label": "COMIDAS PELIGROSAS",
+  "cap": "",
+  "txt": "Un vaso de jugo de toronja puede hacer que una pastilla actúe como si te hubieras tomado veinte. Un frijol mal cocido puede ser más tóxico que uno crudo. Y un pescado que se sirve en restaurantes de lujo tiene un veneno mil veces más potente que el cianuro. Hay comidas comunes que, en las condiciones equivocadas, pueden matarte."
+ },
+ {
+  "src": [
+   "CA@80-650",
+   "AK@0-170"
+  ],
+  "label": "COMIDAS PELIGROSAS",
+  "cap": "9 COMIDAS",
+  "txt": "Hoy te explico nueve comidas que pueden ser peligrosas, por qué lo son, qué casos reales ha habido, y lo más importante: cómo comerlas sin riesgo. Porque casi todas son perfectamente seguras si sabes lo que haces.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PELIGROS ESCONDIDOS",
+   "items": [
+    "Interacciones con medicinas",
+    "Cianuro natural",
+    "Toxinas que no se destruyen",
+    "Exceso de minerales"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "GF@0-60",
+   "GF2@0-22"
+  ],
+  "label": "TORONJA",
+  "cap": "#9",
+  "txt": "Número nueve. La toronja, o pomelo."
+ },
+ {
+  "src": [
+   "GF2@0-22",
+   "GF@0-60"
+  ],
+  "label": "TORONJA",
+  "cap": "1989",
+  "txt": "En 1989, el farmacólogo canadiense David Bailey estaba probando si el alcohol afectaba a un medicamento para la presión. Para disimular el sabor, mezcló el alcohol con jugo de toronja. Y el medicamento apareció en la sangre de los voluntarios en niveles varias veces más altos de lo esperado. El culpable no era el alcohol. Era la toronja.",
+  "fx": {
+   "type": "headline",
+   "paper": "CANADÁ · 1989",
+   "date": "1989",
+   "headline": "UN JUGO DE TORONJA MULTIPLICA EL EFECTO DE UN MEDICAMENTO",
+   "sub": "El descubrimiento accidental de David Bailey",
+   "stamp": "HALLAZGO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "GF@0-60",
+   "GF2@0-22"
+  ],
+  "label": "TORONJA",
+  "cap": "LA ENZIMA",
+  "txt": "La toronja contiene furanocumarinas, unas sustancias que bloquean una enzima del intestino que normalmente destruye parte de cada pastilla antes de que llegue a la sangre. Las dosis de los medicamentos se calculan contando con esa enzima. Si la toronja la apaga, entra la dosis completa. El equipo de Bailey contó más de ochenta y cinco medicamentos que interactúan con ella, y cuarenta y tres pueden causar daños graves.",
+  "fx": {
+   "type": "bars",
+   "title": "MEDICAMENTOS AFECTADOS POR LA TORONJA",
+   "items": [
+    [
+     "INTERACTÚAN",
+     85
+    ],
+    [
+     "PUEDEN CAUSAR DAÑO GRAVE",
+     43
+    ]
+   ],
+   "suffix": "",
+   "note": "Según el equipo de David Bailey (2012)",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "GF@0-60",
+   "GF2@0-22"
+  ],
+  "label": "TORONJA",
+  "cap": "LA ETIQUETA",
+  "txt": "Y el efecto de un solo vaso puede durar un día o más, así que no basta con tomar la pastilla horas después. Entre los medicamentos afectados hay algunos para el colesterol, para la presión y para el ritmo del corazón. El consejo es sencillo: si tomas medicinas todos los días y te gusta la toronja, pregúntale a tu médico o farmacéutico. Muchas veces la advertencia viene impresa en una pequeña etiqueta del frasco que casi nadie lee.",
+  "fx": {
+   "type": "quote",
+   "text": "Si tomas medicinas a diario, pregunta antes de tomar jugo de toronja.",
+   "by": "El consejo de los farmacéuticos",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "KB@0-440",
+   "EB2@5-150"
+  ],
+  "label": "EN LA COCINA",
+  "cap": "NUEZ MOSCADA",
+  "txt": "Antes de seguir, un peligro que está en casi cualquier cocina: la nuez moscada. Malcolm X escribió en su autobiografía que en la cárcel los presos la robaban de la cocina para drogarse. Contiene miristicina, y unos cinco gramos, unas dos cucharaditas, ya pueden causar problemas. Lo engañoso es que el efecto puede tardar hasta ocho horas: corazón acelerado, boca seca, náuseas y alucinaciones. Una pizca en el ponche es perfectamente segura.",
+  "fx": {
+   "type": "counter",
+   "value": 5,
+   "prefix": "~",
+   "suffix": " GRAMOS",
+   "label": "DE NUEZ MOSCADA",
+   "sub": "Unas dos cucharaditas ya pueden causar intoxicación",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": "EB2@5-150",
+  "label": "SAÚCO",
+  "cap": "#8",
+  "txt": "Número ocho. Las bayas de saúco."
+ },
+ {
+  "src": "EB2@5-150",
+  "label": "SAÚCO",
+  "cap": "MONTEREY · 1983",
+  "txt": "El jarabe de saúco se vende como remedio natural para la gripe. Pero en agosto de 1983, en un retiro en el condado de Monterey, California, alguien preparó jugo con bayas frescas machacadas junto con hojas y tallos, y lo sirvió a veinticinco personas. A los quince minutos, once estaban vomitando, y ocho tuvieron que ser trasladadas en helicóptero.",
+  "fx": {
+   "type": "map",
+   "title": "EL RETIRO DE 1983",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "CONDADO DE MONTEREY",
+     "lon": -121.3,
+     "lat": 36.2
+    }
+   ],
+   "view": [
+    -126,
+    31,
+    -114,
+    42
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "EB2@5-150",
+  "label": "SAÚCO",
+  "cap": "CIANURO",
+  "txt": "Las hojas, los tallos, las semillas y las bayas verdes contienen compuestos que, al machacarse, liberan cianuro, que impide que tus células usen el oxígeno. La buena noticia: cocinarlas destruye esos compuestos. Por eso el jarabe y la mermelada de saúco de la tienda son seguros. El problema fue el jugo crudo, lleno de partes verdes.",
+  "fx": {
+   "type": "compare",
+   "title": "EL SAÚCO",
+   "left": [
+    "CRUDO, CON HOJAS",
+    "PELIGROSO"
+   ],
+   "right": [
+    "COCIDO, SOLO BAYAS",
+    "SEGURO"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "KB2@60-350",
+   "GF@0-60"
+  ],
+  "label": "EN LA DULCERÍA",
+  "cap": "REGALIZ NEGRO",
+  "txt": "Y otro peligro inesperado está en la dulcería: el regaliz negro hecho con raíz de regaliz real. Contiene glicirricina, que hace que los riñones pierdan potasio, y con muy poco potasio el corazón pierde el ritmo. En 2020, una revista médica reportó el caso de un trabajador de la construcción de Massachusetts que comía bolsa y media de regaliz negro al día. Murió de un paro cardiaco. La FDA advierte que, en mayores de cuarenta años, unos cincuenta gramos diarios durante dos semanas ya pueden causar arritmias.",
+  "fx": {
+   "type": "headline",
+   "paper": "REVISTA MÉDICA · 2020",
+   "date": "SEPTIEMBRE DE 2020",
+   "headline": "UN HOMBRE MUERE TRAS COMER REGALIZ NEGRO A DIARIO",
+   "sub": "La glicirricina bajó su potasio y alteró su corazón",
+   "stamp": "CASO REAL",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "BN@0-22",
+  "label": "NUEZ DE BRASIL",
+  "cap": "#7",
+  "txt": "Número siete. La nuez de Brasil."
+ },
+ {
+  "src": "BN@0-22",
+  "label": "NUEZ DE BRASIL",
+  "cap": "SELENIO",
+  "txt": "Hasta donde se sabe, la nuez de Brasil no ha matado a nadie. Pero comer demasiadas puede envenenarte lo suficiente como para que se te caiga el pelo. El árbol que la produce, en la selva amazónica, absorbe del suelo un mineral llamado selenio y lo concentra en la nuez. Tu cuerpo necesita un poco de selenio, y muchas veces una sola nuez ya cubre lo de todo el día.",
+  "fx": {
+   "type": "map",
+   "title": "DE LA AMAZONÍA",
+   "countries": [
+    "Brazil",
+    "Bolivia",
+    "Peru"
+   ],
+   "pins": [
+    {
+     "name": "AMAZONÍA",
+     "lon": -63,
+     "lat": -9
+    }
+   ],
+   "view": [
+    -82,
+    -24,
+    -40,
+    6
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "BN@0-22",
+  "label": "NUEZ DE BRASIL",
+  "cap": "UNA O DOS",
+  "txt": "El exceso, día tras día, provoca selenosis: primero aliento a ajo que no se quita y sabor metálico en la boca, después uñas quebradizas y caída del pelo. Y como dos nueces de la misma bolsa pueden tener cantidades muy distintas, no sabes cuánto estás comiendo. Por eso los médicos recomiendan una o dos al día, no un puñado.",
+  "fx": {
+   "type": "counter",
+   "value": 2,
+   "prefix": "1-",
+   "suffix": " NUECES",
+   "label": "AL DÍA, COMO MÁXIMO RECOMENDADO",
+   "sub": "Por su alto contenido de selenio",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "BN@0-22",
+  "label": "NUEZ DE BRASIL",
+  "cap": "BOLIVIA",
+  "txt": "Un dato curioso: aunque se llama nuez de Brasil, hoy el mayor exportador del mundo es Bolivia. Las nueces no se cultivan en plantaciones: se recolectan de árboles silvestres en la selva, que pueden vivir cientos de años y solo dan fruto si en el bosque viven ciertas abejas grandes que los polinizan. Por eso es uno de los pocos alimentos que dependen de que la selva siga de pie.",
+  "fx": {
+   "type": "compare",
+   "title": "LA NUEZ DE BRASIL",
+   "left": [
+    "EL NOMBRE",
+    "BRASIL"
+   ],
+   "right": [
+    "EL MAYOR EXPORTADOR",
+    "BOLIVIA"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "HP@20-690",
+   "HP2@0-150"
+  ],
+  "label": "CHILES SÚPER PICANTES",
+  "cap": "#6",
+  "txt": "Número seis. Los chiles súper picantes."
+ },
+ {
+  "src": [
+   "HP@20-690",
+   "HP2@0-150"
+  ],
+  "label": "CHILES SÚPER PICANTES",
+  "cap": "SCOVILLE",
+  "txt": "Los chiles son de América, y en México los conocemos bien. Pero los chiles extremos que la gente come en retos de internet, como el Carolina Reaper o el chile fantasma, pueden ser cientos de veces más picantes que un jalapeño. El picor viene de la capsaicina, que activa los mismos receptores que detectan el calor de una quemadura.",
+  "fx": {
+   "type": "bars",
+   "title": "UNIDADES SCOVILLE (APROX.)",
+   "items": [
+    [
+     "JALAPEÑO",
+     8
+    ],
+    [
+     "HABANERO",
+     350
+    ],
+    [
+     "CHILE FANTASMA",
+     1000
+    ],
+    [
+     "CAROLINA REAPER",
+     1600
+    ]
+   ],
+   "suffix": " MIL",
+   "note": "Valores promedio aproximados, en miles",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "HP2@0-150",
+   "HP@20-690"
+  ],
+  "label": "CHILES SÚPER PICANTES",
+  "cap": "LOS CASOS",
+  "txt": "En dosis enormes, el cuerpo reacciona como si lo atacaran. En 2016, en San Francisco, un hombre comió una hamburguesa con puré de chile fantasma en un concurso y vomitó con tanta fuerza que se rompió el esófago: pasó veintitrés días en el hospital. En 2018, en Nueva York, otro hombre comió un Carolina Reaper y tuvo un dolor de cabeza tan fuerte que los médicos encontraron las arterias de su cerebro contraídas.",
+  "fx": {
+   "type": "timeline",
+   "title": "CASOS DOCUMENTADOS",
+   "items": [
+    [
+     "2016",
+     "Esófago perforado"
+    ],
+    [
+     "2018",
+     "Arterias del cerebro contraídas"
+    ],
+    [
+     "2023",
+     "El reto del chip"
+    ]
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "HP@20-690",
+   "HP2@0-150"
+  ],
+  "label": "CHILES SÚPER PICANTES",
+  "cap": "EL CHIP",
+  "txt": "Y el caso más triste: en septiembre de 2023, Harris Wolobah, un joven de catorce años de Massachusetts, hizo el reto de la marca Paqui: comer un solo totopo con Carolina Reaper, vendido en una caja con forma de ataúd. Murió ese mismo día. La autopsia encontró un problema en su corazón, pero también señaló la gran dosis de capsaicina como parte de la causa. La empresa retiró el producto de las tiendas.",
+  "fx": {
+   "type": "headline",
+   "paper": "MASSACHUSETTS · 2023",
+   "date": "SEPTIEMBRE DE 2023",
+   "headline": "RETIRAN EL CHIP MÁS PICANTE TRAS LA MUERTE DE UN ADOLESCENTE",
+   "sub": "El reto One Chip Challenge",
+   "stamp": "RETIRADO",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "HP@20-690",
+   "HP2@0-150"
+  ],
+  "label": "CHILES SÚPER PICANTES",
+  "cap": "PEPPER X",
+  "txt": "Y la carrera por el chile más picante no se detiene. En 2023, el récord mundial pasó a un nuevo chile, el Pepper X, creado por el mismo productor estadounidense del Carolina Reaper, con más de dos millones y medio de unidades Scoville en promedio. Comerlo no es un logro: los médicos insisten en que estos chiles son condimentos para usar en gotas, no un reto para comer enteros.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL CHILE MÁS PICANTE DEL MUNDO",
+   "items": [
+    [
+     "2007",
+     "Chile fantasma"
+    ],
+    [
+     "2013",
+     "Carolina Reaper"
+    ],
+    [
+     "2023",
+     "Pepper X"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "KB@0-440",
+   "KB2@60-350"
+  ],
+  "label": "FRIJOLES ROJOS",
+  "cap": "#5",
+  "txt": "Número cinco. Los frijoles rojos mal cocidos."
+ },
+ {
+  "src": [
+   "KB2@60-350",
+   "KB@0-440"
+  ],
+  "label": "FRIJOLES ROJOS",
+  "cap": "LA LECTINA",
+  "txt": "Los frijoles rojos crudos contienen una proteína llamada fitohemaglutinina, que se pega a las paredes del intestino. Bastan cuatro o cinco frijoles crudos para provocar horas de vómito y diarrea. Hervirlos fuerte durante diez minutos la destruye. Pero aquí está la trampa: calentarlos a una temperatura menor, sin que lleguen a hervir, puede hacerlos hasta cinco veces más tóxicos que crudos, según la FDA.",
+  "fx": {
+   "type": "compare",
+   "title": "CÓMO COCER FRIJOLES ROJOS",
+   "left": [
+    "HERVIR 10 MINUTOS",
+    "SEGUROS"
+   ],
+   "right": [
+    "CALENTAR SIN HERVIR",
+    "HASTA 5 VECES MÁS TÓXICOS"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "KB@0-440",
+   "KB2@60-350"
+  ],
+  "label": "FRIJOLES ROJOS",
+  "cap": "OLLA DE COCCIÓN LENTA",
+  "txt": "Por eso algunas ollas de cocción lenta, en temperatura baja, pueden ser un problema si echas los frijoles secos sin hervirlos antes. Los frijoles de lata ya vienen cocidos, así que no hay riesgo. Y en América Latina, donde la olla de frijoles hierve durante horas, la tradición ya resolvía el problema sin saberlo. En 2006, un programa de televisión japonés recomendó tostar frijoles blancos tres minutos para bajar de peso, y más de cien personas se enfermaron.",
+  "fx": {
+   "type": "counter",
+   "value": 10,
+   "suffix": " MINUTOS",
+   "label": "DE HERVOR FUERTE",
+   "sub": "Para destruir la toxina de los frijoles rojos",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": "CA@80-650",
+  "label": "YUCA · MANDIOCA",
+  "cap": "#4",
+  "txt": "Número cuatro. La yuca, o mandioca."
+ },
+ {
+  "src": "CA@80-650",
+  "label": "YUCA · MANDIOCA",
+  "cap": "800 MILLONES",
+  "txt": "La yuca es originaria de América del Sur, y hoy es alimento básico para cientos de millones de personas en América Latina, África y Asia. Pero la yuca cruda contiene compuestos que el cuerpo convierte en cianuro, sobre todo las variedades amargas. Por eso nunca se come cruda: se pela, se remoja, se ralla, se fermenta o se cocina bien. Los pueblos indígenas desarrollaron esas técnicas hace miles de años.",
+  "fx": {
+   "type": "map",
+   "title": "EL ORIGEN DE LA YUCA",
+   "countries": [
+    "Brazil",
+    "Paraguay",
+    "Bolivia"
+   ],
+   "pins": [
+    {
+     "name": "SUR DE LA AMAZONÍA",
+     "lon": -60,
+     "lat": -12
+    }
+   ],
+   "view": [
+    -82,
+    -35,
+    -34,
+    10
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CA@80-650",
+  "label": "YUCA · MANDIOCA",
+  "cap": "EL CASABE",
+  "txt": "El casabe, el pan de yuca que ya hacían los taínos en el Caribe, es un ejemplo perfecto: la yuca se rallaba y se exprimía para sacarle el jugo venenoso antes de cocinarla. Cuando estos pasos se saltan, por hambre o por sequía, el resultado puede ser grave. En algunas regiones de África se registran brotes de konzo, una parálisis relacionada con comer yuca amarga mal procesada.",
+  "fx": {
+   "type": "list",
+   "title": "CÓMO SE QUITA EL VENENO",
+   "items": [
+    "Pelar",
+    "Remojar o rallar",
+    "Exprimir o fermentar",
+    "Cocinar bien"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "CA@80-650",
+  "label": "YUCA · MANDIOCA",
+  "cap": "TAPIOCA",
+  "txt": "Y la yuca bien procesada está en todas partes, aunque no la reconozcas: la tapioca y el almidón de yuca vienen de ella, la farofa brasileña, el pan de yuca, el casabe dominicano y venezolano, y las perlas del té de burbujas taiwanés. Una planta que, cruda, puede liberar cianuro, se volvió uno de los alimentos más importantes del planeta gracias a técnicas que inventaron los pueblos indígenas de América.",
+  "fx": {
+   "type": "list",
+   "title": "LA YUCA ESTÁ EN...",
+   "items": [
+    "La tapioca",
+    "La farofa brasileña",
+    "El casabe",
+    "El pan de yuca",
+    "Las perlas del té de burbujas"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "AK@0-170",
+   "AK2@60-420"
+  ],
+  "label": "AKEE",
+  "cap": "#3",
+  "txt": "Número tres. El akee de Jamaica."
+ },
+ {
+  "src": [
+   "AK2@60-420",
+   "AK@0-170"
+  ],
+  "label": "AKEE",
+  "cap": "LA FRUTA NACIONAL",
+  "txt": "El akee es la fruta nacional de Jamaica, y el akee con bacalao es su plato nacional. Llegó desde África occidental en el siglo dieciocho. Pero la fruta verde, sin abrirse por completo, contiene una toxina llamada hipoglicina, que baja de golpe el azúcar en la sangre y provoca lo que se conoce como la enfermedad del vómito de Jamaica.",
+  "fx": {
+   "type": "map",
+   "title": "EL AKEE DE JAMAICA",
+   "countries": [
+    "Jamaica",
+    "Cuba",
+    "Haiti"
+   ],
+   "pins": [
+    {
+     "name": "JAMAICA",
+     "lon": -77.3,
+     "lat": 18.1
+    }
+   ],
+   "view": [
+    -86,
+    14,
+    -68,
+    24
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "AK@0-170",
+   "AK2@60-420"
+  ],
+  "label": "AKEE",
+  "cap": "MADURA",
+  "txt": "La regla en Jamaica es simple: el akee solo se come cuando la fruta se abre sola en el árbol, y nunca las semillas negras ni la membrana rosada. Por el riesgo, Estados Unidos lleva décadas con restricciones para importar akee, y solo permite el que viene enlatado o congelado de procesadores aprobados.",
+  "fx": {
+   "type": "compare",
+   "title": "EL AKEE",
+   "left": [
+    "CERRADA Y VERDE",
+    "TÓXICA"
+   ],
+   "right": [
+    "ABIERTA EN EL ÁRBOL",
+    "COMESTIBLE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "AK2@60-420",
+   "AK@0-170"
+  ],
+  "label": "AKEE",
+  "cap": "AKEE CON BACALAO",
+  "txt": "El plato nacional de Jamaica tiene historia de comercio: el bacalao salado llegaba desde Canadá y el norte del Atlántico, a cambio de azúcar y ron del Caribe. Y el akee, cocinado correctamente, tiene una textura suave, casi como huevo revuelto. Cada año, en temporada de escasez, todavía se reportan casos de intoxicación en el Caribe y en África occidental por comer la fruta antes de tiempo."
+ },
+ {
+  "src": [
+   "MU@1100-2600",
+   "MU2@1000-6500"
+  ],
+  "label": "HONGOS SILVESTRES",
+  "cap": "#2",
+  "txt": "Número dos. Los hongos silvestres."
+ },
+ {
+  "src": [
+   "MU2@1000-6500",
+   "MU@1100-2600"
+  ],
+  "label": "HONGOS SILVESTRES",
+  "cap": "BOZEMAN · 2023",
+  "txt": "Las colmenillas, o morillas, son de los hongos más apreciados del mundo. Y en 2023, en un restaurante de sushi de Bozeman, Montana, unas colmenillas auténticas, de un proveedor autorizado, servidas casi crudas en un rollo, enfermaron a cincuenta y una personas. Dos murieron. Los investigadores ni siquiera pudieron identificar la sustancia exacta. La lección: las colmenillas nunca se comen crudas.",
+  "fx": {
+   "type": "headline",
+   "paper": "MONTANA · 2023",
+   "date": "ABRIL DE 2023",
+   "headline": "HONGOS CASI CRUDOS ENFERMAN A 51 PERSONAS EN UN RESTAURANTE",
+   "sub": "Dos personas murieron",
+   "stamp": "ALERTA",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "MU@1100-2600",
+   "MU2@1000-6500"
+  ],
+  "label": "HONGOS SILVESTRES",
+  "cap": "LA AMANITA",
+  "txt": "Pero el verdadero asesino del bosque es otro: la Amanita phalloides, conocida como oronja verde u hongo de la muerte. Se le atribuye la gran mayoría de las muertes por hongos en el mundo. Puede parecerse a hongos comestibles, no tiene un sabor desagradable, y sus síntomas pueden tardar horas en aparecer, cuando el hígado ya está dañado. Por eso la regla de oro es: nunca comas un hongo silvestre que no haya identificado un experto.",
+  "fx": {
+   "type": "quote",
+   "text": "Nunca comas un hongo silvestre que no haya identificado un experto.",
+   "by": "La regla de oro de los recolectores",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "FU@40-260",
+  "label": "FUGU · PEZ GLOBO",
+  "cap": "#1",
+  "txt": "Y número uno. El fugu, el pez globo."
+ },
+ {
+  "src": "FU@40-260",
+  "label": "FUGU · PEZ GLOBO",
+  "cap": "TETRODOTOXINA",
+  "txt": "En Japón, el fugu es un manjar caro. Y también es uno de los platos más peligrosos del mundo: su hígado, sus ovarios y otras partes contienen tetrodotoxina, un veneno que paraliza los músculos, incluidos los de la respiración, mientras la persona sigue consciente. Se calcula que es más de mil veces más potente que el cianuro, y no existe antídoto.",
+  "fx": {
+   "type": "counter",
+   "value": 1000,
+   "prefix": "+",
+   "suffix": " VECES",
+   "label": "MÁS POTENTE QUE EL CIANURO",
+   "sub": "La tetrodotoxina del pez globo",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": "FU@40-260",
+  "label": "FUGU · PEZ GLOBO",
+  "cap": "LA LICENCIA",
+  "txt": "Por eso, en Japón, solo los cocineros con licencia especial pueden prepararlo, después de años de entrenamiento y un examen. Y desde 1984 está prohibido servir el hígado en los restaurantes. Esa regla tiene historia: en 1975, un famoso actor de kabuki, Bandō Mitsugorō, murió después de pedir varias porciones de hígado de fugu en un restaurante de Kioto.",
+  "fx": {
+   "type": "map",
+   "title": "EL FUGU EN JAPÓN",
+   "countries": [
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "SHIMONOSEKI",
+     "lon": 130.94,
+     "lat": 33.96
+    },
+    {
+     "name": "KIOTO",
+     "lon": 135.77,
+     "lat": 35.01
+    }
+   ],
+   "view": [
+    128,
+    30,
+    142,
+    40
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "FU@40-260",
+  "label": "FUGU · PEZ GLOBO",
+  "cap": "SHIMONOSEKI",
+  "txt": "La capital del fugu es Shimonoseki, en el sur de Japón, donde se comercia la mayor parte del pez globo del país, y allí incluso le dicen fuku, que suena como la palabra suerte. Se sirve en láminas tan finas que se puede ver el plato a través de ellas. Y aun con todas las reglas, cada año se reportan intoxicaciones, casi siempre de personas que lo preparan en casa sin licencia.",
+  "fx": {
+   "type": "compare",
+   "title": "EL FUGU",
+   "left": [
+    "EN RESTAURANTE CON LICENCIA",
+    "CONTROLADO"
+   ],
+   "right": [
+    "PREPARADO EN CASA",
+    "LA MAYORÍA DE LOS CASOS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "FU@40-260",
+   "GF@0-60",
+   "CA@80-650",
+   "HP@20-690"
+  ],
+  "label": "¿CUÁL TE SORPRENDIÓ?",
+  "cap": "¿CUÁL TE SORPRENDIÓ?",
+  "txt": "Toronja con medicinas, saúco crudo, nueces de Brasil por puñados, chiles extremos, frijoles a medio cocer, yuca cruda, akee verde, hongos silvestres y fugu. Casi todas estas comidas son seguras si sabes cómo prepararlas. ¿Cuál te sorprendió más? Déjamelo en los comentarios, y suscríbete para más historias de la comida."
+ }
+]

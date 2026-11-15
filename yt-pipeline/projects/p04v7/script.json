@@ -1,0 +1,691 @@
+[
+ {
+  "src": [
+   "PP@20-405",
+   "WW@20-400"
+  ],
+  "label": "EL PÁJARO LOCO",
+  "cap": "",
+  "txt": "Lo crearon para molestar al personaje de otra caricatura. La historia que todos cuentan sobre su origen probablemente no pasó. Y el estudio que lo hizo estuvo a punto de desaparecer, no una vez, sino dos. Esta es la historia de El Pájaro Loco."
+ },
+ {
+  "src": [
+   "KK@20-415",
+   "PE@15-370"
+  ],
+  "label": "EL PÁJARO LOCO",
+  "cap": "10 SECRETOS",
+  "txt": "En América Latina lo conocemos como El Pájaro Loco, y en Brasil como Pica-Pau. Hoy te cuento diez secretos de su historia: el falso origen de la luna de miel, las cinco voces que tuvo en diez años, la demanda por su famosa risa, la esposa que se ganó el papel a escondidas, y cómo su estudio fue el último en apagar la luz.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DEL PÁJARO LOCO",
+   "items": [
+    [
+     "1940",
+     "Debut en Knock Knock"
+    ],
+    [
+     "1948",
+     "El estudio cierra"
+    ],
+    [
+     "1950",
+     "Grace Stafford, nueva voz"
+    ],
+    [
+     "1972",
+     "La última caricatura"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "OS@15-345",
+  "label": "OSWALD · 1929",
+  "cap": "#10",
+  "txt": "Número diez. Antes del Pájaro Loco, hubo un conejo robado."
+ },
+ {
+  "src": "OS@15-345",
+  "label": "OSWALD · 1929",
+  "cap": "WALTER LANTZ",
+  "txt": "Para entender esta historia hay que conocer a Walter Lantz. En 1928, el estudio Universal le quitó a Walt Disney los derechos de su personaje Oswald, el conejo de la suerte. Disney, sin su conejo, creó a Mickey Mouse. Y Universal le dio a Walter Lantz la responsabilidad de seguir haciendo las caricaturas de Oswald. Así empezó el estudio que años después crearía al Pájaro Loco.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CONEJO QUE CAMBIÓ DE DUEÑO",
+   "left": [
+    "WALT DISNEY",
+    "PIERDE A OSWALD Y CREA A MICKEY"
+   ],
+   "right": [
+    "WALTER LANTZ",
+    "SE QUEDA CON OSWALD"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "KK@20-415",
+  "label": "KNOCK KNOCK · 1940",
+  "cap": "#9",
+  "txt": "Número nueve. El Pájaro Loco era solo una molestia."
+ },
+ {
+  "src": [
+   "KK@20-415",
+   "FF@20-400"
+  ],
+  "label": "KNOCK KNOCK · 1940",
+  "cap": "ANDY PANDA",
+  "txt": "Antes del Pájaro Loco, la estrella de Lantz era Andy Panda, un osito tranquilo y bien portado. En noviembre de 1940, Lantz y el guionista Ben Hardaway hicieron una caricatura llamada Knock Knock, donde Andy y su papá necesitaban un estorbo, algo ruidoso e imposible de sacar de su casa. Ese estorbo fue un pájaro carpintero. Nadie estaba creando una franquicia. Estaban creando una molestia.",
+  "fx": {
+   "type": "headline",
+   "paper": "UNIVERSAL · 1940",
+   "date": "25 DE NOVIEMBRE DE 1940",
+   "headline": "UN PÁJARO CARPINTERO APARECE EN UNA CARICATURA DE ANDY PANDA",
+   "sub": "Knock Knock, el debut del Pájaro Loco",
+   "stamp": "DEBUT",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": "KK@20-415",
+  "label": "KNOCK KNOCK · 1940",
+  "cap": "¿ADIVINA QUIÉN?",
+  "txt": "Y sus primeras palabras ya eran un chiste: en Knock Knock, el pájaro se asoma después de taladrar la casa y pregunta, en inglés, guess who?, ¿adivina quién?. Esa pregunta se volvió una de sus frases de presentación durante años, junto con la risa. Un personaje que entraba sin pedir permiso y se presentaba solo.",
+  "fx": {
+   "type": "quote",
+   "text": "¿Adivina quién?",
+   "by": "Las primeras palabras del Pájaro Loco (1940)",
+   "dur": 3.8
+  }
+ },
+ {
+  "src": [
+   "KK@20-415",
+   "WW@20-400"
+  ],
+  "label": "KNOCK KNOCK · 1940",
+  "cap": "BEN HARDAWAY",
+  "txt": "Y Ben Hardaway no era cualquier guionista. A finales de los treinta, en Warner Brothers, había ayudado a dar los primeros pasos a Bugs Bunny y al Pato Lucas. Le gustaban los personajes que no se callaban ni se dejaban. El público no se enamoró de Andy Panda, la estrella. Se enamoró del loco que lo molestaba. En menos de un año, el pájaro tenía su propia serie.",
+  "fx": {
+   "type": "list",
+   "title": "LOS PERSONAJES DE BEN HARDAWAY",
+   "items": [
+    "Bugs Bunny (primeros pasos)",
+    "El Pato Lucas (primeros pasos)",
+    "El Pájaro Loco"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "WW@20-400",
+  "label": "WOODY WOODPECKER · 1941",
+  "cap": "SU PROPIA SERIE",
+  "txt": "En 1941, apenas unos meses después de Knock Knock, el pájaro protagonizó su primera caricatura propia, llamada simplemente Woody Woodpecker, también conocida como The Cracked Nut, la nuez rajada. En ella, los animales del bosque están convencidos de que está loco y lo mandan con un psiquiatra. Desde el principio, la locura era el personaje.",
+  "fx": {
+   "type": "compare",
+   "title": "DE ESTORBO A ESTRELLA",
+   "left": [
+    "NOV 1940",
+    "ESTORBO EN KNOCK KNOCK"
+   ],
+   "right": [
+    "1941",
+    "SU PROPIA SERIE"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "WW@20-400",
+   "PP@20-405"
+  ],
+  "label": "WOODY WOODPECKER · 1941",
+  "cap": "#8",
+  "txt": "Número ocho. La luna de miel que no fue."
+ },
+ {
+  "src": [
+   "PP@20-405",
+   "WW@20-400"
+  ],
+  "label": "PANTRY PANIC · 1941",
+  "cap": "LA LUNA DE MIEL",
+  "txt": "Durante décadas, la historia oficial fue esta: Walter Lantz y su esposa, Grace, se fueron de luna de miel a June Lake, en California, y un pájaro carpintero no los dejó dormir taladrando el techo de la cabaña. De ahí habría salido el personaje. Es una gran historia. Pero según el biógrafo de Lantz, Joe Adamson, casi seguro no fue así: el Pájaro Loco apareció en Knock Knock antes de esa luna de miel.",
+  "fx": {
+   "type": "map",
+   "title": "LA LEYENDA DE JUNE LAKE",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "JUNE LAKE",
+     "lon": -119.08,
+     "lat": 37.78
+    }
+   ],
+   "view": [
+    -125,
+    32,
+    -113,
+    42
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "WW@20-400",
+   "PP@20-405"
+  ],
+  "label": "WOODY WOODPECKER · 1941",
+  "cap": "TRES PADRES",
+  "txt": "Uno de los guionistas, Lowell Elliott, dijo décadas después que la historia de la luna de miel era mentira, y que el guion de la casa con problemas en el techo ya existía. Otro animador recordaba que Lantz sí contaba la historia del pájaro molesto en el estudio. Probablemente fue una mezcla. El éxito tiene muchos padres, y este tenía al menos tres que no se ponían de acuerdo.",
+  "fx": {
+   "type": "compare",
+   "title": "¿DE DÓNDE SALIÓ?",
+   "left": [
+    "LA LEYENDA",
+    "LA LUNA DE MIEL"
+   ],
+   "right": [
+    "LOS DOCUMENTOS",
+    "EL GUION YA EXISTÍA"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "WW@20-400",
+   "LS@20-390"
+  ],
+  "label": "WOODY WOODPECKER · 1941",
+  "cap": "#7",
+  "txt": "Número siete. Cinco voces en diez años."
+ },
+ {
+  "src": [
+   "LS@20-390",
+   "WW@20-400"
+  ],
+  "label": "THE LOAN STRANGER · 1942",
+  "cap": "MEL BLANC",
+  "txt": "El primer Pájaro Loco no era tierno: era escandaloso, chillón y casi desquiciado, con una risa que parecía de un animal salvaje. Esa risa la hizo primero Mel Blanc, la voz de Bugs Bunny, hasta que Warner Brothers lo contrató en exclusiva y tuvo que dejarlo. Llegó en plena Segunda Guerra Mundial, y su energía rebelde, que no respetaba a nadie, era justo lo que el público quería.",
+  "fx": {
+   "type": "quote",
+   "text": "Ja-ja-ja-JA-ja",
+   "by": "La risa más famosa de la animación",
+   "dur": 3.8
+  }
+ },
+ {
+  "src": [
+   "LS@20-390",
+   "PP@20-405"
+  ],
+  "label": "THE LOAN STRANGER · 1942",
+  "cap": "LAS 5 VOCES",
+  "txt": "Y aquí un dato que casi nadie sabe: en su primera década, el Pájaro Loco tuvo cinco voces distintas. Después de Mel Blanc vinieron Danny Webb y Kent Rogers, que murió en un accidente de entrenamiento militar durante la guerra. Luego Dick Nelson, y después el propio Ben Hardaway, el guionista que lo había inventado. Cinco voces en diez años no fue una decisión artística: era un estudio improvisando con su mayor estrella.",
+  "fx": {
+   "type": "list",
+   "title": "LAS VOCES DEL PÁJARO LOCO",
+   "items": [
+    "Mel Blanc",
+    "Danny Webb",
+    "Kent Rogers",
+    "Dick Nelson",
+    "Ben Hardaway"
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "FF@20-400",
+   "LS@20-390"
+  ],
+  "label": "WALTER LANTZ · 1944",
+  "cap": "EL BARBERO DE SEVILLA",
+  "txt": "Y en plena guerra, el estudio hizo una de sus caricaturas más recordadas: El barbero de Sevilla, de 1944, dirigida por Shamus Culhane. El Pájaro Loco se hace pasar por barbero y deja a sus clientes destrozados al ritmo de la ópera de Rossini. Muchos historiadores la consideran de las mejores de toda su carrera, y muestra lo que el estudio podía hacer cuando todavía tenía presupuesto.",
+  "fx": {
+   "type": "headline",
+   "paper": "UNIVERSAL · 1944",
+   "date": "1944",
+   "headline": "EL PÁJARO LOCO SE VUELVE BARBERO EN SEVILLA",
+   "sub": "Al ritmo de la ópera de Rossini",
+   "stamp": "CLÁSICO",
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "FF@20-400",
+   "MC@15-345"
+  ],
+  "label": "WALTER LANTZ · 1944",
+  "cap": "#6",
+  "txt": "Número seis. El estudio cerró sus puertas."
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "FF@20-400"
+  ],
+  "label": "WALTER LANTZ · 1944",
+  "cap": "1948",
+  "txt": "En 1947, Universal cambió de dueños, y la nueva administración quería algo que Lantz no estaba dispuesto a dar: una parte de los derechos de mercancía de sus personajes, de cada muñeco y cada lonchera. Lantz se negó, dejó Universal, y firmó con otra distribuidora, sin el respaldo de un gran estudio. No funcionó. Con un préstamo bancario que ya no podía pagar, a finales de 1948 cerró el estudio y mandó a sus animadores a casa.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL PRIMER DERRUMBE",
+   "items": [
+    [
+     "1947",
+     "Rompe con Universal"
+    ],
+    [
+     "1948",
+     "Préstamo de 250 mil dólares"
+    ],
+    [
+     "FIN DE 1948",
+     "El estudio cierra"
+    ],
+    [
+     "1950",
+     "Reabre"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "WW@20-400"
+  ],
+  "label": "WALTER LANTZ · 1944",
+  "cap": "LA CANCIÓN",
+  "txt": "Y mientras el estudio estaba apagado, pasó algo increíble: la Canción del Pájaro Loco, lanzada en 1948 con su famosa risa, se volvió un éxito enorme y fue nominada al Óscar. El Pájaro Loco era famoso y estaba en quiebra al mismo tiempo. Pero esa risa no era gratis.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS DE LA ACADEMIA",
+   "date": "1949",
+   "headline": "LA CANCIÓN DEL PÁJARO LOCO, NOMINADA AL ÓSCAR",
+   "sub": "Mejor canción original",
+   "stamp": "NOMINADA",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PP@20-405",
+   "LS@20-390"
+  ],
+  "label": "PANTRY PANIC · 1941",
+  "cap": "#5",
+  "txt": "Número cinco. La demanda por la risa."
+ },
+ {
+  "src": [
+   "PP@20-405",
+   "WW@20-400"
+  ],
+  "label": "PANTRY PANIC · 1941",
+  "cap": "MEDIO MILLÓN",
+  "txt": "La risa de la canción era la de Mel Blanc, tomada de las grabaciones viejas de las caricaturas. Y Blanc demandó a Lantz por medio millón de dólares. El juez falló a favor de Lantz, porque Blanc nunca había registrado su voz ni su actuación. Pero cuando Blanc apeló, Lantz prefirió pagarle un acuerdo fuera de la corte. Un estudio cerrado por falta de dinero, pagando para terminar una demanda por su mayor éxito.",
+  "fx": {
+   "type": "counter",
+   "value": 500,
+   "prefix": "$",
+   "suffix": " MIL",
+   "label": "LA DEMANDA DE MEL BLANC",
+   "sub": "Por la risa del Pájaro Loco",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "PE@15-370"
+  ],
+  "label": "WALTER LANTZ · AÑOS 50",
+  "cap": "#4",
+  "txt": "Número cuatro. La esposa que se ganó el papel a escondidas."
+ },
+ {
+  "src": [
+   "PE@15-370",
+   "MC@15-345"
+  ],
+  "label": "WALTER LANTZ · AÑOS 50",
+  "cap": "GRACE STAFFORD",
+  "txt": "Sin la risa de Blanc, Lantz necesitaba una voz nueva antes de reabrir. En 1950 organizó audiciones a ciegas: cintas grabadas sin nombre, juzgadas solo por la actuación. Su esposa, la actriz Grace Stafford, le pidió el papel, y él le dijo que no, porque el personaje era masculino. Ella no aceptó el no: grabó una cinta anónima y la metió junto con las demás.",
+  "fx": {
+   "type": "compare",
+   "title": "LA AUDICIÓN A CIEGAS",
+   "left": [
+    "WALTER LANTZ",
+    "DIJO QUE NO"
+   ],
+   "right": [
+    "GRACE STAFFORD",
+    "GANÓ A CIEGAS"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "PE@15-370",
+  "label": "WALTER LANTZ · AÑOS 50",
+  "cap": "SIN CRÉDITO",
+  "txt": "Cuando escucharon las cintas, la ganadora fue la suya. Y según se cuenta, Lantz no supo que había elegido a su propia esposa hasta después. Grace Stafford fue la voz del Pájaro Loco durante décadas. Al principio, Lantz ni siquiera la ponía en los créditos, porque temía que los niños se decepcionaran al saber que el Pájaro Loco era una mujer. Su nombre empezó a aparecer recién a finales de los cincuenta.",
+  "fx": {
+   "type": "counter",
+   "value": 22,
+   "suffix": " AÑOS",
+   "label": "GRACE STAFFORD, LA VOZ DEL PÁJARO LOCO",
+   "sub": "De 1950 a 1972 en el cine",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "PE@15-370"
+  ],
+  "label": "WALTER LANTZ · AÑOS 50",
+  "cap": "MÁS TIERNO",
+  "txt": "Y con la nueva etapa llegó un nuevo diseño. El Pájaro Loco de los cuarenta era alto, con dientes salidos y ojos desorbitados, casi grotesco. En los cincuenta se volvió más pequeño, más redondo y más simpático, el que casi todos recordamos. Un personaje creado para ser insoportable se fue suavizando para vender juguetes y llegar a los niños de la televisión.",
+  "fx": {
+   "type": "compare",
+   "title": "EL CAMBIO DE DISEÑO",
+   "left": [
+    "AÑOS 40",
+    "GROTESCO Y SALVAJE"
+   ],
+   "right": [
+    "AÑOS 50",
+    "PEQUEÑO Y SIMPÁTICO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "PP@20-405"
+  ],
+  "label": "WALTER LANTZ · 1950",
+  "cap": "LA LUNA",
+  "txt": "Y en 1950 el Pájaro Loco hizo algo inesperado: apareció en la película de ciencia ficción Destino a la Luna, del productor George Pal. En una escena, los personajes ven una caricatura donde el Pájaro Loco explica, de forma sencilla, cómo funcionaría un viaje en cohete a la Luna. Diecinueve años antes del Apolo 11.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL PÁJARO LOCO Y LA LUNA",
+   "items": [
+    [
+     "1950",
+     "Destino a la Luna"
+    ],
+    [
+     "1957",
+     "Primer satélite"
+    ],
+    [
+     "1969",
+     "Apolo 11 llega a la Luna"
+    ]
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "PE@15-370",
+   "MC@15-345"
+  ],
+  "label": "PICA-PAU · 1957",
+  "cap": "#3",
+  "txt": "Número tres. La televisión, y América Latina."
+ },
+ {
+  "src": "PE@15-370",
+  "label": "PICA-PAU · 1957",
+  "cap": "1957",
+  "txt": "El estudio que reabrió en 1950 era más pobre: producción más rápida, fondos más simples, movimientos más rígidos. Pero en 1957 llegó la televisión, con el Show del Pájaro Loco, que juntaba caricaturas viejas con material nuevo. Y esas caricaturas viajaron por el mundo. En América Latina, el Pájaro Loco se volvió parte de la infancia de varias generaciones.",
+  "fx": {
+   "type": "map",
+   "title": "EL PÁJARO LOCO EN AMÉRICA LATINA",
+   "countries": [
+    "Mexico",
+    "Brazil",
+    "Argentina",
+    "Colombia",
+    "Peru",
+    "Chile"
+   ],
+   "view": [
+    -120,
+    -56,
+    -30,
+    33
+   ],
+   "dur": 5.2
+  }
+ },
+ {
+  "src": [
+   "PE@15-370",
+   "MV@40-160"
+  ],
+  "label": "PICA-PAU · 1957",
+  "cap": "BRASIL",
+  "txt": "Y en Brasil, como Pica-Pau, fue un fenómeno: sus caricaturas se repitieron en la televisión durante décadas y se convirtieron en parte de la cultura popular. Tanto, que cuando en 2017 se hizo una película con actores del Pájaro Loco, se estrenó primero en los cines de Brasil, mientras que en Estados Unidos salió directo a video.",
+  "fx": {
+   "type": "compare",
+   "title": "LA PELÍCULA DE 2017",
+   "left": [
+    "BRASIL",
+    "ESTRENO EN CINES"
+   ],
+   "right": [
+    "ESTADOS UNIDOS",
+    "DIRECTO A VIDEO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": "ML@100-4500",
+  "label": "WALTER LANTZ",
+  "cap": "EL ANFITRIÓN",
+  "txt": "En el programa de televisión, el propio Walter Lantz aparecía en segmentos especiales explicando a los niños cómo se hacía una caricatura: cómo se dibujaba cada cuadro, cómo se grababan las voces y los efectos. Para muchos niños de los cincuenta y sesenta, fue la primera vez que vieron el trabajo detrás de los dibujos animados.",
+  "fx": {
+   "type": "list",
+   "title": "LO QUE ENSEÑABA LANTZ",
+   "items": [
+    "Cómo se dibuja cada cuadro",
+    "Cómo se graban las voces",
+    "Cómo se hacen los efectos",
+    "Cómo se arma la caricatura"
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": "MC@15-345",
+  "label": "WALTER LANTZ · AÑOS 50",
+  "cap": "CHILLY WILLY",
+  "txt": "El estudio también tuvo otras estrellas. En 1953 nació Chilly Willy, el pequeño pingüino que siempre tenía frío, y por un tiempo lo dirigió nada menos que Tex Avery, uno de los grandes genios de la animación, el mismo que había trabajado en los inicios de Bugs Bunny en Warner. Pero ninguno igualó la fama del pájaro de la risa loca.",
+  "fx": {
+   "type": "compare",
+   "title": "OTRAS ESTRELLAS DE LANTZ",
+   "left": [
+    "ANDY PANDA",
+    "1939"
+   ],
+   "right": [
+    "CHILLY WILLY",
+    "1953"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": "PE@15-370",
+  "label": "PICA-PAU · 1957",
+  "cap": "LA RISA",
+  "txt": "Y en muchos países de América Latina, la risa del Pájaro Loco se volvió tan conocida que la gente la imita sin pensar en de dónde viene. Para varias generaciones, las tardes después de la escuela tenían el mismo sonido: esa carcajada aguda, el golpeteo del pico contra la madera, y un pájaro que nunca, nunca, se dejaba vencer."
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "PP@20-405"
+  ],
+  "label": "WALTER LANTZ · AÑOS 60",
+  "cap": "#2",
+  "txt": "Número dos. El último estudio de caricaturas para el cine."
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "PE@15-370"
+  ],
+  "label": "WALTER LANTZ · AÑOS 60",
+  "cap": "EL ÚLTIMO",
+  "txt": "Uno por uno, los grandes estudios de caricaturas para cine fueron cerrando o pasándose a la televisión: el de Disney, el de Warner Brothers, el de MGM, el de los Fleischer. Hacia finales de los sesenta, el estudio de Walter Lantz era el último que seguía haciendo cortos para las salas de cine en Estados Unidos. El hombre que casi quiebra dos veces sobrevivió a todos.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS QUE CERRARON ANTES",
+   "items": [
+    [
+     "1957",
+     "MGM"
+    ],
+    [
+     "1963",
+     "Warner Bros"
+    ],
+    [
+     "1967",
+     "Famous Studios"
+    ],
+    [
+     "1972",
+     "Walter Lantz, el último"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PP@20-405",
+   "WW@20-400"
+  ],
+  "label": "EL PÁJARO LOCO",
+  "cap": "#1",
+  "txt": "Y número uno. El final, y el legado."
+ },
+ {
+  "src": [
+   "MC@15-345",
+   "ML@100-4500"
+  ],
+  "label": "WALTER LANTZ",
+  "cap": "1972",
+  "txt": "Pero al final, los números no alcanzaron. Los costos y la inflación hicieron imposible seguir. En marzo de 1972, Walter Lantz cerró el estudio para siempre, con una comida de despedida para un equipo que había envejecido junto a él. La última caricatura del Pájaro Loco en el cine fue Bye, Bye, Blackboard, de 1972.",
+  "fx": {
+   "type": "headline",
+   "paper": "HOLLYWOOD · 1972",
+   "date": "MARZO DE 1972",
+   "headline": "CIERRA EL ÚLTIMO ESTUDIO DE CARICATURAS PARA CINE",
+   "sub": "Walter Lantz despide a su equipo",
+   "stamp": "FIN",
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "ML@100-4500",
+   "PE@15-370"
+  ],
+  "label": "WALTER LANTZ",
+  "cap": "EL LEGADO",
+  "txt": "Pero el Pájaro Loco nunca se fue. En 1979, Walter Lantz recibió un Óscar honorífico por su trayectoria. En 1988 el Pájaro Loco apareció en ¿Quién engañó a Roger Rabbit?. En 1990, por su cincuenta aniversario, recibió su estrella en el Paseo de la Fama de Hollywood. Grace Stafford murió en 1992, y Walter Lantz en 1994.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL LEGADO",
+   "items": [
+    [
+     "1979",
+     "Óscar honorífico a Lantz"
+    ],
+    [
+     "1988",
+     "¿Quién engañó a Roger Rabbit?"
+    ],
+    [
+     "1990",
+     "Estrella en Hollywood"
+    ],
+    [
+     "2017",
+     "Película en Brasil"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "PE@15-370",
+   "PP@20-405"
+  ],
+  "label": "EL PÁJARO LOCO",
+  "cap": "HOY",
+  "txt": "Y la historia siguió. En 1999 llegó una serie nueva, The New Woody Woodpecker Show, y en 2018 una serie web con animación moderna. Hoy el Pájaro Loco también es uno de los personajes que reciben a los visitantes en los parques de Universal Studios, la empresa que en 1947 casi lo deja sin casa. Ochenta años después de Knock Knock, el estorbo sigue tocando la puerta.",
+  "fx": {
+   "type": "timeline",
+   "title": "EL PÁJARO LOCO HOY",
+   "items": [
+    [
+     "1999",
+     "Nueva serie de televisión"
+    ],
+    [
+     "2017",
+     "Película con actores"
+    ],
+    [
+     "2018",
+     "Serie web"
+    ],
+    [
+     "HOY",
+     "Parques de Universal"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "PP@20-405",
+   "KK@20-415",
+   "PE@15-370",
+   "WW@20-400"
+  ],
+  "label": "¿CUÁL NO SABÍAS?",
+  "cap": "¿CUÁL NO SABÍAS?",
+  "txt": "Un pájaro inventado para molestar a otro personaje, un origen que no fue, cinco voces en diez años, una demanda por su risa, una esposa que ganó el papel a escondidas, y un estudio que sobrevivió a todos casi quebrando dos veces. Así es la historia del Pájaro Loco. ¿Cuál de estos secretos no sabías? Déjamelo en los comentarios, y suscríbete para más historias de caricaturas clásicas."
+ }
+]

@@ -1,0 +1,646 @@
+[
+ {
+  "src": [
+   "UN",
+   "FC"
+  ],
+  "label": "GENE HACKMAN",
+  "cap": "",
+  "txt": "Gene Hackman frunció el ceño frente a directores, compañeros y conductores de televisión por igual. Clint Eastwood, Kevin Costner y Bill Murray terminaron con una historia sobre él. Era difícil, gruñón y desconfiado de cualquier autoridad. Y también fue uno de los mejores actores de la historia del cine."
+ },
+ {
+  "src": [
+   "CV",
+   "BC"
+  ],
+  "label": "GENE HACKMAN",
+  "cap": "EL ENCANTO GRUÑÓN",
+  "txt": "Ninguna celebridad tuvo un encanto gruñón como Gene Hackman. Hoy recorremos su vida a través de esos momentos: de los Marines a su última entrevista, con dos premios Óscar en el camino y una carrera que terminó de golpe, justo como él lo predijo.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DE GENE HACKMAN",
+   "items": [
+    [
+     "1930",
+     "Nace"
+    ],
+    [
+     "1946",
+     "Entra a los Marines"
+    ],
+    [
+     "1971",
+     "Contacto en Francia"
+    ],
+    [
+     "1992",
+     "Los imperdonables"
+    ],
+    [
+     "2025",
+     "Muere a los 95"
+    ]
+   ],
+   "dur": 6
+  }
+ },
+ {
+  "src": [
+   "MA",
+   "MA"
+  ],
+  "label": "LOS MARINES · AÑOS 40",
+  "cap": "16 AÑOS",
+  "txt": "Nació en 1930 en California y creció en Danville, Illinois. A los dieciséis años mintió sobre su edad para entrar a los Marines. Cuando le preguntaron en una entrevista por qué tomó esa decisión tan joven, dio una respuesta tan honesta y tan cruda que no se puede repetir aquí, pero que se resumía en que en casa las cosas no iban bien y quería salir de ahí.",
+  "fx": {
+   "type": "map",
+   "title": "DONDE CRECIÓ",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Illinois"
+   ],
+   "pins": [
+    {
+     "name": "DANVILLE, ILLINOIS",
+     "lon": -87.63,
+     "lat": 40.12
+    }
+   ],
+   "view": [
+    -93,
+    36.5,
+    -82,
+    43.5
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "MA",
+   "MA"
+  ],
+  "label": "LOS MARINES · AÑOS 40",
+  "cap": "CHINA",
+  "txt": "Sirvió cuatro años y medio, parte de ellos en China. Y los rangos nunca le duraban. Él mismo lo contaba: tengo problemas con la dirección porque tengo problemas con la autoridad. No fui un buen marine. Me ascendieron a cabo una vez, y me degradaron enseguida. Esa desconfianza a la autoridad lo acompañó toda la vida, en cada set de filmación.",
+  "fx": {
+   "type": "quote",
+   "text": "Tengo problemas con la dirección porque tengo problemas con la autoridad.",
+   "by": "Gene Hackman",
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "CS",
+   "MA"
+  ],
+  "label": "GENE HACKMAN · AÑOS 60",
+  "cap": "MENOS PROBABLE",
+  "txt": "Después estudió actuación en el Pasadena Playhouse, en California, y ahí pasó algo legendario: él y otro estudiante, Dustin Hoffman, fueron votados como los menos probables de tener éxito. Años después, le preguntaron qué pasó con los genios que dirigían esa escuela. Su respuesta: bueno, la escuela cerró.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS MENOS PROBABLES DE TRIUNFAR",
+   "left": [
+    "GENE HACKMAN",
+    "2 ÓSCAR"
+   ],
+   "right": [
+    "DUSTIN HOFFMAN",
+    "2 ÓSCAR"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "CS",
+   "CS"
+  ],
+  "label": "GENE HACKMAN · 1966",
+  "cap": "NUEVA YORK",
+  "txt": "Hackman y Hoffman se fueron a Nueva York, donde se les unió su amigo Robert Duvall. Hackman aceptaba cualquier trabajo. Una semana fue portero de un edificio en Broadway, con un abrigo de uniforme. Y contaba que un día pasó por la calle su antiguo instructor de los Marines, lo reconoció y, al pasar, le soltó un insulto. Hackman bromeaba: seguro le gustó el uniforme.",
+  "fx": {
+   "type": "list",
+   "title": "LOS TRES AMIGOS DE NUEVA YORK",
+   "items": [
+    "Gene Hackman",
+    "Dustin Hoffman",
+    "Robert Duvall"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "CS",
+   "BC"
+  ],
+  "label": "GENE HACKMAN · 1966",
+  "cap": "LOS FRASCOS",
+  "txt": "Y tenía una historia sobre Hoffman. Durante un tiempo, Dustin vivió con él y con su primera esposa, hasta que Hackman lo corrió. Hoffman guardaba dinero en frascos sobre una repisa. Un día le pidió dinero prestado a Hackman, y él le dijo: pero si tienes todos esos frascos llenos. Y Hoffman le respondió: sí, pero este de aquí está vacío. Nunca sacaba dinero de los frascos."
+ },
+ {
+  "src": [
+   "CS",
+   "CS"
+  ],
+  "label": "GENE HACKMAN · 1966",
+  "cap": "LOS PRIMEROS PAPELES",
+  "txt": "Antes de la fama, hacía de todo: obras de teatro, papeles pequeños en televisión, y hasta películas educativas del gobierno. En 1966 apareció en una película de defensa civil sobre cómo planear refugios contra la lluvia radiactiva, en plena Guerra Fría. Nada de eso hacía pensar que ese hombre de cara común, sin pinta de galán, iba a ganar dos premios Óscar."
+ },
+ {
+  "src": [
+   "BC",
+   "BC"
+  ],
+  "label": "BONNIE AND CLYDE · 1967",
+  "cap": "BONNIE Y CLYDE",
+  "txt": "Después de siete años de lucha, llegó la oportunidad. Warren Beatty lo eligió para interpretar a Buck Barrow, el hermano de Clyde, en Bonnie y Clyde, de 1967. Le dio su primera nominación al Óscar. Hackman contaba que no sabía que la película iba a ser un éxito, y que pensó: bueno, así será siempre. Por supuesto, no fue así.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS DE LA ACADEMIA",
+   "date": "1968",
+   "headline": "GENE HACKMAN, NOMINADO POR BONNIE Y CLYDE",
+   "sub": "Su primera nominación al Óscar",
+   "stamp": "NOMINADO",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "FC",
+   "FC2"
+  ],
+  "label": "THE FRENCH CONNECTION · 1971",
+  "cap": "POPEYE DOYLE",
+  "txt": "Y en 1971, William Friedkin lo eligió para interpretar a Popeye Doyle, un policía de narcóticos de Nueva York duro y violento, en Contacto en Francia. Friedkin vio problemas desde la primera semana. Contó que Gene creció odiando la autoridad, y que renunció a la película el segundo día. Fue su agente, Sue Mengers, quien lo convenció de no abandonar la película.",
+  "fx": {
+   "type": "map",
+   "title": "CONTACTO EN FRANCIA",
+   "countries": [
+    "United States of America",
+    "France"
+   ],
+   "pins": [
+    {
+     "name": "NUEVA YORK",
+     "lon": -74.0,
+     "lat": 40.71
+    },
+    {
+     "name": "MARSELLA",
+     "lon": 5.37,
+     "lat": 43.3
+    }
+   ],
+   "route": [
+    1,
+    0
+   ],
+   "view": [
+    -80,
+    25,
+    15,
+    55
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "FC2",
+   "FC"
+  ],
+  "label": "THE FRENCH CONNECTION · 1971",
+  "cap": "5 ÓSCAR",
+  "txt": "Así que Gene se quedó y aguantó. Contacto en Francia ganó cinco premios Óscar, entre ellos mejor película y mejor actor para Hackman. Y en su discurso, agradeció justamente al director con el que se había peleado: dijo que Friedkin lo había sacado adelante cuando él quería renunciar.",
+  "fx": {
+   "type": "counter",
+   "value": 5,
+   "suffix": " ÓSCAR",
+   "label": "CONTACTO EN FRANCIA (1971)",
+   "sub": "Incluido mejor actor para Gene Hackman",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "PA",
+   "PA"
+  ],
+  "label": "THE POSEIDON ADVENTURE · 1972",
+  "cap": "POSEIDÓN",
+  "txt": "Después vino La aventura del Poseidón, un éxito enorme en el que su personaje, un predicador, no sobrevive. Aun así, el estudio le pidió volver para la secuela. Le propusieron que la película empezara con los sobrevivientes en un helicóptero, y que de la cabina saliera él, preguntando: ¿se salvó mi hermano? Hackman respondió: creo que voy a pasar.",
+  "fx": {
+   "type": "quote",
+   "text": "Creo que voy a pasar.",
+   "by": "Gene Hackman, sobre la secuela del Poseidón",
+   "dur": 3.8
+  }
+ },
+ {
+  "src": [
+   "CV",
+   "CV"
+  ],
+  "label": "THE CONVERSATION · 1974",
+  "cap": "LA CONVERSACIÓN",
+  "txt": "Y luego, una racha increíble: un vagabundo junto a Al Pacino en Espantapájaros, un experto en espionaje para Francis Ford Coppola en La conversación, que ganó la Palma de Oro en Cannes, un ermitaño ciego en El joven Frankenstein, y el villano Lex Luthor en Superman. De ese último, dijo después que no le gustó su propio trabajo, y dejó de actuar durante dos años.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA RACHA DE LOS 70",
+   "items": [
+    [
+     "1973",
+     "Espantapájaros"
+    ],
+    [
+     "1974",
+     "La conversación"
+    ],
+    [
+     "1974",
+     "El joven Frankenstein"
+    ],
+    [
+     "1978",
+     "Superman"
+    ]
+   ],
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "SU",
+   "CV"
+  ],
+  "label": "SUPERMAN · 1978",
+  "cap": "LAS CARRERAS",
+  "txt": "En esos dos años se dedicó a correr autos, y llegó a ganar la carrera de celebridades del Gran Premio de Long Beach. Cuando le preguntaron por qué dejó las carreras, respondió con su humor seco: creo que las carreras me dejaron a mí. No podía juntar una temporada completa.",
+  "fx": {
+   "type": "map",
+   "title": "EL GRAN PREMIO DE LONG BEACH",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "California"
+   ],
+   "pins": [
+    {
+     "name": "LONG BEACH",
+     "lon": -118.19,
+     "lat": 33.77
+    }
+   ],
+   "view": [
+    -125,
+    31,
+    -113,
+    42
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HO",
+   "HO"
+  ],
+  "label": "HOOSIERS · 1986",
+  "cap": "HOOSIERS",
+  "txt": "En 1986 interpretó a Norman Dale, un entrenador de baloncesto caído en desgracia, en Hoosiers, junto a Dennis Hopper. Era una película pequeña, filmada en Indiana por seis millones de dólares. Hopper contaba que Hackman se quejaba: ninguna película de baloncesto ha ganado dinero, deberíamos revisarnos la cabeza. Pero después se iba a trabajar sin descanso con los jóvenes actores.",
+  "fx": {
+   "type": "bars",
+   "title": "HOOSIERS (1986)",
+   "items": [
+    [
+     "COSTÓ",
+     6
+    ],
+    [
+     "RECAUDÓ",
+     28
+    ]
+   ],
+   "prefix": "$",
+   "suffix": " MILLONES",
+   "note": "Recuperó casi cinco veces su costo",
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "HO",
+   "MB"
+  ],
+  "label": "HOOSIERS · 1986",
+  "cap": "KEVIN COSTNER",
+  "txt": "Un año después, en Sin salida, interpretó al secretario de Defensa, y su joven compañero, Kevin Costner, se peleó con el director por una escena mientras Hackman miraba. Costner recuerda que después Hackman se le acercó y le dijo: he estado haciendo películas cuestionables últimamente, y cuando te vi peleando por lo que querías, me recordó cómo me sentía yo con la actuación. Estuvo bien lo que hiciste. Y se subió a su auto y se fue.",
+  "fx": {
+   "type": "quote",
+   "text": "Me recordó cómo me sentía yo con la actuación.",
+   "by": "Gene Hackman a Kevin Costner",
+   "dur": 4.4
+  }
+ },
+ {
+  "src": [
+   "MB",
+   "UN"
+  ],
+  "label": "GENE HACKMAN",
+  "cap": "EL SILENCIO",
+  "txt": "Y hay una historia que muestra lo en serio que se tomaba el tema de la violencia. A finales de los ochenta, Hackman compró los derechos de la novela El silencio de los inocentes, con la idea de dirigirla y quizás interpretar a Hannibal Lecter. Pero la historia le pareció demasiado violenta y se retiró del proyecto. La película se hizo sin él, y ganó cinco Óscar.",
+  "fx": {
+   "type": "compare",
+   "title": "EL SILENCIO DE LOS INOCENTES",
+   "left": [
+    "HACKMAN",
+    "COMPRÓ LOS DERECHOS"
+   ],
+   "right": [
+    "DEMASIADA VIOLENCIA",
+    "SE RETIRÓ"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "MB",
+   "MB"
+  ],
+  "label": "MISSISSIPPI BURNING · 1988",
+  "cap": "MISSISSIPPI",
+  "txt": "En 1988 protagonizó Mississippi en llamas, con Willem Dafoe, como un agente del FBI que investiga el asesinato de tres activistas de derechos civiles en el sur de Estados Unidos, basado en un caso real de 1964. Le dio otra nominación al Óscar como mejor actor. Su personaje, un exsheriff de pueblo con métodos poco ortodoxos, era otra vez un hombre que no seguía las reglas.",
+  "fx": {
+   "type": "map",
+   "title": "MISSISSIPPI EN LLAMAS",
+   "countries": [
+    "United States of America"
+   ],
+   "states": [
+    "Mississippi"
+   ],
+   "pins": [
+    {
+     "name": "MISSISSIPPI · 1964",
+     "lon": -89.1,
+     "lat": 32.77
+    }
+   ],
+   "view": [
+    -95,
+    28,
+    -84,
+    36
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "UN",
+   "UN2"
+  ],
+  "label": "UNFORGIVEN · 1992",
+  "cap": "CLINT EASTWOOD",
+  "txt": "Después de otra nominación por Mississippi en llamas, Clint Eastwood le mandó un guion de western. Eastwood contaba que Hackman estaba de mal humor: no quiero hacer más películas violentas, estoy cansado de eso. Eastwood le pidió que lo volviera a leer pensando en lo que la película decía sobre la violencia. Hackman lo releyó, y dijo que sí. Era Los imperdonables.",
+  "fx": {
+   "type": "compare",
+   "title": "LA PRIMERA RESPUESTA",
+   "left": [
+    "HACKMAN",
+    "NO MÁS VIOLENCIA"
+   ],
+   "right": [
+    "EASTWOOD",
+    "LÉELO DE NUEVO"
+   ],
+   "dur": 4.6
+  }
+ },
+ {
+  "src": [
+   "UN2",
+   "UN"
+  ],
+  "label": "UNFORGIVEN · 1992",
+  "cap": "LITTLE BILL",
+  "txt": "Su sheriff, Little Bill Daggett, le dio su segundo Óscar, como actor de reparto, y la película ganó mejor película. En su discurso agradeció a Clint por convencerlo de que era una película seria sobre la violencia. Y Eastwood, en su propio discurso, bromeó: por la falta de violencia, Gene probablemente nunca vuelva a trabajar.",
+  "fx": {
+   "type": "headline",
+   "paper": "PREMIOS DE LA ACADEMIA",
+   "date": "MARZO DE 1993",
+   "headline": "GENE HACKMAN GANA SU SEGUNDO ÓSCAR",
+   "sub": "Mejor actor de reparto por Los imperdonables",
+   "stamp": "ÓSCAR",
+   "dur": 5.4
+  }
+ },
+ {
+  "src": [
+   "UN2",
+   "BI"
+  ],
+  "label": "GENE HACKMAN · AÑOS 90",
+  "cap": "LA FIRMA",
+  "txt": "Los noventa fueron su década más ocupada. En La firma, de 1993, fue el abogado mentor de Tom Cruise, y para esa película aprendió a bucear con el arqueólogo submarino Daniel Lenihan, con quien años después escribiría novelas. Y en Poder absoluto, de 1997, otra vez con Clint Eastwood, interpretó al presidente de Estados Unidos, un presidente corrupto y peligroso.",
+  "fx": {
+   "type": "timeline",
+   "title": "LOS AÑOS 90",
+   "items": [
+    [
+     "1992",
+     "Los imperdonables"
+    ],
+    [
+     "1993",
+     "La firma"
+    ],
+    [
+     "1995",
+     "Marea roja"
+    ],
+    [
+     "1997",
+     "Poder absoluto"
+    ],
+    [
+     "1998",
+     "Enemigo público"
+    ]
+   ],
+   "dur": 5.6
+  }
+ },
+ {
+  "src": [
+   "BI",
+   "BI"
+  ],
+  "label": "THE BIRDCAGE · 1996",
+  "cap": "EL SENADOR",
+  "txt": "Los hombres con poder le seguían llegando: un capitán de submarino contra Denzel Washington en Marea roja, un jefe pistolero en Rápida y mortal, y un senador conservador que termina disfrazado de mujer en The Birdcage, la comedia con Robin Williams. Uno de sus compañeros bromeó: es un hombre grande y poderoso, pero en cuanto lo vi vestido de mujer, todo eso se esfumó.",
+  "fx": {
+   "type": "list",
+   "title": "SUS HOMBRES DE PODER",
+   "items": [
+    "Capitán de submarino",
+    "Jefe pistolero",
+    "Senador disfrazado",
+    "Presidente de EE. UU."
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CV",
+   "CV"
+  ],
+  "label": "THE CONVERSATION · 1974",
+  "cap": "EL ESPÍA",
+  "txt": "Y en 1998, en Enemigo público, con Will Smith, interpretó a un experto en vigilancia retirado y paranoico. Los fanáticos notaron enseguida el guiño: era casi el mismo personaje de La conversación, el espía de Coppola de 1974, veinticuatro años después, como si aquel hombre hubiera seguido escondiéndose todo ese tiempo.",
+  "fx": {
+   "type": "compare",
+   "title": "EL MISMO ESPÍA, 24 AÑOS DESPUÉS",
+   "left": [
+    "1974",
+    "LA CONVERSACIÓN"
+   ],
+   "right": [
+    "1998",
+    "ENEMIGO PÚBLICO"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "RT",
+   "RT"
+  ],
+  "label": "THE ROYAL TENENBAUMS · 2001",
+  "cap": "WES ANDERSON",
+  "txt": "En 2001, un joven director llamado Wes Anderson quería escribir un papel para él. Hackman le pidió que no lo hiciera, porque no le gustaban los papeles escritos para él. Anderson lo hizo de todos modos: Los excéntricos Tenenbaum, que le dio otro Globo de Oro. Bill Murray, que actuó con él, dijo que entendía a Gene: para él, Wes era un chamaco, y Gene había hecho algunas de las mejores películas de Estados Unidos. Así que estaba un poco irritable.",
+  "fx": {
+   "type": "compare",
+   "title": "LOS EXCÉNTRICOS TENENBAUM",
+   "left": [
+    "HACKMAN",
+    "NO ESCRIBAS PARA MÍ"
+   ],
+   "right": [
+    "WES ANDERSON",
+    "LO ESCRIBIÓ IGUAL"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "RT",
+   "BI"
+  ],
+  "label": "THE ROYAL TENENBAUMS · 2001",
+  "cap": "RUNAWAY JURY",
+  "txt": "Murray agregó que Hackman no era ningún ignorante, y que cuando vio la película terminada, reconoció que se había portado como un patán. En 2003 por fin hizo una película con su viejo amigo Dustin Hoffman, El jurado, y los Globos de Oro le dieron su premio a la trayectoria. Ahí dijo que nunca quiso ser otra cosa que actor.",
+  "fx": {
+   "type": "quote",
+   "text": "Nunca quise ser otra cosa que actor.",
+   "by": "Gene Hackman, Globos de Oro 2003",
+   "dur": 4.2
+  }
+ },
+ {
+  "src": [
+   "CV",
+   "UN"
+  ],
+  "label": "GENE HACKMAN",
+  "cap": "LARRY KING",
+  "txt": "Su última película, la comedia Welcome to Mooseport, salió en 2004. Ese verano fue al programa de Larry King a presentar una novela que escribió con el arqueólogo Daniel Lenihan. King le preguntó por su próximo proyecto. No tengo proyecto, dijo. Si tienes un guion, lo leo. ¿Nadie te llama? No. Probablemente ya se acabó. Por una vez, el pronóstico pesimista fue correcto. Nunca hizo otra película. Escribió tres novelas más.",
+  "fx": {
+   "type": "compare",
+   "title": "DESPUÉS DEL CINE",
+   "left": [
+    "2004",
+    "SU ÚLTIMA PELÍCULA"
+   ],
+   "right": [
+    "DESPUÉS",
+    "NOVELAS Y SANTA FE"
+   ],
+   "dur": 4.8
+  }
+ },
+ {
+  "src": [
+   "CV",
+   "UN"
+  ],
+  "label": "GENE HACKMAN",
+  "cap": "SANTA FE",
+  "txt": "Ya retirado, vivió tranquilo en Santa Fe, Nuevo México, lejos de Hollywood. Pintaba, escribía, andaba en bicicleta y casi no daba entrevistas. Cuando le preguntaban si extrañaba actuar, decía que extrañaba el trabajo en sí, la parte de crear un personaje, pero no todo lo que venía alrededor: la fama, la publicidad, los estudios. Hasta el final, desconfió de todo lo que no fuera el trabajo."
+ },
+ {
+  "src": [
+   "UN",
+   "FC"
+  ],
+  "label": "GENE HACKMAN",
+  "cap": "2025",
+  "txt": "Gene Hackman murió en febrero de 2025, a los noventa y cinco años, en su casa de Santa Fe, Nuevo México. Su esposa, Betsy Arakawa, había muerto pocos días antes. En la ceremonia del Óscar de ese marzo, su amigo y compañero de Los imperdonables, Morgan Freeman, le rindió homenaje, y recordó que Gene decía que no pensaba en su legado, que solo esperaba que lo recordaran como alguien que intentó hacer un buen trabajo.",
+  "fx": {
+   "type": "map",
+   "title": "SANTA FE, NUEVO MÉXICO",
+   "countries": [
+    "United States of America",
+    "Mexico"
+   ],
+   "states": [
+    "New Mexico"
+   ],
+   "pins": [
+    {
+     "name": "SANTA FE",
+     "lon": -105.94,
+     "lat": 35.69
+    }
+   ],
+   "view": [
+    -112,
+    29,
+    -98,
+    40
+   ],
+   "dur": 5
+  }
+ },
+ {
+  "src": [
+   "CS",
+   "BC"
+  ],
+  "label": "GENE HACKMAN",
+  "cap": "LOS TRES AMIGOS",
+  "txt": "Y los tres amigos de aquellos años de hambre en Nueva York terminaron siendo leyendas: Dustin Hoffman, con dos Óscar; Robert Duvall, con un Óscar y décadas de grandes papeles, que murió en febrero de 2026; y Gene Hackman, con dos Óscar. Los menos probables de triunfar, según su escuela de actuación."
+ },
+ {
+  "src": [
+   "FC",
+   "UN",
+   "HO",
+   "CV"
+  ],
+  "label": "¿CUÁL PREFIERES?",
+  "cap": "¿CUÁL PREFIERES?",
+  "txt": "Gruñón con los que mandaban, generoso con el trabajo, y nunca, según él, una estrella. ¿Cuál de sus personajes te gustaría menos tener como jefe: Popeye Doyle, el sheriff Little Bill o el entrenador Norman Dale? Déjamelo en los comentarios, y si te gustan las leyendas gruñonas, suscríbete."
+ }
+]
