@@ -119,6 +119,7 @@ for i, s in enumerate(seg):
     speed = s.get("speed") or MOOD[mood]["speed"]
     spec = s["src"] if isinstance(s["src"], list) else [s["src"]]
     keys = []
+    spec = [sp for sp in spec if sp.split("@")[0] in info] or [sorted(info)[i % len(info)]]
     for sp in spec:
         if "@" in sp:
             k, r = sp.split("@"); a, b = r.split("-"); keys.append((k, (float(a), float(b))))
@@ -201,9 +202,18 @@ def render_parallax(k, p):
     r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode: raise RuntimeError(r.stderr[-1200:])
 
+def valid(f, d):
+    try:
+        x = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f]).decode().strip())
+        return x > d * 0.8
+    except Exception:
+        return False
+
 def render(k):
     p = plan[k]; out = f"{B}/shots/{k:04d}.mp4"
-    if os.path.exists(out): return
+    if os.path.exists(out):
+        if valid(out, p["d"]): return
+        os.remove(out)
     if p.get("fx"):
         spec = dict(p["fx"]); bgp = None
         try:
@@ -211,9 +221,11 @@ def render(k):
             tt = min(random.uniform(*(rng if rng else (I["d"] * 0.2, I["d"] * 0.8))), I["d"] - 1)
             bgp = still(I, tt, f"{B}/ovl/fxbg_{k:04d}.jpg", 1280)
         except Exception: pass
-        if spec.get("type") == "photo" and spec.get("src"):
+        if spec.get("type") == "photo" and spec.get("src") and spec["src"].split("@")[0] in info:
             kk, tt = spec["src"].split("@"); spec["_img"] = still(info[kk], float(tt), f"{B}/ovl/photo_{k:04d}.png")
-        FX.render_fx(spec, p["d"], out, bgimg=bgp); return
+        FX.render_fx(spec, p["d"], out, bgimg=bgp)
+        if not valid(out, p["d"]): raise RuntimeError("fx output invalid")
+        return
     if p.get("parallax"): return render_parallax(k, p)
     s = seg[p["seg"]]; L = LAYOUTS[p["layout"]]; I = info[p["src"]]
     ov = overlay(p["seg"], s, L); D = p["d"]
@@ -270,12 +282,32 @@ def render(k):
     cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error"] + inputs + ["-filter_complex", fc, "-map", "[v]", "-r", str(FPS), "-t", f"{D:.3f}",
                                                                             "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-an", out]
     r = subprocess.run(cmd, capture_output=True, text=True)
-    if r.returncode: raise RuntimeError(r.stderr[-1500:])
+    if r.returncode:
+        raise RuntimeError(r.stderr[-1500:])
+    if not valid(out, D):
+        raise RuntimeError("empty or short output (source data missing at this time)")
+
+def render_safe(k):
+    err = None
+    for attempt in range(4):
+        try:
+            return render(k)
+        except Exception as ex:
+            err = ex; p = plan[k]; f = f"{B}/shots/{k:04d}.mp4"
+            if os.path.exists(f): os.remove(f)
+            if p.get("fx") or p.get("parallax"):
+                p["fx"] = None; p["parallax"] = False
+            if attempt >= 1 or p["src"] not in info: p["src"] = random.choice(sorted(info))
+            I = info[p["src"]]
+            p["start"] = round(random.uniform(min(20, I["d"] * 0.1), max(min(20, I["d"] * 0.1) + 1, I["d"] - p["d"] * 1.6 - 1)), 2)
+            if attempt >= 2: p["speed"] = "normal"; p["layout"] = "card"
+    print("SHOT FAILED", k, str(err)[-300:])
+    raise err
 
 only = int(os.environ.get("ONLY", "0"))
 idx = range(len(plan)) if not only else range(min(only, len(plan)))
 if os.environ.get("PICK"): idx = [int(x) for x in os.environ["PICK"].split(",")]; only = 1
-with ThreadPoolExecutor(int(os.environ.get("JOBS", "4"))) as ex: list(ex.map(render, idx))
+with ThreadPoolExecutor(int(os.environ.get("JOBS", "4"))) as ex: list(ex.map(render_safe, idx))
 if only: sys.exit(0)
 
 # ---------------- subtitles (ASS): karaoke words + keyword pop-ups + title hook ----------------
@@ -331,11 +363,11 @@ open(f"{B}/subs.ass", "w").write("\n".join(ass) + "\n")
 # ---------------- video: concat + finishing pass ----------------
 with open(f"{B}/list.txt", "w") as f:
     for k in range(len(plan)): f.write(f"file 'shots/{k:04d}.mp4'\n")
-subprocess.run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", f"{B}/list.txt", "-c", "copy", f"{B}/video_raw.mp4"], check=True)
+
 vf = []
 if ED["vignette"]: vf.append("vignette=angle=PI/5.5")
 vf.append(f"ass={B}/subs.ass:fontsdir={FONT}")
-subprocess.run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-i", f"{B}/video_raw.mp4", "-vf", ",".join(vf),
+subprocess.run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", f"{B}/list.txt", "-vf", ",".join(vf),
                 "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p", f"{B}/video.mp4"], check=True)
 
 # ---------------- audio: VO chain + music (mood volume, ducked) + SFX ----------------
@@ -358,7 +390,11 @@ for i, s in enumerate(seg):
     if s.get("_pop"): sfx_lbl.append(add(f"{A}/pop.wav", 0.35, s["_pop"], f"p{i}"))
 # music with mood-driven level automation
 lv = "+".join(f"between(t,{s['_t0']:.2f},{s['_t0'] + s['_sd']:.2f})*{MOOD[s['_mood']]['music']}" for s in seg)
-ins.extend(["-stream_loop", "-1", "-i", f"{A}/music.wav"])
+# original self-synthesized score (tools/gen_music.py) - copyright-free; track chosen by dominant mood (or edit.json "music_track")
+from collections import Counter
+_mt = ED.get("music_track") or Counter(s["_mood"] for s in seg).most_common(1)[0][0]
+_mf = f"{A}/music_{_mt}.wav" if os.path.exists(f"{A}/music_{_mt}.wav") else f"{A}/music.wav"; print("music", _mf)
+ins.extend(["-stream_loop", "-1", "-i", _mf])
 flt.append(f"[{n}:a]aresample=44100,atrim=0:{TOTAL:.2f},volume='{ED['music']}*max(0.5,{lv})':eval=frame,afade=t=in:d=1.5,afade=t=out:st={TOTAL-3:.2f}:d=3[mus0]"); n += 1
 ins.extend(["-stream_loop", "-1", "-i", f"{A}/ambient.wav"])
 flt.append(f"[{n}:a]aresample=44100,atrim=0:{TOTAL:.2f},volume=0.5[amb]"); n += 1
