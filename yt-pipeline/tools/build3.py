@@ -29,6 +29,7 @@ P = sys.argv[1]; SRC = json.load(open(sys.argv[2]))
 T = os.path.dirname(os.path.abspath(__file__)); A = f"{T}/assets"; FONT = f"{T}/fonts"
 W, H, FPS = 1920, 1080, 30
 MAXSHOT = 3.6
+MAXSRC = 4.9   # max continuous seconds of any source clip
 random.seed(11)
 seg = json.load(open(f"{P}/script.json"))
 meta = json.load(open(f"{P}/meta.json")) if os.path.exists(f"{P}/meta.json") else {}
@@ -139,7 +140,14 @@ for i, s in enumerate(seg):
         lo, hi = (rng[0], min(rng[1], I["d"] - 0.4)) if rng else (min(25, I["d"] * 0.1), max(I["d"] - 30, I["d"] * 0.6))
         sp_ = speed if (speed != "ramp" or random.random() < 0.45) else "normal"
         need = it["d"] * {"normal": 1.0, "ramp": 1.45, "slow": 0.8}[sp_]
+        if need > MAXSRC: sp_ = "normal"; need = it["d"]          # rule: never >5s continuous source footage
         start = random.uniform(lo, max(lo, min(hi - need, I["d"] - need - 0.4)))
+        prev = [q for q in plan if q["src"] == k and not q.get("fx") and not q.get("parallax")]
+        if prev:                                                    # same source: skip >=1s between clips, never continuous
+            pe = prev[-1]["start"] + prev[-1]["d"] * {"normal": 1.0, "ramp": 1.45, "slow": 0.8}[prev[-1]["speed"]]
+            if prev[-1]["start"] - 1.0 - need < start < pe + 1.0:
+                cand = pe + random.uniform(1.0, 1.6)
+                start = cand if cand + need <= I["d"] - 0.4 else max(0.0, prev[-1]["start"] - 1.2 - need)
         lay = layout if (j == 0 or cd or s.get("layout")) else ["full", layout, ("tv" if layout == "card" else "card")][j % 3]
         if lay == "full" and I["h"] < 400: lay = "card"     # low-res sources look bad full-bleed
         plan.append(dict(seg=i, j=j, src=k, start=round(start, 2), d=round(it["d"], 3), layout=lay, mood=mood,
@@ -151,6 +159,13 @@ for i, s in enumerate(seg):
 TOTAL = t0
 if os.path.exists(f"{P}/timeline.json"):           # manual timeline override
     plan = json.load(open(f"{P}/timeline.json")); print("using manual timeline.json")
+_SF = {"normal": 1.0, "ramp": 1.45, "slow": 0.8}
+for _q in plan:                                                     # enforce clip rule (<=5s continuous)
+    if not _q.get("fx") and not _q.get("parallax") and _q["d"] * _SF[_q["speed"]] > 5.0:
+        _q["speed"] = "normal"; _q["d"] = min(_q["d"], MAXSRC)
+_bad = [(a["src"], a["start"], b["start"]) for a, b in zip(plan, plan[1:]) if a["src"] == b["src"] and not (a.get("fx") or a.get("parallax") or b.get("fx") or b.get("parallax"))
+        and 0 <= b["start"] - (a["start"] + a["d"] * _SF[a["speed"]]) < 1.0]
+print("clip rule: max src span %.2fs, back-to-back continuous joins: %d" % (max([q["d"] * _SF[q["speed"]] for q in plan if not q.get("fx")] or [0]), len(_bad)))
 json.dump(plan, open(f"{B}/timeline.json", "w"), ensure_ascii=False, indent=0)
 print(f"timeline {TOTAL:.1f}s, {len(plan)} shots, moods:", {m: sum(1 for s in seg if s['_mood'] == m) for m in MOOD})
 
