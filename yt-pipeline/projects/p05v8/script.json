@@ -1,0 +1,411 @@
+[
+ {
+  "src": [
+   "CK@0-30",
+   "AP@0-60"
+  ],
+  "label": "COMERCIALES DE LOS 80",
+  "cap": "",
+  "txt": "Hubo una época en que un comercial de televisión podía crear una polémica nacional antes de que terminara la cena. Una chica de quince años vendió jeans con una sola frase que puso nerviosos a los ejecutivos de la televisión. Una niña de cuatro años terminó en medio de una disputa legal con McDonald's. Y una de las estrellas pop más grandes del mundo firmó un contrato millonario con Pepsi, solo para ver cómo la campaña se derrumbaba casi de la noche a la mañana."
+ },
+ {
+  "src": [
+   "OH@20-3500",
+   "J85@20-1500"
+  ],
+  "label": "COMERCIALES DE LOS 80",
+  "cap": "13 COMERCIALES",
+  "txt": "Los años ochenta fueron una época extraña para la publicidad. Las empresas tomaban riesgos enormes para llamar la atención. A veces esos riesgos las hicieron famosas, a veces enfurecieron a su competencia, y a veces dejaron a los televidentes preguntándose quién había aprobado eso. Hoy te traigo trece comerciales polémicos de los ochenta, y lo que de verdad pasó con ellos.",
+  "fx": {
+   "type": "list",
+   "title": "13 COMERCIALES POLÉMICOS",
+   "items": [
+    "Calvin Klein · 1980",
+    "Pepsi y Madonna · 1989",
+    "Apple Lemmings · 1985",
+    "Burger King · 1982",
+    "Stroh's y Alex",
+    "Wendy's soviético · 1985",
+    "¿Dónde está la carne? · 1984"
+   ],
+   "dur": 6.0
+  }
+ },
+ {
+  "src": "CK@0-30",
+  "label": "CALVIN KLEIN · 1980",
+  "cap": "#13",
+  "txt": "Número trece. Brooke Shields y los jeans Calvin Klein."
+ },
+ {
+  "src": [
+   "CK2@0-120",
+   "CK@5-30"
+  ],
+  "label": "CALVIN KLEIN · 1980",
+  "cap": "NADA",
+  "txt": "En 1980, Calvin Klein descubrió que para vender jeans no hacía falta mucho. Bastaba una adolescente, una cámara y una pregunta muy sugerente. La chica era Brooke Shields, de quince años, ya famosa como modelo y actriz. Miraba a la cámara y preguntaba si querías saber qué había entre ella y sus Calvin. Y luego venía la respuesta: nada. Una sola palabra convirtió unos jeans de diseñador en tema de conversación nacional."
+ },
+ {
+  "src": [
+   "CK2@30-120",
+   "CK@10-30"
+  ],
+  "label": "CALVIN KLEIN · 1980",
+  "cap": "VETADO",
+  "txt": "Los críticos protestaron por la presentación sexualizada de una menor, y algunas televisoras se negaron a transmitir los anuncios. Calvin Klein, mientras tanto, recibió la clase de atención con la que sueñan los publicistas. Lo increíble es lo poco que pasaba en el comercial: sin historia, sin efectos especiales, solo una adolescente y una frase que algunos ejecutivos consideraron demasiado atrevida."
+ },
+ {
+  "src": [
+   "OH@20-3500",
+   "J85@20-1500"
+  ],
+  "label": "PEPSI Y MADONNA · 1989",
+  "cap": "#12",
+  "txt": "Número doce. Pepsi, Madonna y un deseo que salió caro."
+ },
+ {
+  "src": [
+   "OH@200-3500",
+   "J85@100-1500"
+  ],
+  "label": "PEPSI Y MADONNA · 1989",
+  "cap": "5 MILLONES",
+  "txt": "Imagina pagar millones por un comercial, mostrarlo al público y decidir casi de inmediato que nadie debe volver a verlo. Eso pasó con Pepsi y Madonna en 1989. Pepsi firmó con ella un acuerdo promocional que, según se informó, rondaba los cinco millones de dólares, alrededor de su nuevo sencillo, Like a Prayer. El comercial, llamado Make a Wish, mostraba recuerdos de su infancia y un cumpleaños nostálgico. Para ser de Madonna, era casi inocente.",
+  "fx": {
+   "type": "counter",
+   "value": 5000000,
+   "prefix": "$",
+   "suffix": "",
+   "label": "EL CONTRATO DE PEPSI",
+   "sub": "con Madonna · 1989"
+  }
+ },
+ {
+  "src": [
+   "OH@400-3500",
+   "J85@200-1500"
+  ],
+  "label": "PEPSI Y MADONNA · 1989",
+  "cap": "EL VIDEO",
+  "txt": "Entonces salió el video musical, con imágenes religiosas y cruces en llamas, y grupos religiosos protestaron con fuerza. Algunos pidieron boicotear a Pepsi, aunque su comercial no tenía ninguna de esas escenas. No importó. Después de su estreno, Pepsi retiró el anuncio y terminó el acuerdo. Madonna, por su parte, igual tuvo su éxito. Pepsi no cayó por lo que había en su comercial, sino por lo que había en otro video que promocionaba la misma canción."
+ },
+ {
+  "src": "LM@0-60",
+  "label": "APPLE · 1985",
+  "cap": "#11",
+  "txt": "Número once. Apple y los lemmings."
+ },
+ {
+  "src": [
+   "LM@5-60",
+   "LM@20-60"
+  ],
+  "label": "APPLE · 1985",
+  "cap": "AL PRECIPICIO",
+  "txt": "Un año después de su famoso comercial de 1984, Apple intentó algo igual de dramático. Se llamó Lemmings. Una larga fila de ejecutivos de traje, con portafolios y los ojos vendados, caminaba por un paisaje vacío hacia un precipicio, y uno por uno, se tiraban. La idea era que los usuarios de computadoras en las empresas seguían ciegamente a la multitud en lugar de elegir la Macintosh."
+ },
+ {
+  "src": [
+   "LM@30-60",
+   "AP@20-60"
+  ],
+  "label": "APPLE · 1985",
+  "cap": "SUPER BOWL",
+  "txt": "El problema: Apple quería vender computadoras justamente a los ejecutivos de los que se estaba burlando. Se estrenó en el Super Bowl de 1985, y a muchos les pareció sombrío e insultante. Además, el chiste se basaba en un mito: los lemmings reales no se lanzan en grupo a la muerte. No fue prohibido; simplemente se recuerda como una gran decepción comparado con su antecesor. Apple quería decir que comprar la computadora equivocada era una pésima decisión, y a muchos les pareció que acababa de tomar una."
+ },
+ {
+  "src": [
+   "OH@20-3500",
+   "J85@20-1500"
+  ],
+  "label": "BURGER KING · 1982",
+  "cap": "#10",
+  "txt": "Número diez. Burger King y una niña de cuatro años."
+ },
+ {
+  "src": [
+   "OH@600-3500",
+   "WN@0-30"
+  ],
+  "label": "BURGER KING · 1982",
+  "cap": "SARAH MICHELLE GELLAR",
+  "txt": "Mucho antes de ser Buffy, la cazavampiros, Sarah Michelle Gellar apareció con unos cuatro años en un comercial de Burger King. En lugar de hablar de juguetes, comparaba directamente las hamburguesas de Burger King con las de McDonald's: decía que las de Burger King eran más grandes y que se asaban a la parrilla, y el anuncio afirmaba que las de McDonald's eran un veinte por ciento más pequeñas. Nombrar a un rival con una cifra tan concreta era muy agresivo."
+ },
+ {
+  "src": [
+   "OH@800-3500",
+   "J85@300-1500"
+  ],
+  "label": "BURGER KING · 1982",
+  "cap": "LA DEMANDA",
+  "txt": "McDonald's no se rió. Demandó por las afirmaciones del anuncio, en plena guerra de las hamburguesas. La historia se repite como si McDonald's hubiera demandado a una niña de preescolar, pero la disputa era por lo que decía el comercial, no por ella. Aun así, Gellar contó después que quedó atrapada en el pleito siendo muy pequeña. A la edad en que otros niños aprendían los colores, ella estaba en medio de una pelea entre dos gigantes."
+ },
+ {
+  "src": "ST@20-900",
+  "label": "STROH'S · AÑOS 80",
+  "cap": "#9",
+  "txt": "Número nueve. Stroh's y Alex, el perro que traía la cerveza."
+ },
+ {
+  "src": [
+   "ST@100-900",
+   "OH@1000-3500"
+  ],
+  "label": "STROH'S · AÑOS 80",
+  "cap": "ALEX",
+  "txt": "En los ochenta, casi todos los comerciales de cerveza seguían la misma fórmula: amigos, música y cervezas frías. Stroh's tuvo otra idea: que un perro hiciera el trabajo. Se llamaba Alex, hacía trucos, reaccionaba a situaciones complicadas y, sobre todo, le llevaba la cerveza a su dueño. Se volvió una celebridad. Un perro era más recordado como vendedor de cerveza que la mayoría de los humanos."
+ },
+ {
+  "src": [
+   "ST@300-900",
+   "J85@400-1500"
+  ],
+  "label": "STROH'S · AÑOS 80",
+  "cap": "MITO",
+  "txt": "Pero plantea una pregunta: ¿qué pasa cuando la cara más famosa de una cerveza es un animal adorable que encanta a los niños? Esa preocupación apareció después en los debates sobre mascotas y publicidad de alcohol. Eso sí, la historia de que Madres contra Conductores Ebrios obligó a cancelar a Alex, o que el gobierno prohibió el comercial, no está demostrada. La campaña simplemente terminó, como terminan todas."
+ },
+ {
+  "src": "WN@0-30",
+  "label": "WENDY'S · 1985",
+  "cap": "#8",
+  "txt": "Número ocho. El desfile de moda soviético de Wendy's."
+ },
+ {
+  "src": [
+   "OH@1200-3500",
+   "WN@5-30"
+  ],
+  "label": "WENDY'S · 1985",
+  "cap": "GUERRA FRÍA",
+  "txt": "En plena Guerra Fría, Wendy's decidió burlarse de la moda comunista para vender hamburguesas. El comercial simulaba un desfile en la Unión Soviética: una modelo salía con un atuendo sencillo y triste. Ropa de día. Luego ropa de noche. Luego traje de baño. Y siempre era el mismo atuendo, solo cambiaba el accesorio. El chiste era que en la Unión Soviética no había opciones, y que tú merecías una hamburguesa a tu gusto.",
+  "fx": {
+   "type": "map",
+   "countries": [
+    "Russia",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "MOSCÚ",
+     "lon": 37.62,
+     "lat": 55.75
+    },
+    {
+     "name": "ESTADOS UNIDOS",
+     "lon": -98,
+     "lat": 39
+    }
+   ],
+   "view": [
+    -130,
+    10,
+    150,
+    75
+   ],
+   "title": "LA GUERRA DE LAS HAMBURGUESAS"
+  }
+ },
+ {
+  "src": [
+   "OH@1400-3500",
+   "J85@500-1500"
+  ],
+  "label": "WENDY'S · 1985",
+  "cap": "SIN CENSURA",
+  "txt": "Hoy las marcas pasan meses preocupadas por si un anuncio ofende a alguien. Wendy's miró a la Unión Soviética y vio una oportunidad para explicar la lechuga y el tomate. A veces se dice que lo retiraron por presión política, pero no hay evidencia de eso. Es mejor entenderlo como publicidad provocadora de la Guerra Fría, no como un caso de censura."
+ },
+ {
+  "src": "WB@0-60",
+  "label": "WENDY'S · 1984",
+  "cap": "#7",
+  "txt": "Número siete. ¿Dónde está la carne?"
+ },
+ {
+  "src": [
+   "WB@5-60",
+   "WB2@0-60"
+  ],
+  "label": "WENDY'S · 1984",
+  "cap": "CLARA PELLER",
+  "txt": "En 1984, una de las voces más famosas de la publicidad estadounidense era la de una mujer de más de ochenta años, Clara Peller. Tres señoras miran un pan de hamburguesa enorme, levantan la tapa, y adentro hay un pedacito de carne minúsculo. Y Clara pregunta: ¿dónde está la carne? A Estados Unidos le encantó. La frase saltó de la televisión a la vida diaria, y hasta un candidato presidencial la usó en un debate. Wendy's tenía lo que todo publicista quiere: un eslogan que la gente repetía gratis."
+ },
+ {
+  "src": [
+   "WB2@10-60",
+   "OH@1600-3500"
+  ],
+  "label": "WENDY'S · 1984",
+  "cap": "PREGO",
+  "txt": "Entonces apareció en un comercial de salsa Prego, con un chiste sobre por fin encontrar la carne en la salsa. Para Wendy's no fue gracioso: la mujer cuya identidad era buscar la carne ahora la encontraba en el producto de otra empresa. En 1985, Wendy's terminó su relación con ella. La empresa pudo cancelar el comercial y la relación, pero no pudo hacer que el país olvidara dónde estaba la carne."
+ },
+ {
+  "src": "BD@0-40",
+  "label": "ANTIDROGAS · 1987",
+  "cap": "#6",
+  "txt": "Número seis. Este es tu cerebro con drogas."
+ },
+ {
+  "src": [
+   "BD@0-40",
+   "BD@5-40"
+  ],
+  "label": "ANTIDROGAS · 1987",
+  "cap": "UN HUEVO",
+  "txt": "En 1987 llegó uno de los anuncios de servicio público más famosos de la historia. Sin celebridades ni efectos: un hombre, un huevo y un sartén. Este es tu cerebro, decía, mostrando el huevo. Estas son las drogas, mostrando el sartén caliente. Rompía el huevo, que empezaba a freírse, y remataba: este es tu cerebro con drogas. ¿Alguna pregunta? Los niños lo repetían, los comediantes lo parodiaban, y el huevo frito se volvió inseparable de la lucha antidrogas."
+ },
+ {
+  "src": [
+   "BD@10-40",
+   "J85@600-1500"
+  ],
+  "label": "ANTIDROGAS · 1987",
+  "cap": "¿FUNCIONÓ?",
+  "txt": "Lo creó la Asociación para una América Libre de Drogas. Pero crear una advertencia memorable no es lo mismo que demostrar que cambia la conducta, y con el tiempo, investigadores y educadores debatieron si los mensajes basados en el miedo bastaban. Eso no significa que fuera prohibido. Lo cierto es que se volvió un fenómeno: se hizo famoso porque un hombre cocinó el desayuno de la manera más amenazante posible."
+ },
+ {
+  "src": "NC@0-60",
+  "label": "NEW COKE · 1985",
+  "cap": "#5",
+  "txt": "Número cinco. El desastre de la Nueva Coca-Cola."
+ },
+ {
+  "src": [
+   "NC@5-60",
+   "NC2@0-300"
+  ],
+  "label": "NEW COKE · 1985",
+  "cap": "23 DE ABRIL",
+  "txt": "El veintitrés de abril de 1985, Coca-Cola anunció que cambiaba su fórmula. Enfrentaba una competencia feroz de Pepsi, y las pruebas de sabor indicaban que la gente prefería algo más dulce. En el papel tenía lógica. En la vida real fue una pesadilla. Algunos reaccionaron como si hubieran anunciado la demolición de un monumento nacional: llamadas, cartas, gente acumulando botellas de la fórmula original. Coca-Cola no era solo un sabor. Era una tradición."
+ },
+ {
+  "src": [
+   "NC2@60-300",
+   "NC@20-60"
+  ],
+  "label": "NEW COKE · 1985",
+  "cap": "79 DÍAS",
+  "txt": "Setenta y nueve días después, Coca-Cola anunció el regreso de la fórmula original, con el nombre de Coca-Cola Clásica. La empresa gastó una fortuna convenciendo a todos de que la nueva era mejor, y uno de sus anuncios más exitosos fue avisar que la vieja regresaba.",
+  "fx": {
+   "type": "counter",
+   "value": 79,
+   "prefix": "",
+   "suffix": " DÍAS",
+   "label": "LO QUE DURÓ EL CAMBIO",
+   "sub": "abril a julio de 1985"
+  }
+ },
+ {
+  "src": [
+   "OH@20-3500",
+   "J85@20-1500"
+  ],
+  "label": "NIKE · 1987",
+  "cap": "#4",
+  "txt": "Número cuatro. Nike, Revolution y los Beatles."
+ },
+ {
+  "src": [
+   "OH@1800-3500",
+   "J85@700-1500"
+  ],
+  "label": "NIKE · 1987",
+  "cap": "15 MILLONES",
+  "txt": "En 1987, Nike usó la grabación original de Revolution de los Beatles para vender tenis. Le daba al comercial emoción y rebeldía. Pero Apple Corps, la empresa de los Beatles, se opuso y presentó una demanda por quince millones de dólares. Nike sostenía que había obtenido autorización de los titulares de los derechos. La pregunta era otra: ¿quién tenía la autoridad de prestar una canción tan unida a quienes la crearon? Al final, los anuncios dejaron de usarla y la disputa se resolvió."
+ },
+ {
+  "src": "AP@0-60",
+  "label": "APPLE · 1984",
+  "cap": "#3",
+  "txt": "Número tres. El comercial de 1984 de Apple."
+ },
+ {
+  "src": [
+   "AP@10-60",
+   "AP@25-60"
+  ],
+  "label": "APPLE · 1984",
+  "cap": "RIDLEY SCOTT",
+  "txt": "Dirigido por Ridley Scott, parecía una película de ciencia ficción: un mundo gris, gente sin expresión mirando una pantalla gigante, y una mujer que entra corriendo con un martillo y lo lanza contra la pantalla. Según los relatos, la junta directiva de Apple dudaba tanto que quería vender el espacio del Super Bowl en lugar de usarlo. Se transmitió en enero de 1984, y la reacción fue enorme: los noticieros lo repitieron y se volvió uno de los anuncios más influyentes de la historia."
+ },
+ {
+  "src": [
+   "AP@40-60",
+   "LM@40-60"
+  ],
+  "label": "APPLE · 1984",
+  "cap": "UNA VEZ",
+  "txt": "¿Por qué desapareció? No porque lo prohibieran. Fue pensado como un evento, no como un anuncio para repetir cada noche. La mayoría de los comerciales desaparecen porque la gente se cansa de verlos. Apple creó uno que la gente recordaba justamente porque casi nunca lo veía."
+ },
+ {
+  "src": [
+   "OH@20-3500",
+   "J85@20-1500"
+  ],
+  "label": "AUSTRALIA · 1987",
+  "cap": "#2",
+  "txt": "Número dos. La Parca y el comercial del sida en Australia."
+ },
+ {
+  "src": [
+   "OH@2000-3500",
+   "J85@800-1500"
+  ],
+  "label": "AUSTRALIA · 1987",
+  "cap": "LA PARCA",
+  "txt": "En 1987, en Australia, apareció un anuncio que parecía una película de terror. Una figura oscura en un boliche: la Parca. Pero los bolos eran personas, hombres, mujeres y niños, y al lanzar la bola, caían. Era una campaña de salud pública para advertir sobre el sida, cuando el miedo y la desinformación estaban por todos lados. Fue perturbador e inolvidable, y puso el tema en la conversación. Pero los críticos dijeron que aumentó el estigma contra las personas con VIH. No fue prohibido: su transmisión original simplemente terminó.",
+  "fx": {
+   "type": "map",
+   "countries": [
+    "Australia"
+   ],
+   "pins": [
+    {
+     "name": "SÍDNEY",
+     "lon": 151.2,
+     "lat": -33.87
+    }
+   ],
+   "view": [
+    110,
+    -45,
+    160,
+    -8
+   ],
+   "title": "CAMPAÑA DE SALUD · 1987"
+  }
+ },
+ {
+  "src": "TY@20-600",
+  "label": "JUGUETES · AÑOS 80",
+  "cap": "#1",
+  "txt": "Número uno. Transformers, G.I. Joe y las caricaturas que vendían juguetes."
+ },
+ {
+  "src": [
+   "TY@100-600",
+   "J85@900-1500"
+  ],
+  "label": "JUGUETES · AÑOS 80",
+  "cap": "¿DÓNDE TERMINA?",
+  "txt": "Si eras niño a mediados de los ochenta, la televisión del sábado era un peligro para la cartera de tus papás. Robots que se transforman, vehículos militares, figuras de acción. Las caricaturas presentaban mundos enormes, y esos mundos estaban en las tiendas. Desde el marketing, era brillante. Desde la regulación, surgía una pregunta difícil: ¿dónde terminaba el entretenimiento y dónde empezaba el comercial?"
+ },
+ {
+  "src": [
+   "TY@300-600",
+   "OH@2400-3500"
+  ],
+  "label": "JUGUETES · AÑOS 80",
+  "cap": "1990",
+  "txt": "Grupos como Acción por la Televisión Infantil presionaban por más protección. Pero la idea de que la Comisión Federal de Comunicaciones prohibió esos anuncios a mitad de la década no es cierta. El gran cambio llegó con la Ley de Televisión Infantil de 1990, que limitó el tiempo comercial en los programas para niños. Y lo más curioso es que funcionó tan bien que, décadas después, muchos adultos recuerdan los anuncios casi tan bien como las caricaturas."
+ },
+ {
+  "src": [
+   "OH@2800-3500",
+   "CK@15-30"
+  ],
+  "label": "COMERCIALES DE LOS 80",
+  "cap": "",
+  "txt": "Un comercial podía desaparecer de la pantalla y quedarse en la memoria cuarenta años. ¿Cuál de estos recuerdas haber visto? ¿Y hubo uno todavía más raro que merecía estar en esta lista? Cuéntamelo en los comentarios, y suscríbete para más historias de la televisión de antes."
+ }
+]
