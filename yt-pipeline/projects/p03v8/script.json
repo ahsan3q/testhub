@@ -1,0 +1,373 @@
+[
+ {
+  "src": [
+   "FJ@100-1300",
+   "CM@60-1200"
+  ],
+  "label": "CARICATURAS DE 1966",
+  "cap": "",
+  "txt": "En 1966 aparecieron caricaturas que llamaron la atención y luego desaparecieron casi sin dejar rastro. Un robot gigante construido por un niño, un espía torpe creado por el mismo hombre que inventó a Batman, unos superhéroes que se enredaban entre ellos, y en Japón, el primer equipo de cinco héroes de la animación, años antes de los Power Rangers."
+ },
+ {
+  "src": [
+   "MH@60-1200",
+   "RR@60-1300"
+  ],
+  "label": "CARICATURAS DE 1966",
+  "cap": "8 CARICATURAS OLVIDADAS",
+  "txt": "Hoy viajamos a 1966 para recordar ocho caricaturas de esa época, cuatro de Estados Unidos y cuatro de Japón. Algunas las vas a reconocer al instante. Otras quizá nunca las viste, pero sus ideas siguen vivas en series que sí conoces.",
+  "fx": {
+   "type": "list",
+   "title": "8 CARICATURAS DE 1966",
+   "items": [
+    "Frankenstein Jr. y Los Imposibles",
+    "Cool McCool",
+    "Los Poderosos Héroes",
+    "El Gordo y el Flaco",
+    "Rainbow Sentai Robin",
+    "Osomatsu-kun",
+    "Cyborg 009",
+    "Sally la bruja"
+   ],
+   "dur": 6.5
+  }
+ },
+ {
+  "src": [
+   "SG@60-1300",
+   "FJ@300-1300"
+  ],
+  "label": "TELEVISIÓN · 1966",
+  "cap": "10 DE SEPTIEMBRE",
+  "txt": "Primero, un dato curioso: varias de las caricaturas estadounidenses de esta lista se estrenaron el mismo día, el sábado diez de septiembre de 1966. Era la temporada de los superhéroes. La serie de Batman con Adam West arrasaba en horario estelar, y las cadenas llenaron los sábados por la mañana de héroes con capa, robots y espías. Hanna-Barbera estrenó ese día Space Ghost, y también la primera caricatura de nuestra lista."
+ },
+ {
+  "src": [
+   "CM@300-1200",
+   "MH@500-1200"
+  ],
+  "label": "TELEVISIÓN · 1966",
+  "cap": "ANIMACIÓN LIMITADA",
+  "txt": "Y hay que entender cómo se hacían. La televisión no podía pagar la animación del cine, así que los estudios usaban la llamada animación limitada: menos dibujos por segundo, fondos que se repetían, personajes que solo movían la boca. Eso permitía producir decenas de episodios en pocos meses. Pero también significaba que, si una serie no funcionaba en su primera temporada, la cancelaban sin pensarlo, y al año siguiente llegaba otra a ocupar su lugar."
+ },
+ {
+  "src": "FJ@200-1300",
+  "label": "FRANKENSTEIN JR. · 1966",
+  "cap": "#8",
+  "txt": "Número ocho. Frankenstein Jr. y Los Imposibles."
+ },
+ {
+  "src": [
+   "FJ@400-1300",
+   "FJ@600-1300"
+  ],
+  "label": "FRANKENSTEIN JR. · 1966",
+  "cap": "UN ROBOT GIGANTE",
+  "txt": "Eran dos caricaturas en una. En la primera, un niño científico llamado Buzz Conroy construye un robot gigante, Frankenstein Junior, y lo activa con un anillo de energía para pelear contra supervillanos. La voz del robot era de Ted Cassidy, el actor que hacía de Largo, el mayordomo gigante de Los locos Addams. Y si el robot te recuerda a algo, no eres el único: mucha gente notó su parecido con Tetsujin 28, el robot japonés que en Estados Unidos se llamó Gigantor."
+ },
+ {
+  "src": [
+   "FJ@800-1300",
+   "FJ@1000-1300"
+  ],
+  "label": "LOS IMPOSIBLES · 1966",
+  "cap": "UNA BANDA DE ROCK",
+  "txt": "La segunda parte era todavía más de su época: Los Imposibles, tres superhéroes disfrazados de banda de rock, al estilo de los Beatles. Multi-Hombre podía multiplicarse, Hombre-Resorte se convertía en un resorte gigante, y Hombre-Fluido se transformaba en cualquier líquido. Recibían sus misiones a través de un receptor escondido en la guitarra. Durante el desarrollo, el grupo se llamaba Los Increíbles. El nombre cambió antes de la producción."
+ },
+ {
+  "src": [
+   "FJ@1100-1300",
+   "SG@300-1300"
+  ],
+  "label": "FRANKENSTEIN JR. · 1966",
+  "cap": "VIOLENCIA",
+  "txt": "¿Por qué desapareció? A finales de los sesenta, grupos de padres empezaron a quejarse de la violencia en las caricaturas del sábado, y esta fue una de las señaladas. En 1968 la sacaron incluso de las repeticiones. Un robot que golpeaba villanos cada semana ya no era bienvenido en la televisión infantil."
+ },
+ {
+  "src": "CM@100-1200",
+  "label": "COOL MCCOOL · 1966",
+  "cap": "#7",
+  "txt": "Número siete. Cool McCool, el espía más torpe."
+ },
+ {
+  "src": [
+   "CM@200-1200",
+   "CM@400-1200"
+  ],
+  "label": "COOL MCCOOL · 1966",
+  "cap": "BOB KANE",
+  "txt": "Su creador fue Bob Kane, el mismo hombre famoso por haber creado a Batman. Se estrenó en NBC también el diez de septiembre de 1966. Mezclaba dos modas del momento: los superhéroes y las películas de espías como James Bond. Cool McCool era un agente secreto de gabardina, muy moderno y muy inepto, que siempre vencía a los villanos de pura suerte, igual que el Superagente 86."
+ },
+ {
+  "src": [
+   "CM@600-1200",
+   "CM@800-1200"
+  ],
+  "label": "COOL MCCOOL · 1966",
+  "cap": "NÚMERO UNO",
+  "txt": "Su jefe se llamaba Número Uno, y nunca se le veía la cara: solo sus brazos y un puro detrás del sillón. Y Cool tenía tres frases: el peligro es mi negocio; cuando tienes razón, Número Uno, tienes razón; y, después de arruinarlo todo, eso no volverá a pasar, Número Uno. Había además un segmento sobre su papá, Harry McCool, un policía de otra época, al estilo de las viejas comedias del cine mudo."
+ },
+ {
+  "src": [
+   "CM@1000-1200",
+   "MH@200-1200"
+  ],
+  "label": "COOL MCCOOL · 1966",
+  "cap": "AUSTRALIA",
+  "txt": "Y un detalle sorprendente: la caricatura se dibujó en Australia, en los estudios Artransa Park, porque los tiempos de producción eran tan cortos que hizo falta ayuda de otros animadores australianos. Duró una sola temporada de episodios nuevos, de septiembre de 1966 a enero de 1967, y luego solo repeticiones.",
+  "fx": {
+   "type": "map",
+   "countries": [
+    "Australia",
+    "United States of America"
+   ],
+   "pins": [
+    {
+     "name": "SÍDNEY",
+     "lon": 151.2,
+     "lat": -33.87
+    },
+    {
+     "name": "NUEVA YORK",
+     "lon": -74.0,
+     "lat": 40.7
+    }
+   ],
+   "route": [
+    1,
+    0
+   ],
+   "view": [
+    -170,
+    -50,
+    170,
+    65
+   ],
+   "title": "HECHA EN AUSTRALIA"
+  }
+ },
+ {
+  "src": "MH@300-1200",
+  "label": "THE MIGHTY HEROES · 1966",
+  "cap": "#6",
+  "txt": "Número seis. Los Poderosos Héroes."
+ },
+ {
+  "src": [
+   "MH@400-1200",
+   "MH@600-1200"
+  ],
+  "label": "THE MIGHTY HEROES · 1966",
+  "cap": "RALPH BAKSHI",
+  "txt": "Los creó Ralph Bakshi para el estudio Terrytoons, el mismo de Súper Ratón, y se estrenó en CBS el veintinueve de octubre de 1966. En la ciudad de Good Haven, cada vez que había problemas, lanzaban fuegos artificiales para llamar a cinco superhéroes: Hombre Fuerte, Hombre Cuerda, Hombre Tornado, Hombre Cucú y Hombre Pañal. Sí, un superhéroe bebé con pañal."
+ },
+ {
+  "src": [
+   "MH@800-1200",
+   "MH@1000-1200"
+  ],
+  "label": "THE MIGHTY HEROES · 1966",
+  "cap": "LA FÓRMULA",
+  "txt": "Cada episodio seguía la misma fórmula: en la primera parte, los héroes eran unos torpes que se enredaban entre ellos, se pedían disculpas mientras caían y terminaban capturados. En la segunda, escapaban, se organizaban y ganaban. Duró una sola temporada, con veintiún episodios, como parte del programa de Súper Ratón. Pero su creador tuvo una carrera enorme: años después, Bakshi dirigió Fritz el gato y la versión animada de El Señor de los Anillos de 1978."
+ },
+ {
+  "src": [
+   "MH@1100-1200",
+   "CM@1100-1200"
+  ],
+  "label": "THE MIGHTY HEROES · 1966",
+  "cap": "HERSCHEL BERNARDI",
+  "txt": "Las voces también tenían su historia. Herschel Bernardi hacía tres de los cinco héroes: Hombre Fuerte, Hombre Pañal y Hombre Tornado. Bernardi era un actor reconocido de Broadway, donde interpretó a Tevye en El violinista en el tejado, y además era la voz de Charlie, el atún de los comerciales de StarKist. Un solo actor, tres superhéroes, y ninguno sabía volar sin chocar con los otros."
+ },
+ {
+  "src": "LH@60-1500",
+  "label": "EL GORDO Y EL FLACO · 1966",
+  "cap": "#5",
+  "txt": "Número cinco. El Gordo y el Flaco en caricatura."
+ },
+ {
+  "src": [
+   "LH@200-1500",
+   "LH@400-1500"
+  ],
+  "label": "EL GORDO Y EL FLACO · 1966",
+  "cap": "156 CORTOS",
+  "txt": "Hanna-Barbera y el productor Larry Harmon, el mismo que manejaba los derechos de Bozo el payaso, convirtieron a Stan Laurel y Oliver Hardy en caricatura. Harmon venía desarrollando la idea desde 1961, cuando Stan Laurel todavía vivía, aunque Laurel participó muy poco. Se hicieron ciento cincuenta y seis cortos, cada uno con su propia entrada y salida, para que las estaciones los programaran fácilmente."
+ },
+ {
+  "src": [
+   "LH@600-1500",
+   "LH@800-1500"
+  ],
+  "label": "EL GORDO Y EL FLACO · 1966",
+  "cap": "OTRAS VOCES",
+  "txt": "Pero había un problema imposible de resolver: Oliver Hardy había muerto en 1957 y Stan Laurel en 1965. Así que el propio Larry Harmon hizo la voz de Stan, y Jim MacGeorge la de Ollie. La serie duró una temporada y no fue bien recibida. El crítico Leonard Maltin lo resumió así: cualquier imitación, incluso una buena, simplemente no puede ser el Gordo y el Flaco, porque eran únicos.",
+  "fx": {
+   "type": "quote",
+   "text": "Cualquier imitación, incluso una buena, simplemente no puede ser el Gordo y el Flaco.",
+   "by": "Leonard Maltin"
+  }
+ },
+ {
+  "src": [
+   "RR@100-1300",
+   "SA@100-1300"
+  ],
+  "label": "JAPÓN · 1966",
+  "cap": "LA ANIMACIÓN JAPONESA",
+  "txt": "Ahora cruzamos el Pacífico. En 1966, la animación japonesa para televisión tenía apenas tres años de vida, desde que Astro Boy se estrenó en 1963. Los estudios estaban experimentando con todo, y de ese año salieron ideas que todavía hoy ves en la pantalla.",
+  "fx": {
+   "type": "map",
+   "countries": [
+    "Japan"
+   ],
+   "pins": [
+    {
+     "name": "TOKIO",
+     "lon": 139.69,
+     "lat": 35.69
+    }
+   ],
+   "view": [
+    125,
+    28,
+    150,
+    46
+   ],
+   "title": "JAPÓN · 1966"
+  }
+ },
+ {
+  "src": "RR@200-1300",
+  "label": "RAINBOW SENTAI ROBIN · 1966",
+  "cap": "#4",
+  "txt": "Número cuatro. Rainbow Sentai Robin, el escuadrón arcoíris."
+ },
+ {
+  "src": [
+   "RR@300-1300",
+   "RR2@100-1300"
+  ],
+  "label": "RAINBOW SENTAI ROBIN · 1966",
+  "cap": "SHOTARO ISHINOMORI",
+  "txt": "La creó Shotaro Ishinomori con su estudio, Studio Zero, y la produjo Toei Animation. El planeta Palta está a dos años de su extinción y decide invadir la Tierra. Para defenderla está Robin, un niño mitad humano y mitad extraterrestre, cuyo padre, un científico de Palta, le dejó un equipo de robots antes de ser llevado de regreso a su planeta: una enfermera, un lobo veloz, un forzudo, un pegaso, un profesor y una cantante."
+ },
+ {
+  "src": [
+   "RR2@300-1300",
+   "RR@600-1300"
+  ],
+  "label": "RAINBOW SENTAI ROBIN · 1966",
+  "cap": "EL PRIMER SENTAI",
+  "txt": "Fue el primer anime con un equipo de cinco héroes. Y aquí está lo increíble: nueve años después, en 1975, el mismo Ishinomori creó Himitsu Sentai Gorenger, la primera serie de Super Sentai, la franquicia que en América conocimos como los Power Rangers. Y un dato más: en dos episodios trabajó como animador clave un joven llamado Hayao Miyazaki.",
+  "fx": {
+   "type": "timeline",
+   "title": "DE ROBIN A LOS POWER RANGERS",
+   "items": [
+    [
+     "1966",
+     "Rainbow Sentai Robin"
+    ],
+    [
+     "1975",
+     "Himitsu Sentai Gorenger"
+    ],
+    [
+     "1993",
+     "Power Rangers"
+    ]
+   ],
+   "dur": 5.0
+  }
+ },
+ {
+  "src": [
+   "RR@900-1300",
+   "RR2@600-1300"
+  ],
+  "label": "RAINBOW SENTAI ROBIN · 1966",
+  "cap": "ESPAÑA",
+  "txt": "Duró un año, y aunque en Japón quedó en la sombra de series más famosas, se transmitió en Alemania, en Francia y también en España. Si alguien de tu familia recuerda a un niño con un escuadrón de robots de colores, quizá era Robin."
+ },
+ {
+  "src": "OS@60-1300",
+  "label": "OSOMATSU-KUN · 1966",
+  "cap": "#3",
+  "txt": "Número tres. Osomatsu-kun, los seis hermanos."
+ },
+ {
+  "src": [
+   "OS@200-1300",
+   "OS@400-1300"
+  ],
+  "label": "OSOMATSU-KUN · 1966",
+  "cap": "SEXTILLIZOS",
+  "txt": "Venía del manga de Fujio Akatsuka, y contaba las travesuras de seis hermanos idénticos de diez años, los sextillizos Matsuno, que causaban caos a donde iban. Studio Zero, el mismo de Ishinomori, hizo la primera versión animada en 1966, y duró alrededor de un año. Pero pasó algo curioso: los personajes secundarios se volvieron más populares que los protagonistas, sobre todo Iyami, un presumido con dientes salidos, y Chibita, un niño con un mechón en la cabeza."
+ },
+ {
+  "src": [
+   "OS@600-1300",
+   "OS@800-1300"
+  ],
+  "label": "OSOMATSU-KUN · 1966",
+  "cap": "SHĒ",
+  "txt": "Iyami tenía una pose famosa: levantaba una pierna, doblaba los brazos y gritaba shē. En Japón se volvió una locura, y hasta Godzilla la hizo en una película de 1965. La caricatura de 1966 se olvidó, pero los hermanos volvieron en 1988, y otra vez en 2015 con Mr. Osomatsu, ahora como seis adultos desempleados. La de 1966 duró poco. Los seis hermanos, en cambio, no se han ido nunca."
+ },
+ {
+  "src": "CY@60-3600",
+  "label": "CYBORG 009 · 1966",
+  "cap": "#2",
+  "txt": "Número dos. Cyborg 009, la película."
+ },
+ {
+  "src": [
+   "CY@300-3600",
+   "CY@900-3600"
+  ],
+  "label": "CYBORG 009 · 1966",
+  "cap": "NUEVE CYBORGS",
+  "txt": "Otra vez Shotaro Ishinomori. Nueve personas de distintas partes del mundo son secuestradas por la organización Black Ghost y convertidas en cyborgs con superpoderes, para usarlas como armas. Pero un científico, el doctor Gilmore, los ayuda a escapar, y los nueve se rebelan contra quienes los crearon. En 1966, Toei la llevó al cine como película animada, la primera adaptación de una historia que todavía hoy sigue teniendo nuevas versiones."
+ },
+ {
+  "src": [
+   "CY@1500-3600",
+   "CY@2200-3600"
+  ],
+  "label": "CYBORG 009 · 1966",
+  "cap": "DE TODO EL MUNDO",
+  "txt": "Lo que la hacía especial era su equipo internacional: un japonés, un estadounidense, una francesa, un alemán, un ruso, un africano, un chino, un inglés y un indígena americano. En plena Guerra Fría, una historia de cyborgs de todo el mundo que se niegan a ser armas de guerra. Tuvo una segunda película en 1967 y una serie de televisión en 1968."
+ },
+ {
+  "src": "SA@60-1300",
+  "label": "SALLY LA BRUJA · 1966",
+  "cap": "#1",
+  "txt": "Número uno. Sally la bruja, la que cambió todo."
+ },
+ {
+  "src": [
+   "SA@200-1300",
+   "SA@400-1300"
+  ],
+  "label": "SALLY LA BRUJA · 1966",
+  "cap": "LA PRIMERA",
+  "txt": "Venía del manga de Mitsuteru Yokoyama, el mismo creador de Tetsujin 28, el robot que inspiró a Frankenstein Junior. Así que nuestra lista empieza y termina con el mismo hombre. Sally es la princesa del Mundo Mágico que se escapa a la Tierra, se hace amiga de dos niñas y vive como una humana más, escondiendo sus poderes. Toei la estrenó en diciembre de 1966, y es considerada el primer anime de chicas mágicas."
+ },
+ {
+  "src": [
+   "SA@600-1300",
+   "SA@900-1300"
+  ],
+  "label": "SALLY LA BRUJA · 1966",
+  "cap": "SUNNY",
+  "txt": "Su nombre original era Sunny, la bruja Sunny. Pero hubo un problema: la empresa Sony tenía registrada la marca Sunny, así que la rebautizaron Sally. Y su inspiración venía de Estados Unidos: la comedia Hechizada, que en Japón era un éxito. Sus primeros episodios se hicieron en blanco y negro, y luego pasó al color. Y a diferencia de las demás de esta lista, Sally no fue de corta vida: duró dos años. Sin ella no existirían Sailor Moon, Sakura Card Captor ni todas las chicas mágicas que vinieron después."
+ },
+ {
+  "src": [
+   "FJ@1200-1300",
+   "RR@1200-1300"
+  ],
+  "label": "CARICATURAS DE 1966",
+  "cap": "",
+  "txt": "Robots, espías, héroes enredados y seis hermanos traviesos. Muchas duraron una temporada, pero de 1966 salieron ideas que siguen en la televisión casi sesenta años después. Ahora dime en los comentarios: ¿cuál de estas caricaturas recuerdas? ¿O la veía alguien en tu familia? Suscríbete para más caricaturas olvidadas."
+ }
+]
