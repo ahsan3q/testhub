@@ -1,0 +1,365 @@
+[
+ {
+  "src": [
+   "TV@60-3000",
+   "ED@30-1500"
+  ],
+  "label": "COMERCIALES DE LOS 60",
+  "cap": "",
+  "txt": "Hay algo extraño en volver a ver un comercial que viste decenas de veces de niño. A veces el producto te devuelve todo: la cocina, el televisor, el olor de la tienda. Y luego escuchas con atención lo que estaban diciendo. Ahí es cuando la nostalgia se convierte en incredulidad."
+ },
+ {
+  "src": [
+   "US@60-3000",
+   "MH@5-50"
+  ],
+  "label": "COMERCIALES DE LOS 60",
+  "cap": "13 COMERCIALES",
+  "txt": "Hoy vamos a ver trece comerciales de los años sesenta que jamás se transmitirían hoy. Algunos son incómodos. Otros son graciosos sin querer. Y de vez en cuando, debajo del discurso de ventas pasado de moda, hay una idea que era realmente brillante. Mientras los vemos, piensa en esto: ¿cuál recuerdas? ¿Qué frase no puedes creer que dijeran en televisión? ¿Y qué producto te gustaría que siguiera existiendo igual?"
+ },
+ {
+  "src": [
+   "MH@5-55",
+   "M5@20-200"
+  ],
+  "label": "MAXWELL HOUSE",
+  "cap": "#13",
+  "txt": "Número trece. Maxwell House: sé una buena esposa."
+ },
+ {
+  "src": [
+   "M5@40-220",
+   "MH@10-55"
+  ],
+  "label": "MAXWELL HOUSE",
+  "cap": "BUENA ESPOSA",
+  "txt": "Hay una frase en este comercial que deja helado a cualquiera hoy. El esposo le dice a su mujer, con toda naturalidad, que sea una buena y pequeña esposa Maxwell House. No es difícil de entender. Lo que impresiona es lo casual que suena. Maxwell House seguramente quería que recordáramos su famoso eslogan, Bueno hasta la última gota. Y en cambio, décadas después, mucha gente recuerda al marido diciéndole a su esposa cuál era su trabajo."
+ },
+ {
+  "src": [
+   "M5@80-240",
+   "TV@200-3000"
+  ],
+  "label": "MAXWELL HOUSE",
+  "cap": "1915",
+  "txt": "Y hablando de ese eslogan, tiene su propia historia. La marca empezó a usar Bueno hasta la última gota en 1915. Con los años se popularizó la leyenda de que la frase la dijo el presidente Theodore Roosevelt al probar el café en Nashville. Pero esa conexión nunca se ha podido comprobar. La prensa de la época citó a Roosevelt diciendo algo muy distinto."
+ },
+ {
+  "src": [
+   "ED@100-1500",
+   "TV@400-3200"
+  ],
+  "label": "EL PISO DE ASBESTO",
+  "cap": "#12",
+  "txt": "Número doce. El piso de vinilo con asbesto."
+ },
+ {
+  "src": [
+   "ED@200-1600",
+   "US@300-3200"
+  ],
+  "label": "EL PISO DE ASBESTO",
+  "cap": "ASBESTO",
+  "txt": "Este comercial tiene uno de los giros más inesperados de la publicidad antigua. Ves a una mujer instalando el piso de su cocina y piensas que ya sabes qué es lo que envejeció mal. Entonces el locutor dice las palabras: baldosa de vinilo con asbesto. Y de pronto el machismo pasa al segundo lugar. Hoy se sabe que respirar fibras de asbesto puede causar enfermedades graves, como el cáncer de pulmón y el mesotelioma. Y aquí se anunciaba como la opción práctica e inteligente para que una ama de casa lo instalara ella misma."
+ },
+ {
+  "src": [
+   "ED@300-1700",
+   "TV@600-3300"
+  ],
+  "label": "EL PISO DE ASBESTO",
+  "cap": "UNA CÁPSULA DEL TIEMPO",
+  "txt": "Mucha gente que creció en casas, escuelas y edificios de esa época recuerda esas baldosas. Algunos caminaban sobre ellas todos los días. Otros recuerdan cuando, años después, cerraron edificios para que equipos especiales las retiraran con trajes protectores. Un solo comercial logra guardar al mismo tiempo una actitud social anticuada y un material de construcción peligroso. Es una verdadera cápsula del tiempo."
+ },
+ {
+  "src": [
+   "CC@5-55",
+   "C1@5-55"
+  ],
+  "label": "TAB",
+  "cap": "#11",
+  "txt": "Número once. Tab: sé inolvidable para él."
+ },
+ {
+  "src": [
+   "C1@10-60",
+   "TV@800-3400"
+  ],
+  "label": "TAB",
+  "cap": "1963",
+  "txt": "Tab nació en 1963. Fue el primer refresco de dieta de Coca-Cola, creado después del éxito de Diet Rite, que hasta entonces era el único refresco sin azúcar del mercado. El nombre venía de una expresión en inglés, keep tabs, que significa vigilar algo. En este caso, vigilar tu peso. Y la publicidad lo llevaba al extremo: le decía a la mujer que, cuando ella no estuviera, su figura debía quedarse pegada en la mente del hombre."
+ },
+ {
+  "src": [
+   "CC@20-60",
+   "US@500-3400"
+  ],
+  "label": "TAB",
+  "cap": "KEEP TABS",
+  "txt": "Para quienes crecieron tomando Tab, el contraste es raro. La lata trae recuerdos normales: una mamá tomándola en el almuerzo, un refrigerador lleno de refrescos de dieta. Pero luego escuchas la frase mantener tu figura en forma tiene sus recompensas, y suena muy distinto cincuenta años después. Tab quería vender un refresco de dieta. Lo que realmente nos dejó fue una foto de la presión que se ponía sobre las mujeres. Y Tab siguió en el mercado hasta 2020, cuando Coca-Cola lo descontinuó."
+ },
+ {
+  "src": [
+   "JL@5-55",
+   "TV@1000-3500"
+  ],
+  "label": "JELL-O",
+  "cap": "#10",
+  "txt": "Número diez. El comercial de Jell-O que nadie debió aprobar."
+ },
+ {
+  "src": [
+   "JL@10-60",
+   "ED@400-1700"
+  ],
+  "label": "JELL-O",
+  "cap": "¿PARA QUIÉN ERA EL CHISTE?",
+  "txt": "Hay comerciales que te hacen preguntarte si la gente de verdad hablaba así. Y hay otros que te hacen preguntarte cómo una sala llena de adultos aprobó el guion. Este es del segundo tipo. Jell-O hizo un comercial cuyo chiste dependía de un bebé chino, un acento exagerado y la idea de que la cuchara era un gran invento occidental. Hoy es imposible verlo sin incomodarse. Y aun así, Jell-O sigue trayendo recuerdos muy normales: tazones en el refrigerador, cenas familiares y postres de colores en la lonchera."
+ },
+ {
+  "src": [
+   "GI@5-120",
+   "US@700-3500"
+  ],
+  "label": "EL AGENTE 007",
+  "cap": "#9",
+  "txt": "Número nueve. Licencia para matar mujeres."
+ },
+ {
+  "src": [
+   "GI@20-130",
+   "AN@100-1500"
+  ],
+  "label": "EL AGENTE 007",
+  "cap": "LICENCIA",
+  "txt": "Este comercial tiene una de las mejores reacciones retardadas de toda la lista. Al principio no hay nada raro: una línea de loción, colonia y productos para afeitar con la marca de James Bond, el número 007. Y luego el locutor llega a la frase: una licencia para matar mujeres. Ahí es cuando la gente se detiene y dice: ¿perdón? En los años sesenta, la fiebre de James Bond era tan fuerte que el número 007 podía vender casi cualquier cosa. Oler como agente secreto suena inofensivo. Licencia para matar mujeres es otra historia."
+ },
+ {
+  "src": [
+   "FO@5-55",
+   "F2@5-55"
+  ],
+  "label": "FOLGERS",
+  "cap": "#8",
+  "txt": "Número ocho. Folgers: igual que tu café."
+ },
+ {
+  "src": [
+   "FO@10-60",
+   "F2@10-60"
+  ],
+  "label": "FOLGERS",
+  "cap": "ASÍ DE MALO",
+  "txt": "A veces no hace falta explicar por qué un comercial envejeció mal. Basta con repetir una línea. La esposa dice algo como: qué feo está eso. Y el esposo le responde: igual que tu café. Sin pausa, sin disculpa. Y lo más curioso de estos comerciales de café es lo serio que todos se lo tomaban. Una mala taza no era una molestia. Era una crisis matrimonial. ¿Y la solución milagrosa? Café instantáneo."
+ },
+ {
+  "src": [
+   "F2@20-60",
+   "TV@1200-3600"
+  ],
+  "label": "FOLGERS",
+  "cap": "MRS. OLSON",
+  "txt": "Folgers tenía además a su propia consejera matrimonial. De 1965 a 1986, sus comerciales tenían a la señora Olson, una vecina sueca interpretada por la actriz Virginia Christine, que siempre aparecía en el momento justo para salvar un matrimonio con una taza de Folgers. Veintiún años arreglando parejas a base de café.",
+  "fx": {
+   "type": "counter",
+   "value": 21,
+   "prefix": "",
+   "suffix": " AÑOS",
+   "label": "LA SEÑORA OLSON",
+   "sub": "Folgers, de 1965 a 1986"
+  }
+ },
+ {
+  "src": [
+   "CR@60-1500",
+   "US@900-3600"
+  ],
+  "label": "GOODYEAR",
+  "cap": "#7",
+  "txt": "Número siete. Goodyear: la llanta dentro de la llanta."
+ },
+ {
+  "src": [
+   "CR@200-1600",
+   "US@1100-3700"
+  ],
+  "label": "GOODYEAR",
+  "cap": "MALA FRASE, BUENA IDEA",
+  "txt": "Aquí el mensaje envejeció mal, pero la idea técnica sigue llamando la atención. El comercial da por hecho que una mujer con una llanta ponchada está indefensa y necesita a un hombre. Eso hoy da risa. Pero lo que se vendía era una llanta con una segunda llanta de seguridad adentro, para seguir manejando después de un pinchazo. Y la gente, después de reírse, pregunta: ¿por qué ya no existe esto? No todo lo viejo era tonto. A veces el producto era bueno, y el publicista eligió la peor forma de venderlo."
+ },
+ {
+  "src": [
+   "XR@20-600",
+   "XR@100-700"
+  ],
+  "label": "XEROX 914",
+  "cap": "#6",
+  "txt": "Número seis. Xerox 914: siete copias por minuto."
+ },
+ {
+  "src": [
+   "XR@150-800",
+   "XR@250-900"
+  ],
+  "label": "XEROX 914",
+  "cap": "7 COPIAS POR MINUTO",
+  "txt": "Hoy suena casi tierno. En su momento, era el futuro. La Xerox 914 fue la primera fotocopiadora comercial exitosa que copiaba sobre papel normal. Se llamaba 914 porque podía copiar originales de hasta nueve por catorce pulgadas. Hacía unas cien mil copias al mes, siete por minuto, y pesaba alrededor de doscientos noventa kilos. Para un oficinista de esa época, apretar un botón y tener una copia en papel común, sin químicos húmedos, era magia.",
+  "fx": {
+   "type": "counter",
+   "value": 7,
+   "prefix": "",
+   "suffix": "",
+   "label": "COPIAS POR MINUTO",
+   "sub": "Xerox 914, 1959"
+  }
+ },
+ {
+  "src": [
+   "XR@350-1000",
+   "ED@500-1800"
+  ],
+  "label": "XEROX 914",
+  "cap": "SE INCENDIÓ",
+  "txt": "Y su presentación tiene una anécdota increíble. El dieciséis de septiembre de 1959 la mostraron al público en el hotel Sherry-Netherland de Nueva York, en una demostración transmitida en vivo por televisión. Había dos copiadoras. Y una de ellas se incendió. Aun así, la 914 cambió el trabajo de oficina para siempre. En 1985, el Museo Smithsonian recibió una, la número 517 de la línea de producción."
+ },
+ {
+  "src": [
+   "US@1300-3800",
+   "TV@1400-3700"
+  ],
+  "label": "BURGER KING",
+  "cap": "#5",
+  "txt": "Número cinco. Burger King y la hamburguesa que desaparece."
+ },
+ {
+  "src": [
+   "US@1500-3900",
+   "AN@300-1600"
+  ],
+  "label": "BURGER KING",
+  "cap": "LA HAMBURGUESA QUE ENCOGE",
+  "txt": "Este comercial produce dos tipos de nostalgia. Una es incómoda: usaba un personaje indígena caricaturesco y un saludo estereotipado como chiste. La otra huele a carne a la parrilla. Muchos recuerdan el Burger King de entonces: el olor al entrar, las llamas bajo la parrilla, las carnes gruesas. Y hay un detalle que hoy suena distinto. El comercial se burlaba de las hamburguesas de la competencia que se hacían cada vez más pequeñas. Décadas después, la gente lo escucha y piensa en la reduflación."
+ },
+ {
+  "src": [
+   "MH@20-55",
+   "TV@1600-3800"
+  ],
+  "label": "PAUL LYNDE",
+  "cap": "#4",
+  "txt": "Número cuatro. Paul Lynde y el café de Alice."
+ },
+ {
+  "src": [
+   "M5@100-250",
+   "TV@1800-3900"
+  ],
+  "label": "PAUL LYNDE",
+  "cap": "MÁS QUE EL CAFÉ",
+  "txt": "Para mucha gente, el café no es la razón por la que este comercial sobrevive. Es Paul Lynde. Ese actor de voz inconfundible que años después todos conocerían como el tío Arthur en Hechizada y como estrella del concurso Hollywood Squares. Aquí interpreta al típico esposo que se queja del café de su esposa, pero con cada pausa extraña y cada gesto que cabe en treinta segundos. Algunos comerciales sobreviven por el eslogan. Este sobrevive porque el actor es más memorable que el café."
+ },
+ {
+  "src": [
+   "M5@120-260",
+   "MH@30-55"
+  ],
+  "label": "PAUL LYNDE",
+  "cap": "MICHAEL CAINE",
+  "txt": "Y Maxwell House tiene otra historia que parece de película. En 1971, una joven llamada Shakira Baksh, finalista de Miss Mundo, apareció en un comercial de Maxwell House filmado para Brasil. El actor Michael Caine lo vio en televisión y dijo que era la mujer más hermosa que había visto en su vida. Un amigo de la publicidad le dijo que vivía a pocos kilómetros de él en Londres. Se casaron en enero de 1973, y siguen juntos. Todo gracias a un comercial de café."
+ },
+ {
+  "src": [
+   "ED@600-1900",
+   "US@1700-4000"
+  ],
+  "label": "DESODORANTE FRESH",
+  "cap": "#3",
+  "txt": "Número tres. Fresh: mi jefe todavía no me invita a comer."
+ },
+ {
+  "src": [
+   "ED@800-2000",
+   "AN@500-1700"
+  ],
+  "label": "DESODORANTE FRESH",
+  "cap": "SOLO ES DESODORANTE",
+  "txt": "La frase suena casi normal hasta que tu cerebro la procesa: mi jefe todavía no me ha invitado a comer. Y llega la pregunta obvia: ¿por qué un desodorante haría que eso pasara? El comercial mezclaba ideas sobre mujeres, trabajo, atractivo y ascenso, como si que el jefe te notara fuera un logro profesional. Lo más gracioso es que al final el propio comercial da marcha atrás: Fresh no puede garantizar que avances en tu carrera, solo te mantiene fresca. Es la frase más sensata de todo el anuncio."
+ },
+ {
+  "src": [
+   "CC@25-60",
+   "C1@20-60"
+  ],
+  "label": "COCA-COLA",
+  "cap": "#2",
+  "txt": "Número dos. Coca-Cola: sin preocuparte por tu cintura."
+ },
+ {
+  "src": [
+   "C1@30-60",
+   "CC@30-60"
+  ],
+  "label": "COCA-COLA",
+  "cap": "LA BOTELLITA",
+  "txt": "Hay algo muy extraño en escuchar a la Coca-Cola normal presentada casi como un producto de dieta. Sin preocupaciones por la cintura, decía la publicidad. Hoy la gente lo escucha y piensa inmediatamente en el azúcar. Pero hay un detalle: la botellita de vidrio de esa época era muy pequeña comparada con las botellas gigantes de hoy. Por eso la comparación de calorías sonaba más convincente entonces. Aun así, vender la Coca-Cola como algo sano que ayuda a cuidar la cintura es difícil de escuchar sin sonreír."
+ },
+ {
+  "src": [
+   "AN@700-1800",
+   "TV@2000-4000"
+  ],
+  "label": "FUNNY FACE",
+  "cap": "#1",
+  "txt": "Número uno. Funny Face, la bebida de los nombres prohibidos."
+ },
+ {
+  "src": [
+   "AN@900-1900",
+   "US@1900-4100"
+  ],
+  "label": "FUNNY FACE",
+  "cap": "1964",
+  "txt": "En 1964, Pillsbury lanzó Funny Face, un polvo para preparar bebidas que competía con Kool-Aid. Cada sabor tenía un personaje de caricatura con una cara chistosa, creado por Hal Silverman, de la agencia Campbell Mithun. Estaban Goofy Grape, la uva despistada, Rootin' Tootin' Raspberry, Freckle Face Strawberry y Loud-Mouth Lime. Hasta ahí, todo inocente. Pero había dos sabores más: Injun Orange, una caricatura de un indígena, y Chinese Cherry, una caricatura de un niño chino."
+ },
+ {
+  "src": [
+   "AN@1100-2000",
+   "ED@1000-2100"
+  ],
+  "label": "FUNNY FACE",
+  "cap": "JOLLY OLLY ORANGE",
+  "txt": "Esos dos nombres, basados en estereotipos étnicos, fueron considerados ofensivos muy pronto, y Pillsbury los cambió por Jolly Olly Orange y Choo Choo Cherry. Y la bebida tuvo otro problema: estaba endulzada con ciclamato de calcio, un edulcorante que Estados Unidos prohibió en 1970. La reemplazaron por sacarina, que no gustó, y luego la vendieron sin endulzar. Funny Face se vendió hasta 1994, y luego en pequeñas cantidades hasta 2001.",
+  "fx": {
+   "type": "timeline",
+   "title": "LA VIDA DE FUNNY FACE",
+   "items": [
+    [
+     "1964",
+     "Pillsbury la lanza"
+    ],
+    [
+     "1970",
+     "Prohíben el ciclamato"
+    ],
+    [
+     "1980",
+     "La compra Brady Enterprises"
+    ],
+    [
+     "1994",
+     "Termina la venta nacional"
+    ]
+   ],
+   "dur": 5.5
+  }
+ },
+ {
+  "src": [
+   "TV@2200-4200",
+   "US@2100-4200"
+  ],
+  "label": "COMERCIALES DE LOS 60",
+  "cap": "",
+  "txt": "Estos comerciales nunca debían convertirse en historia. Se hicieron para vender algo, desaparecer y ser reemplazados por el siguiente. Pero décadas después guardan cosas que ningún libro capturaría igual: el lenguaje, las expectativas, los productos que la gente usaba de verdad. Ahora dime en los comentarios: ¿cuál de estos te llevó de vuelta a tu infancia? ¿Y qué frase no puedes creer que dijeran en televisión? Suscríbete, y nos vemos en el próximo viaje al pasado."
+ }
+]

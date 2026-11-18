@@ -1,0 +1,320 @@
+[
+ {
+  "src": [
+   "SC@20-600",
+   "IV@20-600"
+  ],
+  "label": "LEE MARVIN",
+  "cap": "",
+  "txt": "Lo hirieron en Saipán, ganó un Óscar por un western de comedia y pasó cuarenta años dándoles a los presentadores de televisión las respuestas más cortas que jamás escucharon. Cuando le preguntaban cada cuánto visitaba a sus amigos de Hollywood, respondía: lo menos posible."
+ },
+ {
+  "src": [
+   "CB@10-140",
+   "PB@200-3000"
+  ],
+  "label": "LEE MARVIN",
+  "cap": "HISTORIAS DE GUERRA",
+  "txt": "Las celebridades nunca supieron muy bien qué hacer con su humor seco, ni con sus historias de guerra. Una vez, un entrevistador le preguntó cómo un tipo con esa personalidad tan explosiva llegaba a ganar un Óscar. Marvin le contestó que no tenía mucho sentido explicárselo. Hoy te cuento la vida de Lee Marvin, el actor que fue soldado de verdad antes de interpretarlos, y que nunca adornó una historia."
+ },
+ {
+  "src": [
+   "SO@20-500",
+   "SI@20-500"
+  ],
+  "label": "LOS MARINES · 1942",
+  "cap": "18 AÑOS",
+  "txt": "Lee Marvin se alistó en el Cuerpo de Marines de Estados Unidos el doce de agosto de 1942, con dieciocho años. Primero trabajó como intendente, pero luego pasó a la infantería. Sirvió en la Cuarta División de Marines como explorador y francotirador en el Pacífico, y participó en los asaltos a Kwajalein, Eniwetok y Saipán."
+ },
+ {
+  "src": [
+   "SC@100-800",
+   "PF@40-800"
+  ],
+  "label": "SAIPÁN · 1944",
+  "cap": "18 DE JUNIO",
+  "txt": "El dieciocho de junio de 1944, durante el asalto al monte Tapochau en la batalla de Saipán, la mayoría de su compañía cayó herida o muerta. A Marvin lo alcanzó una ráfaga de ametralladora que le cortó el nervio ciático, y luego un francotirador le dio en el pie. Pasó más de un año en hospitales navales, y salió del ejército con baja médica, con el rango de soldado de primera clase.",
+  "fx": {
+   "type": "map",
+   "countries": [
+    "Japan",
+    "Philippines"
+   ],
+   "pins": [
+    {
+     "name": "SAIPÁN",
+     "lon": 145.75,
+     "lat": 15.18
+    },
+    {
+     "name": "TOKIO",
+     "lon": 139.69,
+     "lat": 35.69
+    }
+   ],
+   "view": [
+    115,
+    5,
+    160,
+    42
+   ],
+   "title": "SAIPÁN · 1944"
+  }
+ },
+ {
+  "src": [
+   "SC@200-900",
+   "SO@100-500"
+  ],
+  "label": "SAIPÁN · 1944",
+  "cap": "EN POCAS PALABRAS",
+  "txt": "Y por el resto de su vida describió esa herida con la menor cantidad de palabras posible. En televisión, cuando le preguntaban dónde lo habían herido, su respuesta era tan directa que el presentador se quedaba sin saber qué decir. Una vez le dijeron que había ganado un Corazón Púrpura, y él corrigió: esas medallas no se ganan, te las dan cuando te dan un balazo. O sea, preferiría no tenerla."
+ },
+ {
+  "src": [
+   "SI@100-600",
+   "PF@200-900"
+  ],
+  "label": "SAIPÁN · 1944",
+  "cap": "EL TELEGRAMA",
+  "txt": "Hay una historia que contaba con más ternura. Desde el hospital le escribió a su madre en Nueva York para avisarle que estaba herido, y que no se asustara cuando llegara el telegrama oficial. Ella le respondió con una carta: le contó que, más o menos a la misma hora, había soñado que él estaba parado en la puerta de su cuarto, con su uniforme de gala y la cabeza vendada. Marvin solo añadía, con su humor seco, que las vendas en realidad estaban bastante más abajo."
+ },
+ {
+  "src": [
+   "PF@300-1000",
+   "SC@300-1000"
+  ],
+  "label": "EL MITO",
+  "cap": "CAPITÁN CANGURO",
+  "txt": "Y hablando de historias de guerra, hay una muy famosa que circula por internet. Dice que Marvin le contó a Johnny Carson que el hombre más valiente que conoció en Iwo Jima fue el Capitán Canguro, el presentador infantil Bob Keeshan. Suena genial, pero nunca pasó. Marvin no estuvo en Iwo Jima, y Keeshan se unió a los Marines demasiado tarde para ver combate. Lo real ya era suficientemente impresionante."
+ },
+ {
+  "src": [
+   "IV@100-800",
+   "SO@200-500"
+  ],
+  "label": "WOODSTOCK",
+  "cap": "AYUDANTE DE PLOMERO",
+  "txt": "Después de la guerra, Marvin trabajaba como ayudante de plomero en Woodstock, un pueblo de artistas en el norte de Nueva York. Un día, un grupo de teatro de verano necesitaba reemplazar a un actor que se había enfermado durante los ensayos, y se lo pidieron a él. Se quedó con el grupo por siete dólares a la semana. Y él mismo contaba que la razón no era el arte: una joven actriz había llegado al pueblo, preguntó quién era, le dijeron que era del grupo de teatro, y así se volvió actor."
+ },
+ {
+  "src": [
+   "BH@100-3000",
+   "IV@200-900"
+  ],
+  "label": "WOODSTOCK",
+  "cap": "1951",
+  "txt": "Con el dinero del G.I. Bill, el programa del gobierno para veteranos, estudió actuación en el American Theatre Wing. En febrero de 1951 ya estaba en Broadway con un papel pequeño en Billy Budd. Y ese mismo año debutó en el cine con You're in the Navy Now. En esa misma película también debutaron Charles Bronson y Jack Warden. Treinta años después, Marvin y Bronson volverían a trabajar juntos.",
+  "fx": {
+   "type": "timeline",
+   "title": "DE MARINE A ACTOR",
+   "items": [
+    [
+     "1942",
+     "Se alista en los Marines"
+    ],
+    [
+     "1944",
+     "Herido en Saipán"
+    ],
+    [
+     "1951",
+     "Broadway y su primera película"
+    ],
+    [
+     "1957",
+     "M Squad"
+    ],
+    [
+     "1966",
+     "Gana el Óscar"
+    ]
+   ],
+   "dur": 6.0
+  }
+ },
+ {
+  "src": [
+   "BH@400-4000",
+   "BH@1000-5000"
+  ],
+  "label": "EL VILLANO",
+  "cap": "THE BIG HEAT",
+  "txt": "Hollywood lo encasilló de inmediato como matón y asesino. En The Big Heat de 1953 interpretó a Vince Stone, uno de los villanos más crueles del cine negro. Cuando le preguntaron si lo elegían por su aspecto rudo, Marvin dijo que no: lo elegían porque no tenía cara de galán de revista. Y como veterano condecorado, en las películas de guerra solía ayudar al director y a los otros actores a moverse como soldados de verdad, a vestirse y a usar las armas."
+ },
+ {
+  "src": [
+   "MS@20-1400",
+   "MS@300-1500"
+  ],
+  "label": "M SQUAD · 1957",
+  "cap": "100 EPISODIOS",
+  "txt": "La televisión le dio, por fin, el papel de héroe. De 1957 a 1960 protagonizó M Squad como el teniente Frank Ballinger, un detective de Chicago, durante cien episodios. Un crítico la describió como un Dragnet acelerado y violento, con un Marvin duro como el acero. Curiosamente, consiguió el papel después de aparecer en un episodio de Dragnet interpretando a un asesino en serie."
+ },
+ {
+  "src": [
+   "CB@20-150",
+   "BH@2000-5000"
+  ],
+  "label": "LIBERTY VALANCE · 1962",
+  "cap": "JOHN FORD",
+  "txt": "En 1962, John Ford lo eligió para ser Liberty Valance, el forajido de The Man Who Shot Liberty Valance, frente a John Wayne y James Stewart. Cuando le preguntaron si disfrutaba golpear a John Wayne, respondió que cualquiera disfrutaría eso, y más si no le pasaba nada. Para su escena de muerte, Marvin le propuso a Ford una idea: llenar su sombrero de dólares de plata, para que al caer las monedas rodaran por el suelo de madera. Quedó tan bien que la cortaron, porque se metía demasiado en la mitología."
+ },
+ {
+  "src": [
+   "CB@30-150",
+   "CB@60-150"
+  ],
+  "label": "CAT BALLOU · 1965",
+  "cap": "EL ÓSCAR",
+  "txt": "En 1964, The Killers le dio por primera vez el primer crédito en una película. Y luego llegó Cat Ballou, un western de comedia con Jane Fonda, en el que interpretó dos papeles: un pistolero borracho y su hermano gemelo, un criminal con nariz de metal. Fue un éxito inesperado, y lo nominaron a mejor actor frente a Laurence Olivier, Richard Burton y Rod Steiger."
+ },
+ {
+  "src": [
+   "CB@80-150",
+   "CB@100-150"
+  ],
+  "label": "CAT BALLOU · 1965",
+  "cap": "ROD STEIGER",
+  "txt": "Esa noche, Rod Steiger estaba sentado justo detrás de él. Marvin contaba que se dio la vuelta y le dijo: si veo tu cabeza por aquí abajo, amigo, vas a tener que pasar por encima de mí. Por suerte no hizo falta. Cuando anunciaron al ganador, fue Lee Marvin. En su discurso dijo una de las frases más recordadas de la historia del Óscar: que la mitad del premio le pertenecía a un caballo que andaba por ahí, en algún lugar del valle.",
+  "fx": {
+   "type": "quote",
+   "text": "Creo que la mitad de esto le pertenece a un caballo en algún lugar del valle.",
+   "by": "Lee Marvin, Óscar 1966"
+  }
+ },
+ {
+  "src": [
+   "DD@200-5000",
+   "DD@1000-6000"
+  ],
+  "label": "DOCE DEL PATÍBULO · 1967",
+  "cap": "LOS DOCE",
+  "txt": "Ahora era una estrella. Después vino The Professionals, y en 1967 The Dirty Dozen, conocida en español como Doce del patíbulo. Marvin era el mayor encargado de convertir a doce soldados condenados en una unidad de comando. Entre ellos estaban Jim Brown, Charles Bronson, John Cassavetes, Telly Savalas y Donald Sutherland. Cuando le preguntaron si se mantenía alejado de ellos, dijo que lo intentó, pero que estaban por todo Londres."
+ },
+ {
+  "src": [
+   "DD@2000-6000",
+   "DD@3000-6500"
+  ],
+  "label": "DOCE DEL PATÍBULO · 1967",
+  "cap": "SUPERVIVENCIA",
+  "txt": "Para él, fue una de las pocas películas de supervivencia que hizo, porque todos los actores querían robarse las escenas entre ellos. Eran un grupo duro de grandes personajes, y según Marvin, tenías que quitarles la escena, porque nadie te la iba a regalar."
+ },
+ {
+  "src": [
+   "PB@500-4000",
+   "PB@1500-5000"
+  ],
+  "label": "POINT BLANK · 1967",
+  "cap": "JOHN BOORMAN",
+  "txt": "Ese mismo año hizo Point Blank, y tenía tanto poder después del Óscar que eligió él mismo al director: un joven inglés llamado John Boorman. Su compañera, Angie Dickinson, ya había trabajado con él en The Killers. Ella resumía las dos películas así: The Killers fue extremadamente violenta, y Point Blank, todavía más. Un año después, Marvin y Boorman volvieron a juntarse en Hell in the Pacific, con el actor japonés Toshiro Mifune."
+ },
+ {
+  "src": [
+   "PW@500-5000",
+   "PW@2000-7000"
+  ],
+  "label": "LA LEYENDA DEL OESTE · 1969",
+  "cap": "WAND'RIN' STAR",
+  "txt": "En 1969 hizo algo que nadie esperaba: cantó. Fue en el musical Paint Your Wagon, con un Clint Eastwood que también cantaba. Marvin tenía una voz grave y muy poco entrenada, pero su canción Wand'rin' Star se convirtió en un éxito. Años después, un fan se le acercó en una pizzería y, en un inglés roto, le dijo que le encantaba cuando cantaba Soy aburrido bajo una estrella errante. Le preguntaron si lo corrigió. Marvin dijo que no: el señor tenía razón."
+ },
+ {
+  "src": [
+   "PW@3000-8000",
+   "PB@3000-5000"
+  ],
+  "label": "LA LEYENDA DEL OESTE · 1969",
+  "cap": "UN MILLÓN",
+  "txt": "Para esa época cobraba un millón de dólares por película. Y aun así le tenía poco cariño al negocio. Dijo una frase que resume su carácter: te pasas los primeros cuarenta años de tu vida tratando de entrar en este negocio, y los siguientes cuarenta tratando de salir. Y cuando por fin ganas dinero, ¿quién lo necesita?",
+  "fx": {
+   "type": "counter",
+   "value": 1000000,
+   "prefix": "$",
+   "suffix": "",
+   "label": "POR PELÍCULA",
+   "sub": "Lee Marvin, finales de los sesenta"
+  }
+ },
+ {
+  "src": [
+   "IV@300-1000",
+   "PB@4000-5200"
+  ],
+  "label": "EL SECRETO DEL VILLANO",
+  "cap": "LO QUE ODIARÍA",
+  "txt": "En 1970, en el programa de Dick Cavett, le preguntaron si había alguna fórmula para interpretar a un malo. Dijo que no había secreto: simplemente hacía lo que odiaría que alguien le hiciera a él. Y cuando el presentador comentó que entonces usaba los defectos de otros y no los suyos, Marvin respondió: no me atrevería a mostrar mis defectos, ¿verdad?"
+ },
+ {
+  "src": [
+   "EN@500-5000",
+   "EN@2000-6000"
+  ],
+  "label": "EL EMPERADOR DEL NORTE · 1973",
+  "cap": "35 DÍAS",
+  "txt": "En 1973 hizo Emperor of the North con Ernest Borgnine: dos vagabundos peleando sobre un tren de carga en movimiento. Borgnine recordaba que esa pelea tardó treinta y cinco días en filmarse, un poco cada día, coreografiada como un ballet, con tablas, cadenas y hasta un hacha sin filo. Años después, a Marvin le preguntaron lo mismo y dijo que fueron casi catorce días. Hasta en eso, Marvin recortaba la historia."
+ },
+ {
+  "src": [
+   "IV@400-1100",
+   "EN@4000-6500"
+  ],
+  "label": "EL ACTOR",
+  "cap": "FINGIENDO",
+  "txt": "Para mediados de los setenta llevaba veinticinco años recibiendo golpes, balazos y muertes en pantalla. Y lo veía con una honestidad brutal. Dijo que, al mirarse, pensaba: qué estoy haciendo aquí, un hombre adulto con una cartuchera llena de balas de salva, fallando los golpes a propósito, sabiendo que no se va a quedar con la chica porque ella está casada con el tipo que está parado junto a la cámara. Fingiendo."
+ },
+ {
+  "src": [
+   "SC@400-1100",
+   "PF@500-1100"
+  ],
+  "label": "EL COMBATE",
+  "cap": "ALGO PERSONAL",
+  "txt": "Le preguntaron si el combate de las películas de John Wayne les parecía real a los que de verdad habían peleado. Marvin respondió que el combate es algo muy personal, y que no hay dos personas que se pongan de acuerdo sobre nada de lo que pasa en él. Nadie quería ver un noticiero de muerte y destrucción real, dijo. Así que era mejor hacerlo de forma teatral, que duele menos."
+ },
+ {
+  "src": [
+   "BR@20-900",
+   "BR@200-1200"
+  ],
+  "label": "THE BIG RED ONE · 1980",
+  "cap": "SAMUEL FULLER",
+  "txt": "En 1980 hizo su último gran papel: The Big Red One, escrita y dirigida por Samuel Fuller, que había desembarcado en la playa de Omaha con la Primera División de Infantería. Marvin era el sargento, y entre sus jóvenes soldados estaban Mark Hamill y Robert Carradine. Fuller describió a su personaje como el carpintero de la muerte, los sargentos que llevan diez mil años mandando a los jóvenes a morir."
+ },
+ {
+  "src": [
+   "BR@400-1400",
+   "SO@300-500"
+  ],
+  "label": "THE BIG RED ONE · 1980",
+  "cap": "¿QUIÉN QUIERE SER CARRADINE?",
+  "txt": "Carradine contaba su primer viaje en auto con Marvin. Todos esperaban en silencio frente al hotel hasta que Marvin bajó, miró al chofer y arrancaron. Sin voltear, Marvin preguntó: ¿quién quiere ser Carradine? Él levantó la mano. Y Marvin le dijo: tú, Carradine. No era una pregunta. Semanas después, Carradine se animó a preguntarle qué había sido eso, y Marvin le explicó que tenía que mantener el ritmo de cuatro muchachos jóvenes, así que quiso dejar las reglas claras desde el principio."
+ },
+ {
+  "src": [
+   "IV@500-1200",
+   "BH@3000-5200"
+  ],
+  "label": "NUNCA FUI UN MALO",
+  "cap": "HECTOR ELIZONDO",
+  "txt": "Y hay una lección que dio en 1972, en el rodaje de Pocket Money con Paul Newman. Un actor joven, Hector Elizondo, se le acercó para decirle cuánto admiraba sus papeles de villano. Marvin le respondió que nunca había interpretado a un malo en su vida. Le preguntó de dónde era. De Harlem, Nueva York. ¿Conoces tipos malos? Algunos. ¿Y ellos creían que eran malos? No, ninguno. Pues así se interpreta a un malo."
+ },
+ {
+  "src": [
+   "IV@600-1300",
+   "SO@400-500"
+  ],
+  "label": "ARLINGTON",
+  "cap": "1924 – 1987",
+  "txt": "Lee Marvin hizo su última película, The Delta Force con Chuck Norris, en 1986. Fumaba y bebía mucho, y su salud ya estaba muy deteriorada. Murió de un ataque al corazón el veintinueve de agosto de 1987, a los sesenta y tres años. Fue enterrado con todos los honores militares en el Cementerio Nacional de Arlington, entre los soldados con los que alguna vez peleó."
+ },
+ {
+  "src": [
+   "SC@500-1200",
+   "CB@120-150"
+  ],
+  "label": "LEE MARVIN",
+  "cap": "",
+  "txt": "Fue marine antes que actor, y nunca dejó que Hollywood le cambiara la forma de hablar. Si pudieras hacerle una sola pregunta a Lee Marvin, ¿cuál sería, y con cuántas palabras crees que te respondería? Déjala en los comentarios. Y si te gustan las respuestas cortas, suscríbete."
+ }
+]

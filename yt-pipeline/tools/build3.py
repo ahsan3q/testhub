@@ -123,7 +123,10 @@ for i, s in enumerate(seg):
     spec = [sp for sp in spec if sp.split("@")[0] in info] or [sorted(info)[i % len(info)]]
     for sp in spec:
         if "@" in sp:
-            k, r = sp.split("@"); a, b = r.split("-"); keys.append((k, (float(a), float(b))))
+            k, r = sp.split("@"); a, b = r.split("-"); a, b = float(a), float(b); dd = info[k]["d"]
+            a2, b2 = min(a, max(0.0, dd - 8)), min(b, dd - 0.5)          # clamp ranges to the real clip length
+            if b2 - a2 < 5: a2, b2 = dd * 0.08, dd * 0.95
+            keys.append((k, (a2, b2)))
         else: keys.append((sp, None))
     used, items = 0.0, []
     if s.get("fx"):
