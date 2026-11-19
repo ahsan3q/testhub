@@ -1,0 +1,290 @@
+[
+ {
+  "src": [
+   "U7@1-29",
+   "WS@30-1500"
+  ],
+  "label": "BOB UECKER",
+  "cap": "",
+  "txt": "Bateó para doscientos en las Grandes Ligas, y pasó sesenta años contándole a Johnny Carson, con la cara más seria del mundo, lo malo que era. Decía que los Bravos lo contrataron dos veces porque la primera vez no se creyeron lo malo que era. Y nadie a su lado podía aguantarse la risa."
+ },
+ {
+  "src": [
+   "MB@20-600",
+   "OB@30-900"
+  ],
+  "label": "BOB UECKER",
+  "cap": "MR. BASEBALL",
+  "txt": "Hoy te cuento la historia de Bob Uecker. Un receptor suplente que casi nunca jugaba, que se convirtió en la voz de los Cerveceros de Milwaukee durante cincuenta y cuatro temporadas, en estrella de comerciales, de una comedia de televisión y de una película de culto. Y que se burló de una sola persona en toda su carrera: de sí mismo."
+ },
+ {
+  "src": [
+   "PB@5-60",
+   "MB@100-700"
+  ],
+  "label": "MILWAUKEE · 1934",
+  "cap": "EL HIJO DE GUS",
+  "txt": "Robert George Uecker nació el veintiséis de enero de 1934 en Milwaukee, Wisconsin. Su padre, August, al que todos llamaban Gus, había emigrado desde Suiza en 1923. Años después, Uecker contaba en broma que en realidad nació en la carretera, durante un viaje a Illinois para comprar margarina, que en ese tiempo estaba prohibida en Wisconsin, el estado de los lácteos. Era mentira, claro. Nació y creció en Milwaukee, viendo béisbol de ligas menores."
+ },
+ {
+  "src": [
+   "SS@20-700",
+   "OB@200-1000"
+  ],
+  "label": "EL EJÉRCITO · 1954",
+  "cap": "FORT BELVOIR",
+  "txt": "En 1954 se alistó en el Ejército de Estados Unidos y llegó a cabo. Allí siguió jugando béisbol, en Fort Leonard Wood, en Misuri, y en Fort Belvoir, en Virginia, donde fue compañero de Dick Groat, otro futuro jugador de Grandes Ligas. Uecker siempre contaba esa etapa como si hubiera engañado a todo el mundo para que lo dejaran jugar. Pero lo cierto es que el talento le alcanzó para firmar un contrato profesional."
+ },
+ {
+  "src": [
+   "MB@300-900",
+   "SS@200-900"
+  ],
+  "label": "LOS BRAVOS · 1956",
+  "cap": "EL EQUIPO DE SU CIUDAD",
+  "txt": "En 1956 firmó con los Bravos de Milwaukee, el equipo de su ciudad. Pasó varios años en las ligas menores, con equipos como los Eau Claire Bears y los Boise Braves. En su primera temporada pegó diecinueve jonrones entre los dos clubes. Y por fin, el trece de abril de 1962, debutó en las Grandes Ligas, ya con veintiocho años, como tercer receptor detrás de Joe Torre y Del Crandall.",
+  "fx": {
+   "type": "timeline",
+   "title": "DE MILWAUKEE A LAS MAYORES",
+   "items": [
+    [
+     "1934",
+     "Nace en Milwaukee"
+    ],
+    [
+     "1954",
+     "Se alista en el Ejército"
+    ],
+    [
+     "1956",
+     "Firma con los Bravos"
+    ],
+    [
+     "1962",
+     "Debut en Grandes Ligas"
+    ]
+   ],
+   "dur": 6.0
+  }
+ },
+ {
+  "src": [
+   "OB@400-1100",
+   "WS@200-1600"
+  ],
+  "label": "LOS BRAVOS · 1962",
+  "cap": "EL PRIMERO",
+  "txt": "Esa primera temporada bateó para doscientos cincuenta en treinta y tres juegos. Nada mal. Pero al año siguiente jugó solo nueve partidos antes de que lo mandaran de vuelta a las menores. Y de ahí salió una de sus frases favoritas: fui el primer jugador de Milwaukee en llegar a los Bravos, y también el primero en ser enviado a las menores por los Bravos. Siempre pensé que eso era muy bonito."
+ },
+ {
+  "src": [
+   "U5@1-29",
+   "WS@400-1700"
+  ],
+  "label": "CARDENALES · 1964",
+  "cap": "CAMPEÓN",
+  "txt": "Antes de la temporada de 1964, los Bravos lo cambiaron a los Cardenales de San Luis por dos jugadores de ligas menores. Casi no jugó. Pero ese octubre, los Cardenales ganaron la Serie Mundial, y Bob Uecker se convirtió en campeón del mundo. Años después, él contaba que al año siguiente, cuando entregaron los anillos, el suyo lo lanzaron al jardín, y que lo encontró en la quinta entrada."
+ },
+ {
+  "src": [
+   "WS@600-1800",
+   "U5@1-29"
+  ],
+  "label": "SANDY KOUFAX",
+  "cap": "14 JONRONES",
+  "txt": "En toda su carrera pegó solo catorce jonrones. Uno de ellos fue contra Sandy Koufax, uno de los mejores lanzadores de la historia. Y Uecker convirtió ese jonrón en un chiste que repitió por décadas: decía que cada vez que veía a Koufax le pedía disculpas, porque tenía miedo de que ese jonrón lo dejara fuera del Salón de la Fama. Koufax, por supuesto, entró al Salón de la Fama sin ningún problema."
+ },
+ {
+  "src": [
+   "ST@200-1100",
+   "SS@300-1000"
+  ],
+  "label": "FILADELFIA · 1966",
+  "cap": "LOS FILIS",
+  "txt": "Después de la temporada de 1965, los Cardenales lo enviaron a los Filis de Filadelfia, junto con Dick Groat, su viejo compañero del Ejército, y Bill White. Y el seis de junio de 1967, los Filis lo regresaron a los Bravos, que ya se habían mudado a Atlanta. Esa vuelta le traería la temporada más famosa de su carrera, aunque no por buenas razones."
+ },
+ {
+  "src": [
+   "OB@700-1400",
+   "WS@900-2000"
+  ],
+  "label": "EL KNUCKLEBALL",
+  "cap": "PHIL NIEKRO",
+  "txt": "En Atlanta tenía que recibir a Phil Niekro, un lanzador de knuckleball, la bola de nudillos que flota y se mueve sin rumbo en el aire. Es la pesadilla de cualquier receptor. En 1967, jugando apenas cincuenta y nueve partidos, Uecker lideró la liga en pelotas que se le escaparon. Y su explicación se volvió legendaria: la mejor forma de atrapar un knuckleball es esperar a que deje de rodar, y luego ir a recogerlo.",
+  "fx": {
+   "type": "quote",
+   "text": "La mejor forma de atrapar un knuckleball es esperar a que deje de rodar y luego recogerlo.",
+   "by": "Bob Uecker"
+  }
+ },
+ {
+  "src": [
+   "WS@1000-2100",
+   "MB@400-1000"
+  ],
+  "label": "EL GRAND SLAM",
+  "cap": "RON HERBEL",
+  "txt": "Eso sí, de vez en cuando le pegaba a la pelota. El veintiuno de junio de 1967 conectó un grand slam contra el lanzador Ron Herbel. Y Uecker contaba que, cuando el mánager salió a sacar a Herbel del juego, ya traía su maleta. También decía que las empresas de artículos deportivos le pagaban para que no usara sus productos."
+ },
+ {
+  "src": [
+   "OB@800-1500",
+   "SS@400-1100"
+  ],
+  "label": "EL RETIRO · 1967",
+  "cap": ".200",
+  "txt": "Su carrera como jugador terminó en 1967, después de seis temporadas. Su promedio de bateo final fue de doscientos. Pero hay algo que sus chistes escondían: era un receptor defensivo muy sólido, con un porcentaje de fildeo de punto nueve ocho uno. Cometía muy pocos errores. El que siempre lo hacía ver como un desastre era él mismo, porque eso era lo que hacía reír a la gente.",
+  "fx": {
+   "type": "counter",
+   "value": 200,
+   "prefix": ".",
+   "suffix": "",
+   "label": "PROMEDIO DE BATEO",
+   "sub": "Bob Uecker, 1962 a 1967"
+  }
+ },
+ {
+  "src": [
+   "TS@100-800",
+   "G2@600-3000"
+  ],
+  "label": "LA CABINA",
+  "cap": "1971",
+  "txt": "Después de retirarse empezó a trabajar en la televisión en Atlanta. Y en 1971 llegó a la cabina de radio de los Cerveceros de Milwaukee, el nuevo equipo de su ciudad. Durante años trabajó sin firmar ningún contrato: todo era con un apretón de manos con los dueños, primero con Bud Selig y después con Mark Attanasio. Su primer contrato lo firmó hasta 2021, y solo para tener el seguro médico del equipo."
+ },
+ {
+  "src": [
+   "G2@600-3000",
+   "G2@100-2000"
+  ],
+  "label": "LA CABINA",
+  "cap": "GET UP, GET UP",
+  "txt": "Su frase más famosa la gritaba cada vez que un jugador de los Cerveceros conectaba un jonrón: ¡Arriba, arriba, sal de aquí, se fue! En inglés, Get up, get up, get outta here, gone. En Wisconsin, generaciones de aficionados crecieron con esa voz saliendo del radio de la cocina o del carro. Y en 1982 le tocó narrar, para Milwaukee, la primera Serie Mundial de los Cerveceros."
+ },
+ {
+  "src": [
+   "TS@200-1000",
+   "AP@20-200"
+  ],
+  "label": "THE TONIGHT SHOW",
+  "cap": "CASI 100 VECES",
+  "txt": "Mientras tanto, en las noches hacía comedia. Según contaba él mismo, abría los shows del trompetista Al Hirt, y así terminó en The Tonight Show con Johnny Carson. Le fue tan bien que volvió unas cien veces. Y fue Carson quien le puso, en broma, el apodo que lo acompañó toda la vida: Mr. Baseball. Porque nadie hablaba de béisbol como él, y nadie había jugado tan mal como él decía haber jugado."
+ },
+ {
+  "src": [
+   "TS@300-1100",
+   "WR@20-600"
+  ],
+  "label": "THE TONIGHT SHOW",
+  "cap": "EL SALÓN DE LA FAMA",
+  "txt": "Su humor funcionaba porque nunca se reía de sus propios chistes. En una visita, Carson le preguntó cuántos años llevaba esperando entrar al Salón de la Fama del Béisbol. Uecker le explicó, muy serio, que si entraba ahora iba a ser después de muerto, y que eso era lo que le molestaba: que no se iba a enterar si lo lograba o no."
+ },
+ {
+  "src": [
+   "U7@1-29",
+   "G2@300-2500"
+  ],
+  "label": "HOWARD COSELL",
+  "cap": "ABC Y NBC",
+  "txt": "También fue comentarista en las transmisiones nacionales de ABC en los años setenta y ochenta, y después en NBC, junto a Bob Costas y Joe Morgan, en Series Mundiales y Juegos de Estrellas. El narrador Al Michaels contaba que una noche Howard Cosell le dijo al aire a Uecker que no tenía que ser tan truculento, y le preguntó si sabía lo que significaba. Uecker respondió sin pensarlo: claro, Howard, si tú tuvieras un camión y yo te lo pidiera prestado, eso sería truck-ulento."
+ },
+ {
+  "src": [
+   "PB@20-60",
+   "AP@50-250"
+  ],
+  "label": "MILLER LITE",
+  "cap": "LA PRIMERA FILA",
+  "txt": "En los años ochenta llegaron los comerciales de la cerveza Miller Lite, y uno de ellos se volvió legendario. Uecker llega al estadio muy seguro de sí mismo, un acomodador le dice que está en el asiento equivocado, y él responde con arrogancia: debo estar en la primera fila. Pero lo llevan hasta el último rincón de la parte más alta. Desde ese día, los peores asientos de muchos estadios se llaman los asientos Uecker."
+ },
+ {
+  "src": [
+   "WR@100-800",
+   "AP@100-300"
+  ],
+  "label": "SATURDAY NIGHT LIVE",
+  "cap": "13 DE OCTUBRE DE 1984",
+  "txt": "El trece de octubre de 1984, durante la décima temporada, fue el presentador invitado de Saturday Night Live. Ese mismo año apareció en War of the Stars, y conducía programas de blooper deportivos como Bob Uecker's Wacky World of Sports, uno de los programas deportivos sindicados más longevos de la televisión estadounidense. Y escribió su autobiografía, con un título que es un juego de palabras: Catcher in the Wry."
+ },
+ {
+  "src": [
+   "BV@5-200",
+   "AP@150-350"
+  ],
+  "label": "MR. BELVEDERE",
+  "cap": "1985 · 1990",
+  "txt": "En 1985 llegó su propia comedia de televisión: Mr. Belvedere, en ABC. Uecker interpretaba a George Owens, un padre de familia y periodista deportivo que contrata a un mayordomo inglés muy refinado. La serie duró cinco años, hasta 1990. Y mientras grababa en Los Ángeles, seguía narrando partidos de los Cerveceros cada vez que podía."
+ },
+ {
+  "src": [
+   "WR@200-900",
+   "TS@400-1200"
+  ],
+  "label": "WRESTLEMANIA III",
+  "cap": "HOGAN VS. ANDRÉ",
+  "txt": "En marzo de 1987 apareció en un lugar inesperado: WrestleMania III, en Pontiac, Michigan. Fue el anunciador del combate estelar entre Hulk Hogan y André el Gigante, frente a un estadio repleto. Regresó al año siguiente, en WrestleMania IV, como comentarista y entrevistador. Y en 2010, la WWE lo metió en la sección de celebridades de su Salón de la Fama."
+ },
+ {
+  "src": [
+   "ML@5-120",
+   "G2@500-3000"
+  ],
+  "label": "MAJOR LEAGUE · 1989",
+  "cap": "HARRY DOYLE",
+  "txt": "Los comerciales de cerveza también le abrieron la puerta del cine. En 1989 interpretó a Harry Doyle, el narrador de los Indios de Cleveland en la película Major League. Le dieron el papel por su fama en los anuncios de Miller Lite, no por su trabajo en la radio. Harry Doyle bebía cuando el equipo perdía, y siempre intentaba que los errores del equipo sonaran menos graves para la audiencia."
+ },
+ {
+  "src": [
+   "ML@20-130",
+   "OB@900-1600"
+  ],
+  "label": "MAJOR LEAGUE · 1989",
+  "cap": "JUST A BIT OUTSIDE",
+  "txt": "De esa película salió otra de sus frases inmortales. Cuando el lanzador Ricky Vaughn, interpretado por Charlie Sheen, tira una bola completamente desviada, Harry Doyle dice con toda calma: apenas un poquito afuera. Juuust a bit outside. Todavía hoy se escucha en estadios de todo Estados Unidos. Uecker repitió el papel en las dos secuelas."
+ },
+ {
+  "src": [
+   "G2@600-3000",
+   "G2@800-3500"
+  ],
+  "label": "EL SALÓN DE LA FAMA",
+  "cap": "2003",
+  "txt": "En 2003, el Salón de la Fama del Béisbol por fin lo llamó, aunque no como jugador. Recibió el premio Ford C. Frick, el máximo honor para un narrador de béisbol. Su discurso en Cooperstown fue uno de los más graciosos que se recuerdan, lleno de chistes sobre su carrera como jugador. Dos años antes ya había entrado al Salón de la Fama de la Radio."
+ },
+ {
+  "src": [
+   "MB@500-1100",
+   "G2@600-3000"
+  ],
+  "label": "LAS ESTATUAS",
+  "cap": "2012",
+  "txt": "El treinta y uno de agosto de 2012, los Cerveceros inauguraron una estatua de Uecker afuera de su estadio, junto a las de Hank Aaron, Robin Yount y Bud Selig. Y después le pusieron una segunda estatua en un lugar perfecto: sentado en la última fila de la parte más alta del estadio, justo donde lo mandaba el acomodador del comercial. Un asiento Uecker, con el mismísimo Uecker."
+ },
+ {
+  "src": [
+   "G2@1000-4000",
+   "SS@500-1200"
+  ],
+  "label": "BOB UECKER DAY",
+  "cap": "25 DE SEPTIEMBRE DE 2021",
+  "txt": "En 2021 cumplió cincuenta años narrando para los Cerveceros, y el gobernador de Wisconsin declaró el veinticinco de septiembre como el Día de Bob Uecker. Le tocó lanzar la primera bola. Pero en lugar de lanzarla, destapó una máquina lanzapelotas y la usó. Los jugadores le regalaron unos tenis especiales que decían Air Uecker, y Just a bit outside."
+ },
+ {
+  "src": [
+   "G2@600-3000",
+   "WS@1200-2200"
+  ],
+  "label": "LA ÚLTIMA TRANSMISIÓN",
+  "cap": "3 DE OCTUBRE DE 2024",
+  "txt": "Su última transmisión fue el tres de octubre de 2024, en el tercer juego de la serie de comodines contra los Mets de Nueva York. Bob Uecker murió el dieciséis de enero de 2025, a los noventa años. En 2026, Milwaukee inauguró en el centro de la ciudad un mural de treinta metros de altura con su imagen. Y ese mismo año, los Cerveceros ganaron la Serie Mundial y le dedicaron el campeonato."
+ },
+ {
+  "src": [
+   "U7@1-29",
+   "MB@600-1200"
+  ],
+  "label": "BOB UECKER",
+  "cap": "",
+  "txt": "Un hombre que se burlaba de su propio promedio, y nunca de los jugadores, porque sabía lo difícil que era jugar. Cincuenta y cuatro temporadas en la misma cabina, sin contrato, con un apretón de manos. ¿Dónde lo escuchaste por primera vez? ¿En la radio, con Carson, en un comercial de cerveza o en Major League? Cuéntame en los comentarios, y suscríbete para más leyendas que nunca perdieron la cara seria."
+ }
+]
