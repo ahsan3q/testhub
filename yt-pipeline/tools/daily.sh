@@ -14,7 +14,7 @@ if [ "$NJ" != "$NS" ]; then
   done
 fi
 if [ ! -s final.mp4 ]; then
-  for try in 1 2; do flock $S/render.lock python3 -I $S/tools/build3.py . sources.json > build3.log 2>&1; rc=$?; echo "build rc=$rc" >> build_rc.log; [ -s final.mp4 ] && break; done; [ -s final.mp4 ] || { echo "$1 BUILD FAIL rc=$rc"; grep -v -E "Deprecation|cov = " build3.log | tail -8; exit 1; }
+  for try in 1 2; do JOBS=${JOBS:-2} flock $S/render.lock python3 -u -I $S/tools/build3.py . sources.json >> build3.log 2>&1; rc=$?; echo "build rc=$rc" >> build_rc.log; [ -s final.mp4 ] && break; done; [ -s final.mp4 ] || { echo "$1 BUILD FAIL rc=$rc"; grep -v -E "Deprecation|cov = " build3.log | tail -8; exit 1; }
 fi
 if [ -n "$NOWAIT" ] && ! { [ -s thumb/v01_thumbnail.jpg ] && [ -s meta.json ] && [ -s FOLDER ]; }; then echo "$1: built, waiting for thumb/meta"; exit 0; fi
 until [ -s thumb/v01_thumbnail.jpg ] && [ -s meta.json ] && [ -s FOLDER ]; do sleep 20; done
