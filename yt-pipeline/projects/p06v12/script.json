@@ -177,7 +177,52 @@
   ],
   "label": "EL TURDUCKEN",
   "cap": "TRES AVES EN UNA",
-  "txt": "Y terminamos con el turducken: un pollo deshuesado, dentro de un pato deshuesado, dentro de un pavo deshuesado, con relleno entre cada capa. Se asocia con la cocina de Luisiana, y se volvió famoso en Estados Unidos en parte gracias al comentarista de fútbol americano John Madden, que lo celebraba en las transmisiones de Día de Acción de Gracias. El problema es la seguridad: con tantas capas, el centro tarda muchísimo en llegar a una temperatura segura, y las autoridades de alimentos recomiendan mucho cuidado al cocinarlo."
+  "txt": "Y hablando de excesos, el turducken: un pollo deshuesado, dentro de un pato deshuesado, dentro de un pavo deshuesado, con relleno entre cada capa. Se asocia con la cocina de Luisiana, y se volvió famoso en Estados Unidos en parte gracias al comentarista de fútbol americano John Madden, que lo celebraba en las transmisiones de Día de Acción de Gracias. El problema es la seguridad: con tantas capas, el centro tarda muchísimo en llegar a una temperatura segura, y las autoridades de alimentos recomiendan mucho cuidado al cocinarlo."
+ },
+ {
+  "src": [
+   "KE@1-29",
+   "AU@200-1300"
+  ],
+  "label": "EL SURSTRÖMMING",
+  "cap": "SUECIA",
+  "txt": "Viajemos a Suecia. El surströmming es arenque del mar Báltico fermentado y enlatado. El pescado se deja fermentar en salmuera, y la fermentación sigue dentro de la lata, tanto que muchas latas terminan hinchadas por los gases. Cuando se abren, el olor es tan fuerte que la costumbre es hacerlo al aire libre, a veces bajo el agua, para no llenar la casa de peste. Su temporada empieza a finales de agosto, y los suecos que lo aman lo comen en pan delgado, con papa, cebolla y crema. Los demás huyen."
+ },
+ {
+  "src": [
+   "KF@1-29",
+   "CA@500-1600"
+  ],
+  "label": "EL CASU MARZU",
+  "cap": "CERDEÑA",
+  "txt": "En la isla italiana de Cerdeña hay un queso que está vivo, literalmente. El casu marzu es un queso de oveja al que se le permite que la mosca del queso ponga sus huevos. Las larvas se alimentan del queso y lo descomponen, y el resultado es una pasta muy blanda, casi líquida, de sabor fortísimo. Se come con las larvas adentro, que además pueden saltar. Por las normas de higiene de la Unión Europea, venderlo es ilegal, así que los que lo quieren lo consiguen como un secreto entre conocidos."
+ },
+ {
+  "src": [
+   "KG@1-29",
+   "DI@300-800"
+  ],
+  "label": "EL LUTEFISK",
+  "cap": "PESCADO CON LEJÍA",
+  "txt": "El lutefisk, de Noruega y Suecia, lleva un ingrediente que normalmente se usa para destapar caños: la lejía. Se toma pescado blanco seco, casi siempre bacalao, se remoja en agua durante días, y después en una solución con lejía, hasta que se vuelve gelatinoso y casi transparente. Luego hay que enjuagarlo muchas veces para quitarle la lejía antes de cocinarlo. En Estados Unidos, los descendientes de escandinavos en Minnesota y Wisconsin todavía organizan grandes cenas de lutefisk en las iglesias cada invierno, con mantequilla derretida para ayudar a pasarlo."
+ },
+ {
+  "src": [
+   "KE@5-29",
+   "AU@600-1300"
+  ],
+  "label": "EL HÁKARL",
+  "cap": "ISLANDIA",
+  "txt": "Islandia tiene el hákarl, carne de tiburón de Groenlandia fermentada. Y aquí la fermentación no es un capricho: la carne fresca de ese tiburón es tóxica, porque contiene sustancias que el animal usa para sobrevivir en aguas heladas. Por eso se deja fermentar durante semanas, y luego se cuelga a secar durante meses, hasta que se puede comer. Huele a amoníaco. Se sirve en cubitos, muchas veces con un trago fuerte. El chef Anthony Bourdain, que comió de todo en el mundo, dijo que era lo peor que había probado en su vida."
+ },
+ {
+  "src": [
+   "KI@1-29",
+   "M9@600-1400"
+  ],
+  "label": "CRYSTAL PEPSI",
+  "cap": "1992",
+  "txt": "Y no todas las malas ideas son antiguas. En 1992, Pepsi lanzó en Estados Unidos la Crystal Pepsi, un refresco de cola transparente, sin cafeína, que se vendía como algo más puro y ligero. La curiosidad hizo que se vendiera bien al principio. Pero el público estaba confundido: se veía como agua mineral y sabía a cola, y para mucha gente esa combinación no funcionaba. A principios de 1994 ya había desaparecido. Con el tiempo se volvió un objeto de nostalgia, y Pepsi la ha regresado por temporadas cortas para los fans de los noventa."
  },
  {
   "src": [

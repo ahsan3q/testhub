@@ -100,6 +100,15 @@
  },
  {
   "src": [
+   "PS@3500-5000",
+   "WM@4000-5000"
+  ],
+  "label": "LAS TOMAS FALLIDAS",
+  "cap": "CANNONBALL RUN · 1981",
+  "txt": "Hay una costumbre que hoy todos asocian con Jackie Chan: al final de sus películas, mientras pasan los créditos, aparecen las tomas fallidas. Los golpes que salieron mal, las caídas, los tropiezos, las risas. Él ha contado que tomó la idea de La carrera del siglo, Cannonball Run, de 1981, una comedia de Hollywood en la que actuó y que terminaba con errores de grabación. Pero en sus películas esas tomas tienen otro efecto: le demuestran al público que los golpes y las caídas eran reales, y que el hombre en la pantalla de verdad se lastimaba para entretenerlos."
+ },
+ {
+  "src": [
    "AG@500-5000",
    "AG@1500-5000"
   ],
@@ -150,6 +159,15 @@
  },
  {
   "src": [
+   "J4@1-29",
+   "SC@3500-5000"
+  ],
+  "label": "KARATE KID · 2010",
+  "cap": "EL SEÑOR HAN",
+  "txt": "En 2010, Jackie aceptó un papel distinto a todo lo que había hecho: en la nueva versión de Karate Kid fue el señor Han, un hombre solitario y triste que enseña kung fu a un niño estadounidense en China, interpretado por Jaden Smith. Esta vez no era el héroe que pelea, sino el maestro. Mucha gente se sorprendió con su actuación dramática, sobre todo en la escena en la que el personaje habla de la tragedia que vivió con su familia. La película recaudó más de trescientos cincuenta millones de dólares en todo el mundo."
+ },
+ {
+  "src": [
    "J3@1-29",
    "DM@3500-5000"
   ],
@@ -174,6 +192,15 @@
   "label": "EL CÓMICO",
   "cap": "15 CRÉDITOS",
   "txt": "Además de actor, Jackie es director, productor, coreógrafo y cantante. En su película Chinese Zodiac, de 2012, asumió tantas funciones que entró al libro Guinness por tener la mayor cantidad de créditos en una sola película. También le dio voz al mono en Kung Fu Panda. Y su música es muy popular en Asia. Para varias generaciones, Jackie Chan no es solo un actor: es la cara del cine de acción de Hong Kong ante el mundo."
+ },
+ {
+  "src": [
+   "J3@1-29",
+   "J1@1-29"
+  ],
+  "label": "HOLLYWOOD",
+  "cap": "LA ESTRELLA · 2002",
+  "txt": "Hollywood empezó a reconocerlo mucho antes del Óscar. En 2002 recibió su estrella en el Paseo de la Fama de Hollywood. En el famoso Teatro Chino de Hollywood dejó sus huellas en el cemento en 1997, pero esa losa se perdió con los años. Así que en 2013 volvió a hacerlo, acompañado por Chris Tucker y Jaden Smith. Fiel a su estilo, no se conformó con las manos y los pies: también dejó marcada la huella de su nariz, famosa por haberse roto varias veces. Para un niño que empezó como doble sin nombre en los créditos, eran pruebas de que Hollywood ya lo consideraba uno de los suyos."
  },
  {
   "src": [
