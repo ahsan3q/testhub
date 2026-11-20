@@ -1,8 +1,8 @@
 [
  {
   "src": [
-   "DH@20-400",
-   "WM@20-400"
+   "DH@20-385",
+   "WM@20-368"
   ],
   "label": "CARICATURAS DE 1954",
   "cap": "",
@@ -11,7 +11,7 @@
  {
   "src": [
    "PP@20-500",
-   "TP@20-400"
+   "TP@20-378"
   ],
   "label": "CARICATURAS DE 1954",
   "cap": "8 CARICATURAS OLVIDADAS",
@@ -19,8 +19,8 @@
  },
  {
   "src": [
-   "TP@60-400",
-   "WM@60-400"
+   "TP@60-378",
+   "WM@60-368"
   ],
   "label": "CINE · 1954",
   "cap": "LA PANTALLA ANCHA",
@@ -28,7 +28,7 @@
  },
  {
   "src": [
-   "WM@150-420",
+   "WM@150-368",
    "PP@250-550"
   ],
   "label": "CINE · 1954",
@@ -60,15 +60,15 @@
   "txt": "Mientras la pregunta sube por toda la burocracia de la compañía, los dos conejillos resultan ser una pareja, y empiezan a reproducirse. Dos se vuelven cuatro, cuatro se vuelven docenas, y la estación se llena de animales. Para cuando un experto confirma que los conejillos de Indias no son cerdos, ya hay miles. Lo más interesante es el estilo: Disney imitó el diseño moderno y plano de UPA, con fondos del artista Eyvind Earle, que poco después definiría el aspecto de La bella durmiente. Fue nominado al Óscar."
  },
  {
-  "src": "CP@20-350",
+  "src": "CP@20-320",
   "label": "CRAZY MIXED UP PUP · 1954",
   "cap": "#7",
   "txt": "Número siete. Crazy Mixed Up Pup, de Walter Lantz."
  },
  {
   "src": [
-   "CP@40-380",
-   "CP@150-380"
+   "CP@40-320",
+   "CP@150-320"
   ],
   "label": "CRAZY MIXED UP PUP · 1954",
   "cap": "TEX AVERY",
@@ -76,8 +76,8 @@
  },
  {
   "src": [
-   "CP@200-380",
-   "CP@300-380"
+   "CP@200-320",
+   "CP@192-320"
   ],
   "label": "CRAZY MIXED UP PUP · 1954",
   "cap": "LA SANGRE EQUIVOCADA",
@@ -108,15 +108,15 @@
   "txt": "Fue la nominación de Warner al Óscar de esa temporada. Piolín y Silvestre ya habían ganado el premio con su primer corto juntos, Tweetie Pie, en 1947, y Freleng era un experto en hacer sufrir al gato. Pero Sandy Claws no tuvo la misma suerte, y hoy casi nadie la recuerda entre los cientos de cortos de la pareja. Su título es un juego de palabras entre arena, garras y Santa Claus."
  },
  {
-  "src": "TP@30-400",
+  "src": "TP@30-378",
   "label": "TOUCHÉ, PUSSY CAT! · 1954",
   "cap": "#5",
   "txt": "Número cinco. Touché, Pussy Cat!, de Tom y Jerry."
  },
  {
   "src": [
-   "TP@80-420",
-   "TP@200-420"
+   "TP@80-378",
+   "TP@200-378"
   ],
   "label": "TOUCHÉ, PUSSY CAT! · 1954",
   "cap": "EL MOSQUETERO",
@@ -124,23 +124,23 @@
  },
  {
   "src": [
-   "TP@250-420",
-   "TP@350-420"
+   "TP@250-378",
+   "TP@350-378"
   ],
   "label": "TOUCHÉ, PUSSY CAT! · 1954",
   "cap": "DOS VERSIONES",
   "txt": "Tiene una curiosidad técnica. Se hizo en dos formatos al mismo tiempo: la pantalla normal y la nueva pantalla ancha de CinemaScope. Se usaron los mismos dibujos, pero los encuadres se ajustaron, y hubo que pintar fondos distintos para llenar el formato ancho. Por eso, dependiendo de dónde lo veas, ves un corto ligeramente diferente. El ratoncito mosquetero volvería en varios cortos más, siempre con la misma frase final en francés."
  },
  {
-  "src": "BB@20-400",
+  "src": "BB@20-390",
   "label": "BEWITCHED BUNNY · 1954",
   "cap": "#4",
   "txt": "Número cuatro. Bewitched Bunny."
  },
  {
   "src": [
-   "BB@60-420",
-   "BB@200-420"
+   "BB@60-390",
+   "BB@200-390"
   ],
   "label": "BEWITCHED BUNNY · 1954",
   "cap": "LA BRUJA HAZEL",
@@ -148,7 +148,7 @@
  },
  {
   "src": [
-   "BB@300-420",
+   "BB@300-390",
    "BT@100-400"
   ],
   "label": "BEWITCHED BUNNY · 1954",
@@ -163,8 +163,8 @@
  },
  {
   "src": [
-   "BT@60-420",
-   "BT@200-420"
+   "BT@60-403",
+   "BT@200-403"
   ],
   "label": "BUGS AND THUGS · 1954",
   "cap": "ROCKY Y MUGSY",
@@ -172,23 +172,23 @@
  },
  {
   "src": [
-   "BT@250-420",
-   "BT@350-420"
+   "BT@250-403",
+   "BT@350-403"
   ],
   "label": "BUGS AND THUGS · 1954",
   "cap": "LA ESTUFA",
   "txt": "Los chistes no paran: Bugs les dice a los ladrones que la vía del tren está libre justo antes de que llegue el tren, y cuando el auto pierde una llanta, lo obligan a correr como si fuera la rueda. El final es una obra maestra: Bugs imita la sirena y la voz de un policía, mete a los ladrones en la estufa para esconderlos, y luego, para probar su inocencia, enciende un cerillo. Cuando llega la policía de verdad, los ladrones salen corriendo a pedir que los arresten."
  },
  {
-  "src": "DH@20-400",
+  "src": "DH@20-385",
   "label": "DEVIL MAY HARE · 1954",
   "cap": "#2",
   "txt": "Número dos. Devil May Hare, el debut del Demonio de Tasmania."
  },
  {
   "src": [
-   "DH@60-420",
-   "DH@200-420"
+   "DH@60-385",
+   "DH@200-385"
   ],
   "label": "DEVIL MAY HARE · 1954",
   "cap": "EL TORNADO",
@@ -196,8 +196,8 @@
  },
  {
   "src": [
-   "DH@250-420",
-   "DH@350-420"
+   "DH@250-385",
+   "DH@350-385"
   ],
   "label": "DEVIL MAY HARE · 1954",
   "cap": "CASI LO CANCELAN",
@@ -205,23 +205,23 @@
  },
  {
   "src": [
-   "DH@150-420",
-   "DH@300-420"
+   "DH@150-385",
+   "DH@300-385"
   ],
   "label": "DEVIL MAY HARE · 1954",
   "cap": "TAZ-MANIA",
   "txt": "Lo irónico es que, en sus primeros años, Taz apareció en muy pocos cortos clásicos, apenas un puñado. Pero con las repeticiones en televisión se volvió uno de los personajes más populares de Warner, y en los años noventa tuvo su propia serie, Taz-Mania, además de juguetes, ropa y videojuegos. Hoy el mundo entero conoce al demonio que gira y gruñe sin decir palabras completas. Pero muy pocos conocen el corto de 1954 donde todo empezó, con una tortuga asustada y una enciclopedia."
  },
  {
-  "src": "WM@20-400",
+  "src": "WM@20-368",
   "label": "WHEN MAGOO FLEW · 1954",
   "cap": "#1",
   "txt": "Y el número uno. When Magoo Flew, la ganadora del Óscar."
  },
  {
   "src": [
-   "WM@60-420",
-   "WM@200-420"
+   "WM@60-368",
+   "WM@200-368"
   ],
   "label": "WHEN MAGOO FLEW · 1954",
   "cap": "LA PELÍCULA EN TERCERA DIMENSIÓN",
@@ -229,8 +229,8 @@
  },
  {
   "src": [
-   "WM@250-420",
-   "WM@350-420"
+   "WM@250-368",
+   "WM@221-368"
   ],
   "label": "WHEN MAGOO FLEW · 1954",
   "cap": "EL ALA DEL AVIÓN",
@@ -238,7 +238,7 @@
  },
  {
   "src": [
-   "WM@100-420",
+   "WM@100-368",
    "PP@400-550"
   ],
   "label": "WHEN MAGOO FLEW · 1954",
@@ -247,8 +247,8 @@
  },
  {
   "src": [
-   "DH@100-420",
-   "BT@300-420"
+   "DH@100-385",
+   "BT@300-403"
   ],
   "label": "CARICATURAS DE 1954",
   "cap": "",

@@ -1,7 +1,7 @@
 [
  {
   "src": [
-   "IC@5-60",
+   "IC@5-55",
    "XC@20-600"
   ],
   "label": "COMERCIALES DE JUGUETES",
@@ -10,8 +10,8 @@
  },
  {
   "src": [
-   "BA@20-600",
-   "MT@20-600"
+   "BA@2-27",
+   "MT@8-62"
   ],
   "label": "COMERCIALES DE JUGUETES",
   "cap": "¿QUÉ PASÓ?",
@@ -20,7 +20,7 @@
  {
   "src": [
    "XC@100-600",
-   "IC@20-60"
+   "IC@20-55"
   ],
   "label": "1 · JOHNNY SEVEN",
   "cap": "EL EJÉRCITO DE UN SOLO HOMBRE",
@@ -28,7 +28,7 @@
  },
  {
   "src": [
-   "MT@100-600",
+   "MT@8-62",
    "XC@200-600"
   ],
   "label": "1 · JOHNNY SEVEN",
@@ -37,8 +37,8 @@
  },
  {
   "src": [
-   "MT@200-600",
-   "TB@10-60"
+   "MT@8-62",
+   "TB@10-54"
   ],
   "label": "2 · AGENTE ZERO M",
   "cap": "ESPÍAS DE JUGUETE",
@@ -46,8 +46,8 @@
  },
  {
   "src": [
-   "BA@100-600",
-   "MT@300-600"
+   "BA@2-27",
+   "MT@8-62"
   ],
   "label": "2 · AGENTE ZERO M",
   "cap": "EL PROBLEMA",
@@ -55,8 +55,8 @@
  },
  {
   "src": [
-   "CC@1-30",
-   "MT@400-600"
+   "CC@1-27",
+   "MT@8-62"
   ],
   "label": "3 · CREEPY CRAWLERS",
   "cap": "EL THINGMAKER · 1964",
@@ -64,8 +64,8 @@
  },
  {
   "src": [
-   "CC@10-30",
-   "BA@200-600"
+   "CC@2-27",
+   "BA@2-27"
   ],
   "label": "3 · CREEPY CRAWLERS",
   "cap": "UNA PARRILLA CALIENTE",
@@ -73,8 +73,8 @@
  },
  {
   "src": [
-   "EB@1-60",
-   "EB@20-60"
+   "EB@1-24",
+   "EB@1-24"
   ],
   "label": "4 · EASY-BAKE",
   "cap": "UN FOCO COMO HORNO",
@@ -82,7 +82,7 @@
  },
  {
   "src": [
-   "EB@30-60",
+   "EB@1-24",
    "XC@300-600"
   ],
   "label": "4 · EASY-BAKE",
@@ -91,8 +91,8 @@
  },
  {
   "src": [
-   "TB@1-60",
-   "TB@20-60"
+   "TB@1-54",
+   "TB@20-54"
   ],
   "label": "5 · TIME BOMB",
   "cap": "LA BOMBA DE JUGUETE · 1964",
@@ -100,8 +100,8 @@
  },
  {
   "src": [
-   "TB@30-60",
-   "IC@30-60"
+   "TB@29-54",
+   "IC@30-55"
   ],
   "label": "5 · TIME BOMB",
   "cap": "LA GUERRA FRÍA",
@@ -109,8 +109,8 @@
  },
  {
   "src": [
-   "HH@20-600",
-   "HH@200-600"
+   "HH@20-211",
+   "HH@127-211"
   ],
   "label": "6 · WATER WIGGLE",
   "cap": "WHAM-O",
@@ -118,8 +118,8 @@
  },
  {
   "src": [
-   "HH@300-600",
-   "BA@300-600"
+   "HH@127-211",
+   "BA@2-27"
   ],
   "label": "6 · WATER WIGGLE",
   "cap": "EL RETIRO · 1978",
@@ -127,8 +127,8 @@
  },
  {
   "src": [
-   "BG@1-60",
-   "BG@20-60"
+   "BG@1-27",
+   "BG@2-27"
   ],
   "label": "7 · BATTLESTAR GALACTICA",
   "cap": "EL MISIL · 1978",
@@ -136,8 +136,8 @@
  },
  {
   "src": [
-   "BF@1-60",
-   "SL@1-60"
+   "BF@1-27",
+   "SL@1-27"
   ],
   "label": "8 · BOBA FETT",
   "cap": "EL COHETE QUE NUNCA SALIÓ · 1979",
@@ -145,8 +145,8 @@
  },
  {
   "src": [
-   "SL@20-60",
-   "BF@20-60"
+   "SL@2-27",
+   "BF@2-27"
   ],
   "label": "8 · BOBA FETT",
   "cap": "EL PROTOTIPO",
@@ -155,7 +155,7 @@
  {
   "src": [
    "XC@400-600",
-   "MT@500-600"
+   "MT@8-62"
   ],
   "label": "9 · LAS PISTOLAS DE AGUA",
   "cap": "LA PUNTA NARANJA · 1988",
@@ -163,8 +163,8 @@
  },
  {
   "src": [
-   "HM@1-60",
-   "HM@20-60"
+   "HM@1-27",
+   "HM@2-27"
   ],
   "label": "10 · HE-MAN",
   "cap": "EL COMERCIAL DE MEDIA HORA",
@@ -172,7 +172,7 @@
  },
  {
   "src": [
-   "HM@30-60",
+   "HM@2-27",
    "XC@500-600"
   ],
   "label": "10 · HE-MAN",
@@ -181,8 +181,8 @@
  },
  {
   "src": [
-   "HH@400-600",
-   "BA@500-600"
+   "HH@127-211",
+   "BA@2-27"
   ],
   "label": "EXTRA · LOS JARTS",
   "cap": "DARDOS DE JARDÍN · 1988",
@@ -190,7 +190,7 @@
  },
  {
   "src": [
-   "BA@400-600",
+   "BA@2-27",
    "XC@550-600"
   ],
   "label": "EXTRA · CABBAGE PATCH",
@@ -199,8 +199,8 @@
  },
  {
   "src": [
-   "IC@40-60",
-   "XC@580-600"
+   "IC@30-55",
+   "XC@318-600"
   ],
   "label": "COMERCIALES DE JUGUETES",
   "cap": "",

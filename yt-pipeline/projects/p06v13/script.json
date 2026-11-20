@@ -1,0 +1,236 @@
+[
+ {
+  "src": [
+   "DT@30-600",
+   "XM@20-300"
+  ],
+  "label": "COMIDAS FESTIVAS",
+  "cap": "",
+  "txt": "Cada diciembre, millones de familias se sientan a la mesa frente a platillos que nadie pidió. Un pastel de frutas que dura más de cien años sin echarse a perder. Una salsa de arándanos con la forma exacta de la lata. Un postre al que hay que prenderle fuego antes de comerlo. Y un pavo frito que cada año manda a alguien a la sala de emergencias. Nadie sabe bien por qué seguimos comiendo estas cosas. Pero la respuesta casi siempre es la misma: tradición."
+ },
+ {
+  "src": [
+   "CM@20-300",
+   "DG@30-600"
+  ],
+  "label": "COMIDAS FESTIVAS",
+  "cap": "EXPLICADAS",
+  "txt": "Hoy te explico las comidas de las fiestas que mucha gente considera una completa abominación: de dónde salieron, por qué se volvieron tradición y qué tienen que las hace tan difíciles de querer. Desde Estados Unidos hasta Inglaterra, pasando por recetas de hace casi tres siglos. Y al final, decide tú si merecen seguir en la mesa."
+ },
+ {
+  "src": [
+   "KM@30-600",
+   "XM@50-300"
+  ],
+  "label": "EL PASTEL DE FRUTAS",
+  "cap": "106 AÑOS EN LA ANTÁRTIDA",
+  "txt": "Empecemos con el pastel de frutas, el regalo navideño que nadie quiere. Está lleno de frutas confitadas, nueces, azúcar y licor, tanto que dura meses. Y a veces mucho más. En 2017, unos restauradores de la Antártida encontraron un pastel de frutas dentro de una cabaña histórica en el cabo Adare. Probablemente lo llevó la expedición del explorador Robert Falcon Scott, alrededor de 1910. Según la fundación que cuida esas cabañas, después de ciento seis años se veía y olía casi comestible."
+ },
+ {
+  "src": [
+   "KM@200-600",
+   "DG@200-600"
+  ],
+  "label": "EL PASTEL DE FRUTAS",
+  "cap": "EL MISMO PASTEL",
+  "txt": "El secreto está en la química. La fruta confitada se cocina en almíbar hasta que el azúcar reemplaza casi toda el agua, y el moho y las bacterias necesitan agua para crecer. Además, el pastel se baña en ron o en brandy mientras reposa. En Estados Unidos, el comediante Johnny Carson popularizó un chiste: en el mundo existe un solo pastel de frutas, y la gente se lo sigue mandando de regalo unos a otros. Viendo el de la Antártida, ese pastel debe seguir en perfectas condiciones."
+ },
+ {
+  "src": [
+   "MA@30-900",
+   "SK@30-600"
+  ],
+  "label": "EL PASTEL DE FRUTAS",
+  "cap": "CORSICANA, TEXAS",
+  "txt": "Y hay un pueblo que vive de él. En 1914, el circo de los hermanos Ringling pasó por Corsicana, en Texas, y le encargó a la panadería Collins Street docenas de pasteles de frutas para enviarlos por correo como regalos de Navidad. Ese pedido fue el inicio del negocio de pedidos por correo de la panadería, que hoy manda pasteles a todo el mundo. Y en 2013 se descubrió que un empleado de contabilidad le había robado más de dieciséis millones de dólares. Al menos alguien encontró la forma de hacer que el pastel de frutas valiera la pena."
+ },
+ {
+  "src": [
+   "DG@100-600",
+   "KM@150-600"
+  ],
+  "label": "EL PASTEL DE FRUTAS",
+  "cap": "EL LANZAMIENTO",
+  "txt": "Y como nadie sabe qué hacer con el pastel de frutas que recibe de regalo, en Manitou Springs, Colorado, encontraron una solución: lanzarlo. Desde mediados de los noventa, cada mes de enero el pueblo organiza el Gran Lanzamiento de Pasteles de Frutas, donde la gente los arroja con la mano, con catapultas caseras y hasta con cañones de aire comprimido, para ver quién llega más lejos. Es, quizá, el mejor uso que se le ha encontrado."
+ },
+ {
+  "src": [
+   "SK@100-600",
+   "HH@30-600"
+  ],
+  "label": "LA CAZUELA DE EJOTES",
+  "cap": "DORCAS REILLY · 1955",
+  "txt": "La cazuela de ejotes, o green bean casserole, es el acompañamiento obligatorio del Día de Acción de Gracias en Estados Unidos. La inventó en 1955 Dorcas Reilly, en la cocina de pruebas de la empresa de sopas Campbell, en Nueva Jersey. Le pidieron una receta navideña hecha con cosas que cualquiera tuviera en la alacena, y su receta consistía básicamente en abrir latas: ejotes de lata, crema de champiñones de lata, un chorrito de salsa de soya y cebollas fritas crujientes encima."
+ },
+ {
+  "src": [
+   "HH@200-600",
+   "SK@300-600"
+  ],
+  "label": "LA CAZUELA DE EJOTES",
+  "cap": "EL SALÓN DE LA FAMA",
+  "txt": "El resultado es una sopa espesa de ejotes, donde lo único crujiente son las cebollas. Y aun así, Campbell dice que se prepara en unos veinte millones de cenas de Acción de Gracias cada año, y que buena parte de su sopa de champiñones se vende solo para esa receta. En 2002, Reilly donó su tarjeta original, escrita a mano, al Salón Nacional de la Fama de los Inventores, la misma institución que honra a Thomas Edison. El foco y la sopa sobre los ejotes, en el mismo lugar."
+ },
+ {
+  "src": [
+   "PN@30-600",
+   "DT@200-600"
+  ],
+  "label": "EL ROMPOPE",
+  "cap": "LA REVUELTA DE 1826",
+  "txt": "El eggnog, primo del rompope, es leche, crema, azúcar, huevo y nuez moscada. Y muchas veces, mucho alcohol. En la víspera de Navidad de 1826, los cadetes de la academia militar de West Point metieron a escondidas whisky y ron para preparar su eggnog. Para la mañana de Navidad, la fiesta se había convertido en un motín: rompieron ventanas y barandales. Alrededor de veinte cadetes terminaron enfrentando un juicio militar, y uno de los que participaron, sin ser juzgado, fue Jefferson Davis, el futuro presidente de la Confederación."
+ },
+ {
+  "src": [
+   "DT@300-600",
+   "PN@200-600"
+  ],
+  "label": "EL ROMPOPE",
+  "cap": "LA RECETA DE WASHINGTON",
+  "txt": "La bebida viene de una mezcla británica medieval de leche caliente cortada con vino o cerveza. En las colonias americanas, la leche era barata y el ron llegaba del Caribe, y la bebida se volvió costumbre de invierno. Se conserva una receta asociada a George Washington, en Mount Vernon, con una docena de huevos, leche, crema y cuatro licores: brandy, whisky de centeno, ron y jerez. Y aquí está el problema: sin alcohol, mucha gente siente que es una crema dulce con sabor a especiero."
+ },
+ {
+  "src": [
+   "MA@300-900",
+   "DG@300-600"
+  ],
+  "label": "EL RELLENO DE OSTIONES",
+  "cap": "SEIS CENTAVOS",
+  "txt": "El relleno de ostiones toma el pan húmedo con el que se rellena el pavo y le agrega mariscos. Hoy suena raro, pero tiene lógica histórica. En el siglo diecinueve, los ostiones eran de lo más barato en Estados Unidos, y en Nueva York había puestos que ofrecían todos los que pudieras comer por unos centavos. El primer libro de cocina estadounidense, American Cookery, de Amelia Simmons, publicado en 1796, ya incluía una receta para cocinar un ave rellena de ostiones."
+ },
+ {
+  "src": [
+   "MA@500-900",
+   "DT@400-600"
+  ],
+  "label": "EL RELLENO DE OSTIONES",
+  "cap": "EL SUR",
+  "txt": "Con el ferrocarril y las latas, los ostiones llegaron a familias que vivían a cientos de kilómetros del mar, y el relleno se volvió un clásico del Día de Acción de Gracias. Pero la sobrepesca y la contaminación redujeron los criaderos, los ostiones se encarecieron, y la receta fue desapareciendo en casi todo el país. Hoy sobrevive sobre todo en Nueva Orleans y en el sur, donde siempre hay una tía que lo prepara cada año, lo quiera alguien o no."
+ },
+ {
+  "src": [
+   "KM@300-600",
+   "SK@200-600"
+  ],
+  "label": "EL CAMOTE CON MALVAVISCOS",
+  "cap": "1917",
+  "txt": "El camote con malvaviscos es un caso único: es un postre servido junto al pavo como si fuera verdura. En 1917, una fábrica de malvaviscos, la Angelus Marshmallow Company, contrató a la autora de cocina Janet McKenzie Hill para escribir un recetario que usara su producto. Una de sus recetas llevaba puré de camote horneado bajo una capa de malvaviscos. Los historiadores la consideran la primera versión impresa del platillo. Era, en pocas palabras, publicidad."
+ },
+ {
+  "src": [
+   "SK@400-600",
+   "KM@450-600"
+  ],
+  "label": "EL CAMOTE CON MALVAVISCOS",
+  "cap": "MÁS DULCE QUE UN DULCE",
+  "txt": "El camote ya es dulce por naturaleza, y al cocinarse, una enzima convierte parte de su almidón en azúcar. Muchas recetas lo mezclan además con mantequilla, azúcar morena y vainilla, casi como el relleno de un pastel. Y encima van los malvaviscos, que en el horno se inflan y se doran como en una fogata. Al final, el camote es lo menos dulce del platillo. Mucha gente toma una cucharada por educación, y una hora después se sirve pastel como si no hubiera comido postre."
+ },
+ {
+  "src": [
+   "MA@600-900",
+   "PN@300-600"
+  ],
+  "label": "EL PAVO FRITO",
+  "cap": "LUISIANA",
+  "txt": "El pavo frito nació en el sur de Luisiana, donde los cocineros cajún ya tenían enormes ollas y quemadores de gas para hervir langostinos. A principios de los ochenta, la prensa nacional contó cómo algunos se atrevían a freír pavos enteros, y la idea se esparció por todo el país. Tiene sentido: el aceite a unos ciento ochenta grados deja la piel crujiente, la carne queda jugosa, y el pavo se cocina en menos de una hora, en lugar de pasar todo el día en el horno."
+ },
+ {
+  "src": [
+   "MA@700-900",
+   "DG@400-600"
+  ],
+  "label": "EL PAVO FRITO",
+  "cap": "EL CAPITÁN KIRK",
+  "txt": "El problema es la olla de aceite. Mucha gente la llena sin calcular cuánto espacio ocupará el pavo, y al meterlo, el aceite se derrama sobre el quemador. Y si el pavo todavía está un poco congelado, el hielo se convierte en vapor de golpe y lanza aceite hirviendo. Cada año hay incendios de casas por esto. La empresa de certificación Underwriters Laboratories decidió no certificar ninguna freidora de pavos. Y en 2011, William Shatner, el capitán Kirk, grabó un video de seguridad contando cómo casi incendia su propia casa."
+ },
+ {
+  "src": [
+   "SC@30-900",
+   "SC@200-900"
+  ],
+  "label": "LA SALSA DE ARÁNDANO",
+  "cap": "LA FORMA DE LA LATA",
+  "txt": "La salsa de arándano enlatada sale de la lata en un solo cilindro tembloroso, con los anillos de la lata marcados, y se sirve en rebanadas. Su historia empezó con un problema de los productores: la cosecha de arándano dura pocas semanas en otoño. En 1912, Marcus Urann, un abogado dueño de un pantano de arándanos en Massachusetts, empezó a enlatar la salsa para venderla todo el año. Después convenció a otros productores de formar una cooperativa, que se convertiría en Ocean Spray."
+ },
+ {
+  "src": [
+   "SC@400-900",
+   "SC@600-900"
+  ],
+  "label": "LA SALSA DE ARÁNDANO",
+  "cap": "LA PECTINA",
+  "txt": "La versión gelatinosa llegó a todo el país en 1941. Mantiene su forma gracias a la pectina, una sustancia natural que forma gel al cocinarse con azúcar, y los arándanos tienen muchísima. Por eso es una salsa que se sirve con cuchillo. Y hay gente que pasa toda la tarde cocinando arándanos frescos, solo para que la familia pregunte dónde está la de lata. Esta película de 1972 muestra, de hecho, cómo se filmaba un comercial de arándanos en pleno pantano."
+ },
+ {
+  "src": [
+   "XM@100-300",
+   "KM@100-600"
+  ],
+  "label": "EL PASTEL DE CARNE PICADA",
+  "cap": "MINCE PIE",
+  "txt": "El mince pie, o pastel de carne picada, es una tradición navideña inglesa con un nombre engañoso: hoy casi nunca lleva carne. Su relleno es una pasta oscura y pegajosa de pasas, grosellas, cáscara de naranja confitada, manzana, azúcar y especias. Originalmente sí llevaba carne picada, y el azúcar, las especias y el licor servían para conservarla durante el invierno, antes de que existieran los refrigeradores. En 1747, el libro de cocina de Hannah Glasse ya hacía la carne opcional, y el pastel fue pasando de la cena al postre."
+ },
+ {
+  "src": [
+   "CM@100-300",
+   "XM@200-300"
+  ],
+  "label": "EL PASTEL DE CARNE PICADA",
+  "cap": "DOCE MESES FELICES",
+  "txt": "Pero muchas recetas conservan la grasa de res, el sebo, que se derrite con la fruta y deja el relleno pesado y espeso. Hay una vieja superstición inglesa que dice que comer un mince pie en cada uno de los doce días de Navidad trae doce meses de felicidad. Mucha gente prefiere arriesgarse con el año nuevo. Es, básicamente, el interior de un pastel de frutas, pero sin el pastel."
+ },
+ {
+  "src": [
+   "JP@5-58",
+   "HH@400-600"
+  ],
+  "label": "LA ENSALADA AMBROSÍA",
+  "cap": "LA COMIDA DE LOS DIOSES",
+  "txt": "En la mitología griega, la ambrosía era la comida de los dioses. En el sur de Estados Unidos, el nombre se usa para un tazón de fruta de lata, coco rallado y malvaviscos miniatura. La receta más antigua conocida, de 1867, era mucho más sencilla: naranjas en rebanadas con coco rallado y azúcar. Con el siglo veinte llegaron la piña y las mandarinas de lata, los malvaviscos, y después de 1966, la crema batida de tina. Se llama ensalada, así que parece sana. No lo es."
+ },
+ {
+  "src": [
+   "JP@20-58",
+   "KM@500-600"
+  ],
+  "label": "LAS ENSALADAS DE GELATINA",
+  "cap": "PERFECTION SALAD",
+  "txt": "Y hablando de ensaladas que no son ensaladas: las de gelatina. A principios del siglo veinte, en un concurso de recetas de la gelatina Knox, una de las ganadoras fue la Perfection Salad: col, apio y pimiento morrón atrapados en gelatina con vinagre. La idea pegó. Para los años cincuenta, la mesa de las fiestas en Estados Unidos estaba llena de moldes temblorosos con verduras, frutas, atún, camarones y hasta huevos duros flotando adentro. Se veían elegantes, aguantaban días en el refrigerador, y casi nadie los extraña."
+ },
+ {
+  "src": [
+   "PN@400-600",
+   "XM@250-300"
+  ],
+  "label": "EL CARAMELO DE LISTÓN",
+  "cap": "LA DECORACIÓN",
+  "txt": "El caramelo de listón, o ribbon candy, aparece cada Navidad en casa de la abuela, y es difícil saber si es nuevo o el mismo del año pasado. Y tiene sentido, porque empezó siendo una decoración: los confiteros europeos lo hacían para adornar sus vitrinas en las fiestas. Es azúcar hervida hasta endurecerse, con sabor a menta o a frutas, estirada en tiras delgadas de colores y doblada de un lado a otro mientras está caliente. Hoy, junto a un tazón de chocolates, los niños ni lo miran."
+ },
+ {
+  "src": [
+   "DT@450-600",
+   "CM@200-300"
+  ],
+  "label": "EL PUDÍN DE NAVIDAD",
+  "cap": "CON FUEGO",
+  "txt": "Y terminamos con el pudín de Navidad británico, el que se sirve en llamas. Justo antes del postre se apagan las luces, se baña el pudín con brandy caliente y se le prende un cerillo. El alcohol se quema en menos de un minuto, y todos aplauden. Luego se prenden las luces, y todavía hay que comérselo: una bola densa y casi negra de pasas, pan molido, huevo, azúcar oscura y sebo de res. No se hornea: se cuece al vapor durante horas."
+ },
+ {
+  "src": [
+   "XM@150-300",
+   "DT@500-600"
+  ],
+  "label": "EL PUDÍN DE NAVIDAD",
+  "cap": "CHARLES DICKENS",
+  "txt": "Antes se llamaba plum pudding, pudín de ciruela, aunque nunca llevó ciruelas: en el siglo dieciocho, plum era una forma de decir pasas. En 1843, Charles Dickens puso uno en llamas sobre la mesa de los Cratchit en Cuento de Navidad, y dos años después, la escritora de cocina Eliza Acton fue la primera en imprimir el nombre Christmas pudding. Las familias escondían una moneda de plata en la mezcla, para la buena suerte. Probablemente era la única razón para terminarse la rebanada."
+ },
+ {
+  "src": [
+   "CM@250-300",
+   "DT@550-600"
+  ],
+  "label": "COMIDAS FESTIVAS",
+  "cap": "",
+  "txt": "Pastel de frutas eterno, ejotes de lata, rompope con motín incluido, ostiones en el pavo, camote con malvaviscos, una freidora peligrosa, salsa con forma de lata y un pudín en llamas. Aunque un platillo sea una abominación, lo seguimos comiendo por una sola razón: alguien empezó la tradición hace generaciones, y el resto de la familia lleva años fingiendo que le gusta. ¿Cuál de estos aparece en tu mesa? Cuéntanos en los comentarios, y suscríbete para más comidas explicadas."
+ }
+]
