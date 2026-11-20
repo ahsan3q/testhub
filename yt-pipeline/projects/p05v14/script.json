@@ -1,0 +1,173 @@
+[
+ {
+  "src": [
+   "CB@20-1500",
+   "M1@5-60"
+  ],
+  "label": "COMIDA RÁPIDA DE ANTES",
+  "cap": "",
+  "txt": "Hay recuerdos de comida rápida que son más grandes que la comida misma. Los viajes en auto de noche, las comidas con los primos, y la emoción de abrir una caja extraña de dos compartimentos, como si tuviera algo prohibido adentro: un lado caliente, el otro frío. Para mucha gente, ciertos platillos no eran solo opciones del menú. Pertenecían a un momento, a un lugar y a una forma de vida que ya no existe."
+ },
+ {
+  "src": [
+   "CA@20-1500",
+   "M2@5-60"
+  ],
+  "label": "COMIDA RÁPIDA DE ANTES",
+  "cap": "QUE MERECEN REGRESAR",
+  "txt": "Hoy repasamos diez favoritos de la comida rápida que desaparecieron, pero que muchos todavía piden de regreso. Algunos fueron éxitos durante décadas. Otros duraron apenas unos meses. Y uno perdió una competencia frente a otro sándwich, en un experimento que inventó un clásico. ¿Cuál te lleva de inmediato al pasado? Vamos allá."
+ },
+ {
+  "src": [
+   "M3@5-60",
+   "M1@20-60"
+  ],
+  "label": "1 · EL PAY DE MANZANA FRITO",
+  "cap": "McDONALD'S · 1968",
+  "txt": "Número uno: el pay de manzana frito de McDonald's. Mucha gente todavía lo considera el auténtico. Llegó al menú en 1968, y en lugar de hornearse, se freía. Eso le daba una costra crujiente, dorada y llena de burbujitas, que se reconocía al primer mordisco. Adentro, un relleno caliente de manzana con canela, que más de un cliente aprendió a respetar después de quemarse la lengua. Era sencillo, pero el contraste entre la costra crujiente y la fruta suave lo hacía el final perfecto."
+ },
+ {
+  "src": [
+   "M2@20-60",
+   "CB@200-1500"
+  ],
+  "label": "1 · EL PAY DE MANZANA FRITO",
+  "cap": "EL CAMBIO · 1992",
+  "txt": "En 1992, McDonald's cambió el pay frito por uno horneado en casi todo Estados Unidos, en una época en que las cadenas querían parecer más saludables. Para muchos clientes no era lo mismo. Desde entonces, los fans buscan los pocos lugares del mundo donde todavía se vende la versión frita, y hasta hay quienes viajan para probarla. Pocos cambios de menú se han lamentado durante tanto tiempo."
+ },
+ {
+  "src": [
+   "M1@30-60",
+   "HB@5-300"
+  ],
+  "label": "2 · LA HULA BURGER",
+  "cap": "RAY KROC · 1963",
+  "txt": "Número dos: la Hula Burger, la hamburguesa sin carne de Ray Kroc. A principios de los sesenta, McDonald's tenía un problema en los barrios católicos: los viernes, sobre todo en la Cuaresma, muchos clientes no comían carne. Un dueño de franquicia de Cincinnati, Lou Groen, inventó un sándwich de pescado empanizado. Pero Ray Kroc, el jefe de la cadena, tenía su propia idea: una rebanada de piña asada con queso, en un pan de hamburguesa. La llamó Hula Burger."
+ },
+ {
+  "src": [
+   "HB@100-300",
+   "M3@30-60"
+  ],
+  "label": "2 · LA HULA BURGER",
+  "cap": "EL VIERNES SANTO",
+  "txt": "Kroc y Groen hicieron una apuesta: un Viernes Santo, en Cincinnati, venderían los dos sándwiches, y el que vendiera más se quedaría en el menú. El pescado ganó por mucho. Así nació el Filet-O-Fish, que sigue en McDonald's hasta hoy. La Hula Burger desapareció casi de inmediato. Pero hay quien dice que, con la moda actual de las opciones sin carne, la idea de Kroc solo llegó sesenta años antes de tiempo."
+ },
+ {
+  "src": [
+   "T1@5-60",
+   "T2@5-60"
+  ],
+  "label": "3 · LA BELL BEEFER",
+  "cap": "TACO BELL",
+  "txt": "Número tres: la Bell Beefer, de Taco Bell. En los años setenta, cuando la comida mexicana todavía era una novedad para muchos estadounidenses, Taco Bell creó un puente: la carne sazonada de sus tacos, con lechuga, tomate y queso, pero servida en un pan de hamburguesa. Era, básicamente, un taco con forma de hamburguesa. Para los clientes indecisos, era una forma segura de probar los sabores de Taco Bell sin dejar atrás lo conocido."
+ },
+ {
+  "src": [
+   "T2@20-60",
+   "CA@300-1500"
+  ],
+  "label": "3 · LA BELL BEEFER",
+  "cap": "EL TACO EN PAN",
+  "txt": "La Bell Beefer fue parte del menú durante años, y tuvo variantes con queso y con chile. Pero a medida que la gente se acostumbró a los tacos y a los burritos, el pan dejó de tener sentido. Taco Bell la retiró hace décadas, y hoy es una de esas rarezas que los fans de la cadena recuerdan con cariño. En internet hay recetas para hacerla en casa, porque no ha vuelto."
+ },
+ {
+  "src": [
+   "CB@400-1500",
+   "CA@500-1500"
+  ],
+  "label": "4 · EL SUPERBAR",
+  "cap": "WENDY'S · 1988",
+  "txt": "Número cuatro: el Superbar de Wendy's. En 1988, Wendy's hizo algo que ninguna cadena de hamburguesas se atrevía a hacer: puso un bufé dentro de sus restaurantes. Por un precio fijo, podías servirte todo lo que quisieras de tres estaciones: una barra de ensaladas, una de pasta con salsas, y una de comida mexicana, con tacos, frijoles y queso derretido. Para muchas familias, era la mejor comida barata de la semana."
+ },
+ {
+  "src": [
+   "CC@100-1500",
+   "CB@600-1500"
+  ],
+  "label": "4 · EL SUPERBAR",
+  "cap": "EL FIN · 1998",
+  "txt": "El problema era el costo y el trabajo. Mantener un bufé limpio y lleno, con comida fresca todo el día, era caro y complicado, y no encajaba con la idea de la comida rápida. A finales de los noventa, Wendy's lo fue retirando de sus restaurantes. Hoy, mucha gente que creció en los noventa recuerda haber comido pasta, tacos y pudín en el mismo plato, en un Wendy's, y no puede creer que eso existió."
+ },
+ {
+  "src": [
+   "CB@800-1500",
+   "CA@700-1500"
+  ],
+  "label": "5 · LA McDLT",
+  "cap": "EL LADO CALIENTE",
+  "txt": "Número cinco: la McDLT, de McDonald's. Llegó en 1984, con una promesa: mantener el lado caliente caliente, y el lado frío frío. Venía en una caja de unicel de dos compartimentos: en uno, la carne y el pan de abajo; en el otro, la lechuga, el tomate y el pan de arriba. El cliente la armaba al momento de comer. Uno de sus comerciales más recordados lo protagonizó un joven Jason Alexander, años antes de ser George en Seinfeld, cantando y bailando con la hamburguesa."
+ },
+ {
+  "src": [
+   "CA@900-1500",
+   "CC@300-1500"
+  ],
+  "label": "5 · LA McDLT",
+  "cap": "EL UNICEL",
+  "txt": "Pero su caja fue también su condena. A finales de los ochenta crecía la preocupación por la basura de unicel, que no se degrada, y la McDLT usaba todavía más que una hamburguesa normal. En 1990, McDonald's anunció que dejaría los empaques de unicel en Estados Unidos, y la McDLT desapareció poco después. Años más tarde, la cadena intentó algo parecido con otra hamburguesa, pero sin la famosa caja doble. Para muchos, la caja era la mitad de la diversión."
+ },
+ {
+  "src": [
+   "CC@500-1500",
+   "CD@100-1500"
+  ],
+  "label": "6 · LA McPIZZA",
+  "cap": "LA ESPERA",
+  "txt": "Número seis: la McPizza. A finales de los ochenta, McDonald's quería competir con las pizzerías, y empezó a probar pizzas en sus restaurantes. El problema era evidente: una hamburguesa sale en segundos, y una pizza necesita varios minutos en el horno. Las filas se hacían más lentas, y los autoservicios se atascaban. Además, las cajas eran demasiado grandes para la ventanilla. Para el año 2000, McDonald's la había retirado de casi todo el país."
+ },
+ {
+  "src": [
+   "CD@300-1500",
+   "CC@700-1500"
+  ],
+  "label": "6 · LA McPIZZA",
+  "cap": "LOS ÚLTIMOS DOS",
+  "txt": "Pero no de todo. Durante años, dos restaurantes de McDonald's, uno en Pomeroy, Ohio, y otro en Spencer, Virginia Occidental, siguieron vendiendo McPizza, y se volvieron destinos de peregrinación para los curiosos, que manejaban horas para probarla. En 2017, esos dos últimos restaurantes también la quitaron del menú. Con ellos terminó una de las aventuras más extrañas de la historia de McDonald's."
+ },
+ {
+  "src": [
+   "CD@500-1500",
+   "CA@1100-1500"
+  ],
+  "label": "7 · LAS PITAS DE WENDY'S",
+  "cap": "1997",
+  "txt": "Número siete: las pitas rellenas de Wendy's. En 1997, Wendy's lanzó una línea de pan pita relleno, frío, para los clientes que querían algo más ligero que una hamburguesa. Había cuatro sabores: pollo con aderezo ranch, pollo césar, griega clásica y de verduras. Fueron un éxito al principio, y muchos las recuerdan como una de las opciones más frescas que ha tenido la comida rápida. Pero prepararlas tomaba tiempo, y a principios de los dos mil desaparecieron."
+ },
+ {
+  "src": [
+   "CD@700-1500",
+   "CB@1000-1500"
+  ],
+  "label": "8 · LOS McSTUFFINS",
+  "cap": "1993",
+  "txt": "Número ocho: los McStuffins. En 1993, McDonald's entró en la categoría de los panes rellenos con los McStuffins, una especie de bolsillo de pan horneado relleno, fácil de comer con una mano. Había varios sabores, como pollo teriyaki, carne a la barbacoa, pizza de pepperoni y estilo filete con queso. La idea era competir con los sándwiches y los bocadillos para llevar. Desaparecieron poco después de su lanzamiento, y hoy pocos los recuerdan. Pero los que los probaron, todavía los extrañan."
+ },
+ {
+  "src": [
+   "CD@900-1500",
+   "CC@900-1500"
+  ],
+  "label": "9 · LA ARCH DELUXE",
+  "cap": "PARA ADULTOS · 1996",
+  "txt": "Número nueve: la Arch Deluxe. En 1996, McDonald's lanzó una hamburguesa para adultos, con pan de papa, salsa especial de mostaza y mayonesa, y tocino. La campaña publicitaria costó una fortuna, más de cien millones de dólares, y mostraba a niños haciendo caras de asco ante la hamburguesa, como prueba de que era para grandes. Fue uno de los fracasos más caros de la historia de la comida rápida. Los adultos que iban a McDonald's no buscaban algo sofisticado. Buscaban una Big Mac."
+ },
+ {
+  "src": [
+   "CA@1300-1500",
+   "CD@1100-1500"
+  ],
+  "label": "10 · LOS BURGER BUNDLES",
+  "cap": "BURGER KING · 1987",
+  "txt": "Y número diez: los Burger Bundles de Burger King. En 1987, mucho antes de que las mini hamburguesas se pusieran de moda, Burger King lanzó paquetes de pequeñas hamburguesas, del tamaño de un bocado, para compartir. Venían de tres en tres. Fueron populares, y después se transformaron en los Burger Buddies, unidas en pares. Pero las hamburguesas pequeñas eran lentas de preparar, y desaparecieron. Hoy, las mini hamburguesas están en todas partes, y Burger King las tuvo primero."
+ },
+ {
+  "src": [
+   "CB@1300-1500",
+   "M3@40-60"
+  ],
+  "label": "COMIDA RÁPIDA DE ANTES",
+  "cap": "",
+  "txt": "Un pay frito, una hamburguesa de piña, un taco en pan, un bufé de hamburguesería, una caja de dos lados, una pizza lenta, unas pitas frescas, un pan relleno, una hamburguesa para adultos y unas mini hamburguesas adelantadas a su tiempo. ¿Cuál debería regresar primero? Cuéntanos en los comentarios, y suscríbete para más viajes a los días dorados de América."
+ }
+]

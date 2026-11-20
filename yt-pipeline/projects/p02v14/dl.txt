@@ -1,0 +1,12 @@
+RB risky-business
+RC turner_video_1240
+RM rain-man-1988
+RN turner_video_11073
+FG AFewGoodMenTrailer
+FC turner_video_2054
+CM color-of-money
+JM JerryMaguireTrailer
+JC turner_video_2493
+BF turner_video_10720
+F1 80534F14OneOfAKind
+NZ 81344CarrierSeaLegs
