@@ -10,3 +10,6 @@ SK skaterdater-1965
 DT the-devils-toy-1966
 OG OneGotFa1963
 AT American1962_2
+KB KodakBrownieHomeMovieCamera1958
+KI 1971KodakInstamaticMovieCameraWithDickVanDyke
+DS CEP543

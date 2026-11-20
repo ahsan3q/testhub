@@ -2,7 +2,7 @@
  {
   "src": [
    "JE@60-1200",
-   "WG@30-300"
+   "WG@30-275"
   ],
   "label": "CARICATURAS DE 1962",
   "cap": "",
@@ -19,8 +19,8 @@
  },
  {
   "src": [
-   "JI@5-60",
-   "WG@100-300"
+   "JI@5-55",
+   "WG@100-275"
   ],
   "label": "TELEVISIÓN · 1962",
   "cap": "LA FIEBRE DE HANNA-BARBERA",
@@ -67,8 +67,8 @@
  },
  {
   "src": [
-   "LH@50-350",
-   "LH@150-350"
+   "LH@50-300",
+   "LH@150-300"
   ],
   "label": "LIPPY THE LION · 1962",
   "cap": "OH, QUÉ DESGRACIA",
@@ -76,8 +76,8 @@
  },
  {
   "src": [
-   "LH@200-350",
-   "WG@200-300"
+   "LH@200-300",
+   "WG@200-275"
   ],
   "label": "LIPPY THE LION · 1962",
   "cap": "MEL BLANC",
@@ -91,8 +91,8 @@
  },
  {
   "src": [
-   "TT@60-350",
-   "TT@150-350"
+   "TT@60-300",
+   "TT@150-300"
   ],
   "label": "TOUCHÉ TURTLE · 1962",
   "cap": "¡TOUCHÉ, AL ATAQUE!",
@@ -100,23 +100,23 @@
  },
  {
   "src": [
-   "TT@200-350",
-   "LH@250-350"
+   "TT@200-300",
+   "LH@250-300"
   ],
   "label": "TOUCHÉ TURTLE · 1962",
   "cap": "LOS CUENTOS AL REVÉS",
   "txt": "Muchos episodios eran versiones disparatadas de cuentos clásicos, con dragones, gigantes y brujas. Y como Touché era una tortuga, siempre había un chiste con su caparazón: lo usaba como escudo, como bote o como escondite cuando las cosas se ponían feas. La serie no tuvo continuaciones. Pero quien la vio de niño todavía recuerda el grito de esa pequeña tortuga, lanzándose con la espada por delante contra enemigos diez veces más grandes que ella."
  },
  {
-  "src": "WG@30-300",
+  "src": "WG@30-275",
   "label": "WALLY GATOR · 1962",
   "cap": "#5",
   "txt": "Número cinco. Wally Gator."
  },
  {
   "src": [
-   "WG@60-350",
-   "WG@150-350"
+   "WG@60-275",
+   "WG@150-275"
   ],
   "label": "WALLY GATOR · 1962",
   "cap": "EL CAIMÁN DEL ZOOLÓGICO",
@@ -124,8 +124,8 @@
  },
  {
   "src": [
-   "WG@200-350",
-   "TT@250-350"
+   "WG@200-275",
+   "TT@250-300"
   ],
   "label": "WALLY GATOR · 1962",
   "cap": "EL MÁS ALEGRE DEL PANTANO",
@@ -228,7 +228,7 @@
   "txt": "Las canciones eran de Jule Styne y Bob Merrill, que muy poco después escribirían el musical Funny Girl para Barbra Streisand. Y a diferencia de las caricaturas de Magoo, aquí el chiste no era que no veía nada: la historia se contaba en serio, con momentos tristes y con fantasmas que daban miedo. Fue de las últimas producciones de UPA como estudio. Durante décadas se repitió cada diciembre, y para muchos sigue siendo la versión más bonita del cuento."
  },
  {
-  "src": "JI@5-60",
+  "src": "JI@5-55",
   "label": "LOS SUPERSÓNICOS · 1962",
   "cap": "#1",
   "txt": "Y el número uno. Los Supersónicos, The Jetsons."
@@ -236,7 +236,7 @@
  {
   "src": [
    "JE@100-1300",
-   "JI@10-60"
+   "JI@10-55"
   ],
   "label": "LOS SUPERSÓNICOS · 1962",
   "cap": "EL PRIMER PROGRAMA A COLOR",
@@ -254,7 +254,7 @@
  {
   "src": [
    "JE@900-1300",
-   "JI@20-60"
+   "JI@20-55"
   ],
   "label": "LOS SUPERSÓNICOS · 1962",
   "cap": "24 EPISODIOS",
@@ -262,7 +262,7 @@
  },
  {
   "src": [
-   "WG@250-350",
+   "WG@250-275",
    "JE@1100-1300"
   ],
   "label": "CARICATURAS DE 1962",

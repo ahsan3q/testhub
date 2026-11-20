@@ -19,8 +19,8 @@
  },
  {
   "src": [
-   "P1@1-29",
-   "OG@100-880"
+   "OG@100-880",
+   "HM@500-1150"
   ],
   "label": "1 · LAS MINIMOTOS",
   "cap": "EL CATÁLOGO",
@@ -28,7 +28,7 @@
  },
  {
   "src": [
-   "P1@5-29",
+   "OG@400-880",
    "HM@200-1150"
   ],
   "label": "1 · LAS MINIMOTOS",
@@ -55,7 +55,7 @@
  },
  {
   "src": [
-   "P2@1-29",
+   "DS@1-14",
    "OG@300-880"
   ],
   "label": "3 · EL EXHIBIDOR DE HISTORIETAS",
@@ -64,7 +64,7 @@
  },
  {
   "src": [
-   "P2@5-29",
+   "DS@1-14",
    "HD@200-620"
   ],
   "label": "3 · EL EXHIBIDOR DE HISTORIETAS",
@@ -73,7 +73,7 @@
  },
  {
   "src": [
-   "P8@1-29",
+   "AA@150-620",
    "AA@100-620"
   ],
   "label": "4 · LOS GO-KARTS CASEROS",
@@ -100,7 +100,7 @@
  },
  {
   "src": [
-   "P9@1-29",
+   "MR@600-900",
    "MR@300-900"
   ],
   "label": "5 · LOS COHETES A ESCALA",
@@ -118,7 +118,7 @@
  },
  {
   "src": [
-   "P3@1-29",
+   "AT@100-740",
    "AT@50-740"
   ],
   "label": "6 · LA CAZA DE MONEDAS DE PLATA",
@@ -127,8 +127,8 @@
  },
  {
   "src": [
-   "P3@5-29",
-   "AT@300-740"
+   "AT@400-740",
+   "OG@200-880"
   ],
   "label": "6 · LA CAZA DE MONEDAS DE PLATA",
   "cap": "LA LATA DE CAFÉ",
@@ -136,7 +136,7 @@
  },
  {
   "src": [
-   "P6@1-29",
+   "AA@350-620",
    "AA@300-620"
   ],
   "label": "7 · LOS AUTOS DE CABLE",
@@ -145,7 +145,7 @@
  },
  {
   "src": [
-   "P6@5-29",
+   "AA@450-620",
    "AA@500-620"
   ],
   "label": "7 · LOS AUTOS DE CABLE",
@@ -154,8 +154,8 @@
  },
  {
   "src": [
-   "P4@1-29",
-   "HM@400-1150"
+   "KI@1-58",
+   "P4@1-29"
   ],
   "label": "8 · LAS PELÍCULAS CASERAS",
   "cap": "SÚPER 8 · 1965",
@@ -163,7 +163,7 @@
  },
  {
   "src": [
-   "P5@1-29",
+   "KB@5-75",
    "HD@300-620"
   ],
   "label": "8 · LAS PELÍCULAS CASERAS",
@@ -191,7 +191,7 @@
  {
   "src": [
    "MA@100-1800",
-   "P7@1-29"
+   "MA@300-1800"
   ],
   "label": "10 · LOS AVIONES A ESCALA",
   "cap": "BALSA Y PEGAMENTO",
