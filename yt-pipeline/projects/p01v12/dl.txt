@@ -1,0 +1,7 @@
+GP Promo_Gidget_ABC-TV_1965_Wednesday_night
+GI gidget-opening-intro
+SB turner_video_855
+S2 turner_video_1024
+SM turner_video_1832
+AM turner_video_1036
+MI MaybeIllComeHomeintheSpring
