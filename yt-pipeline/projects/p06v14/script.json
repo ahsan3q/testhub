@@ -11,7 +11,7 @@
  {
   "src": [
    "S9@1-29",
-   "S10@1-29"
+   "S9@1-29"
   ],
   "label": "LAS GRANDES RIVALIDADES",
   "cap": "¿QUIÉN GANÓ?",
@@ -20,7 +20,7 @@
  {
   "src": [
    "S1@1-29",
-   "NB@60-1500"
+   "NB@60-1148"
   ],
   "label": "DOMINO'S VS PIZZA HUT",
   "cap": "LOS 30 MINUTOS",
@@ -28,7 +28,7 @@
  },
  {
   "src": [
-   "NB@600-1500",
+   "NB@600-1148",
    "S1@10-29"
   ],
   "label": "DOMINO'S VS PIZZA HUT",
@@ -38,7 +38,7 @@
  {
   "src": [
    "S2@1-29",
-   "NB@300-1500"
+   "NB@300-1148"
   ],
   "label": "DOMINO'S VS PIZZA HUT",
   "cap": "LA GARANTÍA",
@@ -56,7 +56,7 @@
  {
   "src": [
    "C1@20-60",
-   "S4@1-29"
+   "C1@60-100"
   ],
   "label": "COCA-COLA VS PEPSI",
   "cap": "LA QUIEBRA · 1923",
@@ -83,7 +83,7 @@
  {
   "src": [
    "C2@20-60",
-   "S4@5-29"
+   "C2@60-95"
   ],
   "label": "COCA-COLA VS PEPSI",
   "cap": "SETENTA Y NUEVE DÍAS",
@@ -146,7 +146,7 @@
  {
   "src": [
    "TV@700-1500",
-   "S10@10-29"
+   "S9@10-29"
   ],
   "label": "McDONALD'S VS BURGER KING",
   "cap": "¿DÓNDE ESTÁ LA CARNE? · 1984",
@@ -154,7 +154,7 @@
  },
  {
   "src": [
-   "S10@5-29",
+   "S9@5-29",
    "TV@900-1500"
   ],
   "label": "McDONALD'S VS BURGER KING",
@@ -163,8 +163,8 @@
  },
  {
   "src": [
-   "S11@1-29",
-   "S12@1-29"
+   "TV@1-29",
+   "TV@1-29"
   ],
   "label": "RED BULL VS MONSTER",
   "cap": "KRATING DAENG",
@@ -172,8 +172,8 @@
  },
  {
   "src": [
-   "S12@5-29",
-   "S11@5-29"
+   "TV@1-29",
+   "TV@1-29"
   ],
   "label": "RED BULL VS MONSTER",
   "cap": "TE DA ALAS",
@@ -182,7 +182,7 @@
  {
   "src": [
    "S13@1-29",
-   "SW@5-200"
+   "SW@5-31"
   ],
   "label": "SUBWAY VS JERSEY MIKE'S",
   "cap": "MIL DÓLARES · 1965",
@@ -191,7 +191,7 @@
  {
   "src": [
    "S14@1-29",
-   "SW@100-200"
+   "SW@6-31"
   ],
   "label": "SUBWAY VS JERSEY MIKE'S",
   "cap": "RECIÉN REBANADO",
@@ -199,8 +199,8 @@
  },
  {
   "src": [
-   "S15@1-29",
-   "S16@1-29"
+   "S9@1-29",
+   "S9@1-29"
   ],
   "label": "IN-N-OUT VS WHATABURGER",
   "cap": "TEXAS",
@@ -208,8 +208,8 @@
  },
  {
   "src": [
-   "S15@10-29",
-   "S16@10-29"
+   "S9@10-29",
+   "S9@10-29"
   ],
   "label": "IN-N-OUT VS WHATABURGER",
   "cap": "EL MENÚ SECRETO",
@@ -217,8 +217,8 @@
  },
  {
   "src": [
-   "S16@5-29",
-   "S15@5-29"
+   "S9@5-29",
+   "S9@5-29"
   ],
   "label": "IN-N-OUT VS WHATABURGER",
   "cap": "EL ORGULLO",
@@ -227,7 +227,7 @@
  {
   "src": [
    "TV@1200-1500",
-   "C1@40-60"
+   "C1@18-60"
   ],
   "label": "LAS GRANDES RIVALIDADES",
   "cap": "",
