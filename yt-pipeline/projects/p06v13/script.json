@@ -19,8 +19,8 @@
  },
  {
   "src": [
-   "KM@30-600",
-   "XM@50-300"
+   "KM@30-564",
+   "F1@1-29"
   ],
   "label": "EL PASTEL DE FRUTAS",
   "cap": "106 AÑOS EN LA ANTÁRTIDA",
@@ -28,7 +28,7 @@
  },
  {
   "src": [
-   "KM@200-600",
+   "KM@200-564",
    "DG@200-600"
   ],
   "label": "EL PASTEL DE FRUTAS",
@@ -37,8 +37,8 @@
  },
  {
   "src": [
-   "MA@30-900",
-   "SK@30-600"
+   "MA@30-799",
+   "SK@30-333"
   ],
   "label": "EL PASTEL DE FRUTAS",
   "cap": "CORSICANA, TEXAS",
@@ -47,7 +47,7 @@
  {
   "src": [
    "DG@100-600",
-   "KM@150-600"
+   "KM@150-564"
   ],
   "label": "EL PASTEL DE FRUTAS",
   "cap": "EL LANZAMIENTO",
@@ -55,7 +55,7 @@
  },
  {
   "src": [
-   "SK@100-600",
+   "SK@100-333",
    "HH@30-600"
   ],
   "label": "LA CAZUELA DE EJOTES",
@@ -65,7 +65,7 @@
  {
   "src": [
    "HH@200-600",
-   "SK@300-600"
+   "SK@300-333"
   ],
   "label": "LA CAZUELA DE EJOTES",
   "cap": "EL SALÓN DE LA FAMA",
@@ -73,7 +73,7 @@
  },
  {
   "src": [
-   "PN@30-600",
+   "PN@30-276",
    "DT@200-600"
   ],
   "label": "EL ROMPOPE",
@@ -83,7 +83,7 @@
  {
   "src": [
    "DT@300-600",
-   "PN@200-600"
+   "F4@1-29"
   ],
   "label": "EL ROMPOPE",
   "cap": "LA RECETA DE WASHINGTON",
@@ -91,7 +91,7 @@
  },
  {
   "src": [
-   "MA@300-900",
+   "MA@300-799",
    "DG@300-600"
   ],
   "label": "EL RELLENO DE OSTIONES",
@@ -100,7 +100,7 @@
  },
  {
   "src": [
-   "MA@500-900",
+   "MA@500-799",
    "DT@400-600"
   ],
   "label": "EL RELLENO DE OSTIONES",
@@ -109,8 +109,8 @@
  },
  {
   "src": [
-   "KM@300-600",
-   "SK@200-600"
+   "KM@300-564",
+   "SK@200-333"
   ],
   "label": "EL CAMOTE CON MALVAVISCOS",
   "cap": "1917",
@@ -118,8 +118,8 @@
  },
  {
   "src": [
-   "SK@400-600",
-   "KM@450-600"
+   "SK@200-333",
+   "KM@450-564"
   ],
   "label": "EL CAMOTE CON MALVAVISCOS",
   "cap": "MÁS DULCE QUE UN DULCE",
@@ -127,8 +127,8 @@
  },
  {
   "src": [
-   "MA@600-900",
-   "PN@300-600"
+   "MA@600-799",
+   "PN@166-276"
   ],
   "label": "EL PAVO FRITO",
   "cap": "LUISIANA",
@@ -136,7 +136,7 @@
  },
  {
   "src": [
-   "MA@700-900",
+   "MA@700-799",
    "DG@400-600"
   ],
   "label": "EL PAVO FRITO",
@@ -145,8 +145,8 @@
  },
  {
   "src": [
-   "SC@30-900",
-   "SC@200-900"
+   "SC@30-851",
+   "SC@200-851"
   ],
   "label": "LA SALSA DE ARÁNDANO",
   "cap": "LA FORMA DE LA LATA",
@@ -154,8 +154,8 @@
  },
  {
   "src": [
-   "SC@400-900",
-   "SC@600-900"
+   "SC@400-851",
+   "F6@1-29"
   ],
   "label": "LA SALSA DE ARÁNDANO",
   "cap": "LA PECTINA",
@@ -164,7 +164,7 @@
  {
   "src": [
    "XM@100-300",
-   "KM@100-600"
+   "KM@100-564"
   ],
   "label": "EL PASTEL DE CARNE PICADA",
   "cap": "MINCE PIE",
@@ -181,7 +181,7 @@
  },
  {
   "src": [
-   "JP@5-58",
+   "F5@1-29",
    "HH@400-600"
   ],
   "label": "LA ENSALADA AMBROSÍA",
@@ -190,8 +190,8 @@
  },
  {
   "src": [
-   "JP@20-58",
-   "KM@500-600"
+   "JP@20-56",
+   "KM@500-564"
   ],
   "label": "LAS ENSALADAS DE GELATINA",
   "cap": "PERFECTION SALAD",
@@ -199,7 +199,7 @@
  },
  {
   "src": [
-   "PN@400-600",
+   "PN@166-276",
    "XM@250-300"
   ],
   "label": "EL CARAMELO DE LISTÓN",
