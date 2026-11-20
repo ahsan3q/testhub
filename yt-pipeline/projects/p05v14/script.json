@@ -1,8 +1,8 @@
 [
  {
   "src": [
-   "CB@20-1500",
-   "M1@5-60"
+   "CB@20-654",
+   "M1@5-30"
   ],
   "label": "COMIDA RÁPIDA DE ANTES",
   "cap": "",
@@ -10,8 +10,8 @@
  },
  {
   "src": [
-   "CA@20-1500",
-   "M2@5-60"
+   "CA@20-825",
+   "M2@5-55"
   ],
   "label": "COMIDA RÁPIDA DE ANTES",
   "cap": "QUE MERECEN REGRESAR",
@@ -19,8 +19,17 @@
  },
  {
   "src": [
-   "M3@5-60",
-   "M1@20-60"
+   "CA@200-825",
+   "CB@100-654"
+  ],
+  "label": "COMIDA RÁPIDA DE ANTES",
+  "cap": "LA GUERRA DE LOS MENÚS",
+  "txt": "Primero, un poco de contexto. Entre los años setenta y los noventa, las cadenas de comida rápida vivieron una verdadera guerra de menús. McDonald's, Burger King, Wendy's y Taco Bell lanzaban productos nuevos cada temporada, con campañas de televisión enormes, intentando robarse clientes unas a otras. Muchos de esos productos fracasaron en pocos meses. Pero algunos se quedaron en la memoria de toda una generación, que todavía los pide en redes sociales y en peticiones por internet."
+ },
+ {
+  "src": [
+   "M3@5-31",
+   "M1@5-30"
   ],
   "label": "1 · EL PAY DE MANZANA FRITO",
   "cap": "McDONALD'S · 1968",
@@ -28,8 +37,8 @@
  },
  {
   "src": [
-   "M2@20-60",
-   "CB@200-1500"
+   "M2@20-55",
+   "CB@200-654"
   ],
   "label": "1 · EL PAY DE MANZANA FRITO",
   "cap": "EL CAMBIO · 1992",
@@ -37,8 +46,8 @@
  },
  {
   "src": [
-   "M1@30-60",
-   "HB@5-300"
+   "M1@5-30",
+   "HB@5-70"
   ],
   "label": "2 · LA HULA BURGER",
   "cap": "RAY KROC · 1963",
@@ -46,8 +55,8 @@
  },
  {
   "src": [
-   "HB@100-300",
-   "M3@30-60"
+   "HB@42-70",
+   "M3@6-31"
   ],
   "label": "2 · LA HULA BURGER",
   "cap": "EL VIERNES SANTO",
@@ -55,8 +64,8 @@
  },
  {
   "src": [
-   "T1@5-60",
-   "T2@5-60"
+   "T1@1-25",
+   "T2@1-25"
   ],
   "label": "3 · LA BELL BEEFER",
   "cap": "TACO BELL",
@@ -64,8 +73,8 @@
  },
  {
   "src": [
-   "T2@20-60",
-   "CA@300-1500"
+   "T2@1-25",
+   "CA@300-825"
   ],
   "label": "3 · LA BELL BEEFER",
   "cap": "EL TACO EN PAN",
@@ -73,8 +82,8 @@
  },
  {
   "src": [
-   "CB@400-1500",
-   "CA@500-1500"
+   "CB@400-654",
+   "CA@500-825"
   ],
   "label": "4 · EL SUPERBAR",
   "cap": "WENDY'S · 1988",
@@ -82,8 +91,8 @@
  },
  {
   "src": [
-   "CC@100-1500",
-   "CB@600-1500"
+   "CC@100-771",
+   "CB@600-654"
   ],
   "label": "4 · EL SUPERBAR",
   "cap": "EL FIN · 1998",
@@ -91,8 +100,8 @@
  },
  {
   "src": [
-   "CB@800-1500",
-   "CA@700-1500"
+   "CB@393-654",
+   "CA@700-825"
   ],
   "label": "5 · LA McDLT",
   "cap": "EL LADO CALIENTE",
@@ -100,8 +109,8 @@
  },
  {
   "src": [
-   "CA@900-1500",
-   "CC@300-1500"
+   "CA@495-825",
+   "CC@300-771"
   ],
   "label": "5 · LA McDLT",
   "cap": "EL UNICEL",
@@ -109,7 +118,7 @@
  },
  {
   "src": [
-   "CC@500-1500",
+   "CC@500-771",
    "CD@100-1500"
   ],
   "label": "6 · LA McPIZZA",
@@ -119,7 +128,7 @@
  {
   "src": [
    "CD@300-1500",
-   "CC@700-1500"
+   "CC@700-771"
   ],
   "label": "6 · LA McPIZZA",
   "cap": "LOS ÚLTIMOS DOS",
@@ -128,7 +137,7 @@
  {
   "src": [
    "CD@500-1500",
-   "CA@1100-1500"
+   "CA@495-825"
   ],
   "label": "7 · LAS PITAS DE WENDY'S",
   "cap": "1997",
@@ -137,7 +146,7 @@
  {
   "src": [
    "CD@700-1500",
-   "CB@1000-1500"
+   "CB@393-654"
   ],
   "label": "8 · LOS McSTUFFINS",
   "cap": "1993",
@@ -145,8 +154,26 @@
  },
  {
   "src": [
+   "CD@800-1500",
+   "M2@30-55"
+  ],
+  "label": "EXTRA · LA McLEAN DELUXE",
+  "cap": "91 POR CIENTO SIN GRASA",
+  "txt": "Y un caso extra de McDonald's: la McLean Deluxe. En 1991, cuando todo el mundo hablaba de dietas bajas en grasa, McDonald's lanzó una hamburguesa que prometía ser noventa y uno por ciento libre de grasa. El truco estaba en la carne: le quitaron grasa y, para que no quedara seca, le agregaron agua y carragenina, un espesante que se saca de algas marinas. La campaña la presentaba como la hamburguesa del futuro."
+ },
+ {
+  "src": [
+   "CC@463-771",
+   "CD@600-1500"
+  ],
+  "label": "EXTRA · LA McLEAN DELUXE",
+  "cap": "LA HAMBURGUESA DE ALGAS",
+  "txt": "Pero los clientes desconfiaron. La idea de una hamburguesa con algas no ayudaba, y muchos decían que sabía distinta. Casi nadie iba a McDonald's a cuidarse. La McLean Deluxe se vendió poco durante años, hasta que la retiraron en 1996, justo cuando llegaba la Arch Deluxe. Hoy es un símbolo de la época en que la industria intentó, sin mucha suerte, convencer a la gente de que la comida rápida podía ser de dieta."
+ },
+ {
+  "src": [
    "CD@900-1500",
-   "CC@900-1500"
+   "CC@463-771"
   ],
   "label": "9 · LA ARCH DELUXE",
   "cap": "PARA ADULTOS · 1996",
@@ -154,7 +181,25 @@
  },
  {
   "src": [
-   "CA@1300-1500",
+   "CC@463-771",
+   "CA@495-825"
+  ],
+  "label": "9 · LA ARCH DELUXE",
+  "cap": "RONALD JUEGA GOLF",
+  "txt": "La campaña de la Arch Deluxe fue tan rara como la hamburguesa. Para convencer a los adultos, McDonald's mostró a Ronald McDonald haciendo cosas de grandes: jugando golf, bailando en un club, con un tono más serio que nunca. Los niños no entendían, y los adultos tampoco se convencieron. Muchos analistas de mercadotecnia la usan hasta hoy como ejemplo de lo que pasa cuando una marca intenta ser algo que sus clientes no le piden. En pocos años, la Arch Deluxe salió del menú en casi todo el país."
+ },
+ {
+  "src": [
+   "CD@1000-1500",
+   "CB@393-654"
+  ],
+  "label": "EXTRA · LA FRESCATA",
+  "cap": "WENDY'S · 2006",
+  "txt": "Y otro caso extra de Wendy's: la Frescata. En 2006, Wendy's lanzó una línea de sándwiches estilo delicatessen, con pan horneado, jamón, pavo, queso y verduras frescas, para competir con Subway. Tenían buena fama entre los clientes, pero eran lentos de preparar y no encajaban con la velocidad que pide un autoservicio. En 2008 desaparecieron del menú. Todavía hay fans que, cada cierto tiempo, piden en redes sociales que vuelvan."
+ },
+ {
+  "src": [
+   "CA@495-825",
    "CD@1100-1500"
   ],
   "label": "10 · LOS BURGER BUNDLES",
@@ -163,8 +208,8 @@
  },
  {
   "src": [
-   "CB@1300-1500",
-   "M3@40-60"
+   "CB@393-654",
+   "M3@6-31"
   ],
   "label": "COMIDA RÁPIDA DE ANTES",
   "cap": "",
