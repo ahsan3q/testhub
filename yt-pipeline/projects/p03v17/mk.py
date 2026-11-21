@@ -1,0 +1,73 @@
+import json
+L = "CARICATURAS DE 1958"
+M = "EL MUNDO EN 1958"
+S = [
+ dict(src=["RD@20-375", "HH@30-355"], label=L, cap="",
+      txt="En 1958, el Pato Lucas quiso ser Robin Hood y terminó de monje. Un coyote probó una fórmula de velocidad con un ratón antes de tomársela él mismo. Un gallo se quedó congelado dentro de un bloque de hielo. Y Piolín se hizo pasar por un pajarito de adorno en el sombrero de la abuelita. ¿Los recuerdas?"),
+ dict(src=["PH@20-370", "WW@20-355"], label=L, cap="6 CARICATURAS OLVIDADAS",
+      txt="Hoy viajamos a 1958 para recordar seis caricaturas de esa temporada que casi nadie menciona. Todas salieron del estudio de Warner Brothers, el mismo de Bugs Bunny y del Correcaminos. Y cuatro de ellas tienen un secreto en común que se escucha, pero que casi nadie nota. Antes de empezar, un poco de contexto."),
+ dict(src=["EX@2-80", "EX@20-80"], label=M, cap="EXPLORER 1",
+      txt="El año empezó en el espacio. Los soviéticos habían lanzado los dos primeros satélites de la historia, los Sputnik, en 1957. Estados Unidos respondió la noche del treinta y uno de enero de 1958, cuando un cohete Juno despegó de Cabo Cañaveral, en Florida, con el Explorer 1, su primer satélite. El Laboratorio de Propulsión a Chorro y el ejército lo habían preparado en solo ochenta y cuatro días. Fue el primer aparato en detectar los cinturones de radiación de Van Allen, que rodean la Tierra. Mandó datos durante casi cuatro meses, hasta que se le acabaron las baterías. Y se quedó en órbita hasta 1970."),
+ dict(src=["EX@40-80", "PH@60-370"], label=M, cap="NACE LA NASA",
+      txt="Ese mismo año, el veintinueve de julio, el presidente Eisenhower firmó la ley que creó la NASA, la agencia espacial de Estados Unidos, que empezó a funcionar el primero de octubre de 1958. La carrera espacial ya no tenía marcha atrás, y la televisión y el cine de esos años se llenaron de cohetes y viajes al espacio."),
+ dict(src=["HU@5-170", "HU@60-170"], label=M, cap="HUCKLEBERRY HOUND",
+      txt="En la televisión, Hanna y Barbera, que un año antes habían fundado su propio estudio, estrenaron su segunda serie el veintinueve de septiembre de 1958: El show de Huckleberry Hound, patrocinado por Kellogg's. Joseph Barbera contaba que viajó a Chicago a venderla, y que tuvo que presentarla frente a unas cuarenta y cinco personas que lo miraban fijamente. Se la compraron. Además del perro azul, traía a Pixie y Dixie con el gato Jinks, y a un oso llamado Yogi. En 1960 se convirtió en el primer programa animado en ganar un premio Emmy."),
+ dict(src=["KK@20-365", "KK@150-365"], label=M, cap="EL ÚNICO ÓSCAR DE BUGS",
+      txt="Y en los cines, Warner estrenó en agosto Knighty Knight Bugs, donde Bugs es el bufón del rey Arturo y debe recuperar la espada cantarina que robó el Caballero Negro, Sam Bigotes. Ganó el Óscar al mejor cortometraje animado, por encima de Paul Bunyan, de Disney, y de Sidney's Family Tree, de Terrytoons. La estatuilla la recibió el productor John Burton, y tras su muerte pasó a manos del director, Friz Freleng. Fue la única caricatura de Bugs Bunny en ganar ese premio, y también la última caricatura de Warner en ganarlo."),
+ dict(src=["WW@40-355", "PH@40-370"], label=M, cap="UNA HUELGA DE MÚSICOS",
+      txt="Ahora, el secreto. En 1958 hubo una huelga de músicos, y por eso seis caricaturas de Warner de ese año se musicalizaron con música de archivo: piezas de John Seely, de una biblioteca musical de la disquera Capitol. Por eso suenan distinto a lo que estamos acostumbrados. Cuatro de las caricaturas de hoy son de esas seis. Pon atención a la música."),
+
+ dict(src=["CF@20-330"], label="CAT FEUD", cap="#6", txt="Cat Feud."),
+ dict(src=["CF@40-330", "CF@90-330"], label="CAT FEUD", cap="20 DE DICIEMBRE DE 1958",
+      txt="Empezamos con Cat Feud, de Chuck Jones, estrenada el veinte de diciembre de 1958. El título es un juego de palabras en inglés con cat food, comida para gato. Sus estrellas son Marc Antony, un bulldog enorme y gruñón, y Pussyfoot, una gatita negra muy chiquita que lo adora. Los dos habían debutado juntos en 1952, en Feed the Kitty, también de Jones, pero esta vez el escenario es una obra en construcción."),
+ dict(src=["CF@120-330", "CF@170-330"], label="CAT FEUD", cap="LA SALCHICHA",
+      txt="Marc Antony está de guardia en la obra cuando aparece Pussyfoot, tan valiente que el perrazo termina por ablandarse. Le regala una salchicha. Pero entonces llega un gato callejero, flaco y vivo, que quiere la salchicha para él. Y así empieza una pelea en lo alto de las vigas de acero, a muchos metros del suelo."),
+ dict(src=["CF@220-330", "CF@280-330"], label="CAT FEUD", cap="A SALVO",
+      txt="El bulldog defiende a la gatita y a la salchicha una y otra vez, allá arriba entre las vigas. Al final el gato callejero pierde, y Marc Antony le canta a Pussyfoot hasta que los dos se quedan dormidos, tranquilos y contentos. Una caricatura tierna, con un perro rudo de corazón suave."),
+
+ dict(src=["WW@20-355"], label="WEASEL WHILE YOU WORK", cap="#5", txt="Weasel While You Work."),
+ dict(src=["WW@50-355", "WW@100-355"], label="WEASEL WHILE YOU WORK", cap="6 DE SEPTIEMBRE DE 1958",
+      txt="Número cinco: Weasel While You Work, de Robert McKimson, estrenada el seis de septiembre de 1958. El título juega con la canción Silba mientras trabajas. Es del gallo Claudio, el Foghorn Leghorn, y de su eterno enemigo, el perro del corral. Y a diferencia de casi todas sus caricaturas, esta pasa en pleno invierno, con nieve por todas partes."),
+ dict(src=["WW@130-355", "WW@180-355"], label="WEASEL WHILE YOU WORK", cap="UNA COMADREJA HAMBRIENTA",
+      txt="El gallo convierte al perro en un muñeco de nieve, y el perro le afila un patín para que se hunda en el hielo. Entonces aparece una comadreja muerta de hambre que le muerde la pierna al gallo. Él le ofrece venado, y le pone unos cuernos al perro. El perro se los quita y le ofrece pollo congelado. Y luego deja al gallo atrapado en un bloque de hielo. Esa comadreja no era nueva: ya había salido en Plop Goes the Weasel, de 1953, y en Weasel Stop, de 1956. Y Mel Blanc hizo las tres voces."),
+ dict(src=["WW@230-355", "WW@300-355"], label="WEASEL WHILE YOU WORK", cap="EL CUATRO DE JULIO",
+      txt="La comadreja parte el bloque con un hacha, y el gallo dice que tiene un dolor de cabeza partido, justo antes de partirse en dos él también. Al final, el gallo jala lo que cree que es la cola del perro. Pero es un cohete encendido, que lo manda volando al cielo. Y el perro comenta que este año el cuatro de julio llegó antes."),
+
+ dict(src=["BB@20-350"], label="A BIRD IN A BONNET", cap="#4", txt="A Bird in a Bonnet."),
+ dict(src=["BB@50-350", "BB@100-350"], label="A BIRD IN A BONNET", cap="27 DE SEPTIEMBRE DE 1958",
+      txt="Número cuatro: A Bird in a Bonnet, de Friz Freleng, estrenada el veintisiete de septiembre de 1958, con Piolín, Silvestre y la abuelita. Las voces son de Mel Blanc, Daws Butler y June Foray. La abuelita va a una sombrerería de Nueva York a buscar un sombrero nuevo, y se prueba varios sin quedar contenta."),
+ dict(src=["BB@130-350", "BB@180-350"], label="A BIRD IN A BONNET", cap="UN PAJARITO DE ADORNO",
+      txt="Mientras tanto, Silvestre persigue a Piolín, que se mete en la tienda y se queda quietecito sobre un sombrero. La vendedora cree que es un pajarito disecado de adorno, la abuelita también, y se compra el sombrero con todo y Piolín. Y Piolín descubre que es el escondite perfecto, porque ahora el gato tiene que enfrentarse al paraguas de la abuelita."),
+ dict(src=["BB@220-350", "BB@290-350"], label="A BIRD IN A BONNET", cap="EL TÚNEL HOLLAND",
+      txt="Silvestre lo intenta todo: se sube a un camión, se esconde en el sombrero de un señor, se roba el sombrero y escapa con un globo, que Piolín revienta, y cae en una alcantarilla donde un trabajador habla igualito que Ed Norton, el de la serie The Honeymooners. Al final pesca el sombrero con una caña mientras la abuelita va en taxi, y por fin agarra al pajarito. Su única línea en toda la caricatura es: ahora sí te tengo. Y en ese momento el taxi entra al túnel Holland, y el gato se estrella contra la entrada."),
+
+ dict(src=["PH@20-370"], label="PRE-HYSTERICAL HARE", cap="#3", txt="Pre-Hysterical Hare."),
+ dict(src=["PH@50-370", "PH@100-370"], label="PRE-HYSTERICAL HARE", cap="1 DE NOVIEMBRE DE 1958",
+      txt="Número tres: Pre-Hysterical Hare, de Robert McKimson, estrenada el primero de noviembre de 1958. El título juega con la palabra prehistórico. Bugs huye de Elmer, salta una barda de piedra y cae en una cueva donde encuentra un cuerno gigante con un letrero: cápsula del tiempo, del año diez mil antes de Cristo, para abrirse en 1960, apenas dos años después del estreno. Adentro hay un rollo de película."),
+ dict(src=["PH@130-370", "PH@180-370"], label="PRE-HYSTERICAL HARE", cap="ELMER DE LAS CAVERNAS",
+      txt="Bugs la proyecta en su madriguera, y la película muestra la Edad de Piedra: un Elmer de las cavernas que sale a cazar a un conejo dientes de sable, el abuelo prehistórico de Bugs. Un detalle para los fans: varias escenas de animales prehistóricos se reciclaron de una caricatura de 1950, Caveman Inki, de Chuck Jones."),
+ dict(src=["PH@220-370", "PH@300-370"], label="PRE-HYSTERICAL HARE", cap="LA OTRA VOZ DE ELMER",
+      txt="Y otro detalle raro: aquí Elmer no tiene la voz de siempre, la de Arthur Q. Bryan. Lo hizo otro actor, Dave Barry, una de las pocas veces que pasó mientras Bryan vivía. Al final, el conejo prehistórico engaña al cazador para que se dispare a sí mismo. Bugs presume que ningún cazador listo le gana a un conejo tonto. Y el Elmer moderno entra a la madriguera y repite el mismo error de su antepasado."),
+
+ dict(src=["HH@40-355"], label="HIP HIP-HURRY!", cap="#2", txt="Hip Hip-Hurry!"),
+ dict(src=["HH@40-355", "HH@60-355"], label="HIP HIP-HURRY!", cap="FINALES DE 1958",
+      txt="Número dos: Hip Hip-Hurry!, de Chuck Jones, estrenada a finales de 1958, con el Coyote y el Correcaminos. Como siempre, cuando aparece el Correcaminos, la imagen se congela y sale su nombre en un latín inventado. En esta, algo así como digoutius unbelievablii. Y en los créditos se lee el nombre de John Seely en la música: es una de las caricaturas de la huelga. Y como en las demás del Correcaminos de esa época, nadie habla: todo se cuenta con letreros, con trampas y con golpes."),
+ dict(src=["HH@90-355", "HH@180-355"], label="HIP HIP-HURRY!", cap="ROCAS Y LANCHAS",
+      txt="El Coyote prueba de todo: se esconde, tiende cuerdas, salta desde los barrancos, intenta lanzarse con una roca y un sube y baja, y hasta persigue al Correcaminos en una lancha por un río que termina en una cascada. Y como siempre, cada plan termina con el Coyote estrellado, aplastado o cayendo al vacío."),
+ dict(src=["HH@250-355", "HH@315-355"], label="HIP HIP-HURRY!", cap="LA FÓRMULA",
+      txt="Hasta que se le ocurre algo distinto. Atrapa a un ratón con una trampa, le da una cucharada de una fórmula de velocidad, y el ratón sale disparado. Funciona. Así que el Coyote se toma la botella completa y sale corriendo más rápido que nunca. Pero la velocidad no le sirve de mucho cuando el camino termina, y el final es el de siempre."),
+
+ dict(src=["RD@20-375"], label="ROBIN HOOD DAFFY", cap="#1", txt="Robin Hood Daffy."),
+ dict(src=["RD@50-375", "RD@90-375"], label="ROBIN HOOD DAFFY", cap="8 DE MARZO DE 1958",
+      txt="Y el número uno: Robin Hood Daffy, de Chuck Jones, escrita por Michael Maltese y estrenada el ocho de marzo de 1958. El Pato Lucas es Robin Hood, y Porky es el fraile Tuck. Era la segunda vez que Jones parodiaba a Robin Hood, después de Rabbit Hood, con Bugs, en 1949. Y fue la última de sus parodias con este par, y la última vez que Porky apareció en una caricatura de cine dirigida por Jones en la época dorada."),
+ dict(src=["RD@120-375", "RD@170-375"], label="ROBIN HOOD DAFFY", cap="EL BASTÓN",
+      txt="Lucas empieza cantando con un laúd, y termina rodando hasta el río. Después quiere lucirse con su bastón de pelea, y se golpea solo, con el pico doblado una y otra vez. Y Porky no puede parar de reírse, porque no le cree ni una palabra: según él, ese pato no puede ser Robin Hood."),
+ dict(src=["RD@210-375", "RD@260-375"], label="ROBIN HOOD DAFFY", cap="EL VIAJERO RICO",
+      txt="Para probarlo, Lucas intenta asaltar a un viajero rico. Lanza flechas que no dan en el blanco, se columpia con cuerdas que lo estrellan contra los árboles, y cada intento termina peor que el anterior. Mientras tanto, Porky sigue riéndose, y el pato se va quedando sin paciencia."),
+ dict(src=["RD@300-375", "RD@340-375"], label="ROBIN HOOD DAFFY", cap="FRAY PATO",
+      txt="Al final, Lucas se rinde. Deja de querer ser Robin Hood y decide unirse a Porky, rapado como monje: ahora es fray Pato. Una versión recortada de esta caricatura apareció en 1979 en la película The Bugs Bunny Road Runner Movie, y así la conoció otra generación."),
+ dict(src=["KK@300-365", "RD@330-375"], label=L, cap="",
+      txt="Seis caricaturas de 1958, el año del Explorer 1, de Huckleberry Hound y del único Óscar de Bugs Bunny. ¿Cuál de estas recordabas? ¿O hay otra caricatura de 1958 que te marcó? Cuéntanos en los comentarios. Y si te perdiste el año anterior, ya tenemos la lista de 1957 en el canal. Suscríbete, porque el próximo año de esta serie ya viene en camino."),
+]
+json.dump(S, open("script.json", "w"), ensure_ascii=False, indent=1)
+print(len(S), sum(len(s["txt"].split()) for s in S))
