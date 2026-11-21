@@ -1,0 +1,11 @@
+TR TheTrumanShowTrailersAndTvSpots
+TP 1998-truman-show-promo
+AV turner_video_2232
+A2 turner_video_2333
+ES turner_video_3663
+SO sonic-the-hedgehog-us-trailer-1-prores
+LS ASeriesOfUnfortunateEventsTrailer
+BF batman-forever-premiere
+LV las-vegas-strip-at-night-may-1980
+LN las-vegas-nevada-may-1980
+TB truman-show-bts
