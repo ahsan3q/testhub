@@ -1,0 +1,69 @@
+import json
+L = "CARICATURAS DE 1960"
+M = "EL MUNDO EN 1960"
+S = [
+ dict(src=["HC@20-359", "MG@30-382"], label=L, cap="",
+      txt="En 1960, el coyote se tragó un frasco entero de pastillas de terremoto. Un lobo terminó con camisa de fuerza después de un día de trabajo. Dos gatos se quedaron varados en una isla diminuta mientras un ratón se alejaba remando y cantando. Y Elmer Gruñón tuvo que cuidar a un perro que se creía persona. ¿Los recuerdas? Seguramente alguna escena sí, aunque no sepas cómo se llamaba la caricatura."),
+ dict(src=["RW@30-359", "GM@40-377"], label=L, cap="6 CARICATURAS OLVIDADAS",
+      txt="Hoy seguimos nuestro viaje año por año, y llegamos a 1960. Te traigo seis caricaturas de esa temporada que casi nadie menciona. Todas salieron del estudio de Warner Brothers, el de Bugs Bunny, Silvestre y el Correcaminos. Y la número uno estuvo nominada al Óscar. Pero antes, como siempre, un poco de contexto sobre cómo era el mundo en 1960."),
+
+ dict(src=["KN@30-880", "KN@200-880"], label=M, cap="EL PRIMER DEBATE EN TELEVISIÓN",
+      txt="1960 fue año de elecciones en Estados Unidos. Los candidatos eran el vicepresidente Richard Nixon y un senador joven de Massachusetts, John F. Kennedy. Y el veintiséis de septiembre de 1960, en un estudio de Chicago, los dos se enfrentaron en algo que nunca se había hecho: un debate presidencial transmitido por televisión. Las imágenes que estás viendo son de ese debate."),
+ dict(src=["KN@350-880", "KN@500-880"], label=M, cap="LA IMAGEN LO ES TODO",
+      txt="Fue el primero de cuatro debates. Nixon venía de estar en el hospital por una infección, después de golpearse la rodilla con la puerta de un auto. No quiso maquillarse, y en las pantallas en blanco y negro se le notaba la barba y el sudor bajo las luces del estudio. Kennedy se veía mucho más tranquilo. Desde entonces se repite que la imagen decidió ese debate, aunque los historiadores todavía discuten cuánto. En noviembre, Kennedy ganó la elección por un margen muy estrecho."),
+ dict(src=["WW@40-359", "DG@40-377"], label=M, cap="LOS PICAPIEDRA",
+      txt="Y mientras tanto, la animación también llegó al horario estelar. El treinta de septiembre de 1960, la cadena ABC estrenó Los Picapiedra, de Hanna y Barbera. Fue la primera serie animada que se transmitió en horario estelar en la televisión de Estados Unidos, pensada para toda la familia y no solo para los niños. Pedro, Vilma, Pablo y Betty vivían en la Edad de Piedra, pero con los problemas de una familia de los suburbios."),
+ dict(src=["HC@100-359", "RW@100-359"], label=M, cap="EL SHOW DE BUGS BUNNY",
+      txt="Pocos días después, el once de octubre de 1960, también ABC estrenó El show de Bugs Bunny, en horario estelar. El programa juntaba caricaturas que ya habían salido en los cines, con partes nuevas animadas para presentarlas. Gracias a ese programa, y a sus repeticiones durante décadas, muchas de las caricaturas de hoy siguieron vivas en la televisión mucho después de su estreno."),
+ dict(src=["GM@100-377", "MG@100-382"], label=M, cap="LOS ÚLTIMOS AÑOS DE ORO",
+      txt="En los cines, las caricaturas cortas todavía se proyectaban antes de las películas. Pero los presupuestos ya eran más pequeños, y la televisión empezaba a cambiarlo todo. Por eso estas caricaturas de 1960 son tan interesantes: son de los últimos años de la era clásica de Warner. Y ahora sí, vamos con la cuenta regresiva."),
+
+ dict(src=["WW@20-359", "WW@60-359"], label="WILD WILD WORLD", cap="#6",
+      txt="En el número seis, Wild Wild World, una Merrie Melodies dirigida por Robert McKimson, estrenada el veintisiete de febrero de 1960. Aquí no hay personajes famosos. Un presentador llamado Cave Darroway nos muestra un supuesto documental recién descubierto, filmado, según él, en el año setenta y cinco millones antes de Cristo."),
+ dict(src=["WW@100-359", "WW@140-359"], label="WILD WILD WORLD", cap="LA EDAD DE PIEDRA MODERNA",
+      txt="En el documental vemos a unos cavernícolas que intentan cazar a un dinosaurio, y luego, en tono de broma, el descubrimiento del fuego, los medios de transporte, el uso del bumerán, el entretenimiento, una peluquería y hasta una tienda departamental con elevador. Al final, los cavernícolas vuelven por el dinosaurio, pero este les enseña un letrero: es viernes, día de pescado. Así que se van a pescar, y el pez se los traga."),
+ dict(src=["WW@200-359", "WW@300-359"], label="WILD WILD WORLD", cap="UNA PARODIA DE LA TELE",
+      txt="La caricatura es una parodia de un programa de televisión de la época, Wide Wide World, presentado por Dave Garroway. Por eso el presentador se llama Cave Darroway. Pero hacer una caricatura tomaba tanto tiempo que, cuando por fin se estrenó, el programa que parodiaba ya había sido cancelado. Y el final es pura justicia: cuando Darroway toma el elevador para ir por un café, resulta que funciona igual que el de la Edad de Piedra."),
+
+ dict(src=["DG@20-377", "DG@60-377"], label="DOG GONE PEOPLE", cap="#5",
+      txt="En el número cinco, Dog Gone People, también de Robert McKimson, estrenada el doce de noviembre de 1960, con Elmer Gruñón. Y aquí hay un detalle triste: la voz de Elmer ya no era la de siempre. Arthur Q. Bryan, el actor que le había dado voz durante años, murió en 1959. En esta caricatura, a Elmer lo interpreta Hal Smith."),
+ dict(src=["DG@100-377", "DG@140-377"], label="DOG GONE PEOPLE", cap="RUPERT",
+      txt="La historia es sencilla. El jefe de Elmer se va de viaje y le pide un favor: cuidar a su perro, Rupert. Y si lo hace bien, a lo mejor le dan un ascenso. El problema es que Rupert no se comporta como perro. Se comporta como una persona, y espera que lo traten como tal. Elmer hace todo lo posible por darle gusto, pero cada intento termina en desastre."),
+ dict(src=["DG@200-377", "DG@300-377"], label="DOG GONE PEOPLE", cap="EL ASCENSO",
+      txt="Las cosas se complican tanto que Rupert termina metido en problemas con la ley, y Elmer con él. Aun así, Elmer espera su ascenso. Y cuando por fin llega el día, descubre que el ascenso no es para él. Es para el perro. Elmer conserva su trabajo, pero se queda con cara de no entender nada. Una caricatura sobre la oficina que, sesenta años después, sigue sonando muy familiar."),
+
+ dict(src=["GM@20-377", "GM@60-377"], label="GOLDIMOUSE AND THE THREE CATS", cap="#4",
+      txt="En el número cuatro, Goldimouse and the Three Cats, dirigida por Friz Freleng y estrenada el quince de marzo de 1960, con Silvestre y su hijo, Silvestre Junior. Como su nombre lo indica, es una parodia del cuento de Ricitos de Oro y los tres osos. Y fue la segunda vez que Warner usó esa idea, después de Bugs Bunny and the Three Bears."),
+ dict(src=["GM@100-377", "GM@140-377"], label="GOLDIMOUSE AND THE THREE CATS", cap="RICITOS DE RATÓN",
+      txt="Aquí la familia de gatos vive en una casa del bosque: papá Silvestre, mamá Silvestre y el pequeño, al que el narrador llama malcriado. El hijo está harto de comer avena todos los días. Él quiere un ratón. Así que salen a caminar mientras la avena se enfría. Y en ese momento entra a la casa una ratoncita de rizos rubios: Ricitos de Ratón, que se come toda la avena y se acuesta en la cama del pequeño."),
+ dict(src=["GM@200-377", "GM@300-377"], label="GOLDIMOUSE AND THE THREE CATS", cap="AVENA OTRA VEZ",
+      txt="Cuando la familia regresa, el pequeño por fin tiene su ratón en la cama. La ratoncita se escapa a su agujero, y Silvestre pasa el resto de la caricatura intentando sacarla, con planes cada vez más locos, incluido uno con explosivos que obliga a la familia a esconderse en su refugio. Al final, Silvestre se harta, y le sirve a su hijo la avena de la peor manera: se la vacía en la cabeza. Mel Blanc hizo las voces de los gatos, y June Foray la de la narradora."),
+
+ dict(src=["RW@20-359", "RW@60-359"], label="READY, WOOLEN AND ABLE", cap="#3",
+      txt="En el número tres, Ready, Woolen and Able, dirigida por Chuck Jones, estrenada el treinta de julio de 1960. Es la quinta caricatura de Ralph, el lobo, y Sam, el perro pastor. Y si no los ubicas por nombre, seguro los recuerdas: el lobo y el perro que llegan a trabajar a la misma hora, checan tarjeta, se saludan amablemente, y luego se pasan el día peleando por las ovejas."),
+ dict(src=["RW@100-359", "RW@140-359"], label="READY, WOOLEN AND ABLE", cap="LOS RESORTES ACME",
+      txt="La caricatura empieza con los dos llegando al trabajo. Sam maneja despacio un coche viejísimo, y Ralph lo rebasa a toda velocidad en un auto de carreras. Luego vienen los intentos de Ralph: un rastrillo en la cara, una palanca con dinamita, un barril de pólvora que termina en una roca sobre su cabeza, y unos resortes de la marca Acme para dar pasos gigantes. Sam lo arruina todo con un enorme imán."),
+ dict(src=["RW@200-359", "RW@300-359"], label="READY, WOOLEN AND ABLE", cap="SAM ESTÁ EN TODAS PARTES",
+      txt="El último intento es el mejor. Ralph trata de cruzar un barranco en trapecio, y adonde quiera que vaya, ahí está Sam. En el otro lado, arriba, abajo, en un globo, pescando, durmiendo bajo el agua, y hasta dentro de la boca de una ballena. Al final, Ralph llega a una playa llena de Sams. Suena el silbato, Sam se va a su casa, y por el camino pasa una ambulancia que se lleva a Ralph con camisa de fuerza. Y aun así, los dos se despiden con un amable buenas noches."),
+
+ dict(src=["HC@20-359", "HC@60-359"], label="HOPALONG CASUALTY", cap="#2",
+      txt="En el número dos, Hopalong Casualty, también de Chuck Jones, estrenada el ocho de octubre de 1960, con el Coyote y el Correcaminos. El título es un juego de palabras con Hopalong Cassidy, el famoso vaquero de libros y películas. Y como siempre, el coyote aparece con un nombre falso en latín: Hard-headipus ravenus, algo así como el cabeza dura hambriento."),
+ dict(src=["HC@100-359", "HC@140-359"], label="HOPALONG CASUALTY", cap="LA EMPACADORA ACME",
+      txt="Los planes del coyote son de los más recordados. Se esconde detrás de una roca para saltarle al Correcaminos, pero lo aplasta un camión. Pone dinamita en un túnel bajo el camino, y le explota a él. Y luego compra una empacadora navideña de la marca Acme, la pone en un hoyo con un letrero de desviación, y por un susto termina dentro de la máquina. Sale envuelto como regalo, y se va de puntitas, avergonzado."),
+ dict(src=["HC@200-359", "HC@300-359"], label="HOPALONG CASUALTY", cap="NO FUNCIONA CON CORRECAMINOS",
+      txt="El final es un clásico. El coyote riega en el camino unas pastillas de terremoto de Acme, para que el Correcaminos se las coma como alpiste. El Correcaminos se las come y no le pasa nada. Furioso, el coyote se traga todas las que quedan, y entonces lee la letra pequeña de la etiqueta: no funciona con correcaminos. Las pastillas le hacen efecto a él, y sale sacudido por todo el desierto, hasta que termina cayendo de un barranco."),
+
+ dict(src=["MG@20-382", "MG@60-382"], label="MOUSE AND GARDEN", cap="#1",
+      txt="Y en el número uno, Mouse and Garden, dirigida por Friz Freleng y estrenada el dieciséis de julio de 1960. El título es un juego de palabras con House and Garden, una famosa revista de casas y jardines. Y fue la caricatura de este año que estuvo nominada al Óscar al mejor cortometraje animado. No ganó, pero quedó entre las mejores del año."),
+ dict(src=["MG@100-382", "MG@140-382"], label="MOUSE AND GARDEN", cap="SILVESTRE Y SAM",
+      txt="Aquí Silvestre no está solo. Tiene un compañero, otro gato callejero llamado Sam, al que le dio voz Daws Butler, imitando a un personaje cómico de la radio y la televisión de esa época. Los dos andan buscando comida en los botes de basura, cuando Silvestre ve pasar a un ratón. Después de un pequeño pleito, los dos gatos hacen un trato: el ratón será su desayuno, y se lo van a compartir en la mañana."),
+ dict(src=["MG@200-382", "MG@300-382"], label="MOUSE AND GARDEN", cap="EL TRATO",
+      txt="Pero ninguno de los dos confía en el otro. Toda la noche, cada vez que uno se duerme, el otro intenta quedarse con el ratón para él solo. Y cada traición termina peor que la anterior. La caricatura es casi un estudio de la desconfianza entre dos socios, y por eso funciona tan bien: no hace falta un villano, porque los dos gatos son su propio problema."),
+ dict(src=["MG@300-382", "MG@340-382"], label="MOUSE AND GARDEN", cap="LA ISLA",
+      txt="En su último intento, uno de ellos trata de escapar con el ratón en una lancha de motor, y la lancha arranca con los dos gatos a bordo. Terminan varados en una isla diminuta, en medio del agua, pateándose una y otra vez. Y mientras tanto, el ratón pasa remando junto a ellos, montado en un garrafón, cantando tranquilamente Moonlight Bay. Fin."),
+
+ dict(src=["HC@330-359", "MG@350-382"], label=L, cap="",
+      txt="Seis caricaturas de 1960, el año del primer debate presidencial en televisión, del estreno de Los Picapiedra y de El show de Bugs Bunny. ¿Cuál de estas recordabas? ¿O hay otra caricatura de 1960 que te marcó de niño? Cuéntanos en los comentarios. Y si te perdiste los años anteriores, ya tenemos las listas de 1956, 1957, 1958 y 1959 en el canal. Suscríbete, porque la serie sigue con 1961."),
+]
+json.dump(S, open("script.json", "w"), ensure_ascii=False, indent=1)
+print(len(S), sum(len(s["txt"].split()) for s in S))
