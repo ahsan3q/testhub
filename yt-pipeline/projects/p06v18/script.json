@@ -1,0 +1,218 @@
+[
+ {
+  "src": [
+   "SM@20-80",
+   "TW@1-27"
+  ],
+  "label": "COMIDA CHATARRA",
+  "cap": "",
+  "txt": "Todos tenemos una. Esa comida que compras sin mirar a nadie a los ojos en la caja del supermercado. Esa que comes de pie frente al refrigerador a las once de la noche, o en el coche, donde nadie te ve. No es saludable, no es elegante, y lo sabes perfectamente. Pero ahí está, en tu alacena, otra vez. Hoy hablamos de toda esa comida chatarra que nos da vergüenza admitir que comemos, y de las historias, a veces muy curiosas, que hay detrás de cada una."
+ },
+ {
+  "src": [
+   "S1@1-27",
+   "S15@1-27"
+  ],
+  "label": "BEN & JERRY'S",
+  "cap": "",
+  "txt": "Empezamos con el helado de Ben and Jerry's. Lo fundaron en 1978 dos amigos de la infancia, Ben Cohen y Jerry Greenfield, en una vieja gasolinera remodelada en Burlington, Vermont. Antes de abrir, tomaron un curso por correspondencia de cinco dólares sobre cómo hacer helado. Su idea era clara: el helado no debía ser solo helado, sino una mezcla con trozos de todo. El famoso sabor de masa de galleta nació de una sugerencia anónima que alguien dejó en su tienda. Y lo venden en pintas, medio litro, que casualmente es la cantidad perfecta para terminarse uno solo frente a la televisión."
+ },
+ {
+  "src": [
+   "S1@2-27",
+   "SM@80-140"
+  ],
+  "label": "BEN & JERRY'S",
+  "cap": "",
+  "txt": "Sus nombres también son parte del juego. Cherry Garcia, de cereza y chocolate, es un homenaje a Jerry Garcia, el guitarrista de los Grateful Dead. Chunky Monkey lleva plátano, nueces y chocolate. Los nombres no te dicen exactamente qué hay adentro, pero te dan permiso de comerlo. En el año 2000, la empresa fue comprada por Unilever, una de las compañías de alimentos más grandes del mundo. Aun así, la marca sigue regalando conos un día al año en sus tiendas, y las filas dan la vuelta a la cuadra."
+ },
+ {
+  "src": [
+   "CI@1-28",
+   "S2@1-27"
+  ],
+  "label": "CHEEZ-IT",
+  "cap": "",
+  "txt": "Las galletas Cheez-It parecen un invento moderno, pero tienen más de cien años. Las creó en 1921 la Green and Green Company, en Dayton, Ohio. Las vendían como un rarebit horneado, una referencia a un platillo galés de queso derretido sobre pan tostado. El nombre no le decía nada a casi nadie, pero la galleta se vendía sola. Llevan queso cheddar de verdad, y son tan saladas y crujientes que es casi imposible comer solo un puñito. Sus cajas rojas están en cualquier oficina, en cualquier mochila y en cualquier viaje en carretera."
+ },
+ {
+  "src": [
+   "TW@1-27",
+   "S3@1-27"
+  ],
+  "label": "TWINKIES",
+  "cap": "",
+  "txt": "El Twinkie nació en 1930, cuando James Dewar, gerente de una panadería de la Continental Baking Company cerca de Chicago, se dio cuenta de que los moldes de pastelitos de fresa solo se usaban en temporada de fresas. Decidió aprovecharlos todo el año con un pastelito relleno de crema. El nombre lo sacó de un anuncio de zapatos que vio en la calle. Al principio, el relleno era de plátano. Durante la Segunda Guerra Mundial, el plátano escaseó, se cambió a vainilla, y así se quedó para siempre."
+ },
+ {
+  "src": [
+   "TH@1-27",
+   "S16@1-27"
+  ],
+  "label": "TWINKIES",
+  "cap": "",
+  "txt": "Y luego está la leyenda: que un Twinkie dura para siempre, que sobreviviría a una guerra nuclear. No es cierto. Durante años duraba alrededor de veinticinco días en el estante, y hoy dura unos cuarenta y cinco. Lo que sí fue real fue el pánico de 2012. Hostess se declaró en bancarrota, anunció que cerraba, y la gente vació las tiendas comprando cajas de Twinkies como si fueran provisiones de emergencia. Algunas se revendieron por internet a precios absurdos. En julio de 2013, con nuevos dueños, los Twinkies regresaron a los estantes."
+ },
+ {
+  "src": [
+   "LD@1-28",
+   "S4@1-27"
+  ],
+  "label": "LITTLE DEBBIE",
+  "cap": "",
+  "txt": "Little Debbie es la marca de los pastelitos baratos de la tienda de la esquina. La creó en 1960 una pareja de panaderos de Tennessee, O. D. y Ruth McKee, y le pusieron el nombre de su nieta Debbie, que tenía cuatro años. El dibujo de la niña con sombrero de paja salió de una foto suya en ropa de juego. El primer producto fue el Oatmeal Creme Pie, dos galletas suaves de avena con crema en medio. La empresa sigue siendo familiar, en Collegedale, Tennessee, y su secreto siempre fue el precio: pastelitos que cualquiera podía pagar con las monedas del bolsillo."
+ },
+ {
+  "src": [
+   "L2@1-28",
+   "SM@140-200"
+  ],
+  "label": "LITTLE DEBBIE",
+  "cap": "",
+  "txt": "Los Zebra Cakes, los Cosmic Brownies, los Swiss Rolls y los Honey Buns llenaron lonchera tras lonchera, máquina expendedora tras máquina expendedora. No ganan concursos de sabor ni lo intentan. Lo que venden es algo más simple: un pastelito que sabe exactamente igual en Tennessee que en Chicago, y que cuesta menos que un café. Para muchos adultos, abrir uno en el trabajo, a media tarde, es un pequeño regreso a la escuela. Y la cara de Debbie sigue en cada caja, aunque la niña real creció y llegó a trabajar como directiva en la empresa de su familia."
+ },
+ {
+  "src": [
+   "LU@1-14",
+   "LU@3-28"
+  ],
+  "label": "LUNCHABLES",
+  "cap": "",
+  "txt": "Los Lunchables llegaron en 1988, y su origen es muy poco romántico. Según contó Bob Drane, el ejecutivo de Oscar Mayer que dirigió el proyecto, al periodista Michael Moss, la empresa buscaba una manera de vender más carnes frías, porque la mortadela ya no se vendía como antes. La respuesta fue una charola de plástico con divisiones: galletas, rebanadas de jamón o mortadela y queso procesado. Los niños armaban su propio almuerzo, y eso era lo emocionante. En la mesa de la cafetería, traer Lunchables era casi un símbolo de estatus."
+ },
+ {
+  "src": [
+   "LU@3-28",
+   "SM@200-260"
+  ],
+  "label": "LUNCHABLES",
+  "cap": "",
+  "txt": "Después llegaron las versiones de pizza, de nachos y hasta de postre. Nutricionalmente, los Lunchables nunca fueron un ejemplo: mucha sal y mucho procesado. Pero resolvían un problema real para padres con prisa por la mañana. Hoy, muchos adultos que crecieron con ellos todavía compran uno de vez en cuando, sobre todo cuando olvidaron prepararse algo para el trabajo. Y no lo dicen en voz alta, pero se sienten de nuevo en la cafetería, armando su galletita con la rebanada perfecta."
+ },
+ {
+  "src": [
+   "HP@1-28",
+   "S6@1-27"
+  ],
+  "label": "HOT POCKETS",
+  "cap": "",
+  "txt": "Los Hot Pockets los inventaron dos hermanos inmigrantes de Irán, Paul y David Merage, que fundaron la empresa Chef America en 1977. Su problema era muy concreto: hacer un sándwich que se pudiera calentar en el microondas sin que el pan quedara como de hule. La solución fue una funda de cartón con una capa metálica muy delgada, que concentra el calor y dora la masa. Los Hot Pockets llegaron en 1983, justo cuando millones de familias estaban comprando su primer microondas. En 2002, los hermanos vendieron la empresa a Nestlé por unos dos mil seiscientos millones de dólares."
+ },
+ {
+  "src": [
+   "HP@3-28",
+   "SM@260-320"
+  ],
+  "label": "HOT POCKETS",
+  "cap": "",
+  "txt": "Y luego está el famoso problema del relleno. Por fuera, el Hot Pocket puede estar tibio, pero por dentro el queso parece lava volcánica. Generaciones de estudiantes se han quemado el paladar con el primer mordisco. El comediante Jim Gaffigan convirtió esa experiencia en una de sus rutinas más famosas, cantando el jingle con voz dramática. Aun así, nadie dejó de comprarlos. Es la comida del que llega tarde, cansado y con hambre, y que necesita algo caliente en dos minutos, sin pensar mucho en las consecuencias."
+ },
+ {
+  "src": [
+   "SO@1-28",
+   "S7@1-27"
+  ],
+  "label": "SPAGHETTIOS",
+  "cap": "",
+  "txt": "Los SpaghettiOs llegaron en 1965, creados por Donald Goerke para Franco-American, una marca de la empresa Campbell's. La idea era una pasta que los niños pudieran comer con cuchara sin hacer un desastre: aros pequeños que no se resbalan, en una salsa de tomate dulce y suave. Su jingle, Uh-oh, SpaghettiOs, se volvió uno de los más famosos de la televisión. La pasta viene muy suave y la salsa no pica para nada. Es comida pensada para un niño de siete años. Y quizá por eso tantos adultos la comen fría, directo de la lata, en sus peores días."
+ },
+ {
+  "src": [
+   "JP@5-62",
+   "S10@1-27"
+  ],
+  "label": "PIZZA ROLLS",
+  "cap": "",
+  "txt": "Los Pizza Rolls, esos pequeños bocados rellenos de salsa y queso, los lanzó Jeno Paulucci, un empresario de Minnesota, hijo de inmigrantes italianos, que antes había fundado la marca de comida china Chun King. Se vendían como Jeno's Pizza Rolls, y tuvieron comerciales muy recordados del publicista Stan Freberg, incluido uno con el Llanero Solitario. Años después, la marca terminó en manos de Pillsbury y hoy se venden con el nombre de Totino's. Se calientan en minutos, se comen de diez en diez, y el relleno, igual que el de los Hot Pockets, sale hirviendo."
+ },
+ {
+  "src": [
+   "J2@1-28",
+   "S11@1-27"
+  ],
+  "label": "SLIM JIM",
+  "cap": "",
+  "txt": "El Slim Jim es una barrita de carne seca y condimentada que vive junto a la caja de las gasolineras. Su historia empieza a finales de los años veinte en Filadelfia, con un hombre llamado Adolph Levis, que vendía este bocadillo a bares y tabernas como botana para acompañar la cerveza. Décadas después, la marca se volvió famosa con el luchador Randy Macho Man Savage, que gritaba en los comerciales de los noventa: Snap into a Slim Jim. Es salado, es grasoso, y sabe a viaje largo en carretera."
+ },
+ {
+  "src": [
+   "KM@1-33",
+   "S12@1-27"
+  ],
+  "label": "MACARRONES KRAFT",
+  "cap": "",
+  "txt": "La caja azul de macarrones con queso de Kraft apareció en 1937, en plena Gran Depresión. Costaba diecinueve centavos y alcanzaba para alimentar a cuatro personas. Durante la Segunda Guerra Mundial, con la carne y la leche racionadas, se volvió todavía más popular. El polvo naranja es, para muchos, más nostálgico que cualquier receta de la abuela. En 2016, Kraft quitó los colorantes artificiales de la receta y lo anunció hasta después de que millones de personas ya la habían probado, para demostrar que nadie había notado la diferencia."
+ },
+ {
+  "src": [
+   "K2@1-28",
+   "SM@320-380"
+  ],
+  "label": "MACARRONES KRAFT",
+  "cap": "",
+  "txt": "Los estudiantes universitarios lo han convertido en su comida básica, a veces cocinado en la cafetera o en el microondas. Hay quien le agrega salchichas, atún o salsa picante. Y hay quien lo come directo de la olla, de pie, porque lavar un plato más parece demasiado esfuerzo. El macarrón con queso de caja no es alta cocina. Pero en noches de cansancio, cuando no hay nada más en la alacena, esa caja azul es como un abrazo con sabor a queso."
+ },
+ {
+  "src": [
+   "PT@1-28",
+   "S13@1-27"
+  ],
+  "label": "POP-TARTS",
+  "cap": "",
+  "txt": "Los Pop-Tarts nacieron de una carrera. En 1963, la empresa Post anunció unos pastelitos rellenos para tostar. Kellogg's vio la idea, trabajó a toda velocidad, y en 1964 lanzó los Pop-Tarts, ganándole el mercado a su competidor. Al principio ni siquiera tenían glaseado. El glaseado llegó unos años después, y desde entonces la caja ha tenido decenas de sabores, desde fresa hasta los más extraños. Se pueden comer fríos, calientes, en el coche o como cena improvisada. Y aunque se venden como desayuno, muchos los comen a cualquier hora."
+ },
+ {
+  "src": [
+   "VE@1-14",
+   "S14@1-27"
+  ],
+  "label": "VELVEETA",
+  "cap": "",
+  "txt": "Velveeta nació en 1918, en Monroe, Nueva York, cuando un quesero llamado Emil Frey encontró la forma de aprovechar los pedazos de queso que se rompían en la fábrica. Los mezcló hasta lograr un bloque suave que se derrite sin separarse. Kraft compró la marca en 1927. Hoy, por ley, en Estados Unidos no puede llamarse simplemente queso, sino producto de queso procesado. Pero nada se derrite como Velveeta. Por eso aparece en dips para fiestas, en enchiladas caseras y en una enorme cantidad de recetas que nadie quiere admitir que usa."
+ },
+ {
+  "src": [
+   "SM@25-120",
+   "S2@2-27"
+  ],
+  "label": "DORITOS",
+  "cap": "",
+  "txt": "Los Doritos tienen un origen inesperado: Disneylandia. En los años sesenta, dentro del parque había un restaurante llamado Casa de Fritos, patrocinado por la empresa Frito. Ahí empezaron a freír las tortillas que sobraban y a venderlas como totopos sazonados, y tuvieron tanto éxito que Frito-Lay decidió fabricarlos. En 1966 salieron a la venta en todo el país. Al principio eran solo de sal; el famoso sabor a queso nacho llegó en los años setenta. A Arch West, el ejecutivo de Frito-Lay al que se le atribuye el lanzamiento, su familia lo despidió en 2011 echando unos Doritos junto con sus cenizas. Ese polvo naranja en los dedos, que limpias en el pantalón cuando nadie te ve, es parte de la experiencia."
+ },
+ {
+  "src": [
+   "SM@380-410",
+   "SM@411-440"
+  ],
+  "label": "HOT DOGS DE GASOLINERA",
+  "cap": "",
+  "txt": "Los hot dogs de gasolinera giran durante horas en un rodillo caliente, a la vista de todos. Cualquier persona razonable desconfiaría. Y aun así, millones los compran. La cadena 7-Eleven asegura que vende alrededor de cien millones de hot dogs al año en Estados Unidos. Para las tiendas, el negocio es claro: en la gasolina se gana muy poco, pero un hot dog con chili y queso deja mucho más. Y para el cliente, hay algo de ritual: elegir tu salchicha del rodillo, tu pan, tu queso de bomba y tus jalapeños. Es comida que tú mismo armas a las dos de la mañana."
+ },
+ {
+  "src": [
+   "S9@1-27",
+   "SM@440-500"
+  ],
+  "label": "REFRESCOS GIGANTES",
+  "cap": "",
+  "txt": "Y para acompañar el hot dog, un refresco del tamaño de una cubeta. En 1976, 7-Eleven lanzó el Big Gulp, un vaso de treinta y dos onzas, casi un litro. Después llegó el Double Gulp, de sesenta y cuatro onzas, casi dos litros. El negocio es sencillo: llenar un vaso más grande cuesta casi lo mismo, pero se cobra más. McDonald's tuvo su tamaño Super Size hasta 2004, cuando lo retiró, poco después de que se estrenara el documental Super Size Me. Hoy, a nadie le sorprende ver un vaso enorme en el portavasos de un coche."
+ },
+ {
+  "src": [
+   "SM@500-560",
+   "S3@2-27"
+  ],
+  "label": "COMIDA CHATARRA",
+  "cap": "",
+  "txt": "Ninguna de estas comidas va a salir en una lista de alimentos saludables. Pero casi todas tienen algo en común: llegaron para resolver un problema real. Comer rápido, comer barato, alimentar a una familia en crisis, o simplemente tener algo caliente después de un día pesado. Por eso nos dan un poco de vergüenza, y también por eso no las dejamos. Y la verdad, el que te da sermones sobre su dieta probablemente tiene una bolsa de algo escondida en la guantera. Todos tenemos nuestra comida culpable."
+ },
+ {
+  "src": [
+   "S1@1-27",
+   "S12@1-27"
+  ],
+  "label": "COMIDA CHATARRA",
+  "cap": "",
+  "txt": "¿Cuál es la tuya? ¿Cuál de estas comidas comes a escondidas? Cuéntanos en los comentarios, aquí no juzgamos. Y suscríbete para más comidas explicadas."
+ }
+]
