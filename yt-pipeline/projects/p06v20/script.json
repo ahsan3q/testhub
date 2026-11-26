@@ -1,0 +1,299 @@
+[
+ {
+  "src": [
+   "S5@1-29",
+   "PT@470-530"
+  ],
+  "label": "COMIDAS DEL AMOR",
+  "cap": "",
+  "txt": "Ostras, chocolate, fresas, miel. Durante siglos, la gente ha creído que ciertas comidas tienen el poder de despertar el romance. Emperadores, poetas y aventureros juraban por ellas, y todavía hoy, cada catorce de febrero, los restaurantes llenan sus menús con platillos que prometen encender la chispa. Pero, ¿hay algo de verdad en todo eso? ¿O es pura leyenda servida en un plato bonito?"
+ },
+ {
+  "src": [
+   "MY@40-900",
+   "VD@150-175"
+  ],
+  "label": "COMIDAS DEL AMOR",
+  "cap": "LA PALABRA AFRODISÍACO",
+  "txt": "Primero, la palabra. Afrodisíaco viene de Afrodita, la diosa griega del amor y la belleza. Según el mito, nació de la espuma del mar, y por eso muchos alimentos del mar terminaron asociados con ella. Hoy vamos a repasar las comidas más famosas que dicen tener ese poder, de dónde salió su fama y qué dice realmente la ciencia sobre cada una. Algunas respuestas te van a sorprender."
+ },
+ {
+  "src": [
+   "S13@1-29",
+   "OY@485-570"
+  ],
+  "label": "OSTRAS",
+  "cap": "",
+  "txt": "Empezamos con la reina de la lista: la ostra. Su fama viene de muy lejos, pero el nombre que más se repite es el de Giacomo Casanova, el aventurero veneciano del siglo dieciocho. Según se cuenta a partir de sus memorias, comía decenas de ostras crudas en el desayuno. Escribió tanto sobre sus conquistas, y mencionó tantas veces las ostras, que su nombre y el de este molusco quedaron unidos para siempre."
+ },
+ {
+  "src": [
+   "S1@1-29",
+   "OY@415-455"
+  ],
+  "label": "OSTRAS",
+  "cap": "EL ZINC",
+  "txt": "Y aquí viene lo interesante: la ostra sí tiene algo especial. Es uno de los alimentos con más zinc que existen, y el zinc es importante para la salud hormonal. Una persona con falta de zinc puede notar cambios en su energía. Pero hay un detalle que casi nadie menciona. Corregir una deficiencia de zinc toma semanas, no minutos. Una docena de ostras en una cena no cambia nada antes de que llegue la cuenta."
+ },
+ {
+  "src": [
+   "OY@415-455",
+   "S1@1-29"
+  ],
+  "label": "OSTRAS",
+  "cap": "DE COMIDA CALLEJERA A LUJO",
+  "txt": "Lo curioso es que la ostra no siempre fue un lujo. En el siglo diecinueve, en ciudades como Nueva York, las ostras eran tan abundantes y tan baratas que se vendían en la calle y en pequeños locales donde se podía comer todas las que quisieras por unos centavos. Fue la sobrepesca y la contaminación de las bahías lo que las volvió escasas, y con la escasez llegó el precio alto y la fama de comida elegante."
+ },
+ {
+  "src": [
+   "S1@1-29",
+   "PT@470-530"
+  ],
+  "label": "OSTRAS",
+  "cap": "EL PRECIO DEL MITO",
+  "txt": "Eso no impide que cada San Valentín muchos restaurantes vendan platones de ostras como el plato romántico por excelencia. Y no faltan las parejas que las piden por primera vez, solo porque el menú las describe como sensuales, y luego pasan varios minutos intentando tragarlas sin hacer caras. Al final, la ostra es una comida deliciosa y nutritiva. Lo romántico está en la historia, no en el molusco."
+ },
+ {
+  "src": [
+   "S2@1-29",
+   "S16@1-29"
+  ],
+  "label": "MIEL",
+  "cap": "",
+  "txt": "Segunda parada: la miel. Hay una historia muy popular que dice que la expresión luna de miel viene de una antigua costumbre del norte de Europa. Según esa leyenda, los recién casados bebían hidromiel, una bebida fermentada hecha con miel, durante todo un ciclo de la luna después de la boda, para tener buena suerte y muchos hijos. Es una historia bonita, y se repite en libros y bodas de todo el mundo."
+ },
+ {
+  "src": [
+   "BC@60-620",
+   "S2@1-29"
+  ],
+  "label": "MIEL",
+  "cap": "LA VERDADERA LUNA DE MIEL",
+  "txt": "El problema es que los estudiosos del idioma no la han podido comprobar. La explicación más aceptada es mucho más sencilla: el primer mes de matrimonio era tan dulce como la miel, y como la luna, tarde o temprano iba a menguar. En otras palabras, la luna de miel era una forma poética de decir que la dulzura del principio no dura para siempre."
+ },
+ {
+  "src": [
+   "S16@1-29",
+   "BC@60-620"
+  ],
+  "label": "MIEL",
+  "cap": "ENERGÍA PURA",
+  "txt": "¿Y la miel tiene algún poder especial? Nutricionalmente, la miel es sobre todo azúcar: glucosa y fructosa que el cuerpo convierte rápidamente en energía. En épocas en que mucha gente comía poco, una cucharada de miel hacía sentir a cualquiera más despierto y con más fuerza. Es fácil entender por qué tantas culturas la asociaron con la vitalidad. Pero esa sensación tiene más que ver con las calorías que con el amor."
+ },
+ {
+  "src": [
+   "S3@1-29",
+   "MM@40-640"
+  ],
+  "label": "CHOCOLATE",
+  "cap": "",
+  "txt": "Tercera parada: el chocolate. Mucho antes de las cajas con forma de corazón, el cacao ya era algo muy valioso en Mesoamérica. Los mayas y los mexicas lo preparaban como una bebida amarga y espumosa, a veces con chile, y las semillas de cacao llegaron a usarse incluso como moneda. Era una bebida para gobernantes, guerreros y ceremonias, no un dulce para niños."
+ },
+ {
+  "src": [
+   "MM@40-640",
+   "EC@405-530"
+  ],
+  "label": "CHOCOLATE",
+  "cap": "MOCTEZUMA",
+  "txt": "El cronista español Bernal Díaz del Castillo escribió que al emperador Moctezuma le servían cacao en copas de oro, y que se decía que lo tomaba antes de visitar a sus esposas. Los españoles llevaron esa historia a Europa junto con el cacao, y durante el siglo diecisiete el chocolate se puso de moda entre la nobleza. Pronto se hablaba de él como una bebida que despertaba las pasiones."
+ },
+ {
+  "src": [
+   "S4@1-29",
+   "VD@355-415"
+  ],
+  "label": "CHOCOLATE",
+  "cap": "LA CAJA EN FORMA DE CORAZÓN",
+  "txt": "La costumbre de regalar chocolates el catorce de febrero tiene un origen mucho más comercial. En el siglo diecinueve, la empresa británica Cadbury empezó a vender sus chocolates en cajas decoradas, y Richard Cadbury tuvo la idea de hacerlas en forma de corazón. Las cajas eran tan bonitas que la gente las guardaba después de comerse los chocolates, para conservar cartas y recuerdos."
+ },
+ {
+  "src": [
+   "VD@355-415",
+   "S4@1-29"
+  ],
+  "label": "CHOCOLATE",
+  "cap": "LA CIENCIA",
+  "txt": "La ciencia moderna buscó una explicación en una sustancia llamada feniletilamina, relacionada con las emociones del enamoramiento. El chocolate tiene un poco, pero el cuerpo la descompone tan rápido que casi nada llega al cerebro. Lo que sí hace el chocolate es darnos placer al comerlo y mejorar un poco el ánimo. Su verdadero poder es el sabor, y siglos de tradición que lo convirtieron en el regalo de los enamorados."
+ },
+ {
+  "src": [
+   "S4@1-29",
+   "EC@405-530"
+  ],
+  "label": "CHOCOLATE",
+  "cap": "JAPÓN Y EL DÍA BLANCO",
+  "txt": "En Japón, la tradición tomó un camino muy original. Allí, el día de San Valentín son sobre todo las mujeres las que regalan chocolates, a sus parejas, a sus amigos y hasta a sus compañeros de trabajo. Y un mes después, el catorce de marzo, se celebra el Día Blanco, cuando los hombres devuelven el regalo. Dos fiestas, el doble de chocolate, y ninguna prueba de que funcione como afrodisíaco."
+ },
+ {
+  "src": [
+   "S5@1-29",
+   "EC@860-990"
+  ],
+  "label": "FRESAS",
+  "cap": "",
+  "txt": "Cuarta parada: las fresas. Ninguna sustancia de la fresa tiene un efecto comprobado sobre el romance, y aun así es uno de los símbolos del amor más populares del mundo. La razón está en su apariencia. Es roja, tiene una forma que recuerda a un corazón y está cubierta de pequeñas semillas, algo que muchas culturas antiguas veían como un símbolo de fertilidad y abundancia."
+ },
+ {
+  "src": [
+   "S5@1-29",
+   "PT@470-530"
+  ],
+  "label": "FRESAS",
+  "cap": "EL PODER DEL ROJO",
+  "txt": "Según la tradición, los romanos la relacionaban con Venus, su diosa del amor. Y hay algo de psicología real detrás: el rojo es un color que casi todas las culturas asocian con la pasión. Con el tiempo, alguien tuvo la idea de bañar las fresas en chocolate, y nació uno de los postres románticos más famosos. Ninguno de los dos alimentos tiene poderes mágicos, pero juntos se ven perfectos para una cita."
+ },
+ {
+  "src": [
+   "S6@1-29",
+   "EC@860-990"
+  ],
+  "label": "TOMATE",
+  "cap": "LA MANZANA DEL AMOR",
+  "txt": "Quinta parada, y esta es una sorpresa: el tomate. Cuando llegó de América a Europa en el siglo dieciséis, mucha gente desconfiaba de él. En Francia lo llamaron pomme d'amour, manzana del amor, y en inglés también se le conoció como love apple. Los historiadores no se ponen de acuerdo sobre el origen del nombre, pero durante un tiempo el humilde tomate tuvo fama de fruta del romance."
+ },
+ {
+  "src": [
+   "EC@860-990",
+   "S6@1-29"
+  ],
+  "label": "TOMATE",
+  "cap": "DE SOSPECHOSO A SALSA",
+  "txt": "Lo curioso es que, en algunas partes de Europa, el tomate también tuvo fama de peligroso, porque pertenece a la misma familia que algunas plantas venenosas. Pasaron décadas antes de que se volviera un ingrediente de todos los días. Hoy lo comemos en ensaladas, salsas y pizzas, y casi nadie recuerda que alguna vez se le llamó la manzana del amor."
+ },
+ {
+  "src": [
+   "S7@1-29",
+   "PT@120-600"
+  ],
+  "label": "SANDÍA",
+  "cap": "",
+  "txt": "Sexta parada: la sandía. En 2008, investigadores de la Universidad Texas A&M publicaron un estudio sobre la citrulina, una sustancia de la sandía que el cuerpo convierte en arginina, y que ayuda a relajar los vasos sanguíneos. En cuestión de días, la noticia recorrió el mundo con un titular escandaloso: la sandía era un medicamento natural para el amor."
+ },
+ {
+  "src": [
+   "S7@1-29",
+   "EC@860-990"
+  ],
+  "label": "SANDÍA",
+  "cap": "LA LETRA PEQUEÑA",
+  "txt": "Pero la letra pequeña contaba otra historia. El propio investigador aclaró que la sandía no funcionaba como un medicamento, y que para obtener una cantidad importante de citrulina habría que comer muchísima fruta. Además, buena parte de esa sustancia está en la cáscara blanca, la parte que casi todos tiramos a la basura. La sandía es refrescante y saludable, pero su fama romántica fue un titular exagerado."
+ },
+ {
+  "src": [
+   "S8@1-29",
+   "EC@860-990"
+  ],
+  "label": "CHILE",
+  "cap": "",
+  "txt": "Séptima parada: el chile. De todas las comidas de esta lista, es la que provoca el efecto más visible en el cuerpo. La capsaicina, la sustancia que hace que pique, acelera el corazón, enrojece la piel, hace sudar y libera endorfinas. Por eso, en muchas culturas de América y Asia, la comida picante se asoció con la pasión y la energía."
+ },
+ {
+  "src": [
+   "S8@1-29",
+   "PT@120-600"
+  ],
+  "label": "CHILE",
+  "cap": "¿PASIÓN O DOLOR?",
+  "txt": "Pero hay una diferencia importante. La capsaicina activa los mismos receptores que detectan el calor y las quemaduras. Lo que siente el cuerpo es una alarma, no un sentimiento romántico. Las endorfinas son su forma de defenderse del ardor. Así que el chile sí hace que el corazón lata más rápido, pero no necesariamente por amor. A veces es solo por arrepentirse de haber pedido la salsa más picante del menú."
+ },
+ {
+  "src": [
+   "S14@1-29",
+   "S9@1-29"
+  ],
+  "label": "GRANADA",
+  "cap": "",
+  "txt": "Octava parada: la granada. Pocas frutas tienen tanta mitología. En la leyenda griega, Perséfone fue llevada al inframundo por Hades, y comió unas semillas de granada. Por haberlas comido, quedó obligada a pasar una parte de cada año en ese reino de sombras. Para los griegos, esa historia explicaba el cambio de las estaciones, y convirtió a la granada en un símbolo de tentación y de promesa."
+ },
+ {
+  "src": [
+   "S9@1-29",
+   "MY@40-900"
+  ],
+  "label": "GRANADA",
+  "cap": "MIL SEMILLAS",
+  "txt": "En muchas culturas del Mediterráneo y del Medio Oriente, la granada también representó la fertilidad y la abundancia. Al abrirla, cientos de semillas rojas y brillantes salen de una sola fruta, y es fácil ver por qué. Hoy se estudian sus antioxidantes, pero ningún estudio ha demostrado que tenga un efecto directo sobre el romance. Su magia está en el mito y en lo bonita que se ve al abrirla."
+ },
+ {
+  "src": [
+   "S10@1-29",
+   "EC@860-990"
+  ],
+  "label": "AGUACATE",
+  "cap": "",
+  "txt": "Novena parada: el aguacate. Su nombre viene del náhuatl ahuacatl, una palabra que, según los lingüistas, también tenía un doble sentido atrevido, por la forma en que la fruta cuelga en pares del árbol. Con un nombre así, su fama estaba asegurada. Para los pueblos de Mesoamérica, era un alimento de fertilidad y abundancia."
+ },
+ {
+  "src": [
+   "S10@1-29",
+   "MM@40-640"
+  ],
+  "label": "AGUACATE",
+  "cap": "PURA TEXTURA",
+  "txt": "Nutricionalmente, el aguacate es excelente. Tiene grasas saludables, potasio y vitaminas. Pero no hay ninguna sustancia en él que tenga un efecto comprobado sobre el deseo. Su reputación romántica se construyó con un nombre, una forma y una textura suave y cremosa. A veces, para ganarse una fama, basta con parecerse a algo."
+ },
+ {
+  "src": [
+   "S11@1-29",
+   "MY@40-900"
+  ],
+  "label": "HIGOS",
+  "cap": "",
+  "txt": "Décima parada: los higos. Para los griegos y los romanos, el higo era un alimento sagrado, relacionado con Dionisio, el dios del vino y las fiestas. Aparecía en celebraciones y rituales de fertilidad, y su interior, rosado y lleno de pequeñas semillas, alimentó la imaginación de poetas durante siglos. Los higos tienen fibra, potasio y hierro, pero ninguna prueba de poderes románticos."
+ },
+ {
+  "src": [
+   "S11@1-29",
+   "MY@40-900"
+  ],
+  "label": "HIGOS",
+  "cap": "HOJAS DE HIGUERA",
+  "txt": "El higo también aparece en uno de los relatos más famosos de la historia. En el libro del Génesis, después de comer del fruto prohibido, Adán y Eva se cubren con hojas de higuera. Por eso, algunas tradiciones antiguas llegaron a pensar que el fruto prohibido no era una manzana, sino un higo. Sea como sea, la higuera quedó ligada desde entonces a la tentación, y el higo a una fama que sus nutrientes nunca han podido justificar."
+ },
+ {
+  "src": [
+   "S12@1-29",
+   "PT@120-600"
+  ],
+  "label": "CAVIAR",
+  "cap": "",
+  "txt": "Undécima parada: el caviar. Son huevas de esturión curadas con sal, y desde hace siglos están asociadas con el lujo. Los zares de Rusia las servían en sus banquetes, y la aristocracia europea las convirtió en símbolo de buen gusto. Ningún estudio serio ha demostrado que el caviar tenga algún efecto sobre el romance. Tiene omega tres, vitamina B doce y selenio. Nada más."
+ },
+ {
+  "src": [
+   "S12@1-29",
+   "PT@470-530"
+  ],
+  "label": "CAVIAR",
+  "cap": "EL VERDADERO SECRETO",
+  "txt": "Entonces, ¿por qué aparece en tantas cenas románticas? Por el precio. Pedir caviar en una cita es una forma de decir que no te importa gastar. El caviar no funciona por lo que contiene, sino por lo que cuesta. Es quizá el afrodisíaco más honesto de la lista: no promete química, solo promete una cuenta enorme."
+ },
+ {
+  "src": [
+   "PT@120-600",
+   "VD@355-415"
+  ],
+  "label": "LA CIENCIA",
+  "cap": "EL VEREDICTO",
+  "txt": "¿Y qué dice la ciencia en general? Las revisiones de estudios científicos han encontrado muy poca evidencia sólida de que algún alimento funcione como afrodisíaco. En Estados Unidos, la FDA, la agencia que regula alimentos y medicinas, concluyó en 1989 que no había pruebas de que los productos de venta libre que se anunciaban como afrodisíacos funcionaran, y prohibió venderlos con esa promesa."
+ },
+ {
+  "src": [
+   "PT@470-530",
+   "VD@150-175"
+  ],
+  "label": "LA CIENCIA",
+  "cap": "EL PODER DE CREER",
+  "txt": "Pero eso no significa que estas comidas no tengan ningún efecto. Una cena especial, un postre compartido, el ambiente, las expectativas y la buena compañía sí cambian cómo nos sentimos. Los científicos lo llaman el efecto de la expectativa: si creemos que algo es romántico, nos ponemos más románticos. Al final, el ingrediente más poderoso no está en el plato, sino en la persona con la que lo compartes."
+ },
+ {
+  "src": [
+   "PT@120-600",
+   "VD@355-415"
+  ],
+  "label": "COMIDAS DEL AMOR",
+  "cap": "",
+  "txt": "¿Cuál de estas comidas te parece más romántica? ¿Y cuál crees que nos faltó en la lista? Cuéntanos en los comentarios. Y si te gustó descubrir la verdad detrás de estos mitos, suscríbete para más historias sobre la comida que comemos todos los días."
+ }
+]
