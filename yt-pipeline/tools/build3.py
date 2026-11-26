@@ -168,6 +168,15 @@ for _q in plan:                                                     # enforce cl
         _q["speed"] = "normal"; _q["d"] = min(_q["d"], MAXSRC)
 _bad = [(a["src"], a["start"], b["start"]) for a, b in zip(plan, plan[1:]) if a["src"] == b["src"] and not (a.get("fx") or a.get("parallax") or b.get("fx") or b.get("parallax"))
         and 0 <= b["start"] - (a["start"] + a["d"] * _SF[a["speed"]]) < 1.0]
+for a, b in zip(plan, plan[1:]):                                    # fix: never continue the same source within 1s
+    if a["src"] == b["src"] and not (a.get("fx") or a.get("parallax") or b.get("fx") or b.get("parallax")):
+        ae = a["start"] + a["d"] * _SF[a["speed"]]; bl = b["d"] * _SF[b["speed"]]; D = info[b["src"]]["d"]
+        if 0 <= b["start"] - ae < 1.0:
+            ns = ae + 2.0
+            if ns + bl > D - 0.5: ns = max(0.0, a["start"] - bl - 2.0)
+            b["start"] = round(ns, 2)
+_bad = [(a["src"], a["start"], b["start"]) for a, b in zip(plan, plan[1:]) if a["src"] == b["src"] and not (a.get("fx") or a.get("parallax") or b.get("fx") or b.get("parallax"))
+        and 0 <= b["start"] - (a["start"] + a["d"] * _SF[a["speed"]]) < 1.0]
 print("clip rule: max src span %.2fs, back-to-back continuous joins: %d" % (max([q["d"] * _SF[q["speed"]] for q in plan if not q.get("fx")] or [0]), len(_bad)))
 json.dump(plan, open(f"{B}/timeline.json", "w"), ensure_ascii=False, indent=0)
 print(f"timeline {TOTAL:.1f}s, {len(plan)} shots, moods:", {m: sum(1 for s in seg if s['_mood'] == m) for m in MOOD})
