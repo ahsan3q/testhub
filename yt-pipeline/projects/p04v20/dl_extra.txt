@@ -1,0 +1,9 @@
+AE colonelbleep_s1/s01e01_ColonelBleepsArrivalOnEarth.mp4 @0+400
+DB colonelbleep_s1/s01e03_DangerBelow.mp4 @0+400
+KD colonelbleep_s1/s01e07_KnightOfDeath.mp4 @0+400
+MM colonelbleep_s1/s01e08_ManhuntOnTheMoon.mp4 @0+400
+TF colonelbleep_s1/s01e15_TestOfFriendship.mp4 @0+400
+KW colonelbleep_s1/s01e25_KillerWhale_the.mp4 @0+400
+LL colonelbleep_s1/s01e26_LunarLuger_the.mp4 @0+400
+TP colonelbleep_s1/s01e30_TreacherousPirate.mp4 @0+400
+PP colonelbleep_s1/s01e28_PrehistoricPresent_the.mp4 @0+400
