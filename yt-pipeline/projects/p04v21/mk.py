@@ -1,0 +1,79 @@
+import json
+L = "FLIP LA RANA · 1930"
+S = [
+ dict(src=["FF@20-360", "FY@20-380"], label=L, cap="",
+      txt="Una rana con moño que bailaba sobre hojas de nenúfar, tocaba el piano con un ratón y se subía a un ring de box. Se llamaba Flip, y en 1930 la creó el mismo hombre que había dibujado a Mickey Mouse. Durante tres años tuvo su propia serie de caricaturas en los cines. Y luego desapareció casi por completo de la memoria del público."),
+ dict(src=["PP@20-355", "LG@20-400"], label=L, cap="10 DATOS INCREÍBLES",
+      txt="Ya te contamos en el canal la historia de Ub Iwerks, el dibujante que dejó a Walt Disney. Hoy nos olvidamos un poco de él y nos quedamos con su rana. Te traigo diez datos increíbles sobre Flip: de cómo se iba a llamar, a por qué solo los ingleses lo vieron en color, y por qué hoy cualquiera puede ver casi todas sus primeras caricaturas gratis. Empezamos con el número diez."),
+
+ dict(src=["FF@30-360", "VB@30-430"], label="NO SE LLAMABA FLIP", cap="#10",
+      txt="Número diez: Flip no siempre se llamó Flip. Cuando Iwerks abrió su propio estudio en 1930, con el dinero del distribuidor Pat Powers, la primera serie iba a estar protagonizada por un personaje llamado Tony la Rana. Pero a Iwerks no le gustaba ese nombre, así que lo cambió. Y la rana se quedó con un nombre más corto, más rápido y más fácil de recordar: Flip."),
+ dict(src=["FY@40-380", "PP@40-355"], label="NO SE LLAMABA FLIP", cap="CELEBRITY PICTURES",
+      txt="Las caricaturas se produjeron bajo el sello de Celebrity Pictures, la empresa de Powers, y las distribuyó el estudio Metro-Goldwyn-Mayer, el del león que ruge. En total se hicieron treinta y ocho cortos de Flip, entre 1930 y 1933. Desde el principio, la idea era clara: Flip tenía una personalidad parecida a la de Mickey, y estaba pensado para competir con él."),
+
+ dict(src=["FF@60-360", "FF@100-360"], label="LA PRIMERA EN COLOR", cap="#9",
+      txt="Número nueve: su primera caricatura hizo historia. Se llamó Fiddlesticks, se estrenó en 1930, y es considerada la primera caricatura sonora completa, como corto individual, filmada en color. Usó un proceso de color de dos tonos llamado Harriscolor, que duró muy poco. Las imágenes que estás viendo son de Fiddlesticks, y por eso se ven con esos tonos cálidos, entre café, naranja y verde."),
+ dict(src=["FF@140-360", "FF@180-360"], label="LA PRIMERA EN COLOR", cap="UN CONEJO CONOCIDO",
+      txt="Pero hay un detalle curioso. Unos meses antes, en 1930, se había estrenado King of Jazz, una película musical de Universal que incluía un segmento animado a color, hecho por el estudio de Walter Lantz. Y en ese segmento aparecía, en un pequeño cameo, Oswaldo el conejo afortunado, un personaje que Iwerks había ayudado a crear años antes con Disney. Hasta en el récord del color, Iwerks tenía competencia de su propio pasado."),
+
+ dict(src=["PP@60-355", "FY@60-380"], label="SOLO EN INGLATERRA", cap="#8",
+      txt="Número ocho: casi nadie en Estados Unidos vio a Flip en color. Iwerks planeaba estrenar la serie en dos versiones: a color y en blanco y negro. Y en Inglaterra la serie llamó la atención como la primera serie de caricaturas sonoras a color, con un sistema británico de dos colores. Allá sí se proyectaron en color. Pero en Estados Unidos, el país donde se hicieron, no."),
+ dict(src=["FY@100-380", "FY@150-380"], label="SOLO EN INGLATERRA", cap="LA DECISIÓN DE MGM",
+      txt="La razón: después de los primeros cuatro cortos, Metro-Goldwyn-Mayer tomó la serie, y decidió que todo se haría en blanco y negro. Incluso los cortos que ya se habían filmado a color se estrenaron en Estados Unidos solo en blanco y negro. Por eso casi todo lo que vas a ver de Flip en este video es en blanco y negro, como este combate de box de Flying Fists, de 1930."),
+
+ dict(src=["FY@200-380", "FY@300-380"], label="SOLO EN INGLATERRA", cap="FLYING FISTS",
+      txt="En Flying Fists, su segunda caricatura, Flip se sube al ring para pelear contra un rival mucho más grande. Lo vemos entrenar, recibir golpes, esquivar, y rebotar contra las cuerdas como si fuera de hule. Todo al ritmo de la música, porque en esos primeros años del cine sonoro, cada movimiento de una caricatura tenía que bailar con la banda sonora."),
+
+ dict(src=["FF@200-360", "FF@250-360"], label="EL RATÓN MISTERIOSO", cap="#7",
+      txt="Número siete: en Fiddlesticks aparece un ratón muy sospechoso. Mientras Flip toca el piano, un ratoncito sin nombre lo acompaña con el violín. Y ese ratón se parece muchísimo a Mortimer Mouse, el primer concepto del personaje que después se convirtió en Mickey Mouse. Los dos, el de Disney y el de Fiddlesticks, fueron animados por primera vez por la misma mano: la de Ub Iwerks."),
+ dict(src=["FF@280-360", "FF@320-360"], label="EL RATÓN MISTERIOSO", cap="EL PIANO REBELDE",
+      txt="El final de Fiddlesticks es pura locura de los primeros dibujos sonoros. El ratón toca una canción tan triste que llora, Flip llora, y hasta el piano llora. Después Flip abraza al piano, y el piano le responde con una patada. Flip se enoja, golpea las teclas, las hace volar por el aire, y todas le caen encima. Y para el sonido usaron el mismo sistema de las primeras caricaturas de Mickey, llamado Cinephone."),
+
+ dict(src=["LO@20-350", "LO@80-350"], label="NUNCA REGISTRADAS", cap="#6",
+      txt="Número seis: dos caricaturas de Flip nunca se registraron. Se trata de Little Orphan Willie, que estás viendo ahora, con una cigüeña en medio de una nevada, y de Puddle Pranks. Las dos fueron de los primeros cuatro cortos de la serie. Como nadie registró sus derechos de autor, quedaron en el dominio público desde el principio. Cualquiera puede verlas, copiarlas y compartirlas libremente."),
+ dict(src=["LO@120-350", "LO@200-350"], label="NUNCA REGISTRADAS", cap="2026",
+      txt="Con Fiddlesticks pasó lo contrario. Sus derechos se renovaron en 1959, una de las pocas caricaturas de Flip con ese trámite. Pero los derechos en Estados Unidos no duran para siempre: como obra de 1930, Fiddlesticks entró al dominio público el primero de enero de 2026. Y las caricaturas de 1930 ya son todas de dominio público. Las que se registraron después irán quedando libres en los próximos años."),
+
+ dict(src=["PP@120-355", "PP@180-355"], label="NUNCA REGISTRADAS", cap="PUDDLE PRANKS",
+      txt="Y Puddle Pranks, la otra caricatura que nunca se registró, es de las más simpáticas de Flip. En ella aparece con su novia Flap, otra rana, paseando en un cochecito improvisado. Tocan la armónica, se divierten, y al final terminan tomados de la mano. Es el Flip más inocente, antes de que la serie cambiara de rumbo."),
+
+ dict(src=["PP@100-355", "PP@200-355"], label="DEJÓ DE SER RANA", cap="#5",
+      txt="Número cinco: con el tiempo, Flip dejó de parecer una rana. Después de sus dos primeras caricaturas, su aspecto empezó a cambiar poco a poco. Fue por presión de Metro-Goldwyn-Mayer, que pensaba que la serie se vendería mejor si el personaje se veía más humano. Compara al Flip de Fiddlesticks, con sus ojos saltones de rana, con el de los cortos de 1932 y 1933."),
+ dict(src=["PP@250-355", "LG@60-400"], label="DEJÓ DE SER RANA", cap="DE GATA A FIFI",
+      txt="El gran rediseño se le atribuye a Grim Natwick, el animador famoso por crear a Betty Boop. Y también cambió a la novia de Flip. En los primeros cortos, su novia era una gata, y en Puddle Pranks aparece Flap, una rana. Pero Natwick la convirtió en Fifi, una muchacha humana muy parecida a Betty Boop, hasta en los rizos de la frente."),
+
+ dict(src=["VB@60-430", "VB@120-430"], label="LOS VECINOS DE FLIP", cap="#4",
+      txt="Número cuatro: Flip tenía todo un vecindario. En sus caricaturas aparecían personajes que se repetían: su perro, una mula llamada Orace, y una vecina solterona y despistada. Aquí lo ves en The Village Barber, de 1930, donde Flip es el peluquero del pueblo, con clientes cada vez más difíciles. Las barbas, los pelos y las tijeras se vuelven parte del caos."),
+ dict(src=["VB@200-430", "VB@300-430"], label="LOS VECINOS DE FLIP", cap="CARL STALLING",
+      txt="Y en los créditos de The Village Barber aparece un nombre que después se haría famoso: la música es de Carl W. Stalling. Años más tarde, Stalling sería el compositor de las caricaturas de Warner, las de Bugs Bunny y el Pato Lucas. Muchas de las melodías locas y rapidísimas que asociamos con los Looney Tunes salieron de su cabeza."),
+
+ dict(src=["LG@100-400", "LG@200-400"], label="LA RANA DE LA CRISIS", cap="#3",
+      txt="Número tres: Flip fue la rana de la Gran Depresión. Con el paso de los cortos, su personalidad cambió. Se volvió un personaje pobre, siempre con problemas cotidianos, al estilo de Charlie Chaplin. Mientras en la vida real millones de personas perdían su trabajo, Flip buscaba empleo, abría negocios que fracasaban y huía de las rentas atrasadas. Aquí lo ves como dentista en Laughing Gas, de 1931."),
+ dict(src=["LG@250-400", "CK@40-460"], label="LA RANA DE LA CRISIS", cap="ANTES DE LA CENSURA",
+      txt="Además, con la llegada de animadores de Nueva York, los cortos se volvieron cada vez más atrevidos, con chistes para adultos que hoy no pasarían en una caricatura infantil. Eran los años anteriores a las reglas de censura que Hollywood empezó a aplicar con fuerza a mediados de los treinta. Hoy algunos de esos cortos sorprenden mucho más a los adultos que a los niños."),
+
+ dict(src=["CK@80-460", "CK@200-460"], label="FLIP DETECTIVE", cap="UN MISTERIO",
+      txt="Flip también probó suerte en otros géneros. En The Cuckoo Murder Case, de 1930, se mete en una casa misteriosa, con una armadura que parece vigilarlo, un reloj de cucú, y una patrulla de policías persiguiendo a todos. Es una parodia de las películas de misterio y de casas embrujadas, que en esos años estaban de moda en el cine."),
+
+ dict(src=["TC@20-440", "TC@60-440"], label="UN ROBOT EN 1933", cap="#2",
+      txt="Número dos: en 1933, Flip construyó un robot. La caricatura se llama Techno-Cracked, y su título es un juego de palabras con la tecnocracia, una idea que estaba de moda en aquellos años: que las máquinas y los ingenieros resolverían los problemas de la sociedad. Al principio del corto, Flip lee un libro que promete un hombre mecánico que trabaja mientras tú duermes. Y decide fabricarse uno."),
+ dict(src=["TC@100-440", "TC@200-440"], label="UN ROBOT EN 1933", cap="¿EN CINECOLOR?",
+      txt="Por supuesto, el robot no sale como esperaba. Pero hay un misterio técnico alrededor de este corto: algunos han especulado que Techno-Cracked pudo haberse filmado en Cinecolor, un nuevo proceso de dos colores que había salido en 1932. No hay certeza. Lo que sí sabemos es que Iwerks usaría mucho el Cinecolor justo después, en su serie de cuentos de hadas llamada ComiColor."),
+
+ dict(src=["SS@20-370", "SS@120-370"], label="SU ÚLTIMO CORTO", cap="#1",
+      txt="Y el número uno: el final de Flip, y lo que vino después. Su último corto fue Soda Squirt, estrenado en octubre de 1933, donde Flip atiende una fuente de sodas. Para entonces, el personaje ya no convencía a Metro-Goldwyn-Mayer. Iwerks lo reemplazó con una nueva serie protagonizada por Willie Whopper, un niño que contaba historias exageradas. Y Flip quedó olvidado."),
+ dict(src=["SS@200-370", "FY@200-380"], label="SU ÚLTIMO CORTO", cap="UN LIBRO EN INGLATERRA",
+      txt="Pero en Inglaterra, Flip tuvo algo que muchos personajes nunca tuvieron: su propio libro anual. En 1931 se publicó el Flip the Frog Annual, dibujado por Wilfred Haughton, el mismo artista de los primeros anuarios de Mickey Mouse. Tenía once historietas completas, todas al aire libre, con personajes que no salían en las caricaturas, como un zorrito travieso y un policía. Solo hubo una edición."),
+ dict(src=["PP@300-355", "LG@300-400"], label="SU ÚLTIMO CORTO", cap="EL REGRESO",
+      txt="Años después, en la década de 1940, las caricaturas de Flip se vendieron en rollos de ocho y dieciséis milímetros, para verlas en proyectores caseros. Y como Iwerks conservó los negativos originales, los historiadores de la animación pudieron rescatarlas. En 2004 salió en Francia una colección en DVD con treinta y siete de sus caricaturas. Poco a poco, la rana olvidada volvió a ser descubierta."),
+
+ dict(src=["LO@250-350", "VB@350-430"], label="SU ÚLTIMO CORTO", cap="EL FIN DEL CONTRATO",
+      txt="Tampoco Willie Whopper tuvo suerte. En 1934, Metro-Goldwyn-Mayer terminó su contrato con el estudio de Iwerks, y en su lugar contrató a Hugh Harman y Rudolf Ising para hacer una nueva serie a color, llamada Happy Harmonies. Para Iwerks fue el principio del fin de su estudio independiente. Y para Flip, el final definitivo de su carrera en los cines."),
+ dict(src=["CK@300-460", "FF@120-360"], label="SU ÚLTIMO CORTO", cap="CARICATURAS QUE EL TIEMPO OLVIDÓ",
+      txt="En Estados Unidos, veintisiete de sus caricaturas se publicaron en dos colecciones en DVD con un nombre que lo dice todo: Cartoons That Time Forgot, es decir, caricaturas que el tiempo olvidó. Y Little Orphan Willie, una de las que nunca se registraron, apareció en otra colección dedicada a los personajes olvidados de los años treinta. Hoy, casi todo Flip se puede encontrar en archivos públicos en internet."),
+
+ dict(src=["FF@60-200", "TC@300-440"], label=L, cap="",
+      txt="Una rana que iba a llamarse Tony, que en Inglaterra se vio a color, que acabó pareciéndose más a un muchacho que a una rana, y que construyó un robot en 1933. Flip nunca llegó a ser tan famoso como Mickey, pero fue parte de una época en la que todo en la animación era nuevo. ¿Conocías a Flip? Cuéntanos en los comentarios, y suscríbete para más historias de las caricaturas clásicas."),
+]
+json.dump(S, open("script.json", "w"), ensure_ascii=False, indent=1)
+print(len(S), sum(len(s["txt"].split()) for s in S))

@@ -1,0 +1,72 @@
+import json
+L = "CARICATURAS DE 1962"
+M = "EL MUNDO EN 1962"
+S = [
+ dict(src=["ZT@20-380", "MG@20-380"], label=L, cap="",
+      txt="En 1962, un coyote congeló su propio cuerpo con una máquina de hielo. Un pato tuvo que empollar un huevo que no era suyo. Un gallo crió como hijo a un avestruz, y un marciano aburrido viajó desde su planeta perfecto hasta la ciudad de Atlanta, solo para descubrir que en la Tierra el monstruo era él. ¿Los recuerdas? Seguramente alguna de esas escenas te suena, aunque no sepas cómo se llamaba la caricatura."),
+ dict(src=["JC@20-366", "SD@20-363"], label=L, cap="6 CARICATURAS OLVIDADAS",
+      txt="Hoy seguimos nuestro viaje año por año, y llegamos a 1962. Ya te hablamos en el canal de las series de televisión de ese año. Esta vez vamos al cine: te traigo seis cortos animados de esa temporada que casi nadie menciona. Todos salieron del estudio de Warner Brothers, el de Bugs Bunny, el Pato Lucas, Silvestre y el Correcaminos. Pero antes, como siempre, un poco de contexto sobre cómo era el mundo en 1962."),
+
+ dict(src=["GL@15-360", "GL@60-360"], label=M, cap="TRES VUELTAS A LA TIERRA",
+      txt="El veinte de febrero de 1962, el astronauta John Glenn despegó desde Cabo Cañaveral, en Florida, a bordo de una pequeña cápsula llamada Friendship 7, que en español sería Amistad 7. Dio tres vueltas completas a la Tierra, y se convirtió en el primer estadounidense en orbitar el planeta. El vuelo duró casi cinco horas, y terminó con la cápsula cayendo en el océano Atlántico, donde lo rescató un barco de la marina."),
+ dict(src=["GL@150-360", "GL@250-360"], label=M, cap="UN HÉROE NACIONAL",
+      txt="Las imágenes que estás viendo son de un noticiero de la época, filmado esos mismos días. Glenn regresó como héroe nacional, con desfiles y multitudes en las calles. Para muchos niños de 1962, aquel astronauta era más emocionante que cualquier caricatura. Y como vas a ver en un momento, los dibujos animados de ese año también estaban llenos de cohetes, jets y marcianos. La era espacial estaba en todas partes."),
+ dict(src=["TS@10-189", "TS@60-189"], label=M, cap="TELSTAR",
+      txt="Ese verano llegó otra novedad del espacio. El diez de julio de 1962 se lanzó Telstar, uno de los primeros satélites de comunicaciones. Gracias a él, por primera vez se pudieron transmitir imágenes de televisión en vivo entre Estados Unidos y Europa, cruzando el océano. Hoy nos parece normal ver un partido o una noticia del otro lado del mundo en directo, pero en 1962 era casi ciencia ficción."),
+ dict(src=["CU@15-350", "CU@120-350"], label=M, cap="TRECE DÍAS DE MIEDO",
+      txt="Y en octubre llegó el momento más tenso del año. Estados Unidos descubrió misiles soviéticos instalados en Cuba, muy cerca de sus costas. El presidente Kennedy anunció un bloqueo naval a la isla, y durante unos días el mundo temió una guerra nuclear. Es lo que hoy conocemos como la crisis de los misiles. Finalmente, la Unión Soviética aceptó retirar los misiles, y la tensión bajó. Estas imágenes son del noticiero de esos días."),
+ dict(src=["CU@200-350", "MG@60-200"], label=M, cap="EL FUTURO EN LA TELE",
+      txt="Mientras tanto, en la televisión, el futuro también estaba de moda. En septiembre de 1962 se estrenó Los Supersónicos, la familia del espacio de Hanna-Barbera, que fue el primer programa transmitido a color por la cadena ABC. Pero hoy no hablamos de la tele, sino del cine. Porque en 1962, antes de cada película, en las salas todavía se proyectaban caricaturas. Y estas son seis que casi nadie recuerda."),
+
+ dict(src=["JC@60-366", "QT@60-350"], label=M, cap="DEL CINE A LA TELE",
+      txt="En aquellos años, la forma de ver estas caricaturas era ir al cine: se proyectaban antes de la película principal, junto con los noticieros. Pero desde octubre de 1960, muchos cortos de Warner también llegaban a las casas con El show de Bugs Bunny, en la televisión. Así que un niño de 1962 podía ver a Lucas o al Coyote en el cine el sábado, y otra vez en la tele durante la semana."),
+
+ dict(src=["QT@20-350", "QT@100-350"], label="QUACKODILE TEARS", cap="#6",
+      txt="Empezamos con el número seis: Quackodile Tears, que se estrenó el treinta y uno de marzo de 1962. El título es un juego de palabras con lágrimas de cocodrilo, y la estrella es el Pato Lucas. Esta vez, Lucas tiene esposa, y ella le exige que se siente a empollar el huevo de la familia. Lucas no quiere, pero no tiene opción. Y claro, en cuanto se descuida, el huevo sale rodando cuesta abajo."),
+ dict(src=["QT@150-350", "QT@200-350"], label="QUACKODILE TEARS", cap="EL HUEVO EQUIVOCADO",
+      txt="El huevo cae en un nido lleno de huevos de cocodrilo. Lucas no sabe distinguirlos, así que agarra uno al azar y se lo lleva a casa. El papá cocodrilo lo ve, y empieza una pelea por el huevo que dura todo el corto. Al final, cada familia termina criando al bebé de la otra, convencida de que es un patito feo que algún día será un cisne."),
+ dict(src=["QT@250-350", "QT@300-350"], label="QUACKODILE TEARS", cap="UN DIRECTOR PRESTADO",
+      txt="Lo curioso es quién la dirigió: Arthur Davis, un veterano de Warner que en esa época ya trabajaba en el estudio de Hanna-Barbera. Según se ha contado, hizo este corto en su tiempo libre. Por eso Quackodile Tears tiene un estilo un poco distinto al de los demás cortos de Lucas de esos años. Es una de esas rarezas que casi nadie conoce."),
+
+ dict(src=["MR@20-345", "MR@80-345"], label="MOTHER WAS A ROOSTER", cap="#5",
+      txt="Número cinco: Mother Was a Rooster, que en español sería Mi mamá era un gallo. Se estrenó el veinte de octubre de 1962, y la dirigió Robert McKimson. Una noche, el perro del corral, el eterno enemigo del gallo Claudio, roba un huevo de avestruz y lo pone debajo de Claudio mientras duerme. Quiere hacerle creer que él mismo lo puso. Y Claudio se lo cree por completo."),
+ dict(src=["MR@120-345", "MR@180-345"], label="MOTHER WAS A ROOSTER", cap="UN HIJO AVESTRUZ",
+      txt="Del huevo sale un pequeño avestruz, y Claudio lo adopta como su hijo, sin darse cuenta de que no es un pollito. Le enseña a jugar béisbol y fútbol americano, y lo presume por todo el corral. Pero el perro no deja de burlarse del avestruz, y cada vez que lo insultan, el pobre esconde la cabeza en la tierra, como dicen que hacen los avestruces."),
+ dict(src=["MR@220-345", "MR@300-345"], label="MOTHER WAS A ROOSTER", cap="DEFENDER AL HIJO",
+      txt="Al final, Claudio se cansa y reta al perro a una pelea de box para defender el honor de su hijo. Por supuesto, ninguno de los dos pelea limpio, y todo termina en desastre. Hay un dato triste detrás de este corto: fue la última caricatura estrenada con música de Milt Franklyn, el compositor que había trabajado durante años en las caricaturas de Warner."),
+
+ dict(src=["JC@20-366", "JC@90-366"], label="THE JET CAGE", cap="#4",
+      txt="Número cuatro: The Jet Cage, que se estrenó el veintidós de septiembre de 1962, con Piolín, Silvestre y la Abuelita. Piolín ve a los pájaros volar libres por la ventana, y sueña con hacer lo mismo. Pero la Abuelita no lo deja salir, porque afuera lo espera Silvestre. Entonces ella ve un anuncio en el periódico: una jaula voladora con motor de jet, por doce dólares con noventa y cinco centavos."),
+ dict(src=["JC@120-366", "JC@200-366"], label="THE JET CAGE", cap="PIOLÍN PILOTO",
+      txt="Con su nueva jaula, Piolín vuela por el cielo como un piloto, seguro detrás de los barrotes. Dos cuervos lo miran pasar, y uno le dice al otro algo así como: y yo que todo este tiempo lo he hecho por las malas. Silvestre intenta de todo para derribar la jaula: una red para mariposas, colarse dentro, y hasta construir su propio cohete. Nada le funciona."),
+ dict(src=["JC@250-366", "JC@330-366"], label="THE JET CAGE", cap="UN ADIÓS",
+      txt="The Jet Cage tiene dos despedidas. Fue el último corto de Piolín dirigido por Friz Freleng, el director que había creado muchas de sus mejores historias, incluido el corto que le dio a Warner su primer Óscar con Piolín y Silvestre, Tweetie Pie. Y su compositor, Milt Franklyn, murió en abril de 1962, mientras todavía trabajaba en la música de este corto. William Lava, sin aparecer en los créditos, terminó la partitura. Es una caricatura alegre, hecha en un momento triste."),
+
+ dict(src=["ZT@20-380", "ZT@80-380"], label="ZOOM AT THE TOP", cap="#3",
+      txt="Número tres: Zoom at the Top, del treinta de junio de 1962, con el Coyote y el Correcaminos. La dirigió Chuck Jones junto al diseñador Maurice Noble. Como en todos sus cortos, al principio aparecen los nombres falsos en latín de cada personaje. Esta vez, el Correcaminos es Disappearialis Quickius, algo así como desaparecedor rapidísimo, y el Coyote es Overconfidentii Vulgaris: el demasiado confiado común."),
+ dict(src=["ZT@120-380", "ZT@180-380"], label="ZOOM AT THE TOP", cap="LA TRAMPA PARA OSOS",
+      txt="Y el Coyote vuelve a demostrar por qué se ganó ese nombre. Pone una trampa para osos con un plato de alpiste marca ACME. El Correcaminos se come el alpiste, salta sobre la trampa, y no pasa nada. El Coyote se acerca a revisarla con una aceitera, le pone una gotita de aceite estando parado dentro, y entonces sí, la trampa se cierra. Sobre él, por supuesto."),
+ dict(src=["ZT@220-380", "ZT@300-380"], label="ZOOM AT THE TOP", cap="CONGELADO",
+      txt="Después prueba con una máquina ACME para hacer carámbanos instantáneos, que promete congelar a tus amigos para morirse de risa. Funciona perfectamente con un cactus. Pero cuando la apunta hacia el camino, la máquina se activa antes de tiempo y el que queda congelado es él. Intenta descongelarse con una lupa, y termina derritiéndose, junto con el hielo, en un charco."),
+
+ dict(src=["SD@20-363", "SD@80-363"], label="A SHEEP IN THE DEEP", cap="#2",
+      txt="Número dos: A Sheep in the Deep, que se estrenó el diez de febrero de 1962, con Ralph el lobo y Sam el perro pastor. En esta serie, robar ovejas y cuidarlas es solo un trabajo de oficina. Los dos llegan cada mañana, checan tarjeta, se saludan como buenos compañeros, y empiezan su jornada. Uno intenta robar ovejas, y el otro se lo impide. Al terminar el turno, se despiden como amigos."),
+ dict(src=["SD@120-363", "SD@200-363"], label="A SHEEP IN THE DEEP", cap="LA MÁQUINA DEL DESPERTADOR",
+      txt="Este corto empieza con una de las mejores escenas de la serie. Sam se despierta al amanecer y camina tranquilo al trabajo. Ralph, en cambio, se queda dormido. Pero cuando suena su despertador, se activa una máquina que lo saca de la cama, lo mete a la regadera, lo seca, le da su pan tostado y su café, y lo lleva rodando hasta el trabajo. Y aun así, llega antes que Sam."),
+ dict(src=["SD@250-363", "SD@320-363"], label="A SHEEP IN THE DEEP", cap="EL ÚLTIMO DE JONES",
+      txt="A Sheep in the Deep fue el último corto de Ralph y Sam dirigido por Chuck Jones. Y como su guionista de siempre, Michael Maltese, se había ido a Hanna-Barbera en 1959, esta vez el propio Jones escribió la historia. Casi todo el corto son gags visuales, sin apenas palabras, y todas las voces son de Mel Blanc."),
+
+ dict(src=["MG@20-380", "MG@60-200"], label="MARTIAN THROUGH GEORGIA", cap="#1",
+      txt="Y llegamos al número uno: Martian Through Georgia, que se estrenó el veintinueve de diciembre de 1962. El título es un juego de palabras con una vieja canción estadounidense, Marching Through Georgia. La historia empieza en Marte, en una sociedad perfecta, donde un marciano lo tiene todo y puede hacer cualquier cosa. Pero está aburrido. Nada le emociona, y ni siquiera le interesa el amor."),
+ dict(src=["MG@200-380", "MG@250-380"], label="MARTIAN THROUGH GEORGIA", cap="EL MONSTRUO",
+      txt="Así que el marciano viaja a la Tierra buscando emociones, y aterriza en Atlanta, en el estado de Georgia. Pero en cuanto lo ven, la gente lo confunde con un monstruo. Los periódicos hablan de un monstruo suelto, la policía lo persigue, y él no entiende nada. Intenta encajar, pero todo lo que hace termina en caos. Hasta que se da cuenta de que el monstruo del que todos hablan es él."),
+ dict(src=["MG@300-380", "MG@340-380"], label="MARTIAN THROUGH GEORGIA", cap="EL AMOR",
+      txt="Entonces el narrador le recuerda algo que había olvidado: el amor. El marciano regresa a su planeta, descubre que allá alguien lo quiere, y vuelve a ser feliz. Lo dirigieron Chuck Jones y Abe Levitow, con Maurice Noble como codirector. Tiene el estilo de diseño moderno y geométrico de los primeros años sesenta, y es una de las caricaturas más raras y poéticas de Warner de esa época."),
+ dict(src=["MG@100-380", "ZT@250-380"], label=L, cap="EL FINAL DE UNA ERA",
+      txt="Y hay un detalle que hace a estas seis caricaturas todavía más especiales. Pocos meses después, en 1963, Warner Brothers cerró su propio estudio de caricaturas. Los personajes siguieron apareciendo en cortos hechos por otros estudios, pero la época dorada estaba terminando. Por eso, cada corto de 1962 es parte de los últimos años de una era que ya no volvería."),
+
+ dict(src=["SD@200-363", "JC@300-366"], label=L, cap="",
+      txt="Seis caricaturas de 1962, el año de John Glenn, de Telstar, de la crisis de los misiles y del estreno de Los Supersónicos. ¿Cuál de estas recordabas? ¿O hay otra caricatura de 1962 que te marcó de niño? Cuéntanos en los comentarios. Y si te perdiste los años anteriores, en el canal ya tenemos muchas más listas, año por año. Suscríbete, porque la serie sigue."),
+]
+json.dump(S, open("script.json", "w"), ensure_ascii=False, indent=1)
+print(len(S), sum(len(s["txt"].split()) for s in S))
