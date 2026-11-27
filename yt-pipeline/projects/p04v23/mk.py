@@ -1,0 +1,93 @@
+import json
+L = "LA PEQUEÑA LULÚ · 1943"
+S = [
+ dict(src=["SL@40-400", "BT@40-420"], label=L, cap="",
+      txt="Nació para ocupar el lugar de otro personaje. Al principio no decía ni una sola palabra. Reemplazó a Superman en los cines. Su voz era la misma que la de Gasparín. Fue la primera mascota de los pañuelos Kleenex. Y cuando su estudio dejó de pagarle, la cambiaron por una copia con otro nombre."),
+ dict(src=["BE@20-175", "CC@40-420"], label=L, cap="10 DATOS INCREÍBLES",
+      txt="Hoy te cuento diez datos increíbles sobre la Pequeña Lulú, la niña de los rizos negros y el vestido rojo que fue estrella de revistas, de historietas, de caricaturas de cine, de anuncios y hasta de una serie japonesa. Una niña que en los años cuarenta demostraba, caricatura tras caricatura, que podía ser más lista y más traviesa que cualquier niño del barrio."),
+ dict(src=["BC@150-430", "SG@40-135"], label="LA REVISTA · 1935", cap="UN POCO DE CONTEXTO",
+      txt="Primero, un poco de contexto. En los años treinta, una de las revistas más leídas de Estados Unidos era The Saturday Evening Post. Cada semana traía cuentos, artículos, portadas famosas y, por supuesto, chistes dibujados. Y uno de sus chistes más populares era Henry, un niño calvo y regordete que nunca hablaba. Hasta que Henry se fue de la revista."),
+
+ dict(src="DS@40-110", label="EL REEMPLAZO DE HENRY", cap="#10",
+      txt="Número diez. Lulú nació para reemplazar a otro personaje."),
+ dict(src=["DS@145-380", "BS@40-400"], label="EL REEMPLAZO DE HENRY", cap="23 DE FEBRERO DE 1935",
+      txt="Cuando Henry, el personaje de Carl Anderson, fue contratado por un sindicato para publicarse en periódicos de todo el país, la revista se quedó con un hueco. Y le pidió a una dibujante que creara a alguien para ocuparlo. Así nació Lulú, que apareció por primera vez el veintitrés de febrero de 1935, en un solo cuadro."),
+ dict(src=["BS@120-400", "CD@40-380"], label="EL REEMPLAZO DE HENRY", cap="CÁSCARAS DE PLÁTANO",
+      txt="En ese primer chiste, Lulú era la niña de las flores en una boda. Pero en lugar de pétalos, iba tirando cáscaras de plátano por el pasillo de la iglesia. Desde el primer día quedó claro qué tipo de niña era. Ese chiste semanal se publicó en la revista durante casi diez años, hasta diciembre de 1944."),
+
+ dict(src="CD@60-380", label="LA NIÑA SILENCIOSA", cap="#9",
+      txt="Número nueve. Al principio, Lulú no hablaba."),
+ dict(src=["CD@120-380", "ML@40-420"], label="LA NIÑA SILENCIOSA", cap="PURA PANTOMIMA",
+      txt="Igual que Henry, la Lulú original era un chiste mudo. Todo se contaba con dibujos, sin globos de diálogo. Sus rizos, por cierto, se parecían a los que su creadora tenía de niña. Y lo de que fuera niña no fue casualidad. Su creadora explicó una vez a un periodista que quería una niña porque una niña podía salirse con la suya en travesuras que, en un niño, se verían groseras."),
+ dict(src=["ML@120-420", "SG@160-380"], label="LA NIÑA SILENCIOSA", cap="MÁS LISTA QUE LOS NIÑOS",
+      txt="Con los años, Lulú se convirtió en algo raro para su época: una niña que no esperaba a que la rescataran. En sus historias siempre está peleando con los niños del barrio para demostrar que las niñas valen tanto como ellos. Y casi siempre gana. Por algo, setenta años después, sigue teniendo fans en medio mundo."),
+
+ dict(src="BT@60-420", label="MARGE", cap="#8",
+      txt="Número ocho. Su creadora firmaba con un solo nombre."),
+ dict(src=["BT@150-420", "CC@120-420"], label="MARGE", cap="MARJORIE HENDERSON BUELL",
+      txt="Lulú fue creada por Marjorie Henderson Buell, una dibujante nacida en 1904 en Pensilvania, que publicaba con el seudónimo de Marge. Antes de Lulú ya había creado dos tiras cómicas en los años veinte, The Boy Friend y Dashing Dot. Las dos tenían algo en común: las protagonistas eran mujeres. En una época en que los chistes casi siempre los protagonizaban hombres y niños."),
+ dict(src=["CC@200-420", "BE@275-425"], label="MARGE", cap="UNA DUEÑA MUY ACTIVA",
+      txt="Marge no solo dibujaba a Lulú. También negociaba ella misma muchos de los contratos para usar al personaje en productos y anuncios. Dejó de dibujar la tira en 1947, y otros artistas siguieron con ella. En 1972, al retirarse, vendió los derechos de Lulú a la editorial Western Publishing. Y murió en 1993, con su niña de los rizos ya convertida en un clásico."),
+
+ dict(src=["DS@250-380", "BT@200-420"], label="MARGE", cap="LA TIRA DIARIA · 1950",
+      txt="Cuando terminó su etapa en la revista, en diciembre de 1944, Lulú pasó a ser una tira cómica regular. Y en 1950 llegó a los periódicos de todo el país, con una tira diaria distribuida por el sindicato del Chicago Tribune y el New York News, que se publicó hasta 1969. La dibujaron otros artistas, como Woody Kimbrell, Roger Armstrong y Ed Nofziger. Así que la niña que había reemplazado a Henry terminó, igual que él, en los periódicos."),
+ dict(src="SL@60-400", label="CINE · 1943", cap="#7",
+      txt="Número siete. Lulú reemplazó a Superman en los cines."),
+ dict(src=["SL@150-400", "BC@150-430"], label="CINE · 1943", cap="FAMOUS STUDIOS",
+      txt="A principios de los cuarenta, el estudio Famous, que hacía caricaturas para Paramount, había terminado su famosa serie de Superman. Necesitaba una nueva estrella. Y la eligió a ella. Entre 1943 y 1948, la Pequeña Lulú protagonizó veintiséis caricaturas para el cine. Las imágenes que estás viendo son de esas caricaturas."),
+ dict(src=["SL@160-400", "DS@200-380"], label="CINE · 1943", cap="SUPER LULU · 1947",
+      txt="Una de ellas, de 1947, se llama justamente Super Lulu, y en ella Lulú trepa por una planta gigantesca hasta el mundo de un gigante, como en el cuento de las habichuelas mágicas. Estas caricaturas tenían su propia canción, escrita por Buddy Kaye, Fred Wise y Sidney Lippman, y cantada por el grupo Helen Carroll and the Satisfiers. Y la música de fondo era de Winston Sharples y Sammy Timberg."),
+
+ dict(src=["BC@180-430", "CC@60-420"], label="CINE · 1943", cap="LULÚ EN ACCIÓN",
+      txt="En las caricaturas, Lulú vivía aventuras de todo tipo. En Bargain Counter Attack arma un desastre en una tienda departamental, frente a un gerente muy elegante y un letrero que dice que el cliente siempre tiene la razón. En Cad and Caddy acompaña a un golfista gruñón por el campo de golf. En A Scout with the Gout se va de campamento con un enorme jefe scout. Y en The Baby Sitter le toca cuidar a un bebé."),
+ dict(src=["ML@60-420", "DS@200-380"], label="CINE · 1943", cap="SUEÑOS Y CONCURSOS",
+      txt="Muchas de sus historias eran sueños. En Musica-Lulu, los instrumentos musicales cobran vida a su alrededor, del violín al piano. En The Dog Show-Off se mete con su perrito en una exposición canina, donde termina rodeada de perros de todas las razas y de un trofeo de primer lugar. Y en Chick and Double Chick aparece una incubadora llena de pollitos, un perro, un gato y mucho caos."),
+ dict(src="BS@60-400", label="LA VOZ DE LULÚ", cap="#6",
+      txt="Número seis. La voz de Lulú era la misma que la de Gasparín."),
+ dict(src=["BS@180-400", "CD@200-380"], label="LA VOZ DE LULÚ", cap="CECIL ROY",
+      txt="En las caricaturas, Lulú hablaba con la voz de la actriz Cecil Roy. La misma actriz que también le daba la voz a Gasparín, el fantasmita amistoso del mismo estudio. Así que si alguna vez te pareció que Lulú y Gasparín sonaban parecido, no era tu imaginación."),
+ dict(src=["CD@250-380", "ML@200-420"], label="LA VOZ DE LULÚ", cap="TOBY Y DON GATO",
+      txt="Y su amigo y rival Toby, el niño gordito del sombrero de marinero, tenía la voz de Arnold Stang. Años después, Stang se fue a trabajar con Hanna-Barbera, donde le dio la voz a otro personaje que seguro conoces: Don Gato, el líder de la pandilla de gatos de Nueva York. Por eso, cuando en los años sesenta el estudio hizo dos caricaturas nuevas de Lulú, Cecil Roy regresó, pero Arnold Stang ya no."),
+
+ dict(src="LA@160-380", label="LITTLE AUDREY", cap="#5",
+      txt="Número cinco. Cuando dejaron de pagarle, la cambiaron por una copia."),
+ dict(src=["LA@180-380", "LA@250-380"], label="LITTLE AUDREY", cap="1947",
+      txt="Lulú no era del estudio. Era de Marge, y Paramount tenía que pagar por usarla. Así que cuando llegó el momento de renovar la licencia, el estudio decidió no hacerlo. Y para no pagar regalías, creó a su propia niña traviesa: Little Audrey. Es la niña que estás viendo ahora, en una caricatura de 1948."),
+ dict(src=["LA@300-380", "BC@250-430"], label="LITTLE AUDREY", cap="OTRA NIÑA, OTRO ESTILO",
+      txt="Los animadores se esforzaron por hacerla distinta: otros colores, otro peinado y el estilo típico del estudio en esos años. La diseñó el animador Bill Tytla, que según se cuenta se inspiró en su propia hija, igual que con su versión de Lulú. Y para la voz eligieron a Mae Questel, la misma voz de Betty Boop y de Olivia, la novia de Popeye. Little Audrey siguió en los cines hasta 1958."),
+
+ dict(src="BC@20-100", label="DOMINIO PÚBLICO", cap="#4",
+      txt="Número cuatro. Muchas de sus caricaturas ahora son de todos."),
+ dict(src=["BC@180-430", "BE@290-425"], label="DOMINIO PÚBLICO", cap="1956",
+      txt="En 1956, las veintiséis caricaturas de Lulú se vendieron a una empresa de televisión. Pero ni esa empresa ni las que la siguieron renovaron los derechos de autor a tiempo. El resultado es que todas las caricaturas de Lulú estrenadas entre 1946 y 1948 pasaron al dominio público. Por eso circularon durante décadas en cintas y discos baratos, casi siempre con muy mala calidad."),
+ dict(src=["BT@250-420", "SG@250-380"], label="DOMINIO PÚBLICO", cap="2026",
+      txt="Lo increíble es que la primera edición oficial no llegó hasta 2026. Ese año salió una colección restaurada de caricaturas del estudio Famous, hecha junto con los archivos de Paramount. Pero de las dieciocho caricaturas del disco, solo dos eran de Lulú: Bargain Counter Attack y A Bout with a Trout. Las dos están entre las que estás viendo en este video."),
+
+ dict(src="KX@3-56", label="KLEENEX", cap="#3",
+      txt="Número tres. Lulú fue la primera mascota de los pañuelos Kleenex."),
+ dict(src=["KX@10-56", "KX@25-56"], label="KLEENEX", cap="TIMES SQUARE · 1952",
+      txt="En los años cuarenta y cincuenta, Lulú fue el centro de una enorme campaña de publicidad de Kleenex. Fue la primera mascota de la marca. Y de 1952 a 1965 tuvo hasta un anuncio animado gigante en Times Square, en Nueva York. Lo que ves ahora es un comercial animado de Kleenex de los años cincuenta, de los que pasaban por televisión, por ejemplo en el programa de Perry Como."),
+ dict(src=["KX@31-56", "DS@280-380"], label="KLEENEX", cap="TAMBIÉN PEPSI",
+      txt="Y no solo Kleenex. En esos mismos años, Lulú también apareció en anuncios de revistas de Pepsi-Cola, y en todo tipo de juguetes, muñecas y productos con licencia. Para una niña que había nacido como un chiste mudo en una revista, no estaba nada mal."),
+
+ dict(src="ML@60-420", label="LAS HISTORIETAS", cap="#2",
+      txt="Número dos. Su mejor época fue en las historietas, gracias a un hombre."),
+ dict(src=["ML@250-420", "SL@300-400"], label="LAS HISTORIETAS", cap="JOHN STANLEY",
+      txt="A mediados de los cuarenta, Lulú llegó a los cómics de la editorial Dell. El guionista John Stanley escribió y dibujó los bocetos de sus historias durante más de diez años, y hoy su trabajo es considerado de lo mejor de la historieta infantil. Stanley inventó a muchísimos personajes nuevos: Annie, su mejor amiga; Iggy, el hermano de Annie; Alvin, el niño berrinchudo al que Lulú le cuenta cuentos; y la pandilla de niños rudos del otro lado de la ciudad."),
+ dict(src=["CC@300-420", "BS@300-400"], label="LAS HISTORIETAS", cap="DE JOE A TOBY",
+      txt="Y le cambió el nombre a su amigo gordito, que antes se llamaba Joe, por el de Tubby, al que muchos lectores en español conocen como Toby. Toby se volvió tan popular que tuvo su propia revista de 1952 a 1961, con aventuras tan raras como sus encuentros con unos hombrecitos de Marte. Las historietas de Lulú se tradujeron al español, al portugués, al japonés, al árabe y a muchos otros idiomas."),
+
+ dict(src=["SG@40-135", "CC@330-420"], label="LAS HISTORIETAS", cap="NO SE ADMITEN NIÑAS",
+      txt="En las historietas, Tubby era el líder de un club de niños del barrio con una regla muy clara: no se admiten niñas. Y buena parte de las historias son la guerra entre ese club y Lulú, que siempre encuentra la manera de demostrar que las niñas pueden hacer lo mismo, o más. Tubby era a la vez su mejor amigo, su rival y, a veces, casi su novio."),
+ dict(src="BE@60-175", label="LA VUELTA AL MUNDO", cap="#1",
+      txt="Y número uno. Lulú dio la vuelta al mundo, mucho después de sus caricaturas."),
+ dict(src=["BE@300-425", "SG@300-380"], label="LA VUELTA AL MUNDO", cap="JAPÓN Y BRASIL",
+      txt="En Japón, el estudio Nippon Animation hizo una serie de anime de Lulú en 1976, con veintiséis episodios. En Brasil, donde la llamaban Luluzinha, los dibujantes locales siguieron haciendo historias nuevas hasta 1993, aunque en Estados Unidos ya no se publicaban desde 1984. Y en 2009, Brasil lanzó una versión con Lulú adolescente, en estilo manga, que duró sesenta y cinco números."),
+ dict(src=["DS@320-380", "BT@320-420"], label="LA VUELTA AL MUNDO", cap="HBO · 1995",
+      txt="En Estados Unidos, la televisión ABC hizo dos especiales con actores de carne y hueso, en 1978 y 1979. Y en 1995, el canal HBO estrenó una serie animada nueva, en la que la primera temporada tuvo la voz de la actriz Tracey Ullman. Hasta hoy, los fans de Lulú se reúnen cada año en la Comic-Con de San Diego para representar una obra basada en una historieta clásica."),
+
+ dict(src=["SL@330-400", "CD@300-380"], label=L, cap="",
+      txt="La Pequeña Lulú nació para llenar el hueco de otro personaje, y terminó siendo más famosa que él. Una niña que no hablaba, que tiraba cáscaras de plátano en las bodas, que reemplazó a Superman en el cine y que le ganaba a los niños del barrio. ¿Cuál de estos datos no conocías? ¿La veías de niño? Cuéntanos en los comentarios, y suscríbete para más secretos de la animación clásica."),
+]
+json.dump(S, open("script.json", "w"), ensure_ascii=False, indent=1)
+print(len(S), sum(len(s["txt"].split()) for s in S))
