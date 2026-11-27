@@ -1,0 +1,299 @@
+[
+ {
+  "src": [
+   "TV@0-140",
+   "CN@1-57"
+  ],
+  "label": "PERSONAJES DE COMERCIALES",
+  "cap": "",
+  "txt": "Hubo una época en que algunas de las caras más famosas de la televisión no salían en las series, sino en los comerciales. Un capitán de barco que vendía cereal. Un perro detective con gabardina. Un oso con sombrero de guardabosques. Y un ave que perdía la cabeza cada vez que veía una caja de cereal de chocolate."
+ },
+ {
+  "src": [
+   "TV@420-500",
+   "SY@1-27"
+  ],
+  "label": "PERSONAJES DE COMERCIALES",
+  "cap": "15 PERSONAJES",
+  "txt": "Hoy recordamos quince personajes de comerciales que muchos todavía reconocen al instante, y la historia real detrás de cada uno. Algunos vendían cereal, otros jabón, cerveza o mantequilla, y unos cuantos ni siquiera vendían nada, porque trabajaban para el gobierno. Ve contando cuántos recuerdas. Empezamos con el número quince."
+ },
+ {
+  "src": [
+   "MB@1-28",
+   "TV@180-230"
+  ],
+  "label": "MR. BUBBLE",
+  "cap": "#15",
+  "txt": "Número quince: Mr. Bubble, el personaje rosado y sonriente del baño de burbujas. Lo creó en 1961 Harold Schafer, dueño de la empresa Gold Seal, en Dakota del Norte, y según se cuenta, el nombre se le ocurrió al escuchar en la radio un anuncio de Mr. Clean. Al principio costaba cincuenta y nueve centavos y casi nadie lo compraba."
+ },
+ {
+  "src": [
+   "MB@3-28",
+   "TV@660-700"
+  ],
+  "label": "MR. BUBBLE",
+  "cap": "DE POLVO A LÍQUIDO",
+  "txt": "La solución fue bajar el precio a treinta y nueve centavos, y desde ahí el producto despegó. Primero era un polvo, y en 1972 llegó la versión líquida. En este comercial de 1974 aparece junto a Dirty Bert, un vaquero tan sucio que necesitaba la ayuda de Mr. Bubble. Hoy la marca pertenece a otra compañía, pero la cara rosada sigue en la botella."
+ },
+ {
+  "src": [
+   "PK@1-27",
+   "TV@1300-1380"
+  ],
+  "label": "PARKAY",
+  "cap": "#14",
+  "txt": "Número catorce: la tarrina de margarina Parkay. Kraft lanzó esta margarina en 1937, y este anuncio de finales de los sesenta todavía es serio, sin personajes. El cambio llegó en 1973, cuando empezaron los comerciales de la tarrina que habla. Alguien decía margarina, y la tapa contestaba con una sola palabra: mantequilla. Y así, una y otra vez."
+ },
+ {
+  "src": [
+   "PK@2-27",
+   "TV@1440-1500"
+  ],
+  "label": "PARKAY",
+  "cap": "LA TARRINA QUE HABLA",
+  "txt": "La broma era sencilla: la margarina sabía tanto a mantequilla que ni la propia tarrina se ponía de acuerdo. La campaña duró muchos años, y tuvo tanto éxito que, décadas después, la empresa ConAgra, que compró la marca, volvió a traer a la tarrina parlante en 2002. Pocos personajes han logrado tanto con una sola palabra."
+ },
+ {
+  "src": [
+   "BU@1-28",
+   "TV@40-120"
+  ],
+  "label": "DUKE",
+  "cap": "#13",
+  "txt": "Número trece: Duke, el perro de los frijoles Bush. En 1994, Jay Bush, bisnieto del fundador de la empresa, apareció por primera vez en un comercial nacional. Poco después se le unió Duke, un golden retriever que siempre quería vender la receta secreta de la familia. Y al final, Duke decía la frase famosa: rueden ese hermoso video de frijoles."
+ },
+ {
+  "src": [
+   "BU@2-28",
+   "TV@500-560"
+  ],
+  "label": "DUKE",
+  "cap": "EL PERRO QUE HABLA",
+  "txt": "Un detalle curioso: el perro real de Jay Bush nunca salió en los comerciales. Varios perros interpretaron a Duke a lo largo de los años, y el más conocido fue un golden retriever llamado Sam, que murió en 2018. La marca anunció que Duke seguiría en sus anuncios, porque para el público, el perro ya era parte de la familia Bush."
+ },
+ {
+  "src": [
+   "BH@1-27",
+   "TV@560-620"
+  ],
+  "label": "BERT Y HARRY",
+  "cap": "#12",
+  "txt": "Número doce: Bert y Harry Piel. Eran dos hermanos de caricatura que anunciaban la cerveza Piels, de una cervecería de Brooklyn, entre 1955 y 1960. Los animó el estudio UPA, y les pusieron voz Bob Elliott y Ray Goulding, el famoso dúo cómico de radio conocido como Bob y Ray. Uno era alto y tranquilo, y el otro, bajito y hablador."
+ },
+ {
+  "src": [
+   "BH@3-27",
+   "TV@700-760"
+  ],
+  "label": "BERT Y HARRY",
+  "cap": "LOS HERMANOS PIEL",
+  "txt": "Los comerciales tenían un humor suave, casi absurdo, y la gente los esperaba como si fueran un programa. Fueron tan populares que muchos recordaban a Bert y Harry mejor que a la propia cerveza. Por eso, décadas después, los historiadores de la animación los siguen considerando de los anuncios más influyentes de los años cincuenta."
+ },
+ {
+  "src": [
+   "HM@1-28",
+   "TV@760-820"
+  ],
+  "label": "EL OSO DE HAMM'S",
+  "cap": "#11",
+  "txt": "Número once: el oso de la cerveza Hamm's, de Minnesota. La agencia Campbell-Mithun creó el personaje hacia 1952, y la versión más contada dice que el primer dibujo se hizo en una servilleta, durante una reunión en un restaurante de Minneapolis. El oso era torpe, simpático y nunca hablaba, pero siempre se metía en problemas en el bosque."
+ },
+ {
+  "src": [
+   "HM@3-28",
+   "TV@820-880"
+  ],
+  "label": "EL OSO DE HAMM'S",
+  "cap": "LA TIERRA DE LAS AGUAS AZULES",
+  "txt": "Su música hablaba de la tierra de las aguas azules como el cielo, una idea inspirada en el poema La canción de Hiawatha, de Longfellow. El oso apareció en anuncios durante décadas, como este de 1980, en el que pelea con unos patos. Y aunque nunca dijo una palabra, se convirtió en uno de los personajes más queridos de la publicidad de cerveza."
+ },
+ {
+  "src": [
+   "KV@1-58",
+   "K2@1-30"
+  ],
+  "label": "KING VITAMAN",
+  "cap": "#10",
+  "txt": "Número diez: King Vitaman, el rey del cereal de Quaker. Su primera versión, de 1970, era un rey animado por Jay Ward Productions, el mismo estudio de Cap'n Crunch. Pero poco después, el rey animado fue reemplazado por un actor de carne y hueso: George Mann, un antiguo bailarín cómico de vodevil que medía casi dos metros."
+ },
+ {
+  "src": [
+   "K2@2-30",
+   "KV@3-58"
+  ],
+  "label": "KING VITAMAN",
+  "cap": "DESAYUNA CON UN REY",
+  "txt": "Mann interpretó al rey desde 1971 hasta su muerte, en 1977, siempre con corona y una gran sonrisa, invitando a los niños a desayunar con un rey. Después, el cereal cambió varias veces de personaje, y en el año 2000 regresó un rey dibujado. Pero para quienes crecieron en los setenta, el rey verdadero siempre fue George Mann."
+ },
+ {
+  "src": [
+   "E2@8-45",
+   "EL@1-57"
+  ],
+  "label": "ELSIE",
+  "cap": "#9",
+  "txt": "Número nueve: Elsie, la vaca de Borden. Apareció por primera vez en 1936, en anuncios impresos, cuando la empresa lechera necesitaba mejorar su imagen. Pero su gran momento llegó en la Feria Mundial de Nueva York de 1939. Borden mostraba una moderna máquina giratoria para ordeñar, y el público no dejaba de preguntar por Elsie."
+ },
+ {
+  "src": [
+   "E2@100-330",
+   "EL@2-57"
+  ],
+  "label": "ELSIE",
+  "cap": "LA VACA MÁS FAMOSA",
+  "txt": "Así que escogieron una vaca real y la llamaron Elsie, y millones de personas fueron a verla. Elsie tuvo hasta un esposo de caricatura, el toro Elmer, y cuando la división química de Borden lanzó un pegamento, le pusieron su nombre. Sí, el famoso pegamento blanco Elmer's lleva el nombre del esposo de una vaca de comercial."
+ },
+ {
+  "src": [
+   "MP@455-480",
+   "MP@510-620"
+  ],
+  "label": "MADGE",
+  "cap": "#8",
+  "txt": "Número ocho: Madge, la manicurista de Palmolive. La actriz Jan Miner la interpretó durante unos veintisiete años, en más de cien comerciales. La idea siempre era la misma: una clienta llegaba al salón con las manos maltratadas por lavar los platos, y Madge le ponía los dedos a remojar en un tazón con un líquido misterioso."
+ },
+ {
+  "src": [
+   "MP@900-925",
+   "MP@510-620"
+  ],
+  "label": "MADGE",
+  "cap": "YA LO ESTÁS REMOJANDO",
+  "txt": "Cuando la clienta preguntaba qué era, Madge respondía con su frase famosa: lo estás remojando. Era jabón para platos Palmolive, que según el anuncio suavizaba las manos. La frase se volvió una de las más imitadas de la televisión, y en otros países los comerciales se hicieron con la misma actriz, pero con otro nombre para el personaje."
+ },
+ {
+  "src": [
+   "WO@10-120",
+   "WO@120-300"
+  ],
+  "label": "WOODSY OWL",
+  "cap": "#7",
+  "txt": "Número siete: Woodsy Owl, el búho del Servicio Forestal de Estados Unidos. Fue presentado oficialmente en septiembre de 1971 como símbolo contra la contaminación, con un sombrero verde de guardabosques y una frase que rimaba en inglés: da un ulular, no contamines. Su misión era enseñar a los niños a no tirar basura en la naturaleza."
+ },
+ {
+  "src": [
+   "WO@120-300",
+   "WO@10-120"
+  ],
+  "label": "WOODSY OWL",
+  "cap": "EL BÚHO ECOLOGISTA",
+  "txt": "Estos anuncios eran avisos públicos, sin nada que vender, y mezclaban caricaturas con niños de verdad recogiendo basura en parques y bosques. Con los años, su lema cambió a una frase sobre echar una mano para cuidar la tierra. Pero quienes crecieron en los setenta todavía recuerdan al búho del sombrero verde y su rima."
+ },
+ {
+  "src": [
+   "MG@1-56",
+   "TV@1000-1060"
+  ],
+  "label": "MCGRUFF",
+  "cap": "#6",
+  "txt": "Número seis: McGruff, el perro detective. Su primer comercial salió en febrero de 1980, como parte de una campaña contra el crimen del Ad Council. Al principio no tenía nombre, y se lo pusieron con un concurso nacional ese mismo año. Vestía gabardina, y su frase era: dale una mordida al crimen. Lo creó y le daba voz el publicista Jack Keil."
+ },
+ {
+  "src": [
+   "MG@3-56",
+   "TV@1060-1120"
+  ],
+  "label": "MCGRUFF",
+  "cap": "DALE UNA MORDIDA AL CRIMEN",
+  "txt": "McGruff no vendía nada. Enseñaba a los niños a no hablar con extraños, a avisar a un adulto y a cuidar el barrio, y siguió apareciendo en los noventa, como en este anuncio de 1992. Policías disfrazados de McGruff visitaban escuelas, y para muchos niños de los ochenta fue el primer agente de la ley que conocieron, aunque fuera un perro."
+ },
+ {
+  "src": [
+   "SY@1-27",
+   "S2@1-28"
+  ],
+  "label": "SONNY",
+  "cap": "#5",
+  "txt": "Número cinco: Sonny, el pájaro cucú de Cocoa Puffs. El dibujante Gene Cleaves lo diseñó en 1962, y en los primeros anuncios aparecía con su abuelo, al que llamaba Gramps. Por eso el nombre de Sonny, que en inglés es como decirle hijito a un niño. Y su frase lo decía todo: estoy cucú por Cocoa Puffs."
+ },
+ {
+  "src": [
+   "S2@2-28",
+   "SY@2-27"
+  ],
+  "label": "SONNY",
+  "cap": "CUCÚ POR COCOA PUFFS",
+  "txt": "Le dio voz Chuck McCann desde 1962 hasta 1978, y después Larry Kenney. Sonny intentaba portarse bien, pero en cuanto veía el cereal perdía el control. Su frase se volvió tan popular que en inglés se usa para decir que alguien actúa como loco. Y en 2010, Gramps regresó a los comerciales, otra vez con la voz de McCann."
+ },
+ {
+  "src": [
+   "FC@1-29",
+   "BO@1-58"
+  ],
+  "label": "LOS MONSTRUOS",
+  "cap": "#4",
+  "txt": "Número cuatro: los monstruos de General Mills. En marzo de 1971 llegaron Count Chocula, un vampiro de chocolate, y Franken Berry, un monstruo de fresa, que en los comerciales discutían por cuál cereal era mejor. Dos años después, en 1973, se les unió Boo Berry, un fantasma de arándano con voz inspirada en el actor Peter Lorre."
+ },
+ {
+  "src": [
+   "BO@2-58",
+   "FC@2-29"
+  ],
+  "label": "LOS MONSTRUOS",
+  "cap": "EL CEREAL ROSA",
+  "txt": "La voz de Boo Berry la hacía Paul Frees, el famoso actor de doblaje. Y hay una anécdota real: a principios de 1972, el colorante de Franken Berry no se digería, y algunos niños terminaron con el excremento rosado. Los padres se asustaron, y hasta se publicó un caso médico. Hoy estos cereales vuelven casi siempre en temporada de Halloween."
+ },
+ {
+  "src": [
+   "QS@1-60",
+   "Q2@1-57"
+  ],
+  "label": "QUISP Y QUAKE",
+  "cap": "#3",
+  "txt": "Número tres: Quisp y Quake, dos cereales de Quaker lanzados en 1965. Los personajes los diseñó el estudio de Jay Ward, el de Rocky y Bullwinkle. Quisp era un pequeño extraterrestre con una hélice en la cabeza, y su cereal tenía forma de platillo volador. Quake era un minero musculoso, y su cereal tenía forma de engranaje."
+ },
+ {
+  "src": [
+   "QQ@1-58",
+   "QS@2-60"
+  ],
+  "label": "QUISP Y QUAKE",
+  "cap": "LA GRAN VOTACIÓN",
+  "txt": "A Quake le daba voz William Conrad, el narrador de Rocky y Bullwinkle. Los dos personajes eran rivales, y a principios de los setenta, Quaker organizó una votación para que el público eligiera a su favorito. Ganó Quisp por amplio margen, y, como habían prometido, Quaker dejó de vender Quake. Quisp, en cambio, siguió vendiéndose durante años, aunque cada vez en menos tiendas."
+ },
+ {
+  "src": [
+   "CN@1-57",
+   "C2@1-57"
+  ],
+  "label": "CAP'N CRUNCH",
+  "cap": "#2",
+  "txt": "Número dos: Cap'n Crunch. Llegó en 1963, también creado por el estudio de Jay Ward para Quaker. El escritor Allan Burns inventó su mundo y su biografía, y Daws Butler le dio voz hasta su muerte, en 1988. Navegaba en el barco S.S. Guppy con una tripulación de niños, y su gran enemigo era el pirata Jean LaFoote."
+ },
+ {
+  "src": [
+   "C3@1-55",
+   "QQ@2-58"
+  ],
+  "label": "CAP'N CRUNCH",
+  "cap": "¿CAPITÁN O COMANDANTE?",
+  "txt": "Su nombre completo, según la marca, es Horatio Magellan Crunch. Y en internet se hizo famosa una discusión: en muchos dibujos, sus mangas muestran tres franjas, que en la marina corresponden a un comandante, no a un capitán. Aun así, durante más de sesenta años, millones de niños lo siguieron llamando capitán, y con razón."
+ },
+ {
+  "src": [
+   "SJ@1-28",
+   "SM@1-8"
+  ],
+  "label": "SMOKEY",
+  "cap": "#1",
+  "txt": "Y el número uno: Smokey, el oso del Servicio Forestal. Lo crearon el Servicio Forestal y el Ad Council en 1944, y su frase más famosa es: solo tú puedes prevenir los incendios forestales. Pero la historia más increíble es la del oso real. En 1950, después de un incendio en las montañas Capitan, en Nuevo México, rescataron a un osezno herido."
+ },
+ {
+  "src": [
+   "SJ@2-28",
+   "SM@1-8"
+  ],
+  "label": "SMOKEY",
+  "cap": "EL OSO REAL",
+  "txt": "Lo llamaron Smokey y lo llevaron al Zoológico Nacional de Washington, donde vivió hasta su muerte, en 1976. Recibía tanta correspondencia que el correo le dio su propio código postal, el 20252. Hoy está enterrado en Capitan, Nuevo México. Y más de ochenta años después, el oso del sombrero sigue pidiendo lo mismo."
+ },
+ {
+  "src": [
+   "TV@1440-1500",
+   "CN@3-57"
+  ],
+  "label": "PERSONAJES DE COMERCIALES",
+  "cap": "",
+  "txt": "¿Cuántos de estos quince personajes recordabas? ¿Y cuál crees que debió estar en la lista? Cuéntanos en los comentarios. Y si te gustó este viaje a los comerciales de antes, suscríbete para más recuerdos de los años dorados."
+ }
+]
