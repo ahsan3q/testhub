@@ -1,0 +1,93 @@
+import json
+L = "HECKLE Y JECKLE · 1946"
+S = [
+ dict(src=["UP@20-380", "HG@15-350"], label=L, cap="",
+      txt="Al principio eran marido y mujer. Hablaban con dos acentos completamente distintos. Tuvieron por lo menos seis voces diferentes. Y saltaron del cine a la televisión, de la televisión a las historietas, y de ahí a los juguetes y hasta a las galleteras. Y en 1999 casi regresan convertidos en cuervos. Son Heckle y Jeckle, las urracas parlanchinas."),
+ dict(src=["SJ@20-350", "SF@15-340"], label=L, cap="10 DATOS INCREÍBLES",
+      txt="Hoy te cuento diez datos increíbles sobre Heckle y Jeckle, el par de urracas idénticas, negras con el pico amarillo, que se pasaban cada caricatura burlándose de perros, policías, guardias y osos. Dos pájaros que nunca se callaban, que nunca se quedaban quietos, y que casi siempre ganaban, aunque no tuvieran la razón. Si los viste de niño en la tele, seguro te acuerdas de sus voces."),
+ dict(src=["TM@15-120", "TM@120-260"], label="TERRYTOONS", cap="UN POCO DE CONTEXTO",
+      txt="Primero, un poco de contexto. En los años cuarenta, uno de los estudios de caricaturas más trabajadores de Nueva York era Terrytoons, de Paul Terry. Sus cortos llegaban a los cines a través de la Twentieth Century Fox. Su gran estrella era el Súper Ratón. Pero Paul Terry quería algo distinto: personajes graciosos, rápidos y un poco insolentes. Y los encontró en dos pájaros."),
+
+ dict(src="TM@15-110", label="UNA PAREJA DE ESPOSOS", cap="#10",
+      txt="Número diez. Al principio, Heckle y Jeckle eran marido y mujer."),
+ dict(src=["TM@30-130", "TM@120-230"], label="UNA PAREJA DE ESPOSOS", cap="THE TALKING MAGPIES · 1946",
+      txt="El cuatro de enero de 1946 se estrenó The Talking Magpies, las urracas parlanchinas. Fue la primera caricatura de Terrytoons con un par de urracas bromistas. Pero no eran las que conocemos. Eran el señor y la señora Urraca, un matrimonio que busca un lugar nuevo donde vivir. Primero pasan por una inmobiliaria, después buscan un árbol, y al final terminan viviendo junto a la casa de un viejo granjero y su perro."),
+ dict(src=["TM@230-340", "TM@300-387"], label="UNA PAREJA DE ESPOSOS", cap="LOS PEORES VECINOS",
+      txt="Y resultan ser los peores vecinos del mundo. Molestan al perro, al granjero, se meten a la casa, y no paran de hablar. Al final de la caricatura, las urracas terminan cómodamente acostadas en la cama del pobre hombre. La historia la escribió John Foster, y la música era de Philip Scheib, el compositor habitual del estudio."),
+
+ dict(src="UP@15-60", label="DOS GEMELOS", cap="#9",
+      txt="Número nueve. A Paul Terry se le ocurrió que fueran idénticos."),
+ dict(src=["UP@60-200", "UP@180-300"], label="DOS GEMELOS", cap="THE UNINVITED PESTS",
+      txt="A Paul Terry le encantó la idea de tener dos personajes idénticos, que nadie pudiera distinguir. Así que en la siguiente caricatura de las urracas, The Uninvited Pests, estrenada el veintinueve de noviembre de 1946, ya no aparecía el matrimonio. Aparecían dos urracas gemelas, iguales en todo, que arruinan el día de campo de un granjero y de su perro. Ahí nacieron, de verdad, Heckle y Jeckle."),
+ dict(src=["UP@300-385", "HG@15-60"], label="DOS GEMELOS", cap="¿CUÁL ES CUÁL?",
+      txt="¿Y cómo se sabe cuál es cuál? Por el dibujo, casi imposible. Son dos pájaros negros, con el pecho blanco y el pico amarillo, que se mueven igual y se visten igual. La forma más fácil de distinguirlos no está en los ojos, sino en los oídos. Y eso nos lleva al siguiente dato."),
+
+ dict(src=["UP@300-385", "UP@60-180"], label="DOS GEMELOS", cap="HELADOS DE MAL HUMOR",
+      txt="En The Uninvited Pests ya aparece el estilo que los haría famosos. El granjero prepara su comida al aire libre, y las urracas se la roban, lo persiguen y lo vuelven loco. Hay hasta un chiste con un carrito de helados que en lugar de buen humor dice mal humor, una burla a una famosa marca de helados de la época. Y el perro, como siempre, sale perdiendo."),
+ dict(src="HG@15-100", label="DOS ACENTOS", cap="#8",
+      txt="Número ocho. Uno hablaba como neoyorquino y el otro como inglés."),
+ dict(src=["HG@100-230", "HG@200-320"], label="DOS ACENTOS", cap="NUEVA YORK Y LONDRES",
+      txt="Aunque eran idénticos por fuera, Heckle y Jeckle sonaban muy diferente. Heckle hablaba como un tipo duro de Nueva York, directo y un poco pesado. Y Jeckle tenía un acento británico, muy educado y elegante, como un caballero inglés. Esa diferencia era parte del chiste: dos pájaros iguales, uno de la calle y otro de salón, igual de traviesos los dos."),
+ dict(src=["HG@300-357", "SJ@20-140"], label="DOS ACENTOS", cap="EN ESPAÑOL",
+      txt="En el original en inglés, ese contraste era clave. Mientras uno soltaba frases cortas y bruscas, el otro respondía con palabras finas y una cortesía exagerada. Y aun así, los dos terminaban haciendo exactamente la misma travesura. Dos personalidades, un solo pájaro repetido, y el doble de problemas para cualquiera que se cruzara en su camino."),
+
+ dict(src="SJ@20-120", label="MUCHAS VOCES", cap="#7",
+      txt="Número siete. A lo largo de los años tuvieron muchas voces diferentes."),
+ dict(src=["SJ@120-230", "SJ@200-300"], label="MUCHAS VOCES", cap="SEIS ACTORES",
+      txt="La primera voz de las urracas fue Danny Webb, en 1946 y 1947. Ese mismo año también les puso voz Sid Raymond. Después vino Dayton Allen, que los interpretó durante varios años. En 1950 participó Ned Sparks, un actor de cine de Hollywood. Y después llegó Roy Halee, que les dio voz durante casi toda la década de los cincuenta."),
+ dict(src=["SJ@290-360", "MM@20-120"], label="MUCHAS VOCES", cap="Y FRANK WELKER",
+      txt="Y muchos años después, en 1979, cuando regresaron a la televisión con caricaturas nuevas, la voz fue de Frank Welker, uno de los actores de doblaje más famosos de la historia, conocido también por darle voz a Fred, de Scooby-Doo. Así que, aunque Heckle y Jeckle parecían siempre los mismos, detrás de ellos hubo muchas personas diferentes."),
+
+ dict(src="MM@20-110", label="CINCUENTA Y DOS CORTOS", cap="#6",
+      txt="Número seis. Hicieron cincuenta y dos caricaturas en veinte años."),
+ dict(src=["MM@100-230", "MM@200-300"], label="CINCUENTA Y DOS CORTOS", cap="1946 · 1966",
+      txt="Entre 1946 y 1966, Terrytoons hizo cincuenta y dos caricaturas de Heckle y Jeckle para el cine. En ellas se enfrentaban a todo tipo de víctimas. En Movie Madness, de 1952, se meten a un estudio de cine y vuelven loco a un policía. En Steeple Jacks, de 1951, el que sufre es el vigilante de una obra en construcción, entre vigas de acero y cemento fresco."),
+ dict(src=["SF@15-120", "SF@100-230"], label="CINCUENTA Y DOS CORTOS", cap="SNO FUN · 1951",
+      txt="Y en Sno Fun, también de 1951, las urracas se visten de policías montados del Canadá, con su uniforme rojo, y salen a la nieve a atrapar a un fugitivo enorme y peludo. Lo persiguen en canoa, en el hielo, en un tren. Lo curioso es que en esta caricatura los traviesos están del lado de la ley, aunque se comportan igual de mal que siempre."),
+
+ dict(src=["MM@150-260", "MM@240-330"], label="CINCUENTA Y DOS CORTOS", cap="ESCENA TRES, TOMA DOS",
+      txt="Movie Madness es una de las más locas. Las urracas se cuelan en un estudio de cine llamado Wacky Studios, y el policía que las persigue termina atravesando todos los decorados. Pasa por una escena de Romeo y Julieta, cae en un set del Polo Norte lleno de pingüinos, termina esquiando, y hasta recibe un golpe con la claqueta de escena tres, toma dos."),
+ dict(src=["SJ@230-360", "SJ@120-230"], label="CINCUENTA Y DOS CORTOS", cap="VIGAS Y CEMENTO",
+      txt="Y en Steeple Jacks, el vigilante de la construcción no logra echar a las urracas de la obra. Lo hacen caminar por vigas de acero a muchos metros de altura, lo dejan colgado de un cable, y al final termina atrapado en una mezcladora de cemento que rueda sin control por toda la obra. Cada golpe, por supuesto, lo recibe él."),
+ dict(src="UP@15-60", label="UNA CANCIÓN DE 1855", cap="#5",
+      txt="Número cinco. Su música de presentación era una canción del siglo diecinueve."),
+ dict(src=["UP@60-180", "HG@100-200"], label="UNA CANCIÓN DE 1855", cap="LISTEN TO THE MOCKING BIRD",
+      txt="Las primeras caricaturas de Heckle y Jeckle usaban como tema musical una canción popular muy antigua: Listen to the Mocking Bird, que quiere decir escucha al sinsonte, un pájaro famoso por imitar los cantos de otras aves. Era una canción de 1855, que todo el mundo conocía en Estados Unidos, y que encajaba perfectamente con dos pájaros que no paraban de hablar y de burlarse de los demás."),
+ dict(src=["HG@200-320", "UP@200-300"], label="UNA CANCIÓN DE 1855", cap="LAS VÍCTIMAS",
+      txt="Y como en casi todas sus caricaturas, la víctima favorita era un perro grande y torpe. En Happy Go Lucky, de 1947, las urracas intentan robar comida bajo la mirada atenta de un perro llamado Dimwit, que quiere decir algo así como tontito. Y como siempre, el perro termina pagando por todo, mientras las urracas se ríen desde un árbol."),
+
+ dict(src="SF@15-100", label="LA TELEVISIÓN", cap="#4",
+      txt="Número cuatro. La televisión los hizo todavía más famosos que el cine."),
+ dict(src=["SF@100-230", "SF@200-300"], label="LA TELEVISIÓN", cap="CBS · 1956",
+      txt="En 1955, Paul Terry vendió todo su estudio a la cadena de televisión CBS. Y la cadena empezó a usar sus caricaturas en la tele. En el verano de 1956, el primer episodio de un programa nocturno llamado CBS Cartoon Theater incluyó una caricatura de las urracas, Flying South, de 1947. Y en octubre de ese año llegó su propio programa."),
+ dict(src=["SF@280-338", "MM@230-330"], label="LA TELEVISIÓN", cap="SÁBADOS POR LA MAÑANA",
+      txt="The Heckle and Jeckle Cartoon Show se estrenó el catorce de octubre de 1956, los sábados por la mañana, y se mantuvo al aire hasta 1966. Además de las urracas, el programa incluía al Súper Ratón y a otros personajes de Terrytoons. Después de una pausa, el programa regresó en 1969, esta vez por la cadena NBC, y duró hasta septiembre de 1971."),
+
+ dict(src=["SF@100-200", "HG@15-100"], label="LA TELEVISIÓN", cap="TODA LA FAMILIA TERRYTOONS",
+      txt="El programa de Heckle y Jeckle era, en realidad, una vitrina de todo el estudio. Ahí también aparecían el ratón Little Roquefort y el gato Percy, el ganso Gandy Goose, el patito Dinky Duck y los Osos Terry. Para muchos niños de los años cincuenta y sesenta, ese era el lugar donde conocieron a todos los personajes de Terrytoons, mucho después de su estreno en los cines."),
+ dict(src="HG@200-290", label="HISTORIETAS", cap="#3",
+      txt="Número tres. Tuvieron sus propias historietas durante años."),
+ dict(src=["HG@280-357", "SJ@120-230"], label="HISTORIETAS", cap="DE 1951 A LOS SESENTA",
+      txt="Heckle y Jeckle también aparecían en las revistas de historietas de Terrytoons, junto al Súper Ratón. Pero llegaron a tener su propia revista. La editorial St. John publicó veinticuatro números de Heckle y Jeckle entre 1951 y 1955. Después, otra editorial siguió la numeración hasta 1959. Y en los años sesenta volvieron a aparecer en las historietas de Dell y Gold Key."),
+ dict(src=["UP@180-300", "MM@100-200"], label="HISTORIETAS", cap="JUGUETES Y GALLETERAS",
+      txt="Y no solo historietas. Durante décadas, las urracas aparecieron en juguetes, camisetas, rompecabezas, juegos de mesa, saleros y pimenteros, disfraces de Halloween, muñecos de peluche, títeres, libros para colorear y hasta galleteras. Pero hay algo curioso: aunque se vendieron cintas de video con algunas caricaturas en los años noventa, nunca ha salido una gran colección oficial en DVD."),
+
+ dict(src="MM@20-110", label="EL REGRESO DE 1979", cap="#2",
+      txt="Número dos. En 1979 regresaron, pero mucho más tranquilos."),
+ dict(src=["MM@110-230", "MM@230-330"], label="EL REGRESO DE 1979", cap="CON EL SÚPER RATÓN",
+      txt="El ocho de septiembre de 1979 se estrenó en CBS The New Adventures of Mighty Mouse and Heckle and Jeckle, con caricaturas completamente nuevas. Las urracas tenían episodios de once minutos. Pero eran distintas: mucho menos insolentes y groseras que en el cine. El programa duraba una hora, y en cada episodio había dos caricaturas nuevas de las urracas. En la temporada de 1980 a 1981, el programa se redujo a media hora, y las urracas quedaron con una sola caricatura por episodio. Eran otros tiempos para la televisión infantil, y las urracas se adaptaron a ellos."),
+ dict(src=["MM@300-361", "SJ@200-300"], label="EL REGRESO DE 1979", cap="UN CAMEO EN 1988",
+      txt="Y en 1988 tuvieron una pequeña aparición en otra serie del Súper Ratón, Mighty Mouse: The New Adventures, en el episodio de la boda del ratón. Aparecieron junto a otros personajes de Terrytoons, pero sin decir una sola palabra. Algo bastante raro para dos pájaros que, en sus mejores tiempos, nunca dejaban de hablar."),
+
+ dict(src="TM@300-387", label="LOS CUERVOS DE 1999", cap="#1",
+      txt="Y el número uno. En 1999, casi regresan convertidos en cuervos."),
+ dict(src=["UP@300-385", "TM@120-230"], label="LOS CUERVOS DE 1999", cap="CURBSIDE",
+      txt="En 1999, Terrytoons preparó un programa piloto llamado Curbside, para intentar resucitar a sus personajes con un estilo moderno. Y en él aparecían Heckle y Jeckle. Pero ya no eran urracas: los convirtieron en cuervos. Heckle tenía la voz de Toby Huss, y Jeckle la del comediante Bobcat Goldthwait, famoso por su voz chillona y alterada."),
+ dict(src=["HG@15-100", "SF@15-100"], label="LOS CUERVOS DE 1999", cap="UN PILOTO PERDIDO",
+      txt="Pero el piloto nunca se estrenó, y las urracas se quedaron en el recuerdo. Para muchos que crecieron viéndolas en la tele, siguen siendo las de siempre: dos pájaros idénticos, uno neoyorquino y otro inglés, que se burlaban de todo el mundo al ritmo de una canción de 1855. Unas urracas que, más de ochenta años después, siguen haciendo reír."),
+
+ dict(src=["UP@300-385", "HG@280-357"], label=L, cap="",
+      txt="Esos fueron diez datos increíbles sobre Heckle y Jeckle. ¿Cuál no conocías? ¿Los veías de niño? ¿Y tú quién eras, el neoyorquino o el inglés? Cuéntanos en los comentarios. Y si te gustan los secretos de las caricaturas clásicas, suscríbete, porque en este canal hay muchos más personajes esperando a que contemos su historia."),
+]
+json.dump(S, open("script.json", "w"), ensure_ascii=False, indent=1)
+print(len(S), sum(len(s["txt"].split()) for s in S))
